@@ -29,3 +29,10 @@
 
 ## 效果
 <img src="https://user-images.githubusercontent.com/45752995/179657618-4b42753b-4344-4cdd-a068-79bd33d2b33f.jpeg" width=20%>
+
+## 修改
+
+1. 更换通知渠道为钉钉
+
+![Snipaste_2024-02-29_21-25-47](Snipaste_2024-02-29_21-25-47.png)
+

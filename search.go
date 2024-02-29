@@ -3,9 +3,10 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/sari3l/notify/notifier/bark"
+	"github.com/sari3l/notify/notifier/dingtalk"
 	"github.com/sari3l/requests"
-	nUrl "net/url"
+	"io/ioutil"
+	"net/http"
 	"os"
 	"reflect"
 	"regexp"
@@ -22,35 +23,93 @@ const enableRelatedQuery = true
 const cveQuery = "CVE-20"
 
 // 通知函数
-var barkToken = os.Getenv("barkToken")
-var barkGroup = "Poc-Monitor"
+var barkToken = os.Getenv("DING_TOKEN")
+var barkSecret = os.Getenv("DING_SECRET")
 var barkMsgLimit = 150
 
 func Notice(updateItems *[]*Item) {
+	if barkToken == "" || barkSecret == "" {
+		fmt.Println("[!] Token or Secret is null")
+	}
+
 	for _, item := range *updateItems {
-		name := nUrl.QueryEscape(item.Name)
-		content := nUrl.QueryEscape(item.Description)
-		if len(content) >= barkMsgLimit {
-			nBarkMsgLimit := barkMsgLimit
-			// 防止%截断
-			if content[barkMsgLimit-1] == '%' {
-				nBarkMsgLimit = barkMsgLimit + 2
-			} else if content[barkMsgLimit-2] == '%' {
-				nBarkMsgLimit = barkMsgLimit + 1
-			}
-			content = content[:nBarkMsgLimit] + "..."
-		}
+		name := item.Name
+		content := item.Description
+		url := item.HtmlUrl
+
 		fmt.Printf("[+] 准备发送 %s %s\n", name, content)
-		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
-		option := bark.Option{Webhook: webhook}
-		option.Url = &item.HtmlUrl
-		option.Group = &barkGroup
+		option := dingtalk.Option{Token: barkToken, Secret: barkSecret, MessageType: "markdown"}
+
+		cveId := regexp.MustCompile(`CVE-[0-9]{4}-[0-9]+`).FindString(name)
+		cveDescription, title := getVulnerabilityDescription(cveId)
+
+		if title == "" {
+			title = name
+		}
+
+		template := `
+# %s
+<br>
+
+## 漏洞描述
+%s
+
+<br>
+
+## 项目地址
+%s
+
+<br>
+
+## 项目简介
+%s
+`
+		text := fmt.Sprintf(template, title, cveDescription, url, content)
+		option.Text = &text
+		option.Title = &title
 		err := option.ToNotifier().Send(nil)
 		if err != nil {
-			fmt.Printf("[!] 发送失败 %s %s\n", err, webhook)
+			fmt.Printf("[!] 发送失败 %s %s\n", err, name)
 		}
-		fmt.Printf("[>] 新增 %s\n", webhook)
+		fmt.Printf("[>] 新增 %s\n", name)
 	}
+}
+
+func getVulnerabilityDescription(cveID string) (string, string) {
+	if len(cveID) < 4 {
+		return "暂无", ""
+	}
+	cveID = cveID[4:]
+	url := fmt.Sprintf("https://avd.aliyun.com/detail?id=AVD-%s", cveID)
+
+	req, err := http.NewRequest(http.MethodGet, url, nil)
+	if err != nil {
+		return "暂无", ""
+	}
+
+	client := http.DefaultClient
+	resp, err := client.Do(req)
+	if err != nil {
+		return "暂无", ""
+	}
+	defer resp.Body.Close()
+
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return "暂无", ""
+	}
+
+	descRegexp := regexp.MustCompile(`<div class="text-detail pt-2 pb-4">\s*<div>(.+?)<\/div>`)
+	titleRegexp := regexp.MustCompile(`<span class="header__title__text" style="vertical-align: middle;">(.+?)<\/span>`)
+
+	descMatches := descRegexp.FindStringSubmatch(string(body))
+	titleMatches := titleRegexp.FindStringSubmatch(string(body))
+
+	if len(descMatches) > 0 && len(titleMatches) > 0 {
+		return descMatches[1], titleMatches[1]
+	}
+
+	return "暂无", ""
 }
 
 // 以下勿动

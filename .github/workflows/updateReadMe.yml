@@ -22,10 +22,11 @@ jobs:
         with:
           go-version: 1.18
         id: go
-      
+
       - name: Run update
-        env: 
-          barkToken: ${{secrets.BARK_TOKEN}}
+        env:
+          DING_TOKEN: ${{secrets.DING_TOKEN}}
+          DING_SECRET: ${{secrets.DING_SECRET}}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
