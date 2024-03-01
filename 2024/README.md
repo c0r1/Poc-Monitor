@@ -569,6 +569,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [Gh71m/CVE-2024-21762-POC](https://github.com/Gh71m/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Gh71m/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Gh71m/CVE-2024-21762-POC">
 - [jul1us01/CVE-2024-21762-POC](https://github.com/jul1us01/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jul1us01/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jul1us01/CVE-2024-21762-POC">
 - [c0d3b3af/CVE-2024-21762-POC](https://github.com/c0d3b3af/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-POC">
+- [BishopFox/cve-2024-21762-check](https://github.com/BishopFox/cve-2024-21762-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/cve-2024-21762-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/cve-2024-21762-check">
 
 ---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
@@ -684,6 +685,11 @@ This is possible because the application is vulnerable to insecure deserializati
 
 - [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sharpicx/CVE-2024-1651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sharpicx/CVE-2024-1651-PoC">
 - [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hy011121/CVE-2024-1651-exploit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hy011121/CVE-2024-1651-exploit-RCE">
+
+---
+## CVE-2024-1512 (2024-02-17T08:15:00)
+> The MasterStudy LMS WordPress Plugin – for Online Courses and Education plugin for WordPress is vulnerable to union based SQL Injection via the 'user' parameter of the /lms/stm-lms/order/items REST route in all versions up to, and including, 3.2.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)	<img alt="forks" src="https://img.shields.io/github/forks/rat-c/CVE-2024-1512">	<img alt="stars" src="https://img.shields.io/github/stars/rat-c/CVE-2024-1512">
 
 ---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
