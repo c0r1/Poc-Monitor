@@ -267,8 +267,8 @@
 - [ASR511-OO7/CVE-2024-24099](https://github.com/ASR511-OO7/CVE-2024-24099)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24099">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24099">
 
 ---
-## CVE-2024-24098 ()
-> 
+## CVE-2024-24098 (2024-03-05T16:15:00)
+> Code-projects Scholars Tracking System 1.0 is vulnerable to SQL Injection via the News Feed.
 - [ASR511-OO7/CVE-2024-24098](https://github.com/ASR511-OO7/CVE-2024-24098)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24098">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24098">
 
 ---
