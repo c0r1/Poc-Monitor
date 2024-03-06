@@ -27,6 +27,7 @@
 - [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-27198">
 - [labesterOct/CVE-2024-27198](https://github.com/labesterOct/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-27198">
 - [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-27198">
+- [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-27198-RCE">
 
 ---
 ## CVE-2024-26560 ()
