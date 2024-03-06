@@ -472,8 +472,8 @@
 - [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-22890">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-22890">
 
 ---
-## CVE-2024-22889 ()
-> 
+## CVE-2024-22889 (2024-03-06T00:15:00)
+> Due to incorrect access control in Plone version v6.0.9, remote attackers can view and list all files hosted on the website via sending a crafted request.
 - [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-22889-Plone-v6.0.9">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-22889-Plone-v6.0.9">
 
 ---
