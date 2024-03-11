@@ -26,6 +26,11 @@
 - [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213)	<img alt="forks" src="https://img.shields.io/github/forks/0x1x02/CVE-2024-28213">	<img alt="stars" src="https://img.shields.io/github/stars/0x1x02/CVE-2024-28213">
 
 ---
+## CVE-2024-27697 ()
+> 
+- [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
+
+---
 ## CVE-2024-27198 (2024-03-04T18:15:00)
 > In JetBrains TeamCity before 2023.11.4 authentication bypass allowing to perform admin actions was possible
 - [tucommenceapousser/CVE-2024-27198](https://github.com/tucommenceapousser/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-27198">
@@ -664,6 +669,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [redCode001/CVE-2024-21762-POC](https://github.com/redCode001/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/redCode001/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/redCode001/CVE-2024-21762-POC">
 - [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker)	<img alt="forks" src="https://img.shields.io/github/forks/bsekercioglu/cve2024-21762-ShodanChecker">	<img alt="stars" src="https://img.shields.io/github/stars/bsekercioglu/cve2024-21762-ShodanChecker">
 - [RequestXss/CVE-2024-21762-Exploit-POC](https://github.com/RequestXss/CVE-2024-21762-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RequestXss/CVE-2024-21762-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RequestXss/CVE-2024-21762-Exploit-POC">
+- [t4ril/CVE-2024-21762-PoC](https://github.com/t4ril/CVE-2024-21762-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/t4ril/CVE-2024-21762-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/t4ril/CVE-2024-21762-PoC">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
