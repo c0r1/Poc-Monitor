@@ -782,8 +782,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2023-49471">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2023-49471">
 
 ---
-## CVE-2023-49453 ()
-> 
+## CVE-2023-49453 (2024-03-12T08:15:00)
+> Reflected cross-site scripting (XSS) vulnerability in Racktables v0.22.0 and before, allows local attackers to execute arbitrary code and obtain sensitive information via the search component in index.php.
 - [nitipoom-jar/CVE-2023-49453](https://github.com/nitipoom-jar/CVE-2023-49453)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-49453">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-49453">
 
 ---
@@ -5361,6 +5361,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Rival420/CVE-2023-23752](https://github.com/Rival420/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Rival420/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Rival420/CVE-2023-23752">
 - [Ge-Per/Scanner-CVE-2023-23752](https://github.com/Ge-Per/Scanner-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Ge-Per/Scanner-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Ge-Per/Scanner-CVE-2023-23752">
 - [acesoyeo/Joomla-CVE-2023-23752](https://github.com/acesoyeo/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/acesoyeo/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/acesoyeo/Joomla-CVE-2023-23752">
+- [JohnDoeAnonITA/CVE-2023-23752](https://github.com/JohnDoeAnonITA/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/JohnDoeAnonITA/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/JohnDoeAnonITA/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
