@@ -313,8 +313,8 @@
 - [ASR511-OO7/CVE-2024-24102](https://github.com/ASR511-OO7/CVE-2024-24102)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24102">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24102">
 
 ---
-## CVE-2024-24101 ()
-> 
+## CVE-2024-24101 (2024-03-12T22:15:00)
+> Code-projects Scholars Tracking System 1.0 is vulnerable to SQL Injection under Eligibility Information Update.
 - [ASR511-OO7/CVE-2024-24101](https://github.com/ASR511-OO7/CVE-2024-24101)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24101">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24101">
 
 ---
