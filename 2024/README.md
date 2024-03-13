@@ -771,6 +771,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
 
 ---
+## CVE-2024-21400 (2024-03-12T17:15:00)
+> Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+- [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MegaCorp001/CVE-2024-21400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MegaCorp001/CVE-2024-21400-POC">
+
+---
 ## CVE-2024-21378 (2024-02-13T18:15:00)
 > Microsoft Outlook Remote Code Execution Vulnerability
 - [JohnHormond/CVE-2024-21378](https://github.com/JohnHormond/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21378">
