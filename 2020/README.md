@@ -356,6 +356,11 @@
 - [Live-Hack-CVE/CVE-2020-7994](https://github.com/Live-Hack-CVE/CVE-2020-7994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7994">
 
 ---
+## CVE-2020-7961 (2020-03-20T19:15:00)
+> Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).
+- [manrop2702/CVE-2020-7961](https://github.com/manrop2702/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/manrop2702/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/manrop2702/CVE-2020-7961">
+
+---
 ## CVE-2020-7862 (2021-06-24T11:15:00)
 > A vulnerability in agent program of HelpU remote control solution could allow an authenticated remote attacker to execute arbitrary commands This vulnerability is due to insufficient input santization when communicating customer process.
 - [Live-Hack-CVE/CVE-2020-7862](https://github.com/Live-Hack-CVE/CVE-2020-7862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7862">
