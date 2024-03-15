@@ -775,6 +775,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-21626">
 
 ---
+## CVE-2024-21426 (2024-03-12T17:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability
+- [CVE-searcher/CVE-2024-21426-SharePoint-RCE](https://github.com/CVE-searcher/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-searcher/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-searcher/CVE-2024-21426-SharePoint-RCE">
+
+---
 ## CVE-2024-21413 (2024-02-13T18:16:00)
 > Microsoft Outlook Remote Code Execution Vulnerability
 - [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2024-21413">
