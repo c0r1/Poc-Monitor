@@ -996,6 +996,7 @@ authentication.   
 - [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-1071">
 - [Trackflaw/CVE-2024-1071-Docker](https://github.com/Trackflaw/CVE-2024-1071-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-1071-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-1071-Docker">
 - [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071">
+- [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071-Docker">
 
 ---
 ## CVE-2024-0967 (2024-03-01T15:15:00)
