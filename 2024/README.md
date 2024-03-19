@@ -26,8 +26,8 @@
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
 
 ---
-## CVE-2024-28715 ()
-> 
+## CVE-2024-28715 (2024-03-19T21:15:00)
+> Cross Site Scripting vulnerability in DOraCMS v.2.18 and before allows a remote attacker to execute arbitrary code via the markdown0 function in the /app/public/apidoc/oas3/wrap-components/markdown.jsx endpoint.
 - [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715)	<img alt="forks" src="https://img.shields.io/github/forks/Lq0ne/CVE-2024-28715">	<img alt="stars" src="https://img.shields.io/github/stars/Lq0ne/CVE-2024-28715">
 
 ---
@@ -285,8 +285,8 @@
 - [nitipoom-jar/CVE-2024-24337](https://github.com/nitipoom-jar/CVE-2024-24337)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24337">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24337">
 
 ---
-## CVE-2024-24336 ()
-> 
+## CVE-2024-24336 (2024-03-19T21:15:00)
+> A multiple Cross-site scripting (XSS) vulnerability in the '/members/moremember.pl', and ‘/members/members-home.pl’ endpoints within Koha Library Management System version 23.05.05 and earlier allows malicious staff users to carry out CSRF attacks, including unauthorized changes to usernames and passwords of users visiting the affected page, via the 'Circulation note' and ‘Patrons Restriction’ components.
 - [nitipoom-jar/CVE-2024-24336](https://github.com/nitipoom-jar/CVE-2024-24336)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24336">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24336">
 
 ---
@@ -991,6 +991,14 @@ authentication.   
 ## CVE-2024-1269 (2024-02-07T02:15:00)
 > A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
+
+---
+## CVE-2024-1212 (2024-02-21T18:15:00)
+> Unauthenticated remote attackers can access the system through the LoadMaster management interface, enabling arbitrary system command execution.
+
+
+
+- [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-1212">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-1212">
 
 ---
 ## CVE-2024-1209 (2024-02-05T22:16:00)
