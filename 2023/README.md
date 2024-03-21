@@ -4179,6 +4179,7 @@ Fixed in version 6.4.1.
 > The vulnerability was found Moodle which exists because the application allows a user to control path of the older to create in TinyMCE loaders. A remote user can send a specially crafted HTTP request and create arbitrary folders on the system.
 - [d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-30943">
 - [Chocapikk/CVE-2023-30943](https://github.com/Chocapikk/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30943">
+- [RubyCat1337/CVE-2023-30943](https://github.com/RubyCat1337/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/RubyCat1337/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/RubyCat1337/CVE-2023-30943">
 
 ---
 ## CVE-2023-30861 (2023-05-02T18:15:00)
