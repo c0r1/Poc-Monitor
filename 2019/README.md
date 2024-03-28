@@ -1936,6 +1936,11 @@
 - [K3ysTr0K3R/CVE-2019-17382-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2019-17382-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2019-17382-EXPLOIT">
 
 ---
+## CVE-2019-17240 (2019-10-06T19:15:00)
+> bl-kernel/security.class.php in Bludit 3.9.2 allows attackers to bypass a brute-force protection mechanism by using many different forged X-Forwarded-For or Client-IP HTTP headers.
+- [mind2hex/CVE-2019-17240](https://github.com/mind2hex/CVE-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-17240">
+
+---
 ## CVE-2019-17225 (2019-10-06T17:15:00)
 > Subrion 4.2.1 allows XSS via the panel/members/ Username, Full Name, or Email field, aka an "Admin Member JSON Update" issue.
 - [hacker625/CVE-2019-17225](https://github.com/hacker625/CVE-2019-17225)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2019-17225">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2019-17225">
@@ -2076,6 +2081,19 @@
 ## CVE-2019-16167 (2019-09-09T17:15:00)
 > sysstat before 12.1.6 has memory corruption due to an Integer Overflow in remap_struct() in sa_common.c.
 - [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
+
+---
+## CVE-2019-16113 (2019-09-08T21:15:00)
+> Bludit 3.9.2 allows remote code execution via bl-kernel/ajax/upload-images.php because PHP code can be entered with a .jpg file name, and then this PHP code can write other PHP code to a ../ pathname.
+- [mind2hex/CVE-2019-16113](https://github.com/mind2hex/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-16113">
+- [0xConstant/CVE-2019-16113_](https://github.com/0xConstant/CVE-2019-16113_)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2019-16113_">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2019-16113_">
+- [DXY0411/CVE-2019-16113](https://github.com/DXY0411/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/DXY0411/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/DXY0411/CVE-2019-16113">
+- [0xConstant/CVE-2019-16113](https://github.com/0xConstant/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2019-16113">
+- [itsjeffersonli/CVE-2019-16113](https://github.com/itsjeffersonli/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/itsjeffersonli/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/itsjeffersonli/CVE-2019-16113">
+- [Kenun99/CVE-2019-16113-Dockerfile](https://github.com/Kenun99/CVE-2019-16113-Dockerfile)	<img alt="forks" src="https://img.shields.io/github/forks/Kenun99/CVE-2019-16113-Dockerfile">	<img alt="stars" src="https://img.shields.io/github/stars/Kenun99/CVE-2019-16113-Dockerfile">
+- [hg8/CVE-2019-16113-PoC](https://github.com/hg8/CVE-2019-16113-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hg8/CVE-2019-16113-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hg8/CVE-2019-16113-PoC">
+- [cybervaca/CVE-2019-16113](https://github.com/cybervaca/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/cybervaca/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/cybervaca/CVE-2019-16113">
+- [ynots0ups/CVE-2019-16113](https://github.com/ynots0ups/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/ynots0ups/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/ynots0ups/CVE-2019-16113">
 
 ---
 ## CVE-2019-16098 (2019-09-11T17:15:00)
