@@ -21,8 +21,8 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
-## CVE-2024-31032 ()
-> 
+## CVE-2024-31032 (2024-03-29T17:15:00)
+> An issue in Huashi Private Cloud CDN Live Streaming Acceleration Server hgateway-sixport v.1.1.2 allows a remote attacker to execute arbitrary code via the manager/ipping.php component.
 - [walskt/CVE-CVE-2024-31032](https://github.com/walskt/CVE-CVE-2024-31032)	<img alt="forks" src="https://img.shields.io/github/forks/walskt/CVE-CVE-2024-31032">	<img alt="stars" src="https://img.shields.io/github/stars/walskt/CVE-CVE-2024-31032">
 
 ---
@@ -31,8 +31,8 @@
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
 
 ---
-## CVE-2024-3094 ()
-> 
+## CVE-2024-3094 (2024-03-29T17:15:00)
+> Malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. The tarballs included extra .m4 files, which contained instructions for building with automake that did not exist in the repository. These instructions, through a series of complex obfuscations, extract a prebuilt object file from one of the test archives, which is then used to modify specific functions in the code while building the liblzma package. This issue results in liblzma being used by additional software, like sshd, to provide functionality that will be interpreted by the modified functions.
 - [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/CVE-2024-3094-info">
 
 ---
