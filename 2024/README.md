@@ -937,6 +937,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [swagcrafted/CVE-2024-21672-POC](https://github.com/swagcrafted/CVE-2024-21672-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcrafted/CVE-2024-21672-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcrafted/CVE-2024-21672-POC">
 
 ---
+## CVE-2024-21644 (2024-01-08T14:15:00)
+> pyLoad is the free and open-source Download Manager written in pure Python. Any unauthenticated user can browse to a specific URL to expose the Flask config, including the `SECRET_KEY` variable. This issue has been patched in version 0.5.0b3.dev77.
+- [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ltranquility/CVE-2024-21644-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ltranquility/CVE-2024-21644-Poc">
+
+---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
 > Apktool is a tool for reverse engineering Android APK files. In versions 2.9.1 and prior, Apktool infers resource files' output path according to their resource names which can be manipulated by attacker to place files at desired location on the system Apktool runs on. Affected environments are those in which an attacker may write/overwrite any file that user has write access, and either user name is known or cwd is under user folder. Commit d348c43b24a9de350ff6e5bd610545a10c1fc712 contains a patch for this issue.
 - [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633)	<img alt="forks" src="https://img.shields.io/github/forks/0x33c0unt/CVE-2024-21633">	<img alt="stars" src="https://img.shields.io/github/stars/0x33c0unt/CVE-2024-21633">
