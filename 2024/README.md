@@ -70,6 +70,7 @@
 - [gustavorobertux/CVE-2024-3094](https://github.com/gustavorobertux/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2024-3094">
 - [amlweems/xzbot](https://github.com/amlweems/xzbot)	<img alt="forks" src="https://img.shields.io/github/forks/amlweems/xzbot">	<img alt="stars" src="https://img.shields.io/github/stars/amlweems/xzbot">
 - [ackemed/detectar_cve-2024-3094](https://github.com/ackemed/detectar_cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ackemed/detectar_cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ackemed/detectar_cve-2024-3094">
+- [0xlane/xz-cve-2024-3094](https://github.com/0xlane/xz-cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/xz-cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/xz-cve-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
@@ -805,6 +806,16 @@
 ## CVE-2024-22752 (2024-03-07T18:15:00)
 > Insecure permissions issue in EaseUS MobiMover 6.0.5 Build 21620 allows attackers to gain escalated privileges via use of crafted executable launched from the application installation directory.
 - [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2024-22752">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2024-22752">
+
+---
+## CVE-2024-22642 ()
+> 
+- [zunak/CVE-2024-22642](https://github.com/zunak/CVE-2024-22642)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22642">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22642">
+
+---
+## CVE-2024-22641 ()
+> 
+- [zunak/CVE-2024-22641](https://github.com/zunak/CVE-2024-22641)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22641">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22641">
 
 ---
 ## CVE-2024-22640 ()
