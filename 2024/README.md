@@ -63,6 +63,9 @@
 - [MrBUGLF/XZ-Utils_CVE-2024-3094](https://github.com/MrBUGLF/XZ-Utils_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/MrBUGLF/XZ-Utils_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/MrBUGLF/XZ-Utils_CVE-2024-3094">
 - [galacticquest/cve-2024-3094-detect](https://github.com/galacticquest/cve-2024-3094-detect)	<img alt="forks" src="https://img.shields.io/github/forks/galacticquest/cve-2024-3094-detect">	<img alt="stars" src="https://img.shields.io/github/stars/galacticquest/cve-2024-3094-detect">
 - [zgimszhd61/cve-2024-3094-detect-tool](https://github.com/zgimszhd61/cve-2024-3094-detect-tool)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/cve-2024-3094-detect-tool">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/cve-2024-3094-detect-tool">
+- [mightysai1997/CVE-2024-3094](https://github.com/mightysai1997/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2024-3094">
+- [mightysai1997/CVE-2024-3094-info](https://github.com/mightysai1997/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2024-3094-info">
+- [mesutgungor/xz-backdoor-vulnerability](https://github.com/mesutgungor/xz-backdoor-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mesutgungor/xz-backdoor-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mesutgungor/xz-backdoor-vulnerability">
 
 ---
 ## CVE-2024-29455 ()
