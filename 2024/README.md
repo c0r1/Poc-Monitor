@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-31380 ()
+> 
+- [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
+
+---
 ## CVE-2024-31032 (2024-03-29T17:15:00)
 > An issue in Huashi Private Cloud CDN Live Streaming Acceleration Server hgateway-sixport v.1.1.2 allows a remote attacker to execute arbitrary code via the manager/ipping.php component.
 - [walskt/CVE-CVE-2024-31032](https://github.com/walskt/CVE-CVE-2024-31032)	<img alt="forks" src="https://img.shields.io/github/forks/walskt/CVE-CVE-2024-31032">	<img alt="stars" src="https://img.shields.io/github/stars/walskt/CVE-CVE-2024-31032">
