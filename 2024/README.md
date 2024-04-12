@@ -1593,6 +1593,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dorser/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dorser/cve-2024-21626">
 
 ---
+## CVE-2024-21508 ()
+> 
+- [Geniorio01/CVE-2024-21508-mysql2-RCE](https://github.com/Geniorio01/CVE-2024-21508-mysql2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Geniorio01/CVE-2024-21508-mysql2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Geniorio01/CVE-2024-21508-mysql2-RCE">
+
+---
 ## CVE-2024-21426 (2024-03-12T17:15:00)
 > Microsoft SharePoint Server Remote Code Execution Vulnerability
 - [CVE-searcher/CVE-2024-21426-SharePoint-RCE](https://github.com/CVE-searcher/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-searcher/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-searcher/CVE-2024-21426-SharePoint-RCE">
