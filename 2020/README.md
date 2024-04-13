@@ -3951,6 +3951,11 @@
 - [dbrumley/extract75-cve-2020-13995](https://github.com/dbrumley/extract75-cve-2020-13995)	<img alt="forks" src="https://img.shields.io/github/forks/dbrumley/extract75-cve-2020-13995">	<img alt="stars" src="https://img.shields.io/github/stars/dbrumley/extract75-cve-2020-13995">
 
 ---
+## CVE-2020-13965 (2020-06-09T03:15:00)
+> An issue was discovered in Roundcube Webmail before 1.3.12 and 1.4.x before 1.4.5. There is XSS via a malicious XML attachment because text/xml is among the allowed types for a preview.
+- [mbadanoiu/CVE-2020-13965](https://github.com/mbadanoiu/CVE-2020-13965)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-13965">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-13965">
+
+---
 ## CVE-2020-13963 (2021-03-21T21:15:00)
 > SOPlanning before 1.47 has Incorrect Access Control because certain secret key information, and the related authentication algorithm, is public. The key for admin is hardcoded in the installation code, and there is no key for publicsp (which is a guest account).
 - [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
@@ -4201,6 +4206,11 @@
 ## CVE-2020-12641 (2020-05-04T15:15:00)
 > rcube_image.php in Roundcube Webmail before 1.4.4 allows attackers to execute arbitrary code via shell metacharacters in a configuration setting for im_convert_path or im_identify_path.
 - [mbadanoiu/CVE-2020-12641](https://github.com/mbadanoiu/CVE-2020-12641)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12641">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12641">
+
+---
+## CVE-2020-12640 (2020-05-04T15:15:00)
+> Roundcube Webmail before 1.4.4 allows attackers to include local files and execute code via directory traversal in a plugin name to rcube_plugin_api.php.
+- [mbadanoiu/CVE-2020-12640](https://github.com/mbadanoiu/CVE-2020-12640)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12640">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12640">
 
 ---
 ## CVE-2020-12625 (2020-05-04T02:15:00)
