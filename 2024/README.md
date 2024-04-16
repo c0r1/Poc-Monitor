@@ -49,6 +49,7 @@
 - [MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/MurrayR0123/CVE-2024-3400-Compromise-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/MurrayR0123/CVE-2024-3400-Compromise-Checker">
 - [kerberoshacker2/CVE-2024-3400-POC](https://github.com/kerberoshacker2/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kerberoshacker2/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kerberoshacker2/CVE-2024-3400-POC">
 - [AdaniKamal/CVE-2024-3400](https://github.com/AdaniKamal/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/AdaniKamal/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/AdaniKamal/CVE-2024-3400">
+- [LoanVitor/CVE-2024-3400-](https://github.com/LoanVitor/CVE-2024-3400-)	<img alt="forks" src="https://img.shields.io/github/forks/LoanVitor/CVE-2024-3400-">	<img alt="stars" src="https://img.shields.io/github/stars/LoanVitor/CVE-2024-3400-">
 
 ---
 ## CVE-2024-33333 ()
@@ -1885,6 +1886,11 @@ This is possible because the application is vulnerable to insecure deserializati
 ## CVE-2024-1512 (2024-02-17T08:15:00)
 > The MasterStudy LMS WordPress Plugin – for Online Courses and Education plugin for WordPress is vulnerable to union based SQL Injection via the 'user' parameter of the /lms/stm-lms/order/items REST route in all versions up to, and including, 3.2.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)	<img alt="forks" src="https://img.shields.io/github/forks/rat-c/CVE-2024-1512">	<img alt="stars" src="https://img.shields.io/github/stars/rat-c/CVE-2024-1512">
+
+---
+## CVE-2024-1441 (2024-03-11T14:15:00)
+> An off-by-one error flaw was found in the udevListInterfacesByStatus() function in libvirt when the number of interfaces exceeds the size of the `names` array. This issue can be reproduced by sending specially crafted data to the libvirt daemon, allowing an unprivileged client to perform a denial of service attack by causing the libvirt daemon to crash.
+- [almkuznetsov/CVE-2024-1441](https://github.com/almkuznetsov/CVE-2024-1441)	<img alt="forks" src="https://img.shields.io/github/forks/almkuznetsov/CVE-2024-1441">	<img alt="stars" src="https://img.shields.io/github/stars/almkuznetsov/CVE-2024-1441">
 
 ---
 ## CVE-2024-1403 (2024-02-27T16:15:00)
