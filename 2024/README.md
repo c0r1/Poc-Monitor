@@ -73,8 +73,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
-## CVE-2024-3333 ()
-> 
+## CVE-2024-3333 (2024-04-17T12:15:00)
+> The Essential Addons for Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the URL attributes of widgets in all versions up to, and including, 5.9.14 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
 
@@ -929,6 +929,7 @@ overflow.
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [K3ysTr0K3R/CVE-2024-25600-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-25600-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-25600-EXPLOIT">
+- [0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
