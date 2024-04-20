@@ -295,6 +295,7 @@
 - [jftierno/-CVE-2018-6574](https://github.com/jftierno/-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jftierno/-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jftierno/-CVE-2018-6574">
 - [jftierno/CVE-2018-6574](https://github.com/jftierno/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jftierno/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jftierno/CVE-2018-6574">
 - [accap3035/CVE-2018-6574](https://github.com/accap3035/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/accap3035/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/accap3035/CVE-2018-6574">
+- [faiqu3/cve-2018-6574](https://github.com/faiqu3/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/faiqu3/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/faiqu3/cve-2018-6574">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
