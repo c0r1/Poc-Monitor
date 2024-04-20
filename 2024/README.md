@@ -77,6 +77,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [sxyrxyy/CVE-2024-3400-Check](https://github.com/sxyrxyy/CVE-2024-3400-Check)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2024-3400-Check">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2024-3400-Check">
 - [pwnj0hn/CVE-2024-3400](https://github.com/pwnj0hn/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/pwnj0hn/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/pwnj0hn/CVE-2024-3400">
 - [HackingLZ/panrapidcheck](https://github.com/HackingLZ/panrapidcheck)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/panrapidcheck">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/panrapidcheck">
+- [stronglier/CVE-2024-3400](https://github.com/stronglier/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/stronglier/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/stronglier/CVE-2024-3400">
 
 ---
 ## CVE-2024-33333 ()
@@ -957,6 +958,7 @@ overflow.
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [K3ysTr0K3R/CVE-2024-25600-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-25600-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-25600-EXPLOIT">
 - [0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">
+- [X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE](https://github.com/X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
