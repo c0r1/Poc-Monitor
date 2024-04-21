@@ -168,6 +168,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [miguelc49/CVE-2023-6019-1](https://github.com/miguelc49/CVE-2023-6019-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-1">
 - [miguelc49/CVE-2023-6019-2](https://github.com/miguelc49/CVE-2023-6019-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-2">
 - [miguelc49/CVE-2023-6019-3](https://github.com/miguelc49/CVE-2023-6019-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-3">
+- [Clydeston/CVE-2023-6019](https://github.com/Clydeston/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/Clydeston/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/Clydeston/CVE-2023-6019">
 
 ---
 ## CVE-2023-6000 (2024-01-01T15:15:00)
@@ -1836,7 +1837,7 @@ and trace malicious activities. Users are advised to upgrade to Apache InLong's
 - [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC)	<img alt="forks" src="https://img.shields.io/github/forks/johnossawy/CVE-2023-42793_POC">	<img alt="stars" src="https://img.shields.io/github/stars/johnossawy/CVE-2023-42793_POC">
 - [St0rm-85/CVE-2023-42793](https://github.com/St0rm-85/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/St0rm-85/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/St0rm-85/CVE-2023-42793">
 - [StanleyJobsonAU/GhostTown](https://github.com/StanleyJobsonAU/GhostTown)	<img alt="forks" src="https://img.shields.io/github/forks/StanleyJobsonAU/GhostTown">	<img alt="stars" src="https://img.shields.io/github/stars/StanleyJobsonAU/GhostTown">
-- [hotplugin0x01/CVE-2023-42793-POC](https://github.com/hotplugin0x01/CVE-2023-42793-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2023-42793-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2023-42793-POC">
+- [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
