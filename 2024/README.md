@@ -103,8 +103,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/LeopoldSkell/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/LeopoldSkell/CVE-2024-3273">
 
 ---
-## CVE-2024-32399 ()
-> 
+## CVE-2024-32399 (2024-04-22T20:15:00)
+> Directory Traversal vulnerability in RaidenMAILD Mail Server v.4.9.4 and before allows a remote attacker to obtain sensitive information via the /webeditor/ component.
 - [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-32399">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-32399">
 
 ---
@@ -118,14 +118,14 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258)	<img alt="forks" src="https://img.shields.io/github/forks/liyansong2018/CVE-2024-32258">	<img alt="stars" src="https://img.shields.io/github/stars/liyansong2018/CVE-2024-32258">
 
 ---
-## CVE-2024-32238 ()
-> 
+## CVE-2024-32238 (2024-04-22T20:15:00)
+> H3C ER8300G2-X is vulnerable to Incorrect Access Control. The password for the router's management system can be accessed via the management system page login interface.
 - [asdfjkl11/CVE-2024-32238](https://github.com/asdfjkl11/CVE-2024-32238)	<img alt="forks" src="https://img.shields.io/github/forks/asdfjkl11/CVE-2024-32238">	<img alt="stars" src="https://img.shields.io/github/stars/asdfjkl11/CVE-2024-32238">
 - [FuBoLuSec/CVE-2024-32238](https://github.com/FuBoLuSec/CVE-2024-32238)	<img alt="forks" src="https://img.shields.io/github/forks/FuBoLuSec/CVE-2024-32238">	<img alt="stars" src="https://img.shields.io/github/stars/FuBoLuSec/CVE-2024-32238">
 
 ---
-## CVE-2024-32205 ()
-> 
+## CVE-2024-32205 (2024-04-22T20:15:00)
+> Rejected reason: DO NOT USE THIS CVE RECORD. ConsultIDs: none. Reason: This record was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205)	<img alt="forks" src="https://img.shields.io/github/forks/Lucky-lm/CVE-2024-32205">	<img alt="stars" src="https://img.shields.io/github/stars/Lucky-lm/CVE-2024-32205">
 
 ---
@@ -855,6 +855,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 > HTTP/2 incoming headers exceeding the limit are temporarily buffered in nghttp2 in order to generate an informative HTTP 413 response. If a client does not stop sending headers, this leads to memory exhaustion.
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
 - [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
+
+---
+## CVE-2024-27199 (2024-03-04T18:15:00)
+> In JetBrains TeamCity before 2023.11.4 path traversal allowing to perform limited admin actions  was possible
+- [Stuub/RCity-CVE-2024-27199](https://github.com/Stuub/RCity-CVE-2024-27199)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/RCity-CVE-2024-27199">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/RCity-CVE-2024-27199">
 
 ---
 ## CVE-2024-27198 (2024-03-04T18:15:00)
