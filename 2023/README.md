@@ -755,11 +755,12 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [ditekshen/ansible-cve-2023-4966](https://github.com/ditekshen/ansible-cve-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-4966">
 - [0xKayala/CVE-2023-4966](https://github.com/0xKayala/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/0xKayala/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/0xKayala/CVE-2023-4966">
 - [certat/citrix-logchecker](https://github.com/certat/citrix-logchecker)	<img alt="forks" src="https://img.shields.io/github/forks/certat/citrix-logchecker">	<img alt="stars" src="https://img.shields.io/github/stars/certat/citrix-logchecker">
-- [sanjai-AK47/CVE-2023-4966](https://github.com/sanjai-AK47/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-4966">
+- [RevoltSecurities/CVE-2023-4966](https://github.com/RevoltSecurities/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2023-4966">
 - [fdevsectest/CVE-2023-4966](https://github.com/fdevsectest/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/fdevsectest/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/fdevsectest/CVE-2023-4966">
 - [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/s-bt/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/s-bt/CVE-2023-4966">
 - [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/byte4RR4Y/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/byte4RR4Y/CVE-2023-4966">
 - [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/jmussmann/cve-2023-4966-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/jmussmann/cve-2023-4966-iocs">
+- [morganwdavis/overread](https://github.com/morganwdavis/overread)	<img alt="forks" src="https://img.shields.io/github/forks/morganwdavis/overread">	<img alt="stars" src="https://img.shields.io/github/stars/morganwdavis/overread">
 
 ---
 ## CVE-2023-49548 (2024-03-05T00:15:00)
