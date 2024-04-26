@@ -40,7 +40,7 @@
 - [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-4040-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-4040-Scanner">
 - [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/rbih-boulanouar/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/rbih-boulanouar/CVE-2024-4040">
 - [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2024-4040">
-- [Stuub/CVE-2024-4040-SSTI-LFI](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-4040-SSTI-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-4040-SSTI-LFI">
+- [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-4040-SSTI-LFI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-4040-SSTI-LFI-PoC">
 
 ---
 ## CVE-2024-3867 (2024-04-16T10:15:00)
@@ -970,6 +970,11 @@ overflow.
 - [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475)	<img alt="forks" src="https://img.shields.io/github/forks/TronciuVlad/CVE-2024-26475">	<img alt="stars" src="https://img.shields.io/github/stars/TronciuVlad/CVE-2024-26475">
 
 ---
+## CVE-2024-26218 (2024-04-09T17:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability
+- [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-26218">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-26218">
+
+---
 ## CVE-2024-26198 (2024-03-12T17:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [MrCyberSec/CVE-2024-26198-Exchange-RCE](https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-26198-Exchange-RCE">
@@ -1886,6 +1891,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > Microsoft Outlook Remote Code Execution Vulnerability
 - [JohnHormond/CVE-2024-21378](https://github.com/JohnHormond/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21378">
 - [d0rb/CVE-2024-21378](https://github.com/d0rb/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-21378">
+
+---
+## CVE-2024-21345 (2024-02-13T18:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability
+- [exploits-forsale/CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-21345">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-21345">
 
 ---
 ## CVE-2024-21338 (2024-02-13T18:15:00)
