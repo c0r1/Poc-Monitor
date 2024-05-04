@@ -1481,6 +1481,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [TheRedDevil1/CVE-2024-23897](https://github.com/TheRedDevil1/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-23897">
 - [Athulya666/CVE-2024-23897](https://github.com/Athulya666/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Athulya666/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Athulya666/CVE-2024-23897">
+- [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 
 ---
 ## CVE-2024-2389 ()
@@ -2097,6 +2098,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > A vulnerability in a legacy capability that allowed for the preloading of VPN clients and plug-ins and that has been available in Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary code with root-level privileges. Administrator-level privileges are required to exploit this vulnerability.
  This vulnerability is due to improper validation of a file when it is read from system flash memory. An attacker could exploit this vulnerability by copying a crafted file to the disk0: file system of an affected device. A successful exploit could allow the attacker to execute arbitrary code on the affected device after the next reload of the device, which could alter system behavior. Because the injected code could persist across device reboots, Cisco has raised the Security Impact Rating (SIR) of this advisory from Medium to High.
 - [Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit](https://github.com/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit">
+- [west-wind/Threat-Hunting-With-Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Threat-Hunting-With-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Threat-Hunting-With-Splunk">
 
 ---
 ## CVE-2024-20356 (2024-04-24T20:15:00)
