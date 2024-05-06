@@ -1450,6 +1450,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
 
 ---
+## CVE-2023-46012 ()
+> 
+- [dest-3/CVE-2023-46012](https://github.com/dest-3/CVE-2023-46012)	<img alt="forks" src="https://img.shields.io/github/forks/dest-3/CVE-2023-46012">	<img alt="stars" src="https://img.shields.io/github/stars/dest-3/CVE-2023-46012">
+
+---
 ## CVE-2023-46003 (2023-10-21T01:15:00)
 > I-doit pro 25 and below is vulnerable to Cross Site Scripting (XSS) via index.php.
 - [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-46003">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-46003">
@@ -6736,6 +6741,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [behnamvanda/CVE-2023-1671](https://github.com/behnamvanda/CVE-2023-1671)	<img alt="forks" src="https://img.shields.io/github/forks/behnamvanda/CVE-2023-1671">	<img alt="stars" src="https://img.shields.io/github/stars/behnamvanda/CVE-2023-1671">
 - [c4ln/CVE-2023-1671-POC](https://github.com/c4ln/CVE-2023-1671-POC)	<img alt="forks" src="https://img.shields.io/github/forks/c4ln/CVE-2023-1671-POC">	<img alt="stars" src="https://img.shields.io/github/stars/c4ln/CVE-2023-1671-POC">
 - [csffs/cve-2023-1671](https://github.com/csffs/cve-2023-1671)	<img alt="forks" src="https://img.shields.io/github/forks/csffs/cve-2023-1671">	<img alt="stars" src="https://img.shields.io/github/stars/csffs/cve-2023-1671">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-1665 (2023-03-27T22:15:00)
