@@ -64,8 +64,8 @@
 - [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-34474">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-34474">
 
 ---
-## CVE-2024-34472 ()
-> 
+## CVE-2024-34472 (2024-05-06T15:15:00)
+> An issue was discovered in HSC Mailinspector 5.2.17-3 through v.5.2.18. An authenticated blind SQL injection vulnerability exists in the mliRealtimeEmails.php file. The ordemGrid parameter in a POST request to /mailinspector/mliRealtimeEmails.php does not properly sanitize input, allowing an authenticated attacker to execute arbitrary SQL commands, leading to the potential disclosure of the entire application database.
 - [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34472">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34472">
 
 ---
@@ -74,8 +74,8 @@
 - [osvaldotenorio/CVE-2024-34471](https://github.com/osvaldotenorio/CVE-2024-34471)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34471">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34471">
 
 ---
-## CVE-2024-34470 ()
-> 
+## CVE-2024-34470 (2024-05-06T15:15:00)
+> An issue was discovered in HSC Mailinspector 5.2.17-3 through v.5.2.18. An Unauthenticated Path Traversal vulnerability exists in the /public/loader.php file. The path parameter does not properly filter whether the file and directory passed are part of the webroot, allowing an attacker to read arbitrary files on the server.
 - [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34470">
 
 ---
