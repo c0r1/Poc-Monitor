@@ -6042,7 +6042,7 @@ For additional details, please see full advisory.
 - [C1ph3rX13/CVE-2023-22527](https://github.com/C1ph3rX13/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22527">
 - [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2023-22527">
 - [Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-22527">
-- [sanjai-AK47/CVE-2023-22527](https://github.com/sanjai-AK47/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-22527">
+- [RevoltSecurities/CVE-2023-22527](https://github.com/RevoltSecurities/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2023-22527">
 - [yoryio/CVE-2023-22527](https://github.com/yoryio/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-22527">
 - [Privia-Security/CVE-2023-22527](https://github.com/Privia-Security/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Privia-Security/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Privia-Security/CVE-2023-22527">
 - [MaanVader/CVE-2023-22527-POC](https://github.com/MaanVader/CVE-2023-22527-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-22527-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-22527-POC">
@@ -6054,6 +6054,7 @@ For additional details, please see full advisory.
 - [vulncheck-oss/cve-2023-22527](https://github.com/vulncheck-oss/cve-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-22527">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
+- [ttate10/CVE-2023-22527](https://github.com/ttate10/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/ttate10/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/ttate10/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
