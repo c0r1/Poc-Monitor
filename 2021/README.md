@@ -8463,6 +8463,11 @@
 - [Live-Hack-CVE/CVE-2021-20594](https://github.com/Live-Hack-CVE/CVE-2021-20594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20594">
 
 ---
+## CVE-2021-20511 (2021-07-15T18:15:00)
+> IBM Security Verify Access Docker 10.0.0 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL request containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 198300.
+- [threat/CVE-2021-20511](https://github.com/threat/CVE-2021-20511)	<img alt="forks" src="https://img.shields.io/github/forks/threat/CVE-2021-20511">	<img alt="stars" src="https://img.shields.io/github/stars/threat/CVE-2021-20511">
+
+---
 ## CVE-2021-20323 (2022-03-25T19:15:00)
 > A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
 - [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/ndmalc/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/ndmalc/CVE-2021-20323">
