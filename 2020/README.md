@@ -1457,6 +1457,7 @@
 - [dn9uy3n/Check-WP-CVE-2020-35489](https://github.com/dn9uy3n/Check-WP-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/dn9uy3n/Check-WP-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/dn9uy3n/Check-WP-CVE-2020-35489">
 - [reneoliveirajr/wp_CVE-2020-35489_checker](https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker)	<img alt="forks" src="https://img.shields.io/github/forks/reneoliveirajr/wp_CVE-2020-35489_checker">	<img alt="stars" src="https://img.shields.io/github/stars/reneoliveirajr/wp_CVE-2020-35489_checker">
 - [thebunjo/CVE-2020-35489](https://github.com/thebunjo/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/thebunjo/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/thebunjo/CVE-2020-35489">
+- [Cappricio-Securities/CVE-2020-35489](https://github.com/Cappricio-Securities/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-35489">
 
 ---
 ## CVE-2020-35479 (2020-12-18T08:15:00)
@@ -1573,6 +1574,7 @@
 - [1337in/CVE-2020-3187](https://github.com/1337in/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/1337in/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/1337in/CVE-2020-3187">
 - [CrackerCat/CVE-2020-3187](https://github.com/CrackerCat/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2020-3187">
 - [Cappricio-Securities/CVE-2020-3187](https://github.com/Cappricio-Securities/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-3187">
+- [alexhyd22/CISCO-SSL-VPN](https://github.com/alexhyd22/CISCO-SSL-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/alexhyd22/CISCO-SSL-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/alexhyd22/CISCO-SSL-VPN">
 
 ---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
