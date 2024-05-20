@@ -370,6 +370,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-32004 (2024-05-14T19:15:00)
 > Git is a revision control system. Prior to versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4, an attacker can prepare a local repository in such a way that, when cloned, will execute arbitrary code during the operation. The problem has been patched in versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4. As a workaround, avoid cloning repositories from untrusted sources.
 - [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004)	<img alt="forks" src="https://img.shields.io/github/forks/Wadewfsssss/CVE-2024-32004">	<img alt="stars" src="https://img.shields.io/github/stars/Wadewfsssss/CVE-2024-32004">
+- [10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32004-POC">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32004-POC">
 
 ---
 ## CVE-2024-32003 (2024-04-12T21:15:00)
