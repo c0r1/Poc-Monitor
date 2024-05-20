@@ -57,6 +57,11 @@
 - [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4352-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4352-Poc">
 
 ---
+## CVE-2024-4323 (2024-05-20T12:15:00)
+> A memory corruption vulnerability in Fluent Bit versions 2.0.7 thru 3.0.3. This issue lies in the embedded http server’s parsing of trace requests and may result in denial of service conditions, information disclosure, or remote code execution.
+- [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skilfoy/CVE-2024-4323-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skilfoy/CVE-2024-4323-Exploit-POC">
+
+---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
 > VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.
 
