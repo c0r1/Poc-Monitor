@@ -405,6 +405,7 @@ QuTScloud c5.1.5.2651 and later
 - [jweny/CVE-2024-32002_HOOK](https://github.com/jweny/CVE-2024-32002_HOOK)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/CVE-2024-32002_HOOK">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/CVE-2024-32002_HOOK">
 - [10cks/hook](https://github.com/10cks/hook)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/hook">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/hook">
 - [CrackerCat/CVE-2024-32002_EXP](https://github.com/CrackerCat/CVE-2024-32002_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-32002_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-32002_EXP">
+- [KiranKumarK20/CVE-2024-32002](https://github.com/KiranKumarK20/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/KiranKumarK20/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/KiranKumarK20/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
