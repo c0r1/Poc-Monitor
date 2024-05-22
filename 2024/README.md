@@ -458,6 +458,8 @@ QuTScloud c5.1.5.2651 and later
 - [bfengj/CVE-2024-32002-Exploit](https://github.com/bfengj/CVE-2024-32002-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bfengj/CVE-2024-32002-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bfengj/CVE-2024-32002-Exploit">
 - [vincepsh/CVE-2024-32002-hook](https://github.com/vincepsh/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002-hook">
 - [vincepsh/CVE-2024-32002](https://github.com/vincepsh/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002">
+- [PoC0007/vuln](https://github.com/PoC0007/vuln)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/vuln">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/vuln">
+- [PoC0007/malicious](https://github.com/PoC0007/malicious)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/malicious">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/malicious">
 
 ---
 ## CVE-2024-31848 ()
@@ -2265,6 +2267,7 @@ You can download the latest version of Confluence Data Center and Server from th
 
 This vulnerability was found internally.
 - [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
+- [Arbeys/CVE-2024-21683-PoC](https://github.com/Arbeys/CVE-2024-21683-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Arbeys/CVE-2024-21683-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Arbeys/CVE-2024-21683-PoC">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
