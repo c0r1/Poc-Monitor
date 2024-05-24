@@ -232,6 +232,7 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 
 - [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717">
 - [uthrasri/linux_4.19.72_CVE-2023-5717](https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/linux_4.19.72_CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/linux_4.19.72_CVE-2023-5717">
+- [uthrasri/CVE-2023-5717_G3](https://github.com/uthrasri/CVE-2023-5717_G3)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717_G3">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717_G3">
 
 ---
 ## CVE-2023-5631 (2023-10-18T15:15:00)
@@ -1388,6 +1389,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-46449 (2023-10-26T15:15:00)
 > Sourcecodester Free and Open Source inventory management system v1.0 is vulnerable to Incorrect Access Control. An arbitrary user can change the password of another user and takeover the account via IDOR in the password change function.
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
+
+---
+## CVE-2023-46442 ()
+> 
+- [JAckLosingHeart/CVE-2023-46442_POC](https://github.com/JAckLosingHeart/CVE-2023-46442_POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2023-46442_POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2023-46442_POC">
 
 ---
 ## CVE-2023-46404 (2023-11-03T16:15:00)
