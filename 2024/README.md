@@ -489,6 +489,10 @@ QuTScloud c5.1.5.2651 and later
 - [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
 - [fadhilthomas/poc-cve-2024-32002](https://github.com/fadhilthomas/poc-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/fadhilthomas/poc-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/fadhilthomas/poc-cve-2024-32002">
 - [fadhilthomas/hook](https://github.com/fadhilthomas/hook)	<img alt="forks" src="https://img.shields.io/github/forks/fadhilthomas/hook">	<img alt="stars" src="https://img.shields.io/github/stars/fadhilthomas/hook">
+- [JakobTheDev/cve-2024-32002-poc-rce](https://github.com/JakobTheDev/cve-2024-32002-poc-rce)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-poc-rce">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-poc-rce">
+- [JakobTheDev/cve-2024-32002-poc-aw](https://github.com/JakobTheDev/cve-2024-32002-poc-aw)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-poc-aw">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-poc-aw">
+- [JakobTheDev/cve-2024-32002-submodule-aw](https://github.com/JakobTheDev/cve-2024-32002-submodule-aw)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-submodule-aw">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-submodule-aw">
+- [JakobTheDev/cve-2024-32002-submodule-rce](https://github.com/JakobTheDev/cve-2024-32002-submodule-rce)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-submodule-rce">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-submodule-rce">
 
 ---
 ## CVE-2024-31848 ()
