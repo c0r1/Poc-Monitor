@@ -2588,6 +2588,11 @@
 - [pcy190/ace-vim-neovim](https://github.com/pcy190/ace-vim-neovim)	<img alt="forks" src="https://img.shields.io/github/forks/pcy190/ace-vim-neovim">	<img alt="stars" src="https://img.shields.io/github/stars/pcy190/ace-vim-neovim">
 
 ---
+## CVE-2019-12616 ()
+> 
+- [Cappricio-Securities/CVE-2019-12616](https://github.com/Cappricio-Securities/CVE-2019-12616)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2019-12616">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2019-12616">
+
+---
 ## CVE-2019-12550 (2019-06-17T17:15:00)
 > WAGO 852-303 before FW06, 852-1305 before FW06, and 852-1505 before FW03 devices contain hardcoded users and passwords that can be used to login via SSH and TELNET.
 - [itwizardo/CVE-2019-12550](https://github.com/itwizardo/CVE-2019-12550)	<img alt="forks" src="https://img.shields.io/github/forks/itwizardo/CVE-2019-12550">	<img alt="stars" src="https://img.shields.io/github/stars/itwizardo/CVE-2019-12550">
