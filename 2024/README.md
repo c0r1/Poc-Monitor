@@ -180,6 +180,11 @@
 - [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2024-35333">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2024-35333">
 
 ---
+## CVE-2024-35315 ()
+> 
+- [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-35315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-35315-POC">
+
+---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
 > idccms v1.35 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component admin/banner_deal.php?mudi=add
 - [Gr-1m/CVE-2024-34958](https://github.com/Gr-1m/CVE-2024-34958)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2024-34958">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2024-34958">
@@ -2950,6 +2955,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0252 (2024-01-11T08:15:00)
 > ManageEngine ADSelfService Plus versions 6401 and below are vulnerable to the remote code execution due to the improper handling in the load balancer component. Authentication is required in order to exploit this vulnerability.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
+
+---
+## CVE-2024-0235 (2024-01-16T16:15:00)
+> The EventON WordPress plugin before 4.5.5, EventON WordPress plugin before 2.2.7 do not have authorisation in an AJAX action, allowing unauthenticated users to retrieve email addresses of any users on the blog
+- [Cappricio-Securities/CVE-2024-0235](https://github.com/Cappricio-Securities/CVE-2024-0235)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0235">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0235">
 
 ---
 ## CVE-2024-0230 (2024-01-12T23:15:00)
