@@ -1779,6 +1779,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [0nin0hanz0/CVE-2024-24919-PoC](https://github.com/0nin0hanz0/CVE-2024-24919-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0nin0hanz0/CVE-2024-24919-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0nin0hanz0/CVE-2024-24919-PoC">
 - [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/GuayoyoCyber/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/GuayoyoCyber/CVE-2024-24919">
 - [0xans/CVE-2024-24919](https://github.com/0xans/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/0xans/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/0xans/CVE-2024-24919">
+- [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Tim-Hoekstra/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Tim-Hoekstra/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
@@ -2635,6 +2636,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.16. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows hosts only. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).
 - [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-21111">
 - [10cks/CVE-2024-21111-del](https://github.com/10cks/CVE-2024-21111-del)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-21111-del">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-21111-del">
+- [x0rsys/CVE-2024-21111](https://github.com/x0rsys/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/x0rsys/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/x0rsys/CVE-2024-21111">
 
 ---
 ## CVE-2024-21107 (2024-04-16T22:15:00)
