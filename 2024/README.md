@@ -102,6 +102,7 @@
 ## CVE-2024-4358 (2024-05-29T15:16:00)
 > In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
 - [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4358">
+- [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-4358">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
@@ -2494,6 +2495,7 @@ This vulnerability was found internally.
 - [r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
 - [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
 - [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/phucrio/CVE-2024-21683-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/phucrio/CVE-2024-21683-RCE">
+- [xh4vm/CVE-2024-21683](https://github.com/xh4vm/CVE-2024-21683)	<img alt="forks" src="https://img.shields.io/github/forks/xh4vm/CVE-2024-21683">	<img alt="stars" src="https://img.shields.io/github/stars/xh4vm/CVE-2024-21683">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
