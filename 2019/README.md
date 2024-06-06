@@ -2249,8 +2249,8 @@
 - [0x4r2/Webmin-CVE-2019-15107](https://github.com/0x4r2/Webmin-CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/0x4r2/Webmin-CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/0x4r2/Webmin-CVE-2019-15107">
 
 ---
-## CVE-2019-14974 ()
-> 
+## CVE-2019-14974 (2019-08-14T16:15:00)
+> SugarCRM Enterprise 9.0.0 allows mobile/error-not-supported-platform.html?desktop_url= XSS.
 - [conan-sudo/CVE-2019-14974-bypass](https://github.com/conan-sudo/CVE-2019-14974-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/conan-sudo/CVE-2019-14974-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/conan-sudo/CVE-2019-14974-bypass">
 
 ---
