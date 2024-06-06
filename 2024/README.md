@@ -1107,6 +1107,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
 
 ---
+## CVE-2024-30043 (2024-05-14T17:17:00)
+> Microsoft SharePoint Server Information Disclosure Vulnerability
+- [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-30043-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-30043-XXE">
+
+---
 ## CVE-2024-3000 (2024-03-27T22:15:00)
 > A vulnerability classified as critical was found in code-projects Online Book System 1.0. This vulnerability affects unknown code of the file /index.php. The manipulation of the argument username/password/login_username/login_password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-258202 is the identifier assigned to this vulnerability.
 - [FoxyProxys/CVE-2024-3000](https://github.com/FoxyProxys/CVE-2024-3000)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3000">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3000">
