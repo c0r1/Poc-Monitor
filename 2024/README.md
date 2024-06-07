@@ -91,6 +91,7 @@
 - [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Junp0/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Junp0/CVE-2024-4577">
 - [Wh02m1/CVE-2024-4577](https://github.com/Wh02m1/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2024-4577">
 - [Sysc4ll3r/CVE-2024-4577](https://github.com/Sysc4ll3r/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sysc4ll3r/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sysc4ll3r/CVE-2024-4577">
+- [WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP](https://github.com/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
