@@ -1220,6 +1220,11 @@
 - [0xB455/CVE-2018-14716](https://github.com/0xB455/CVE-2018-14716)	<img alt="forks" src="https://img.shields.io/github/forks/0xB455/CVE-2018-14716">	<img alt="stars" src="https://img.shields.io/github/stars/0xB455/CVE-2018-14716">
 
 ---
+## CVE-2018-14714 (2019-05-13T13:29:00)
+> System command injection in appGet.cgi on ASUS RT-AC3200 version 3.0.0.4.382.50010 allows attackers to execute system commands via the "load_script" URL parameter.
+- [BTtea/CVE-2018-14714-POC](https://github.com/BTtea/CVE-2018-14714-POC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2018-14714-POC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2018-14714-POC">
+
+---
 ## CVE-2018-14699 (2018-12-03T22:29:00)
 > System command injection in the /DroboAccess/enable_user endpoint in Drobo 5N2 NAS version 4.0.5-13.28.96115 allows unauthenticated attackers to execute system commands via the "username" URL parameter.
 - [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
