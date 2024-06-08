@@ -94,6 +94,7 @@
 - [WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP](https://github.com/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">
 - [nexblade12/CVE-2024-4577](https://github.com/nexblade12/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nexblade12/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nexblade12/CVE-2024-4577">
 - [Yukiioz/CVE-2024-4577](https://github.com/Yukiioz/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Yukiioz/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Yukiioz/CVE-2024-4577">
+- [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-4577-nuclei">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-4577-nuclei">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
