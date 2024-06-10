@@ -1167,6 +1167,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [nancyariah4/CVE-2024-29895-CactiRCE-PoC](https://github.com/nancyariah4/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-29895-CactiRCE-PoC">
 
 ---
+## CVE-2024-29849 ()
+> 
+- [sinsinology/CVE-2024-29849](https://github.com/sinsinology/CVE-2024-29849)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29849">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29849">
+
+---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
 > The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
 
@@ -1828,7 +1833,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ifconfig-me/CVE-2024-24919-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-24919-Bulk-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2024-24919-Bulk-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2024-24919-Bulk-Scanner">
 - [r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN](https://github.com/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">
 - [r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check](https://github.com/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">
-- [J4F9S5D2Q7/CVE-2024-24919](https://github.com/J4F9S5D2Q7/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919">
+- [J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT](https://github.com/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT">
 - [mr-kasim-mehar/CVE-2024-24919-Exploit](https://github.com/mr-kasim-mehar/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mr-kasim-mehar/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mr-kasim-mehar/CVE-2024-24919-Exploit">
 - [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/B1naryo/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/B1naryo/CVE-2024-24919-POC">
 - [Expl0itD0g/CVE-2024-24919---Poc](https://github.com/Expl0itD0g/CVE-2024-24919---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0itD0g/CVE-2024-24919---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0itD0g/CVE-2024-24919---Poc">
