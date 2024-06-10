@@ -1572,6 +1572,16 @@
 - [Live-Hack-CVE/CVE-2021-4256](https://github.com/Live-Hack-CVE/CVE-2021-4256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4256">
 
 ---
+## CVE-2021-42559 ()
+> 
+- [mbadanoiu/CVE-2021-42559](https://github.com/mbadanoiu/CVE-2021-42559)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42559">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42559">
+
+---
+## CVE-2021-42558 ()
+> 
+- [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42558">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42558">
+
+---
 ## CVE-2021-42553 (2022-10-21T10:15:00)
 > A buffer overflow vulnerability in stm32_mw_usb_host of STMicroelectronics allows an attacker to execute arbitrary code when the descriptor contains more endpoints than USBH_MAX_NUM_ENDPOINTS. The library is typically integrated when using a RTOS such as FreeRTOS on STM32 MCUs.
 - [Live-Hack-CVE/CVE-2021-42553](https://github.com/Live-Hack-CVE/CVE-2021-42553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42553">
