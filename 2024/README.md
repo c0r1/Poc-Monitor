@@ -103,6 +103,7 @@
 - [cwq021223/CVE-2024-4577](https://github.com/cwq021223/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/cwq021223/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/cwq021223/CVE-2024-4577">
 - [dbyMelina/CVE-2024-4577](https://github.com/dbyMelina/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/dbyMelina/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/dbyMelina/CVE-2024-4577">
 - [Chocapikk/CVE-2024-4577](https://github.com/Chocapikk/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-4577">
+- [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -1843,6 +1844,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2024-24919-Exploit">
 - [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satchhacker/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satchhacker/cve-2024-24919">
 - [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-24919">
+- [protonnegativo/CVE-2024-24919](https://github.com/protonnegativo/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/protonnegativo/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/protonnegativo/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
