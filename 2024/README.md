@@ -105,6 +105,7 @@
 - [Chocapikk/CVE-2024-4577](https://github.com/Chocapikk/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-4577">
 - [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
 - [it-t4mpan/check_cve_2024_4577.sh](https://github.com/it-t4mpan/check_cve_2024_4577.sh)	<img alt="forks" src="https://img.shields.io/github/forks/it-t4mpan/check_cve_2024_4577.sh">	<img alt="stars" src="https://img.shields.io/github/stars/it-t4mpan/check_cve_2024_4577.sh">
+- [bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -827,6 +828,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AlexDoe11/CVE-2024-3094-EXPLOIT](https://github.com/AlexDoe11/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-3094-EXPLOIT">
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094)	<img alt="forks" src="https://img.shields.io/github/forks/buluma/ansible-role-cve_2024_3094">	<img alt="stars" src="https://img.shields.io/github/stars/buluma/ansible-role-cve_2024_3094">
 - [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy)	<img alt="forks" src="https://img.shields.io/github/forks/neuralinhibitor/xzwhy">	<img alt="stars" src="https://img.shields.io/github/stars/neuralinhibitor/xzwhy">
+- [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 
 ---
