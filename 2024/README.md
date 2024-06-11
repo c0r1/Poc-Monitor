@@ -1630,6 +1630,11 @@ overflow.
 - [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">
 
 ---
+## CVE-2024-26229 ()
+> 
+- [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-26229">
+
+---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-26218">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-26218">
