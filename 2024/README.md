@@ -2315,6 +2315,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-23692">
 - [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">
 - [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
+- [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)

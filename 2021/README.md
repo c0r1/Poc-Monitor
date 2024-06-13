@@ -1587,13 +1587,13 @@
 - [Live-Hack-CVE/CVE-2021-4256](https://github.com/Live-Hack-CVE/CVE-2021-4256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4256">
 
 ---
-## CVE-2021-42559 ()
-> 
+## CVE-2021-42559 (2022-01-12T20:15:00)
+> An issue was discovered in CALDERA 2.8.1. It contains multiple startup "requirements" that execute commands when starting the server. Because these commands can be changed via the REST API, an authenticated user can insert arbitrary commands that will execute when the server is restarted.
 - [mbadanoiu/CVE-2021-42559](https://github.com/mbadanoiu/CVE-2021-42559)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42559">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42559">
 
 ---
-## CVE-2021-42558 ()
-> 
+## CVE-2021-42558 (2022-01-12T20:15:00)
+> An issue was discovered in CALDERA 2.8.1. It contains multiple reflected, stored, and self XSS vulnerabilities that may be exploited by authenticated and unauthenticated attackers.
 - [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42558">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42558">
 
 ---
