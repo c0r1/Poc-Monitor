@@ -65,6 +65,7 @@
 ## CVE-2024-4898 (2024-06-12T11:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
+- [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4898-Poc">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
