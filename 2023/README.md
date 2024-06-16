@@ -5915,6 +5915,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
 
 ---
+## CVE-2023-23607 ()
+> 
+- [Pylonet/CVE-2023-23607](https://github.com/Pylonet/CVE-2023-23607)	<img alt="forks" src="https://img.shields.io/github/forks/Pylonet/CVE-2023-23607">	<img alt="stars" src="https://img.shields.io/github/stars/Pylonet/CVE-2023-23607">
+
+---
 ## CVE-2023-23583 (2023-11-14T19:15:00)
 > Sequence of processor instructions leads to unexpected behavior for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege and/or information disclosure and/or denial of service via local access.
 - [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-)	<img alt="forks" src="https://img.shields.io/github/forks/Mav3r1ck0x1/CVE-2023-23583-Reptar-">	<img alt="stars" src="https://img.shields.io/github/stars/Mav3r1ck0x1/CVE-2023-23583-Reptar-">
