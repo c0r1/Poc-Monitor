@@ -8835,6 +8835,11 @@
 - [Live-Hack-CVE/CVE-2021-0561](https://github.com/Live-Hack-CVE/CVE-2021-0561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0561">
 
 ---
+## CVE-2021-0523 ()
+> 
+- [uthrasri/Packages_app_settings_CVE-2021-0523](https://github.com/uthrasri/Packages_app_settings_CVE-2021-0523)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Packages_app_settings_CVE-2021-0523">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Packages_app_settings_CVE-2021-0523">
+
+---
 ## CVE-2021-0520 (2021-06-21T17:15:00)
 > In several functions of MemoryFileSystem.cpp and related files, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-10Android ID: A-176237595
 - [nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520](https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">
@@ -8866,6 +8871,11 @@
 > In android_os_Parcel_readString8 of android_os_Parcel.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-172655291
 - [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_art_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_art_CVE-2021-0394">
 - [nanopathi/packages_apps_Settings_CVE-2021-0394](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0394">
+
+---
+## CVE-2021-0392 ()
+> 
+- [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">
 
 ---
 ## CVE-2021-0325 (2021-02-10T17:15:00)
