@@ -124,6 +124,7 @@
 - [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-4577">
 - [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
 - [VictorShem/CVE-2024-4577](https://github.com/VictorShem/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/VictorShem/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/VictorShem/CVE-2024-4577">
+- [jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE](https://github.com/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -236,6 +237,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-37889 (2024-06-14T20:15:00)
 > MyFinances is a web application for managing finances. MyFinances has a way to access other customer invoices while signed in as a user. This method allows an actor to access PII and financial information from another account. The vulnerability is fixed in 0.4.6.
 - [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889)	<img alt="forks" src="https://img.shields.io/github/forks/uname-s/CVE-2024-37889">	<img alt="stars" src="https://img.shields.io/github/stars/uname-s/CVE-2024-37889">
+
+---
+## CVE-2024-37888 (2024-06-14T18:15:00)
+> The Open Link is a CKEditor plugin, extending context menu with a possibility to open link in a new tab. The vulnerability allowed to execute JavaScript code by abusing link href attribute. It affects all users using the Open Link plugin at version < **1.0.5**.
+- [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888)	<img alt="forks" src="https://img.shields.io/github/forks/7Ragnarok7/CVE-2024-37888">	<img alt="stars" src="https://img.shields.io/github/stars/7Ragnarok7/CVE-2024-37888">
 
 ---
 ## CVE-2024-37843 ()
