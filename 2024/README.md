@@ -185,6 +185,20 @@
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
+## CVE-2024-4232 (2024-05-14T15:43:00)
+> This vulnerability exists in Digisol Router (DG-GR1321: Hardware version 3.7L;  Firmware version : v3.2.02) due to lack of encryption or hashing in storing of passwords within the router's firmware/ database. An attacker with physical access could exploit this by extracting the firmware and reverse engineer the binary data to access the plaintext passwords on the vulnerable system.
+
+Successful exploitation of this vulnerability could allow the attacker to gain unauthorized access to the targeted system.
+- [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232">
+
+---
+## CVE-2024-4231 (2024-05-14T15:43:00)
+> This vulnerability exists in Digisol Router (DG-GR1321: Hardware version 3.7L;  Firmware version : v3.2.02) due to presence of root terminal access on a serial interface without proper access control. An attacker with physical access could exploit this by identifying UART pins and accessing the root shell on the vulnerable system.
+
+Successful exploitation of this vulnerability could allow the attacker to access the sensitive information on the targeted system.
+- [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">
+
+---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
 > VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.
 
@@ -2531,6 +2545,13 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 ## CVE-2024-22640 (2024-04-19T16:15:00)
 > TCPDF version <=6.6.5 is vulnerable to ReDoS (Regular Expression Denial of Service) if parsing an untrusted HTML page with a crafted color.
 - [zunak/CVE-2024-22640](https://github.com/zunak/CVE-2024-22640)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22640">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22640">
+
+---
+## CVE-2024-2257 (2024-05-14T15:18:00)
+> This vulnerability exists in Digisol Router (DG-GR1321: Hardware version 3.7L;  Firmware version : v3.2.02) due to improper implementation of password policies. An attacker with physical access could exploit this by creating password that do not adhere to the defined security standards/policy on the vulnerable system.
+
+Successful exploitation of this vulnerability could allow the attacker to expose the router to potential security threats.
+- [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Policy-Bypass-CVE-2024-2257](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Policy-Bypass-CVE-2024-2257)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Policy-Bypass-CVE-2024-2257">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Policy-Bypass-CVE-2024-2257">
 
 ---
 ## CVE-2024-22567 (2024-02-05T20:15:00)
