@@ -8835,8 +8835,8 @@
 - [Live-Hack-CVE/CVE-2021-0561](https://github.com/Live-Hack-CVE/CVE-2021-0561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0561">
 
 ---
-## CVE-2021-0523 ()
-> 
+## CVE-2021-0523 (2021-06-21T17:15:00)
+> In onCreate of WifiScanModeActivity.java, there is a possible way to enable Wi-Fi scanning without user consent due to a tapjacking/overlay attack. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-174047492
 - [uthrasri/Packages_app_settings_CVE-2021-0523](https://github.com/uthrasri/Packages_app_settings_CVE-2021-0523)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Packages_app_settings_CVE-2021-0523">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Packages_app_settings_CVE-2021-0523">
 
 ---
@@ -8873,8 +8873,8 @@
 - [nanopathi/packages_apps_Settings_CVE-2021-0394](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0394">
 
 ---
-## CVE-2021-0392 ()
-> 
+## CVE-2021-0392 (2021-03-10T16:15:00)
+> In main of main.cpp, there is a possible memory corruption due to a double free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-9Android ID: A-175124730
 - [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">
 
 ---
