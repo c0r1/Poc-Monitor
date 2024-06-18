@@ -1231,6 +1231,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [lvyitian/CVE-2024-30078-](https://github.com/lvyitian/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/lvyitian/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/lvyitian/CVE-2024-30078-">
 - [N00BS3c/CVE-2024-30078](https://github.com/N00BS3c/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/N00BS3c/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/N00BS3c/CVE-2024-30078">
 - [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/52by/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/52by/CVE-2024-30078">
+- [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
@@ -2412,6 +2413,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-23692">
 - [Tupler/CVE-2024-23692-exp](https://github.com/Tupler/CVE-2024-23692-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Tupler/CVE-2024-23692-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Tupler/CVE-2024-23692-exp">
 - [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23692">
+- [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-23692-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-23692-EXP">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
