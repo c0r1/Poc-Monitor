@@ -1869,6 +1869,11 @@
 - [Live-Hack-CVE/CVE-2019-18218](https://github.com/Live-Hack-CVE/CVE-2019-18218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18218">
 
 ---
+## CVE-2019-17666 (2019-10-17T02:15:00)
+> rtl_p2p_noa_ie in drivers/net/wireless/realtek/rtlwifi/ps.c in the Linux kernel through 5.3.6 lacks a certain upper-bound check, leading to a buffer overflow.
+- [uthrasri/CVE-2019-17666](https://github.com/uthrasri/CVE-2019-17666)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2019-17666">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2019-17666">
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
@@ -2070,6 +2075,11 @@
 - [FarjaalAhmad/CVE-2019-16759](https://github.com/FarjaalAhmad/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/FarjaalAhmad/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/FarjaalAhmad/CVE-2019-16759">
 - [jas502n/CVE-2019-16759](https://github.com/jas502n/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-16759">
 - [r00tpgp/http-vuln-CVE-2019-16759](https://github.com/r00tpgp/http-vuln-CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/r00tpgp/http-vuln-CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/r00tpgp/http-vuln-CVE-2019-16759">
+
+---
+## CVE-2019-16746 (2019-09-24T06:15:00)
+> An issue was discovered in net/wireless/nl80211.c in the Linux kernel through 5.2.17. It does not check the length of variable elements in a beacon head, leading to a buffer overflow.
+- [uthrasri/CVE-2019-16746](https://github.com/uthrasri/CVE-2019-16746)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2019-16746">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2019-16746">
 
 ---
 ## CVE-2019-16724 (2019-09-24T21:15:00)
