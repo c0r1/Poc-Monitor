@@ -759,6 +759,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002_hook">
 - [431m/rcetest](https://github.com/431m/rcetest)	<img alt="forks" src="https://img.shields.io/github/forks/431m/rcetest">	<img alt="stars" src="https://img.shields.io/github/stars/431m/rcetest">
 - [alimuhammedkose/CVE-2024-32002-linux-smash](https://github.com/alimuhammedkose/CVE-2024-32002-linux-smash)	<img alt="forks" src="https://img.shields.io/github/forks/alimuhammedkose/CVE-2024-32002-linux-smash">	<img alt="stars" src="https://img.shields.io/github/stars/alimuhammedkose/CVE-2024-32002-linux-smash">
+- [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
@@ -1278,6 +1279,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
 - [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nkontopoul/checkwifivulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nkontopoul/checkwifivulnerability">
 - [sbroker-dev/cve-2024-30078](https://github.com/sbroker-dev/cve-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/sbroker-dev/cve-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/sbroker-dev/cve-2024-30078">
+- [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE_2024_30078_POC_WIFI">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
