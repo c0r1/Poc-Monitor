@@ -21,6 +21,11 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-6241 (2024-06-21T17:15:00)
+> A vulnerability was found in Pear Admin Boot up to 2.0.2 and classified as critical. This issue affects the function getDictItems of the file /system/dictData/getDictItems/. The manipulation with the input ,user(),1,1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-269375.
+- [bigb0x/CVE-2024-6241](https://github.com/bigb0x/CVE-2024-6241)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6241">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6241">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
