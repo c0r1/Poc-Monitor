@@ -2914,8 +2914,8 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dorser/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dorser/cve-2024-21626">
 
 ---
-## CVE-2024-21514 ()
-> 
+## CVE-2024-21514 (2024-06-22T05:15:00)
+> This affects versions of the package opencart/opencart from 0.0.0. An SQL Injection issue was identified in the Divido payment extension for OpenCart, which is included by default in version 3.0.3.9. As an anonymous unauthenticated user, if the Divido payment module is installed (it does not have to be enabled), it is possible to exploit SQL injection to gain unauthorised access to the backend database. For any site which is vulnerable, any unauthenticated user could exploit this to dump the entire OpenCart database, including customer PII data.
 - [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-21514">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-21514">
 
 ---
@@ -3006,6 +3006,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [huseyinstif/CVE-2024-21338-main](https://github.com/huseyinstif/CVE-2024-21338-main)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-21338-main">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-21338-main">
 - [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-21338">
 - [Zombie-Kaiser/CVE-2024-21338-x64-build-](https://github.com/Zombie-Kaiser/CVE-2024-21338-x64-build-)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2024-21338-x64-build-">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2024-21338-x64-build-">
+- [tykawaii98/CVE-2024-21338_PoC](https://github.com/tykawaii98/CVE-2024-21338_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-21338_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-21338_PoC">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
