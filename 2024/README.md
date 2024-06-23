@@ -411,6 +411,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34470">
 - [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-34470">
 - [Mr-r00t11/CVE-2024-34470](https://github.com/Mr-r00t11/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-34470">
+- [th3gokul/CVE-2024-34470](https://github.com/th3gokul/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34470">
 
 ---
 ## CVE-2024-34469 (2024-05-04T20:15:00)
@@ -2911,6 +2912,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Sk3pper/CVE-2024-21626](https://github.com/Sk3pper/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626">
 - [KubernetesBachelor/CVE-2024-21626](https://github.com/KubernetesBachelor/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/KubernetesBachelor/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/KubernetesBachelor/CVE-2024-21626">
 - [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dorser/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dorser/cve-2024-21626">
+
+---
+## CVE-2024-21514 ()
+> 
+- [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-21514">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-21514">
 
 ---
 ## CVE-2024-21508 (2024-04-11T05:15:00)
