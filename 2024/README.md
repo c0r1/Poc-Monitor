@@ -137,6 +137,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [VictorShem/CVE-2024-4577](https://github.com/VictorShem/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/VictorShem/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/VictorShem/CVE-2024-4577">
 - [jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE](https://github.com/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">
 - [amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/amandineVdw/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/amandineVdw/CVE-2024-4577">
+- [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -919,6 +920,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Athos-Zago/CVE-2024-30973](https://github.com/Athos-Zago/CVE-2024-30973)	<img alt="forks" src="https://img.shields.io/github/forks/Athos-Zago/CVE-2024-30973">	<img alt="stars" src="https://img.shields.io/github/stars/Athos-Zago/CVE-2024-30973">
 
 ---
+## CVE-2024-30956 ()
+> 
+- [leoCottret/CVE-2024-30956](https://github.com/leoCottret/CVE-2024-30956)	<img alt="forks" src="https://img.shields.io/github/forks/leoCottret/CVE-2024-30956">	<img alt="stars" src="https://img.shields.io/github/stars/leoCottret/CVE-2024-30956">
+
+---
 ## CVE-2024-3094 (2024-03-29T17:15:00)
 > Malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. The tarballs included extra .m4 files, which contained instructions for building with automake that did not exist in the repository. These instructions, through a series of complex obfuscations, extract a prebuilt object file from one of the test archives, which is then used to modify specific functions in the code while building the liblzma package. This issue results in liblzma being used by additional software, like sshd, to provide functionality that will be interpreted by the modified functions.
 - [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/CVE-2024-3094-info">
@@ -1313,6 +1319,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-30270 ()
 > 
 - [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
+
+---
+## CVE-2024-30088 (2024-06-11T17:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability
+- [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-30088">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
