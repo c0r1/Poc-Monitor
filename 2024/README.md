@@ -148,6 +148,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE](https://github.com/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">
 - [amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/amandineVdw/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/amandineVdw/CVE-2024-4577">
 - [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
+- [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -302,6 +303,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 > GitHub access token could be exposed to third-party sites in JetBrains IDEs after version 2023.1 and less than: IntelliJ IDEA 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; Aqua 2024.1.2; CLion 2023.1.7, 2023.2.4, 2023.3.5, 2024.1.3, 2024.2 EAP2; DataGrip 2023.1.3, 2023.2.4, 2023.3.5, 2024.1.4; DataSpell 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.2, 2024.2 EAP1; GoLand 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; MPS 2023.2.1, 2023.3.1, 2024.1 EAP2; PhpStorm 2023.1.6, 2023.2.6, 2023.3.7, 2024.1.3, 2024.2 EAP3; PyCharm 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.3, 2024.2 EAP2; Rider 2023.1.7, 2023.2.5, 2023.3.6, 2024.1.3; RubyMine 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP4; RustRover 2024.1.1; WebStorm 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.4
 - [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LeadroyaL/CVE-2024-37051-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LeadroyaL/CVE-2024-37051-EXP">
 - [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)	<img alt="forks" src="https://img.shields.io/github/forks/mrblackstar26/CVE-2024-37051">	<img alt="stars" src="https://img.shields.io/github/stars/mrblackstar26/CVE-2024-37051">
+
+---
+## CVE-2024-37032 ()
+> 
+- [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/Bi0x/CVE-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/Bi0x/CVE-2024-37032">
 
 ---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
