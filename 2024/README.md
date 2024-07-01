@@ -31,6 +31,8 @@
 - [lflare/cve-2024-6387-poc](https://github.com/lflare/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lflare/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lflare/cve-2024-6387-poc">
 - [acrono/cve-2024-6387-poc](https://github.com/acrono/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/acrono/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/acrono/cve-2024-6387-poc">
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgzhang/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgzhang/cve-2024-6387-poc">
+- [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/jack0we/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/jack0we/CVE-2024-6387">
+- [TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
