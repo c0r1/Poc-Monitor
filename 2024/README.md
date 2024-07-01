@@ -21,8 +21,8 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
-## CVE-2024-6387 ()
-> 
+## CVE-2024-6387 (2024-07-01T13:15:00)
+> A signal handler race condition was found in OpenSSH's server (sshd), where a client does not authenticate within LoginGraceTime seconds (120 by default, 600 in old OpenSSH versions), then sshd's SIGALRM handler is called asynchronously. However, this signal handler calls various functions that are not async-signal-safe, for example, syslog().
 - [7etsuo/cve-2024-6387-poc](https://github.com/7etsuo/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/7etsuo/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/7etsuo/cve-2024-6387-poc">
 - [passwa11/cve-2024-6387-poc](https://github.com/passwa11/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/cve-2024-6387-poc">
 - [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FerasAlrimali/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FerasAlrimali/CVE-2024-6387-POC">
@@ -33,6 +33,8 @@
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgzhang/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgzhang/cve-2024-6387-poc">
 - [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/jack0we/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/jack0we/CVE-2024-6387">
 - [TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">
+- [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-6387_Check">
+- [bigb0x/CVE-2024-6387](https://github.com/bigb0x/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6387">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -40,8 +42,8 @@
 - [bigb0x/CVE-2024-6241](https://github.com/bigb0x/CVE-2024-6241)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6241">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6241">
 
 ---
-## CVE-2024-6050 ()
-> 
+## CVE-2024-6050 (2024-07-01T14:15:00)
+> Improper Neutralization of Input During Web Page Generation vulnerability in SOKRATES-software SOWA OPAC allows a Reflected Cross-Site Scripting (XSS). An attacker might trick somebody into using a crafted URL, which will cause a script to be run in user's browser. This issue affects SOWA OPAC software in versions from 4.0 before 4.9.10, from 5.0 before 6.2.12.
 - [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">
 
 ---
