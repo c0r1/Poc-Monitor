@@ -21,6 +21,11 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-6387 ()
+> 
+- [7etsuo/cve-2024-6387-poc](https://github.com/7etsuo/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/7etsuo/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/7etsuo/cve-2024-6387-poc">
+
+---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
 > A vulnerability was found in Pear Admin Boot up to 2.0.2 and classified as critical. This issue affects the function getDictItems of the file /system/dictData/getDictItems/. The manipulation with the input ,user(),1,1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-269375.
 - [bigb0x/CVE-2024-6241](https://github.com/bigb0x/CVE-2024-6241)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6241">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6241">
@@ -305,6 +310,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-37791 (2024-06-18T19:16:00)
 > DuxCMS3 v3.1.3 was discovered to contain a SQL injection vulnerability via the keyword parameter at /article/Content/index?class_id.
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
+
+---
+## CVE-2024-37765 ()
+> 
+- [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
 
 ---
 ## CVE-2024-37764 ()
