@@ -69,6 +69,10 @@
 - [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/ssh_exploiter_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/ssh_exploiter_CVE-2024-6387">
 - [ACHUX21/checker-CVE-2024-6387](https://github.com/ACHUX21/checker-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ACHUX21/checker-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ACHUX21/checker-CVE-2024-6387">
 - [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xristos8574/regreSSHion-nmap-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xristos8574/regreSSHion-nmap-scanner">
+- [MrR0b0t19/CVE-2024-6387-Exploit-POC](https://github.com/MrR0b0t19/CVE-2024-6387-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2024-6387-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2024-6387-Exploit-POC">
+- [dawnl3ss/CVE-2024-6387](https://github.com/dawnl3ss/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dawnl3ss/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dawnl3ss/CVE-2024-6387">
+- [no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/no-one-sec/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/no-one-sec/CVE-2024-6387">
+- [xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
