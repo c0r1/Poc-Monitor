@@ -60,6 +60,7 @@
 - [k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-POC">
 - [SecWithMoh/CVE-2024-6387](https://github.com/SecWithMoh/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/SecWithMoh/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/SecWithMoh/CVE-2024-6387">
 - [PrincipalAnthony/CVE-2024-6387-Updated-x64bit](https://github.com/PrincipalAnthony/CVE-2024-6387-Updated-x64bit)	<img alt="forks" src="https://img.shields.io/github/forks/PrincipalAnthony/CVE-2024-6387-Updated-x64bit">	<img alt="stars" src="https://img.shields.io/github/stars/PrincipalAnthony/CVE-2024-6387-Updated-x64bit">
+- [DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook](https://github.com/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook)	<img alt="forks" src="https://img.shields.io/github/forks/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook">	<img alt="stars" src="https://img.shields.io/github/stars/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
