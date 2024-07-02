@@ -37,6 +37,9 @@
 - [bigb0x/CVE-2024-6387](https://github.com/bigb0x/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6387">
 - [wiggels/regresshion-check](https://github.com/wiggels/regresshion-check)	<img alt="forks" src="https://img.shields.io/github/forks/wiggels/regresshion-check">	<img alt="stars" src="https://img.shields.io/github/stars/wiggels/regresshion-check">
 - [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387)	<img alt="forks" src="https://img.shields.io/github/forks/kuffsit/check_cve_2024_6387">	<img alt="stars" src="https://img.shields.io/github/stars/kuffsit/check_cve_2024_6387">
+- [zgimszhd61/cve-2024-6387-poc](https://github.com/zgimszhd61/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/cve-2024-6387-poc">
+- [3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/CVE-2024-6387">
+- [betancour/OpenSSH-Vulnerability-test](https://github.com/betancour/OpenSSH-Vulnerability-test)	<img alt="forks" src="https://img.shields.io/github/forks/betancour/OpenSSH-Vulnerability-test">	<img alt="stars" src="https://img.shields.io/github/stars/betancour/OpenSSH-Vulnerability-test">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
