@@ -57,6 +57,9 @@
 - [CiderAndWhisky/regression-scanner](https://github.com/CiderAndWhisky/regression-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CiderAndWhisky/regression-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CiderAndWhisky/regression-scanner">
 - [paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap)	<img alt="forks" src="https://img.shields.io/github/forks/paradessia/CVE-2024-6387-nmap">	<img alt="stars" src="https://img.shields.io/github/stars/paradessia/CVE-2024-6387-nmap">
 - [shamo0/CVE-2024-6387_PoC](https://github.com/shamo0/CVE-2024-6387_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2024-6387_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2024-6387_PoC">
+- [k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-POC">
+- [SecWithMoh/CVE-2024-6387](https://github.com/SecWithMoh/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/SecWithMoh/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/SecWithMoh/CVE-2024-6387">
+- [PrincipalAnthony/CVE-2024-6387-Updated-x64bit](https://github.com/PrincipalAnthony/CVE-2024-6387-Updated-x64bit)	<img alt="forks" src="https://img.shields.io/github/forks/PrincipalAnthony/CVE-2024-6387-Updated-x64bit">	<img alt="stars" src="https://img.shields.io/github/stars/PrincipalAnthony/CVE-2024-6387-Updated-x64bit">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
