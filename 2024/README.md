@@ -3030,8 +3030,8 @@ QuTScloud c5.1.5.2651 and later
 - [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-21899-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-21899-RCE-POC">
 
 ---
-## CVE-2024-21894 ()
-> 
+## CVE-2024-21894 (2024-04-04T23:15:00)
+> A heap overflow vulnerability in IPSec component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure allows an unauthenticated malicious user to send specially crafted requests in-order-to crash the service thereby causing a DoS attack. In certain conditions this may lead to execution of arbitrary code 
 - [Ronoffer/CVE-2024-21894-Proof-of-concept](https://github.com/Ronoffer/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Ronoffer/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Ronoffer/CVE-2024-21894-Proof-of-concept">
 - [RansomGroupCVE/CVE-2024-21894-POC](https://github.com/RansomGroupCVE/CVE-2024-21894-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-21894-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-21894-POC">
 - [AlexLondan/CVE-2024-21894-Proof-of-concept](https://github.com/AlexLondan/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-21894-Proof-of-concept">
