@@ -84,6 +84,7 @@
 - [grupooruss/CVE-2024-6387-Tester](https://github.com/grupooruss/CVE-2024-6387-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2024-6387-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2024-6387-Tester">
 - [EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker](https://github.com/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">
 - [password123456/cve-security-response-guidelines](https://github.com/password123456/cve-security-response-guidelines)	<img alt="forks" src="https://img.shields.io/github/forks/password123456/cve-security-response-guidelines">	<img alt="stars" src="https://img.shields.io/github/stars/password123456/cve-security-response-guidelines">
+- [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2024-6387">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -417,6 +418,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-37742 (2024-06-25T22:15:00)
 > An issue in Safe Exam Browser for Windows before 3.6 allows an attacker to share clipboard data between the SEB kiosk mode and the underlying system, compromising exam integrity which may lead to arbitrary code execution and obtaining sensitive information via the Clipboard Management component.
 - [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
+
+---
+## CVE-2024-37726 ()
+> 
+- [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">
 
 ---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
