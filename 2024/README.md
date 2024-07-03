@@ -87,6 +87,7 @@
 - [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2024-6387">
 - [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-6387">
 - [harshinsecurity/sentinelssh](https://github.com/harshinsecurity/sentinelssh)	<img alt="forks" src="https://img.shields.io/github/forks/harshinsecurity/sentinelssh">	<img alt="stars" src="https://img.shields.io/github/stars/harshinsecurity/sentinelssh">
+- [CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/CognisysGroup/CVE-2024-6387-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/CognisysGroup/CVE-2024-6387-Checker">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
