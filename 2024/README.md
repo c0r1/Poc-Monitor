@@ -96,6 +96,7 @@
 - [lala-amber/CVE-2024-6387](https://github.com/lala-amber/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/lala-amber/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/lala-amber/CVE-2024-6387">
 - [invaderslabs/regreSSHion-CVE-2024-6387-](https://github.com/invaderslabs/regreSSHion-CVE-2024-6387-)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/regreSSHion-CVE-2024-6387-">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/regreSSHion-CVE-2024-6387-">
 - [4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive)	<img alt="forks" src="https://img.shields.io/github/forks/4lxprime/regreSSHive">	<img alt="stars" src="https://img.shields.io/github/stars/4lxprime/regreSSHive">
+- [sardine-web/CVE-2024-6387_Check](https://github.com/sardine-web/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387_Check">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -1615,6 +1616,7 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
 - [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-29972">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-29972">
 - [Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc](https://github.com/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc">
+- [codeb0ss/CVE-2024-29972-PoC](https://github.com/codeb0ss/CVE-2024-29972-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-29972-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-29972-PoC">
 
 ---
 ## CVE-2024-29943 (2024-03-22T13:15:00)
