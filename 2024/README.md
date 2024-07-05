@@ -103,6 +103,7 @@
 - [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/imv7/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/imv7/CVE-2024-6387">
 - [SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder)	<img alt="forks" src="https://img.shields.io/github/forks/SiberianHacker/CVE-2024-6387-Finder">	<img alt="stars" src="https://img.shields.io/github/stars/SiberianHacker/CVE-2024-6387-Finder">
 - [dgicloud/patch_regreSSHion](https://github.com/dgicloud/patch_regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/dgicloud/patch_regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/dgicloud/patch_regreSSHion">
+- [azurejoga/CVE-2024-6387-how-to-fix](https://github.com/azurejoga/CVE-2024-6387-how-to-fix)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2024-6387-how-to-fix">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2024-6387-how-to-fix">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -3358,6 +3359,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
 - [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/d4rks1d33/C-PoC-for-CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/d4rks1d33/C-PoC-for-CVE-2024-21306">
+
+---
+## CVE-2024-2122 (2024-06-14T06:15:00)
+> The Best WordPress Gallery Plugin – FooGallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via album gallery custom URLs in all versions up to, and including, 2.4.15 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+- [codeb0ss/CVE-2024-2122-PoC](https://github.com/codeb0ss/CVE-2024-2122-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-2122-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-2122-PoC">
 
 ---
 ## CVE-2024-21111 (2024-04-16T22:15:00)
