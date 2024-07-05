@@ -102,6 +102,7 @@
 - [sardine-web/CVE-2024-6387-template](https://github.com/sardine-web/CVE-2024-6387-template)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387-template">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387-template">
 - [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/imv7/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/imv7/CVE-2024-6387">
 - [SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder)	<img alt="forks" src="https://img.shields.io/github/forks/SiberianHacker/CVE-2024-6387-Finder">	<img alt="stars" src="https://img.shields.io/github/stars/SiberianHacker/CVE-2024-6387-Finder">
+- [dgicloud/patch_regreSSHion](https://github.com/dgicloud/patch_regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/dgicloud/patch_regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/dgicloud/patch_regreSSHion">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -1262,6 +1263,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/DANO-AMP/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/DANO-AMP/CVE-2024-3094">
+- [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up)	<img alt="forks" src="https://img.shields.io/github/forks/robertdfrench/ifuncd-up">	<img alt="stars" src="https://img.shields.io/github/stars/robertdfrench/ifuncd-up">
 
 ---
 ## CVE-2024-3090 (2024-03-30T13:15:00)
