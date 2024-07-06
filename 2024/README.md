@@ -375,6 +375,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-39943 (2024-07-04T23:15:00)
 > rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js).
 - [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-39943-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-39943-Poc">
+- [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/A-little-dragon/CVE-2024-39943-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/A-little-dragon/CVE-2024-39943-Exploit">
 
 ---
 ## CVE-2024-39844 (2024-07-03T17:15:00)
@@ -509,6 +510,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36991">
 - [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-36991">
 - [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-36991">
+- [sardine-web/CVE-2024-36991](https://github.com/sardine-web/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-36991">
 
 ---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
