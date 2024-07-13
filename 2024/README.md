@@ -116,6 +116,7 @@
 - [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/Sibijo/mitigate_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/Sibijo/mitigate_ssh">
 - [Passyed/regreSSHion-Fix](https://github.com/Passyed/regreSSHion-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/Passyed/regreSSHion-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/Passyed/regreSSHion-Fix">
 - [k4t3pr0/CVE-2024-6387-Check](https://github.com/k4t3pr0/CVE-2024-6387-Check)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-Check">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-Check">
+- [liqhtnd/sshd-logingracetime0](https://github.com/liqhtnd/sshd-logingracetime0)	<img alt="forks" src="https://img.shields.io/github/forks/liqhtnd/sshd-logingracetime0">	<img alt="stars" src="https://img.shields.io/github/stars/liqhtnd/sshd-logingracetime0">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -448,6 +449,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-39844 (2024-07-03T17:15:00)
 > In ZNC before 1.9.1, remote code execution can occur in modtcl via a KICK.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
+
+---
+## CVE-2024-39250 ()
+> 
+- [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250)	<img alt="forks" src="https://img.shields.io/github/forks/efrann/CVE-2024-39250">	<img alt="stars" src="https://img.shields.io/github/stars/efrann/CVE-2024-39250">
 
 ---
 ## CVE-2024-39249 (2024-07-01T20:15:00)
