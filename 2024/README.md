@@ -1,6 +1,11 @@
 # 2024 List
 
 ---
+## CVE-2024-99999 ()
+> 
+- [labc-dev/CVE-2024-99999](https://github.com/labc-dev/CVE-2024-99999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-99999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-99999">
+
+---
 ## CVE-2024-666666 ()
 > 
 - [xiaoqiao147/CVE-2024-666666](https://github.com/xiaoqiao147/CVE-2024-666666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-666666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-666666">
@@ -2401,6 +2406,11 @@ overflow.
 - [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
 
 ---
+## CVE-2024-266666 ()
+> 
+- [labc-dev/CVE-2024-266666](https://github.com/labc-dev/CVE-2024-266666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-266666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-266666">
+
+---
 ## CVE-2024-26574 ()
 > 
 - [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-26574">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-26574">
@@ -3770,6 +3780,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > A vulnerability in the access control list (ACL) programming for port channel subinterfaces of Cisco Nexus 3000 and 9000 Series Switches in standalone NX-OS mode could allow an unauthenticated, remote attacker to send traffic that should be blocked through an affected device.
  This vulnerability is due to incorrect hardware programming that occurs when configuration changes are made to port channel member ports. An attacker could exploit this vulnerability by attempting to send traffic through an affected device. A successful exploit could allow the attacker to access network resources that should be protected by an ACL that was applied on port channel subinterfaces.
 - [greandfather/CVE-2024-20291-POC](https://github.com/greandfather/CVE-2024-20291-POC)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2024-20291-POC">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2024-20291-POC">
+
+---
+## CVE-2024-2024 (2024-06-14T13:15:00)
+> The Folders Pro plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'handle_folders_file_upload' function in all versions up to, and including, 3.0.2. This makes it possible for authenticated attackers, with author access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible.
+- [labc-dev/CVE-2024-2024](https://github.com/labc-dev/CVE-2024-2024)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-2024">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-2024">
 
 ---
 ## CVE-2024-1874 (2024-04-29T04:15:00)
