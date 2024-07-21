@@ -943,6 +943,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [bughuntar/CVE-2024-34102-Python](https://github.com/bughuntar/CVE-2024-34102-Python)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-34102-Python">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-34102-Python">
 - [Phantom-IN/CVE-2024-34102](https://github.com/Phantom-IN/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Phantom-IN/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Phantom-IN/CVE-2024-34102">
 - [b4h1x/CVE-2024-34102-RCE](https://github.com/b4h1x/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b4h1x/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b4h1x/CVE-2024-34102-RCE">
+- [ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ex-ARnX/CVE-2024-34102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ex-ARnX/CVE-2024-34102-PoC">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
