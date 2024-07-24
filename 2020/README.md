@@ -4006,12 +4006,13 @@
 ## CVE-2020-14066 (2020-07-15T20:15:00)
 > IceWarp Email Server 12.3.0.1 allows remote attackers to upload JavaScript files that are dangerous for clients to access.
 - [networksecure/CVE-2020-14066](https://github.com/networksecure/CVE-2020-14066)	<img alt="forks" src="https://img.shields.io/github/forks/networksecure/CVE-2020-14066">	<img alt="stars" src="https://img.shields.io/github/stars/networksecure/CVE-2020-14066">
-- [pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions](https://github.com/pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions">
+- [pinpinsec/CVE-2020-14066](https://github.com/pinpinsec/CVE-2020-14066)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2020-14066">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2020-14066">
 
 ---
 ## CVE-2020-14065 (2020-07-15T20:15:00)
 > IceWarp Email Server 12.3.0.1 allows remote attackers to upload files and consume disk space.
 - [networksecure/CVE-2020-14065](https://github.com/networksecure/CVE-2020-14065)	<img alt="forks" src="https://img.shields.io/github/forks/networksecure/CVE-2020-14065">	<img alt="stars" src="https://img.shields.io/github/stars/networksecure/CVE-2020-14065">
+- [pinpinsec/CVE-2020-14065](https://github.com/pinpinsec/CVE-2020-14065)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2020-14065">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2020-14065">
 
 ---
 ## CVE-2020-14064 (2020-07-15T20:15:00)
