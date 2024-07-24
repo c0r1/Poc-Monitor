@@ -4003,6 +4003,23 @@
 - [Live-Hack-CVE/CVE-2020-14129](https://github.com/Live-Hack-CVE/CVE-2020-14129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14129">
 
 ---
+## CVE-2020-14066 (2020-07-15T20:15:00)
+> IceWarp Email Server 12.3.0.1 allows remote attackers to upload JavaScript files that are dangerous for clients to access.
+- [networksecure/CVE-2020-14066](https://github.com/networksecure/CVE-2020-14066)	<img alt="forks" src="https://img.shields.io/github/forks/networksecure/CVE-2020-14066">	<img alt="stars" src="https://img.shields.io/github/stars/networksecure/CVE-2020-14066">
+- [pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions](https://github.com/pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/Icewarp-Email-Server-12.3.0.1-insecure_permissions">
+
+---
+## CVE-2020-14065 (2020-07-15T20:15:00)
+> IceWarp Email Server 12.3.0.1 allows remote attackers to upload files and consume disk space.
+- [networksecure/CVE-2020-14065](https://github.com/networksecure/CVE-2020-14065)	<img alt="forks" src="https://img.shields.io/github/forks/networksecure/CVE-2020-14065">	<img alt="stars" src="https://img.shields.io/github/stars/networksecure/CVE-2020-14065">
+
+---
+## CVE-2020-14064 (2020-07-15T20:15:00)
+> IceWarp Email Server 12.3.0.1 has Incorrect Access Control for user accounts.
+- [networksecure/CVE-2020-14064](https://github.com/networksecure/CVE-2020-14064)	<img alt="forks" src="https://img.shields.io/github/forks/networksecure/CVE-2020-14064">	<img alt="stars" src="https://img.shields.io/github/stars/networksecure/CVE-2020-14064">
+- [pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-](https://github.com/pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-">
+
+---
 ## CVE-2020-14044 (2020-08-24T16:15:00)
 > ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Server-Side Request Forgery (SSRF) vulnerability was found in Codiad v1.7.8 and later. A user with admin privileges could use the plugin install feature to make the server request any URL via components/market/class.market.php. This could potentially result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
 - [Live-Hack-CVE/CVE-2020-14044](https://github.com/Live-Hack-CVE/CVE-2020-14044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14044">
