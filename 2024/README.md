@@ -510,8 +510,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
 
 ---
-## CVE-2024-40422 ()
-> 
+## CVE-2024-40422 (2024-07-24T16:15:00)
+> The snapshot_path parameter in the /api/get-browser-snapshot endpoint in stitionai devika v1 is susceptible to a path traversal attack. An attacker can manipulate the snapshot_path parameter to traverse directories and access sensitive files on the server. This can potentially lead to unauthorized access to critical system files and compromise the confidentiality and integrity of the system.
 - [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2024-40422">
 
 ---
@@ -538,6 +538,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40348 (2024-07-20T04:15:00)
 > An issue in the component /api/swaggerui/static of Bazaar v1.4.3 allows unauthenticated attackers to execute a directory traversal.
 - [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-40348">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-40348">
+- [codeb0ss/CVE-2024-40348-PoC](https://github.com/codeb0ss/CVE-2024-40348-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-40348-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-40348-PoC">
 
 ---
 ## CVE-2024-40119 (2024-07-17T20:15:00)
