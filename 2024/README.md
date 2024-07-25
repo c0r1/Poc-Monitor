@@ -137,6 +137,7 @@
 - [Jhonsonwannaa/CVE-2024-6387](https://github.com/Jhonsonwannaa/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-6387">
 - [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-6387">
 - [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
+- [prelearn-code/CVE-2024-6387](https://github.com/prelearn-code/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/prelearn-code/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/prelearn-code/CVE-2024-6387">
 
 ---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
@@ -3735,6 +3736,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-21006">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-21006">
 - [lightr3d/CVE-2024-21006_jar](https://github.com/lightr3d/CVE-2024-21006_jar)	<img alt="forks" src="https://img.shields.io/github/forks/lightr3d/CVE-2024-21006_jar">	<img alt="stars" src="https://img.shields.io/github/stars/lightr3d/CVE-2024-21006_jar">
+- [dadvlingd/CVE-2024-21006](https://github.com/dadvlingd/CVE-2024-21006)	<img alt="forks" src="https://img.shields.io/github/forks/dadvlingd/CVE-2024-21006">	<img alt="stars" src="https://img.shields.io/github/stars/dadvlingd/CVE-2024-21006">
 
 ---
 ## CVE-2024-20931 (2024-02-17T02:15:00)
