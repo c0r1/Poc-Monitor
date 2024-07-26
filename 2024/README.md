@@ -559,9 +559,14 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
 
 ---
-## CVE-2024-40324 ()
-> 
+## CVE-2024-40324 (2024-07-25T20:15:00)
+> A CRLF injection vulnerability in E-Staff v5.1 allows attackers to insert Carriage Return (CR) and Line Feed (LF) characters into input fields, leading to HTTP response splitting and header manipulation.
 - [aleksey-vi/CVE-2024-40324](https://github.com/aleksey-vi/CVE-2024-40324)	<img alt="forks" src="https://img.shields.io/github/forks/aleksey-vi/CVE-2024-40324">	<img alt="stars" src="https://img.shields.io/github/stars/aleksey-vi/CVE-2024-40324">
+
+---
+## CVE-2024-40318 ()
+> 
+- [3v1lC0d3/RCE-QloApps-CVE-2024-40318](https://github.com/3v1lC0d3/RCE-QloApps-CVE-2024-40318)	<img alt="forks" src="https://img.shields.io/github/forks/3v1lC0d3/RCE-QloApps-CVE-2024-40318">	<img alt="stars" src="https://img.shields.io/github/stars/3v1lC0d3/RCE-QloApps-CVE-2024-40318">
 
 ---
 ## CVE-2024-40119 (2024-07-17T20:15:00)
