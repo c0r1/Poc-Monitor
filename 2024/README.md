@@ -3812,6 +3812,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > BitLocker Security Feature Bypass Vulnerability
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
 - [invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/CVE-2024-20666">
+- [HYZ3K/CVE-2024-20666](https://github.com/HYZ3K/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/HYZ3K/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/HYZ3K/CVE-2024-20666">
 
 ---
 ## CVE-2024-206565 ()
