@@ -1071,6 +1071,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [Phantom-IN/CVE-2024-34102](https://github.com/Phantom-IN/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Phantom-IN/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Phantom-IN/CVE-2024-34102">
 - [b4h1x/CVE-2024-34102-RCE](https://github.com/b4h1x/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b4h1x/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b4h1x/CVE-2024-34102-RCE">
 - [ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ex-ARnX/CVE-2024-34102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ex-ARnX/CVE-2024-34102-PoC">
+- [etx-Arn/CVE-2024-34102-RCE](https://github.com/etx-Arn/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
