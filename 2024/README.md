@@ -43,6 +43,11 @@
 - [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/cve-2024-666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/cve-2024-666">
 
 ---
+## CVE-2024-6536 (2024-07-30T06:15:00)
+> The Zephyr Project Manager WordPress plugin before 3.3.99 does not sanitise and escape some of its settings, which could allow high privilege users such as editors and admins to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
+
+---
 ## CVE-2024-65230 ()
 > 
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
@@ -641,6 +646,16 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > JupyterLab extension template is a  `copier` template for JupyterLab extensions. Repositories created using this template with `test` option include `update-integration-tests.yml` workflow which has an RCE vulnerability. Extension authors hosting their code on GitHub are urged to upgrade the template to the latest version. Users who made changes to `update-integration-tests.yml`, accept overwriting of this file and re-apply your changes later. Users may wish to temporarily disable GitHub Actions while working on the upgrade. We recommend rebasing all open pull requests from untrusted users as actions may run using the version from the `main` branch at the time when the pull request was created. Users who are upgrading from template version prior to 4.3.0 may wish to leave out proposed changes to the release workflow for now as it requires additional configuration.
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
+
+---
+## CVE-2024-39306 ()
+> 
+- [apena-ba/CVE-2024-39306](https://github.com/apena-ba/CVE-2024-39306)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39306">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39306">
+
+---
+## CVE-2024-39304 (2024-07-26T18:15:00)
+> ChurchCRM is an open-source church management system. Versions of the application prior to 5.9.2 are vulnerable to an authenticated SQL injection due to an improper sanitization of user input. Authentication is required, but no elevated privileges are necessary. This allows attackers to inject SQL statements directly into the database query due to inadequate sanitization of the EID parameter in in a GET request to `/GetText.php`. Version 5.9.2 patches the issue.
+- [apena-ba/CVE-2024-39304](https://github.com/apena-ba/CVE-2024-39304)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39304">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39304">
 
 ---
 ## CVE-2024-39250 (2024-07-22T20:15:00)
