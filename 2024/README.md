@@ -1608,8 +1608,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
 
 ---
-## CVE-2024-30998 ()
-> 
+## CVE-2024-30998 (2024-04-03T06:15:00)
+> SQL Injection vulnerability in PHPGurukul Men Salon Management System v.2.0, allows remote attackers to execute arbitrary code and obtain sensitive information via the email parameter in the index.php component.
 - [efekaanakkar/CVE-2024-30998](https://github.com/efekaanakkar/CVE-2024-30998)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-30998">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-30998">
 
 ---
