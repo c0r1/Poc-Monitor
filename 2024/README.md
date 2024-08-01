@@ -21,6 +21,11 @@
 - [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7188-PoC">
 
 ---
+## CVE-2024-7120 (2024-07-26T05:15:00)
+> A vulnerability, which was classified as critical, was found in Raisecom MSG1200, MSG2100E, MSG2200 and MSG2300 3.90. This affects an unknown part of the file list_base_config.php of the component Web Interface. The manipulation of the argument template leads to os command injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-272451.
+- [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
+
+---
 ## CVE-2024-6694 (2024-07-20T04:15:00)
 > The WP Mail SMTP plugin for WordPress is vulnerable to information exposure in all versions up to, and including, 4.0.1. This is due to plugin providing the SMTP password in the SMTP Password field when viewing the settings. This makes it possible for authenticated attackers, with administrative-level access and above, to view the SMTP password for the supplied server. Although this would not be useful for attackers in most cases, if an administrator account becomes compromised this could be useful information to an attacker in a limited environment.
 - [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6694-PoC">
@@ -1117,6 +1122,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [b4h1x/CVE-2024-34102-RCE](https://github.com/b4h1x/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b4h1x/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b4h1x/CVE-2024-34102-RCE">
 - [ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ex-ARnX/CVE-2024-34102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ex-ARnX/CVE-2024-34102-PoC">
 - [etx-Arn/CVE-2024-34102-RCE](https://github.com/etx-Arn/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE">
+- [etx-Arn/CVE-2024-34102-RCE-PoC](https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE-PoC">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
@@ -2353,8 +2359,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL)	<img alt="forks" src="https://img.shields.io/github/forks/RobertSecurity/CVE-2024-2865-CRITICAL">	<img alt="stars" src="https://img.shields.io/github/stars/RobertSecurity/CVE-2024-2865-CRITICAL">
 
 ---
-## CVE-2024-28589 ()
-> 
+## CVE-2024-28589 (2024-04-03T08:15:00)
+> An issue was discovered in Axigen Mail Server for Windows versions 10.5.18 and before, allows local low-privileged attackers to execute arbitrary code and escalate privileges via insecure DLL loading from a world-writable directory during service initialization.
 - [Alaatk/CVE-2024-28589](https://github.com/Alaatk/CVE-2024-28589)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-28589">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-28589">
 
 ---
