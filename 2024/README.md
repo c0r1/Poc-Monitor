@@ -261,6 +261,13 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-5274-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-5274-Detection">
 
 ---
+## CVE-2024-5246 (2024-05-23T22:15:00)
+> NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of NETGEAR ProSAFE Network Management System. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the product installer. The issue results from the use of a vulnerable version of Apache Tomcat. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-22868.
+- [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
+
+---
 ## CVE-2024-5084 (2024-05-23T15:15:00)
 > The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-5084">
@@ -668,8 +675,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
 
 ---
-## CVE-2024-39614 ()
-> 
+## CVE-2024-39614 (2024-07-10T05:15:00)
+> An issue was discovered in Django 5.0 before 5.0.7 and 4.2 before 4.2.14. get_supported_language_variant() was subject to a potential denial-of-service attack when used with very long strings containing specific characters.
 - [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-39614">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-39614">
 
 ---
@@ -3009,6 +3016,15 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 ## CVE-2024-24567 (2024-01-30T21:15:00)
 > Vyper is a pythonic Smart Contract Language for the ethereum virtual machine. Vyper compiler allows passing a value in builtin raw_call even if the call is a delegatecall or a staticcall. But in the context of delegatecall and staticcall the handling of value is not possible due to the semantics of the respective opcodes, and vyper will silently ignore the value= argument. If the semantics of the EVM are unknown to the developer, he could suspect that by specifying the `value` kwarg, exactly the given amount will be sent along to the target. This vulnerability affects 0.3.10 and earlier versions.
 - [brains93/CVE-2024-24567-PoC-Python](https://github.com/brains93/CVE-2024-24567-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/brains93/CVE-2024-24567-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/brains93/CVE-2024-24567-PoC-Python">
+
+---
+## CVE-2024-24549 (2024-03-13T16:15:00)
+> Denial of Service due to improper input validation vulnerability for HTTP/2 requests in Apache Tomcat. When processing an HTTP/2 request, if the request exceeded any of the configured limits for headers, the associated HTTP/2 stream was not reset until after all of the headers had been processed.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M16, from 10.1.0-M1 through 10.1.18, from 9.0.0-M1 through 9.0.85, from 8.5.0 through 8.5.98.
+
+Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.99 which fix the issue.
+
+
+- [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-24549">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-24549">
 
 ---
 ## CVE-2024-24520 (2024-03-21T02:52:00)
