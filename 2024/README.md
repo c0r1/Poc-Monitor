@@ -171,6 +171,11 @@
 - [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387">
 
 ---
+## CVE-2024-6366 (2024-07-29T06:15:00)
+> The User Profile Builder  WordPress plugin before 3.11.8 does not have proper authorisation, allowing unauthenticated users to upload media files via the async upload functionality of WP.
+- [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
+
+---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
 > A vulnerability was found in Pear Admin Boot up to 2.0.2 and classified as critical. This issue affects the function getDictItems of the file /system/dictData/getDictItems/. The manipulation with the input ,user(),1,1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-269375.
 - [bigb0x/CVE-2024-6241](https://github.com/bigb0x/CVE-2024-6241)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6241">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6241">
