@@ -1565,7 +1565,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
 - [mprunet/cve-2024-32002-pull](https://github.com/mprunet/cve-2024-32002-pull)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-pull">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-pull">
 - [mprunet/cve-2024-32002-malicious](https://github.com/mprunet/cve-2024-32002-malicious)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-malicious">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-malicious">
-- [chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/CVE-2024-32002">
+- [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
