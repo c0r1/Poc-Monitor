@@ -2401,6 +2401,7 @@
 ## CVE-2021-41182 (2021-10-26T15:15:00)
 > jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of the `altField` option of the Datepicker widget from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. Any string value passed to the `altField` option is now treated as a CSS selector. A workaround is to not accept the value of the `altField` option from untrusted sources.
 - [aredspy/CVE-2021-41182](https://github.com/aredspy/CVE-2021-41182)	<img alt="forks" src="https://img.shields.io/github/forks/aredspy/CVE-2021-41182">	<img alt="stars" src="https://img.shields.io/github/stars/aredspy/CVE-2021-41182">
+- [aredspy/CVE-2021-41182-Tester](https://github.com/aredspy/CVE-2021-41182-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/aredspy/CVE-2021-41182-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/aredspy/CVE-2021-41182-Tester">
 
 ---
 ## CVE-2021-41178 (2021-10-25T22:15:00)
