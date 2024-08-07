@@ -31,8 +31,8 @@
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
 
 ---
-## CVE-2024-6782 ()
-> 
+## CVE-2024-6782 (2024-08-06T04:16:00)
+> Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.
 - [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
 
 ---
@@ -198,8 +198,12 @@
 - [bigb0x/CVE-2024-6241](https://github.com/bigb0x/CVE-2024-6241)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6241">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6241">
 
 ---
-## CVE-2024-6222 ()
-> 
+## CVE-2024-6222 (2024-07-09T18:15:00)
+> In Docker Desktop before v4.29.0, an attacker who has gained access to the Docker Desktop VM through a container breakout can further escape to the host by passing extensions and dashboard related IPC messages.
+
+Docker Desktop  v4.29.0 https://docs.docker.com/desktop/release-notes/#4290  fixes the issue on MacOS, Linux and Windows with Hyper-V backend.
+
+As exploitation requires "Allow only extensions distributed through the Docker Marketplace" to be disabled, Docker Desktop  v4.31.0 https://docs.docker.com/desktop/release-notes/#4310  additionally changes the default configuration to enable this setting by default.
 - [Florian-Hoth/CVE-2024-6222](https://github.com/Florian-Hoth/CVE-2024-6222)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-6222">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-6222">
 
 ---
@@ -826,8 +830,8 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
-## CVE-2024-38100 ()
-> 
+## CVE-2024-38100 (2024-07-09T17:15:00)
+> Windows File Explorer Elevation of Privilege Vulnerability
 - [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-38100-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-38100-RCE-POC">
 
 ---
