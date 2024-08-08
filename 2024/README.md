@@ -560,6 +560,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
+## CVE-2024-41651 ()
+> 
+- [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Fckroun/CVE-2024-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Fckroun/CVE-2024-41651">
+
+---
 ## CVE-2024-41628 (2024-07-26T21:15:00)
 > Directory Traversal vulnerability in Severalnines Cluster Control 1.9.8 before 1.9.8-9778, 2.0.0 before 2.0.0-9779, and 2.1.0 before 2.1.0-9780 allows a remote attacker to include and display file content in an HTTP request via the CMON API.
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
