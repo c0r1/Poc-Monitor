@@ -563,6 +563,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41651 ()
 > 
 - [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Fckroun/CVE-2024-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Fckroun/CVE-2024-41651">
+- [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Fckroun/CVE-2024-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Fckroun/CVE-2024-41651">
 
 ---
 ## CVE-2024-41628 (2024-07-26T21:15:00)
@@ -651,6 +652,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40506 ()
 > 
 - [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40506">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40506">
+
+---
+## CVE-2024-40500 ()
+> 
+- [nitipoom-jar/CVE-2024-40500](https://github.com/nitipoom-jar/CVE-2024-40500)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-40500">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-40500">
 
 ---
 ## CVE-2024-40498 (2024-08-05T17:15:00)
