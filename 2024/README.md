@@ -863,6 +863,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Lxiyang/CVE-2024-38077](https://github.com/Lxiyang/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Lxiyang/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Lxiyang/CVE-2024-38077">
 - [Sec-Link/CVE-2024-38077](https://github.com/Sec-Link/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Link/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Link/CVE-2024-38077">
 - [Wlibang/CVE-2024-38077](https://github.com/Wlibang/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Wlibang/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Wlibang/CVE-2024-38077">
+- [murphysecurity/RDL-detect](https://github.com/murphysecurity/RDL-detect)	<img alt="forks" src="https://img.shields.io/github/forks/murphysecurity/RDL-detect">	<img alt="stars" src="https://img.shields.io/github/stars/murphysecurity/RDL-detect">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -4567,7 +4568,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ---
 ## CVE-2024-0030 (2024-02-16T02:15:00)
 > In btif_to_bta_response of btif_gatt_util.cc, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
-- [uthrasri/CVE-2024-0030](https://github.com/uthrasri/CVE-2024-0030)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-0030">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-0030">
+- [uthrasri/system_bt_CVE-2024-0030](https://github.com/uthrasri/system_bt_CVE-2024-0030)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/system_bt_CVE-2024-0030">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/system_bt_CVE-2024-0030">
 
 ---
 ## CVE-2024-0023 (2024-02-16T20:15:00)
