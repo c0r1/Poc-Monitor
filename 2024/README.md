@@ -1787,6 +1787,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4)	<img alt="forks" src="https://img.shields.io/github/forks/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4">	<img alt="stars" src="https://img.shields.io/github/stars/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4">
 
 ---
+## CVE-2024-3105 (2024-06-15T09:15:00)
+> The Woody code snippets – Insert Header Footer Code, AdSense Ads plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 2.5.0 via the 'insert_php' shortcode. This is due to the plugin not restricting the usage of the functionality to high level authorized users. This makes it possible for authenticated attackers, with contributor-level access and above, to execute code on the server.
+- [hunThubSpace/CVE-2024-3105-PoC](https://github.com/hunThubSpace/CVE-2024-3105-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-3105-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-3105-PoC">
+
+---
 ## CVE-2024-31032 (2024-03-29T17:15:00)
 > An issue in Huashi Private Cloud CDN Live Streaming Acceleration Server hgateway-sixport v.1.1.2 allows a remote attacker to execute arbitrary code via the manager/ipping.php component.
 - [walskt/CVE-CVE-2024-31032](https://github.com/walskt/CVE-CVE-2024-31032)	<img alt="forks" src="https://img.shields.io/github/forks/walskt/CVE-CVE-2024-31032">	<img alt="stars" src="https://img.shields.io/github/stars/walskt/CVE-CVE-2024-31032">
