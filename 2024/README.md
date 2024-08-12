@@ -4455,7 +4455,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ---
 ## CVE-2024-0741 (2024-01-23T14:15:00)
 > An out of bounds write in ANGLE could have allowed an attacker to corrupt memory leading to a potentially exploitable crash. This vulnerability affects Firefox < 122, Firefox ESR < 115.7, and Thunderbird < 115.7.
-- [Hyreos/Firefox-CVE-2024-0741](https://github.com/Hyreos/Firefox-CVE-2024-0741)	<img alt="forks" src="https://img.shields.io/github/forks/Hyreos/Firefox-CVE-2024-0741">	<img alt="stars" src="https://img.shields.io/github/stars/Hyreos/Firefox-CVE-2024-0741">
+- [HyHy100/Firefox-CVE-2024-0741](https://github.com/HyHy100/Firefox-CVE-2024-0741)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Firefox-CVE-2024-0741">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Firefox-CVE-2024-0741">
 
 ---
 ## CVE-2024-0713 (2024-01-19T14:15:00)
