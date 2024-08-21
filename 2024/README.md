@@ -2961,6 +2961,11 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 
 ---
+## CVE-2024-27088 (2024-02-26T17:15:00)
+> es5-ext contains ECMAScript 5 extensions. Passing functions with very long names or complex default argument names into `function#copy` or `function#toStringTokens` may cause the script to stall. The vulnerability is patched in v0.10.63.
+- [200101WhoAmI/CVE-2024-27088](https://github.com/200101WhoAmI/CVE-2024-27088)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-27088">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-27088">
+
+---
 ## CVE-2024-26817 (2024-04-13T12:15:00)
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3867,6 +3872,11 @@ Successful exploitation of this vulnerability could allow the attacker to expose
 - [pwndorei/CVE-2024-22532](https://github.com/pwndorei/CVE-2024-22532)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2024-22532">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2024-22532">
 
 ---
+## CVE-2024-22526 (2024-04-12T07:15:00)
+> Buffer Overflow vulnerability in bandisoft bandiview v7.0, allows local attackers to cause a denial of service (DoS) via exr image file.
+- [200101WhoAmI/CVE-2024-22526](https://github.com/200101WhoAmI/CVE-2024-22526)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-22526">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-22526">
+
+---
 ## CVE-2024-22515 (2024-02-06T21:15:00)
 > Unrestricted File Upload vulnerability in iSpyConnect.com Agent DVR 5.1.6.0 allows attackers to upload arbitrary files via the upload audio component.
 - [Orange-418/CVE-2024-22515-File-Upload-Vulnerability](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Orange-418/CVE-2024-22515-File-Upload-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Orange-418/CVE-2024-22515-File-Upload-Vulnerability">
@@ -4309,6 +4319,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-20767">
 - [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/cve-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/cve-2024-20767">
 - [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-20767-Adobe-ColdFusion">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-20767-Adobe-ColdFusion">
+
+---
+## CVE-2024-20746 (2024-03-18T15:15:00)
+> Premiere Pro versions 24.1, 23.6.2 and earlier are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [200101WhoAmI/CVE-2024-20746](https://github.com/200101WhoAmI/CVE-2024-20746)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-20746">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-20746">
 
 ---
 ## CVE-2024-20720 (2024-02-15T14:15:00)
