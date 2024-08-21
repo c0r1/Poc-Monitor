@@ -648,6 +648,11 @@ QuTScloud c5.1.5.2651 and later
 - [greandfather/CVE-2023-50358-POC-RCE](https://github.com/greandfather/CVE-2023-50358-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-50358-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-50358-POC-RCE">
 
 ---
+## CVE-2023-50245 (2023-12-11T23:15:00)
+> OpenEXR-viewer is a viewer for OpenEXR files with detailed metadata probing. Versions prior to 0.6.1 have a memory overflow vulnerability. This issue is fixed in version 0.6.1.
+- [200101WhoAmI/CVE-2023-50245](https://github.com/200101WhoAmI/CVE-2023-50245)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-50245">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-50245">
+
+---
 ## CVE-2023-5024 (2023-09-17T07:15:00)
 > A vulnerability was found in Planno 23.04.04. It has been classified as problematic. This affects an unknown part of the component Comment Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239865 was assigned to this vulnerability.
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
@@ -1619,6 +1624,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-45828 ()
 > 
 - [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45828">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45828">
+
+---
+## CVE-2023-45827 ()
+> 
+- [200101WhoAmI/CVE-2023-45827](https://github.com/200101WhoAmI/CVE-2023-45827)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-45827">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-45827">
 
 ---
 ## CVE-2023-45779 (2023-12-04T23:15:00)
