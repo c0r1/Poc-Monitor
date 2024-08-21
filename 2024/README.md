@@ -544,6 +544,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [Zombie-Kaiser/cve-2024-4367-PoC-fixed](https://github.com/Zombie-Kaiser/cve-2024-4367-PoC-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/cve-2024-4367-PoC-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/cve-2024-4367-PoC-fixed">
 - [Scivous/CVE-2024-4367-npm](https://github.com/Scivous/CVE-2024-4367-npm)	<img alt="forks" src="https://img.shields.io/github/forks/Scivous/CVE-2024-4367-npm">	<img alt="stars" src="https://img.shields.io/github/stars/Scivous/CVE-2024-4367-npm">
 - [zalomkiller/poc_CVE-2024-4367](https://github.com/zalomkiller/poc_CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/zalomkiller/poc_CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/zalomkiller/poc_CVE-2024-4367">
+- [snyk-labs/pdfjs-vuln-demo](https://github.com/snyk-labs/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/snyk-labs/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/snyk-labs/pdfjs-vuln-demo">
+- [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo)	<img alt="forks" src="https://img.shields.io/github/forks/UnHackerEnCapital/PDFernetRemotelo">	<img alt="stars" src="https://img.shields.io/github/stars/UnHackerEnCapital/PDFernetRemotelo">
 
 ---
 ## CVE-2024-4358 (2024-05-29T15:16:00)
