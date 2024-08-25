@@ -1866,6 +1866,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [mprunet/cve-2024-32002-malicious](https://github.com/mprunet/cve-2024-32002-malicious)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-malicious">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-malicious">
 - [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">
 - [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-32002">
+- [sanan2004/CVE-2024-32002](https://github.com/sanan2004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -4255,6 +4256,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Sk3pper/CVE-2024-21626](https://github.com/Sk3pper/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626">
 - [KubernetesBachelor/CVE-2024-21626](https://github.com/KubernetesBachelor/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/KubernetesBachelor/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/KubernetesBachelor/CVE-2024-21626">
 - [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dorser/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dorser/cve-2024-21626">
+- [FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-21626">
 
 ---
 ## CVE-2024-21514 (2024-06-22T05:15:00)
