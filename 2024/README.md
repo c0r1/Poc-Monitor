@@ -237,6 +237,11 @@
 - [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check">
 
 ---
+## CVE-2024-6386 (2024-08-21T21:15:00)
+> The WPML plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.6.12 via the Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.
+- [realbotnet/CVE-2024-6386](https://github.com/realbotnet/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-6386">
+
+---
 ## CVE-2024-6366 (2024-07-29T06:15:00)
 > The User Profile Builder  WordPress plugin before 3.11.8 does not have proper authorisation, allowing unauthenticated users to upload media files via the async upload functionality of WP.
 - [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
@@ -436,6 +441,7 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [Praison001/CVE-2024-4879-ServiceNow](https://github.com/Praison001/CVE-2024-4879-ServiceNow)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4879-ServiceNow">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4879-ServiceNow">
 - [NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning](https://github.com/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">
 - [jdusane/CVE-2024-4879](https://github.com/jdusane/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/jdusane/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/jdusane/CVE-2024-4879">
+- [fa-rrel/CVE-2024-4879](https://github.com/fa-rrel/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4879">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
