@@ -1072,6 +1072,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Th3Tr1ckst3r/CVE-2024-38063](https://github.com/Th3Tr1ckst3r/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Tr1ckst3r/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Tr1ckst3r/CVE-2024-38063">
 - [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/haroonawanofficial/CVE-2024-38063-Research-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/haroonawanofficial/CVE-2024-38063-Research-Tool">
 - [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2024-38063">
+- [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -3226,6 +3227,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 > Cacti provides an operational monitoring and fault management framework. Prior to version 1.2.27, an arbitrary file write vulnerability, exploitable through the "Package Import" feature, allows authenticated users having the "Import Templates" permission to execute arbitrary PHP code on the web server. The vulnerability is located within the `import_package()` function defined into the `/lib/import.php` script. The function blindly trusts the filename and file content provided within the XML data, and writes such files into the Cacti base path (or even outside, since path traversal sequences are not filtered). This can be exploited to write or overwrite arbitrary files on the web server, leading to execution of arbitrary PHP code or other security impacts. Version 1.2.27 contains a patch for this issue.
 - [5ma1l/CVE-2024-25641](https://github.com/5ma1l/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/5ma1l/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/5ma1l/CVE-2024-25641">
 - [thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26](https://github.com/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">
+- [Safarchand/CVE-2024-25641](https://github.com/Safarchand/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/Safarchand/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/Safarchand/CVE-2024-25641">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
