@@ -3167,6 +3167,7 @@ overflow.
 ## CVE-2024-26230 (2024-04-09T17:15:00)
 > Windows Telephony Server Elevation of Privilege Vulnerability
 - [kiwids0220/CVE-2024-26230](https://github.com/kiwids0220/CVE-2024-26230)	<img alt="forks" src="https://img.shields.io/github/forks/kiwids0220/CVE-2024-26230">	<img alt="stars" src="https://img.shields.io/github/stars/kiwids0220/CVE-2024-26230">
+- [Wa1nut4/CVE-2024-26230](https://github.com/Wa1nut4/CVE-2024-26230)	<img alt="forks" src="https://img.shields.io/github/forks/Wa1nut4/CVE-2024-26230">	<img alt="stars" src="https://img.shields.io/github/stars/Wa1nut4/CVE-2024-26230">
 
 ---
 ## CVE-2024-26229 (2024-04-09T17:15:00)
