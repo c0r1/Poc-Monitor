@@ -268,6 +268,7 @@
 ## CVE-2024-6386 (2024-08-21T21:15:00)
 > The WPML plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.6.12 via the Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.
 - [realbotnet/CVE-2024-6386](https://github.com/realbotnet/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-6386">
+- [realbotnet/CVE-2024-6386](https://github.com/realbotnet/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-6386">
 
 ---
 ## CVE-2024-6366 (2024-07-29T06:15:00)
@@ -583,6 +584,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 > A vulnerability, which was classified as problematic, was found in Campcodes Complete Web-Based School Management System 1.0. Affected is an unknown function of the file /view/timetable_insert_form.php. The manipulation of the argument grade leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-263118 is the identifier assigned to this vulnerability.
 - [W1hithat/CVE-2024-4514](https://github.com/W1hithat/CVE-2024-4514)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-4514">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-4514">
 - [AnastasiaStill/-CVE-2024-4514-](https://github.com/AnastasiaStill/-CVE-2024-4514-)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/-CVE-2024-4514-">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/-CVE-2024-4514-">
+
+---
+## CVE-2024-45058 (2024-08-28T21:15:00)
+> i-Educar is free, completely online school management software that allows school secretaries, teachers, coordinators and area managers. An attacker with only minimal viewing privileges in the settings section is able to change their user type to Administrator (or another type with super-permissions). Any user is capable of becoming an administrator, which can lead to account theft, changing administrative tasks, etc. The failure occurs in the file located in ieducar/intranet/educar_usuario_cad.php on line 446 , which does not perform checks on the user's current permission level to make changes.  This issue has not yet been patched. Users are advised to contact the developer and to coordinate an update schedule.
+- [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058)	<img alt="forks" src="https://img.shields.io/github/forks/0xbhsu/CVE-2024-45058">	<img alt="stars" src="https://img.shields.io/github/stars/0xbhsu/CVE-2024-45058">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
