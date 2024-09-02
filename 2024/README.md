@@ -394,6 +394,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5522-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5522-Poc">
 
 ---
+## CVE-2024-5420 (2024-06-04T08:15:00)
+> Missing input validation in the SEH Computertechnik utnserver Pro, SEH Computertechnik utnserver ProMAX, SEH Computertechnik INU-100 web-interface allows stored Cross-Site Scripting (XSS)..This issue affects utnserver Pro, utnserver ProMAX, INU-100 version 20.1.22 and below.
+- [fa-rrel/CVE-2024-5420-XSS-](https://github.com/fa-rrel/CVE-2024-5420-XSS-)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-5420-XSS-">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-5420-XSS-">
+
+---
 ## CVE-2024-5326 (2024-05-30T11:15:00)
 > The Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'postx_presets_callback' function in all versions up to, and including, 4.1.2. This makes it possible for authenticated attackers, with Contributor-level access and above, to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.
 - [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5326-Poc">
@@ -2064,7 +2069,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
 - [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
 - [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce-father-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce-father-poc">
-- [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
+- [EQSTLab/git_rce](https://github.com/EQSTLab/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/git_rce">
 - [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce-father-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce-father-poc">
 - [TSY244/CVE-2024-32002-git-rce](https://github.com/TSY244/CVE-2024-32002-git-rce)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce">
 - [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
