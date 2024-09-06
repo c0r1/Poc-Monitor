@@ -2289,8 +2289,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [walskt/CVE-CVE-2024-31032](https://github.com/walskt/CVE-CVE-2024-31032)	<img alt="forks" src="https://img.shields.io/github/forks/walskt/CVE-CVE-2024-31032">	<img alt="stars" src="https://img.shields.io/github/stars/walskt/CVE-CVE-2024-31032">
 
 ---
-## CVE-2024-31025 ()
-> 
+## CVE-2024-31025 (2024-04-04T05:15:00)
+> SQL Injection vulnerability in ECshop 4.x allows an attacker to obtain sensitive information via the file/article.php component.
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
 
 ---
