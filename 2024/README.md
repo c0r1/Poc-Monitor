@@ -762,8 +762,8 @@ Allocated by task 6166:
 - [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-4484">
 
 ---
-## CVE-2024-44815 ()
-> 
+## CVE-2024-44815 (2024-09-10T16:15:00)
+> An issue in Hathway Skyworth Router CM5100 v.4.1.1.24 allows a physically proximate attacker to obtain sensitive information via SPI flash Firmware W25Q64JV
 - [nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-](https://github.com/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-)	<img alt="forks" src="https://img.shields.io/github/forks/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-">	<img alt="stars" src="https://img.shields.io/github/stars/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-">
 
 ---
@@ -1612,8 +1612,8 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-34832">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-34832">
 
 ---
-## CVE-2024-34831 ()
-> 
+## CVE-2024-34831 (2024-09-10T18:15:00)
+> cross-site scripting (XSS) vulnerability in Gibbon Core v26.0.00 allows an attacker to execute arbitrary code via the imageLink parameter in the library_manage_catalog_editProcess.php component.
 - [enzored/CVE-2024-34831](https://github.com/enzored/CVE-2024-34831)	<img alt="forks" src="https://img.shields.io/github/forks/enzored/CVE-2024-34831">	<img alt="stars" src="https://img.shields.io/github/stars/enzored/CVE-2024-34831">
 
 ---
