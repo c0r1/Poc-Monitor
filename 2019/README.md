@@ -2385,6 +2385,14 @@
 - [Live-Hack-CVE/CVE-2019-14369](https://github.com/Live-Hack-CVE/CVE-2019-14369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14369">
 
 ---
+## CVE-2019-14322 (2019-07-28T13:15:00)
+> In Pallets Werkzeug before 0.15.5, SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames.
+- [sergiovks/CVE-2019-14322](https://github.com/sergiovks/CVE-2019-14322)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2019-14322">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2019-14322">
+- [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/http-vuln-cve2019-14322.nse">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/http-vuln-cve2019-14322.nse">
+- [faisalfs10x/CVE-2019-14322-scanner](https://github.com/faisalfs10x/CVE-2019-14322-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/CVE-2019-14322-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/CVE-2019-14322-scanner">
+- [EmreOvunc/Odoo-12.0-LFI-Vulnerabilities](https://github.com/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">
+
+---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
 > In Sudo before 1.8.28, an attacker with access to a Runas ALL sudoer account can bypass certain policy blacklists and session PAM modules, and can cause incorrect logging, by invoking sudo with a crafted user ID. For example, this allows bypass of !root configuration, and USER= logging, for a "sudo -u \#$((0xffffffff))" command.
 - [MariliaMeira/CVE-2019-14287](https://github.com/MariliaMeira/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/MariliaMeira/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/MariliaMeira/CVE-2019-14287">
