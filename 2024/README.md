@@ -1015,8 +1015,8 @@ Allocated by task 6166:
 - [kkll5875/CVE-2024-42913](https://github.com/kkll5875/CVE-2024-42913)	<img alt="forks" src="https://img.shields.io/github/forks/kkll5875/CVE-2024-42913">	<img alt="stars" src="https://img.shields.io/github/stars/kkll5875/CVE-2024-42913">
 
 ---
-## CVE-2024-42861 ()
-> 
+## CVE-2024-42861 (2024-09-23T21:15:00)
+> An issue in IEEE 802.1AS linuxptp v.4.2 and before allowing a remote attacker to cause a denial of service via a crafted Pdelay_Req message to the time synchronization function
 - [qiupy123/CVE-2024-42861](https://github.com/qiupy123/CVE-2024-42861)	<img alt="forks" src="https://img.shields.io/github/forks/qiupy123/CVE-2024-42861">	<img alt="stars" src="https://img.shields.io/github/stars/qiupy123/CVE-2024-42861">
 
 ---
