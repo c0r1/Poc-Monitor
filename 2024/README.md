@@ -64,6 +64,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [realbotnet/CVE-2024-8277](https://github.com/realbotnet/CVE-2024-8277)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8277">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8277">
 
 ---
+## CVE-2024-8275 (2024-09-25T05:15:00)
+> The The Events Calendar plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the 'tribe_has_next_event' function in all versions up to, and including, 6.6.4 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. Only sites that have manually added tribe_has_next_event() will be vulnerable to this SQL injection.
+- [nothe1senberg/CVE-2024-8275](https://github.com/nothe1senberg/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8275">
+
+---
 ## CVE-2024-8190 (2024-09-10T21:15:00)
 > An OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker to obtain remote code execution. The attacker must have admin level privileges to exploit this vulnerability.
 - [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-8190">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-8190">
@@ -5350,6 +5355,11 @@ authentication.   
 
 
 - [horizon3ai/CVE-2024-1403](https://github.com/horizon3ai/CVE-2024-1403)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-1403">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-1403">
+
+---
+## CVE-2024-1380 (2024-03-13T16:15:00)
+> The Relevanssi – A Better Search plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the relevanssi_export_log_check() function in all versions up to, and including, 4.22.0. This makes it possible for unauthenticated attackers to export the query log data. The vendor has indicated that they may look into adding a capability check for proper authorization control, however, this vulnerability is theoretically patched as is.
+- [RandomRobbieBF/CVE-2024-1380](https://github.com/RandomRobbieBF/CVE-2024-1380)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-1380">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-1380">
 
 ---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
