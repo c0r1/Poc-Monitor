@@ -72,6 +72,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8353 (2024-09-28T02:15:00)
 > The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.16.1 via deserialization of untrusted input via several parameters like 'give_title' and 'card_address'. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to delete arbitrary files and achieve remote code execution. This is essentially the same vulnerability as CVE-2024-5932, however, it was discovered the the presence of stripslashes_deep on user_info allows the is_serialized check to be bypassed. This issue was mostly patched in 3.16.1, but further hardening was added in 3.16.2.
 - [maybeheisenberg/CVE-2024-8353](https://github.com/maybeheisenberg/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-8353">
+- [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
 
 ---
 ## CVE-2024-8349 (2024-09-25T03:15:00)
@@ -654,6 +655,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [mr-r3b00t/CVE-2024-47176](https://github.com/mr-r3b00t/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2024-47176">
 - [aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/aytackalinci/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/aytackalinci/CVE-2024-47176">
 - [nma-io/CVE-2024-47176](https://github.com/nma-io/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/nma-io/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/nma-io/CVE-2024-47176">
+- [lkarlslund/jugular](https://github.com/lkarlslund/jugular)	<img alt="forks" src="https://img.shields.io/github/forks/lkarlslund/jugular">	<img alt="stars" src="https://img.shields.io/github/stars/lkarlslund/jugular">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
