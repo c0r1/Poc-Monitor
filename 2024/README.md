@@ -16,8 +16,8 @@
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
 
 ---
-## CVE-2024-9106 ()
-> 
+## CVE-2024-9106 (2024-10-01T08:15:00)
+> The Wechat Social login plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 1.3.0. This is due to insufficient verification on the user being supplied during the social login. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the user id. This is only exploitable if the app secret is not set, so it has a default empty value.
 - [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9106">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9106">
 
 ---
@@ -531,6 +531,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > The HTML5 Video Player  WordPress plugin before 2.5.27 does not sanitize and escape a parameter from a REST route before using it in a SQL statement, allowing unauthenticated users to perform SQL injection attacks
 - [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5522-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5522-Poc">
 - [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kryptonproject/CVE-2024-5522-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kryptonproject/CVE-2024-5522-PoC">
+- [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-5522">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-5522">
 
 ---
 ## CVE-2024-5458 (2024-06-09T19:15:00)
