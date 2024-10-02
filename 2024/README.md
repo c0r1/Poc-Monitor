@@ -671,6 +671,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [nma-io/CVE-2024-47176](https://github.com/nma-io/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/nma-io/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/nma-io/CVE-2024-47176">
 - [lkarlslund/jugular](https://github.com/lkarlslund/jugular)	<img alt="forks" src="https://img.shields.io/github/forks/lkarlslund/jugular">	<img alt="stars" src="https://img.shields.io/github/stars/lkarlslund/jugular">
 - [pearlmansara/CVE-2024-47176-CUPS](https://github.com/pearlmansara/CVE-2024-47176-CUPS)	<img alt="forks" src="https://img.shields.io/github/forks/pearlmansara/CVE-2024-47176-CUPS">	<img alt="stars" src="https://img.shields.io/github/stars/pearlmansara/CVE-2024-47176-CUPS">
+- [WillGAndre/explo](https://github.com/WillGAndre/explo)	<img alt="forks" src="https://img.shields.io/github/forks/WillGAndre/explo">	<img alt="stars" src="https://img.shields.io/github/stars/WillGAndre/explo">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
@@ -1246,8 +1247,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting](https://github.com/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting)	<img alt="forks" src="https://img.shields.io/github/forks/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting">	<img alt="stars" src="https://img.shields.io/github/stars/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting">
 
 ---
-## CVE-2024-41290 ()
-> 
+## CVE-2024-41290 (2024-10-02T17:15:00)
+> FlatPress CMS v1.3.1 1.3 was discovered to use insecure methods to store authentication data via the cookie's component.
 - [paragbagul111/CVE-2024-41290](https://github.com/paragbagul111/CVE-2024-41290)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-41290">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-41290">
 
 ---
@@ -2249,13 +2250,13 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
 
 ---
-## CVE-2024-33210 ()
-> 
+## CVE-2024-33210 (2024-10-02T16:15:00)
+> A cross-site scripting (XSS) vulnerability has been identified in Flatpress 1.3. This vulnerability allows an attacker to inject malicious scripts into web pages viewed by other users.
 - [paragbagul111/CVE-2024-33210](https://github.com/paragbagul111/CVE-2024-33210)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-33210">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-33210">
 
 ---
-## CVE-2024-33209 ()
-> 
+## CVE-2024-33209 (2024-10-02T16:15:00)
+> FlatPress v1.3 is vulnerable to Cross Site Scripting (XSS). An attacker can inject malicious JavaScript code into the "Add New Entry" section, which allows them to execute arbitrary code in the context of a victim's web browser.
 - [paragbagul111/CVE-2024-33209](https://github.com/paragbagul111/CVE-2024-33209)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-33209">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-33209">
 
 ---
