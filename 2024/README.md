@@ -22,12 +22,23 @@
 ## CVE-2024-9464 (2024-10-09T17:15:00)
 > An OS command injection vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
 - [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9464">
+- [nothe1senberg/CVE-2024-9464](https://github.com/nothe1senberg/CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9464">
+
+---
+## CVE-2024-9463 (2024-10-09T17:15:00)
+> An OS command injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
+- [nothe1senberg/CVE-2024-9463](https://github.com/nothe1senberg/CVE-2024-9463)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9463">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9463">
 
 ---
 ## CVE-2024-9441 (2024-10-02T19:15:00)
 > The Linear eMerge e3-Series through version 1.00-07 is vulnerable to an OS command injection vulnerability. A remote and unauthenticated attacker can execute arbitrary OS commands via the login_id parameter when invoking the forgot_password functionality over HTTP.
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-9441">
 - [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekrautela/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekrautela/CVE-2024-9441">
+
+---
+## CVE-2024-9380 (2024-10-08T17:15:00)
+> An OS command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution.
+- [nothe1senberg/CVE-2024-9380](https://github.com/nothe1senberg/CVE-2024-9380)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9380">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9380">
 
 ---
 ## CVE-2024-9379 (2024-10-08T17:15:00)
