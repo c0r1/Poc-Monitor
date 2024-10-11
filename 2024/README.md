@@ -225,6 +225,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-7593_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-7593_PoC_Exploit">
 
 ---
+## CVE-2024-7514 ()
+> 
+- [RandomRobbieBF/CVE-2024-7514](https://github.com/RandomRobbieBF/CVE-2024-7514)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7514">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7514">
+
+---
 ## CVE-2024-7479 (2024-09-25T11:15:00)
 > Improper verification of cryptographic signature during installation of a VPN driver via the TeamViewer_service.exe component of TeamViewer Remote Clients prior version 15.58.4 for Windows allows an attacker with local unprivileged access on a Windows system to elevate their privileges and install drivers.
 - [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">
@@ -248,6 +253,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7188 (2024-07-29T07:15:00)
 > A vulnerability was found in Bylancer Quicklancer 2.4. It has been rated as critical. This issue affects some unknown processing of the file /listing of the component GET Parameter Handler. The manipulation of the argument range2 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-272609 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7188-PoC">
+
+---
+## CVE-2024-7135 (2024-07-31T11:15:00)
+> The Tainacan plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the 'get_file' function in all versions up to, and including, 0.21.7. The function is also vulnerable to directory traversal. This makes it possible for authenticated attackers, with Subscriber-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
+- [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7135">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7135">
 
 ---
 ## CVE-2024-7120 (2024-07-26T05:15:00)
