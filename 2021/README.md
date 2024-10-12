@@ -2661,6 +2661,7 @@
 ## CVE-2021-40539 (2021-09-07T17:15:00)
 > Zoho ManageEngine ADSelfService Plus version 6113 and prior is vulnerable to REST API authentication bypass with resultant remote code execution.
 - [lpyzds/CVE-2021-40539](https://github.com/lpyzds/CVE-2021-40539)	<img alt="forks" src="https://img.shields.io/github/forks/lpyzds/CVE-2021-40539">	<img alt="stars" src="https://img.shields.io/github/stars/lpyzds/CVE-2021-40539">
+- [lpyydxs/CVE-2021-40539](https://github.com/lpyydxs/CVE-2021-40539)	<img alt="forks" src="https://img.shields.io/github/forks/lpyydxs/CVE-2021-40539">	<img alt="stars" src="https://img.shields.io/github/stars/lpyydxs/CVE-2021-40539">
 
 ---
 ## CVE-2021-40529 (2021-09-06T19:15:00)
