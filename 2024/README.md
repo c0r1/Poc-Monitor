@@ -2059,6 +2059,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-3596-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-3596-Detector">
 
 ---
+## CVE-2024-35584 ()
+> 
+- [whwhwh96/CVE-2024-35584](https://github.com/whwhwh96/CVE-2024-35584)	<img alt="forks" src="https://img.shields.io/github/forks/whwhwh96/CVE-2024-35584">	<img alt="stars" src="https://img.shields.io/github/stars/whwhwh96/CVE-2024-35584">
+
+---
 ## CVE-2024-3552 (2024-06-13T06:15:00)
 > The Web Directory Free WordPress plugin before 1.7.0 does not sanitise and escape a parameter before using it in a SQL statement via an AJAX action available to unauthenticated users, leading to a SQL injection with different techniques like UNION, Time-Based and Error-Based.
 - [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3552-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3552-Poc">
