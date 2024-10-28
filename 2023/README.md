@@ -4311,6 +4311,7 @@ We recommend upgrading past commit 1240eb93f0616b21c675416516ff3d74798fdc97.
 ## CVE-2023-33669 (2023-06-02T20:15:00)
 > Tenda AC8V4.0-V16.03.34.06 was discovered to contain a stack overflow via the timeZone parameter in the sub_44db3c function.
 - [Mohammaddvd/CVE-2023-33669](https://github.com/Mohammaddvd/CVE-2023-33669)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammaddvd/CVE-2023-33669">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammaddvd/CVE-2023-33669">
+- [retr0reg/tenda-ac8v4-rop](https://github.com/retr0reg/tenda-ac8v4-rop)	<img alt="forks" src="https://img.shields.io/github/forks/retr0reg/tenda-ac8v4-rop">	<img alt="stars" src="https://img.shields.io/github/stars/retr0reg/tenda-ac8v4-rop">
 
 ---
 ## CVE-2023-33668 (2023-07-12T13:15:00)
