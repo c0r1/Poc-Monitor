@@ -884,10 +884,20 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [Renzusclarke/CVE-2024-48392-PoC](https://github.com/Renzusclarke/CVE-2024-48392-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Renzusclarke/CVE-2024-48392-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Renzusclarke/CVE-2024-48392-PoC">
 
 ---
+## CVE-2024-48360 ()
+> 
+- [OpenXP-Research/CVE-2024-48360](https://github.com/OpenXP-Research/CVE-2024-48360)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48360">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48360">
+
+---
 ## CVE-2024-4836 (2024-07-02T09:15:00)
 > Web services managed by Edito CMS (Content Management System) in versions from 3.5 through 3.25 leak sensitive data as they allow downloading configuration files by an unauthenticated user.
 The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th of January 2014. Higher versions were never affected.
 - [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
+
+---
+## CVE-2024-48359 ()
+> 
+- [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48359">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48359">
 
 ---
 ## CVE-2024-48195 (2024-10-28T20:15:00)
@@ -1921,6 +1931,17 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [jocker2410/CVE-2024-38856](https://github.com/jocker2410/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-38856">
 - [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/CVE-2024-38856">
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
+
+---
+## CVE-2024-38821 (2024-10-28T07:15:00)
+> Spring WebFlux applications that have Spring Security authorization rules on static resources can be bypassed under certain circumstances.
+
+For this to impact an application, all of the following must be true:
+
+  *  It must be a WebFlux application
+  *  It must be using Spring's static resources support
+  *  It must have a non-permitAll authorization rule applied to the static resources support
+- [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/cve-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/cve-2024-38821">
 
 ---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
