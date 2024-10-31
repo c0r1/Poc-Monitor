@@ -1468,6 +1468,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [HazeLook/CVE-2024-43532](https://github.com/HazeLook/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-43532">
 - [Jaden1419/CVE-2024-43532](https://github.com/Jaden1419/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-43532">
 - [hatvix1/CVE-2024-43532](https://github.com/hatvix1/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-43532">
+- [ShawtyTwo/CVE-2024-43532](https://github.com/ShawtyTwo/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/ShawtyTwo/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/ShawtyTwo/CVE-2024-43532">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
