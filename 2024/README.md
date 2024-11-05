@@ -260,6 +260,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7988 (2024-08-26T15:15:00)
 > A remote code execution vulnerability exists in the Rockwell Automation ThinManager® ThinServer™ that allows a threat actor to execute arbitrary code with System privileges. This vulnerability exists due to the lack of proper data input validation, which allows files to be overwritten.
 - [hatvix1/CVE-2024-7988-Private-POC](https://github.com/hatvix1/CVE-2024-7988-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-7988-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-7988-Private-POC">
+- [HatvixSupport/CVE-2024-7988-Private-POC](https://github.com/HatvixSupport/CVE-2024-7988-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HatvixSupport/CVE-2024-7988-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HatvixSupport/CVE-2024-7988-Private-POC">
 
 ---
 ## CVE-2024-7965 (2024-08-21T21:15:00)
@@ -1659,6 +1660,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 > 
 - [hatvix1/CVE-2024-43093](https://github.com/hatvix1/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-43093">
 - [exploitsecure/CVE-2024-43093](https://github.com/exploitsecure/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43093">
+- [HatvixSupport/CVE-2024-43093](https://github.com/HatvixSupport/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/HatvixSupport/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/HatvixSupport/CVE-2024-43093">
 
 ---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
