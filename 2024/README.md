@@ -28,6 +28,11 @@
 - [famixcm/CVE-2024-9954](https://github.com/famixcm/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-9954">
 
 ---
+## CVE-2024-9932 (2024-10-26T03:15:00)
+> The Wux Blog Editor plugin for WordPress is vulnerable to arbitrary file uploads due to insufficient file type validation in the 'wuxbt_insertImageNew' function in versions up to, and including, 3.0.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
+- [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9932">
+
+---
 ## CVE-2024-9821 (2024-10-12T03:15:00)
 > The Bot for Telegram on WooCommerce plugin for WordPress is vulnerable to sensitive information disclosure due to missing authorization checks on the 'stm_wpcfto_get_settings' AJAX action in all versions up to, and including, 1.2.4. This makes it possible for authenticated attackers, with subscriber-level access and above, to view the Telegram Bot Token, a secret token used to control the bot, which can then be used to log in as any existing user on the site, such as an administrator, if they know the username, due to the Login with Telegram feature.
 - [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9821">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9821">
@@ -1648,6 +1653,12 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 > Unrestricted Upload of File with Dangerous Type vulnerability in BerqWP allows Code Injection.This issue affects BerqWP: from n/a through 1.7.6.
 - [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43160">
 - [maybeheisenberg/PoC-for-CVE-2024-43160](https://github.com/maybeheisenberg/PoC-for-CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-43160">
+
+---
+## CVE-2024-43093 ()
+> 
+- [hatvix1/CVE-2024-43093](https://github.com/hatvix1/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-43093">
+- [exploitsecure/CVE-2024-43093](https://github.com/exploitsecure/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43093">
 
 ---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
