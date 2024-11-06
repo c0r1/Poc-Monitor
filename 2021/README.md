@@ -941,6 +941,7 @@
 - [Shareoks/HTA-Exploit](https://github.com/Shareoks/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/HTA-Exploit">
 - [Shareoks/Discord-Image-Logger-Stealer](https://github.com/Shareoks/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/Discord-Image-Logger-Stealer">
 - [safeer-accuknox/log4j-shell-poc](https://github.com/safeer-accuknox/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safeer-accuknox/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safeer-accuknox/log4j-shell-poc">
+- [Carlos-Mesquita/TPASLog4ShellPoC](https://github.com/Carlos-Mesquita/TPASLog4ShellPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Carlos-Mesquita/TPASLog4ShellPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Carlos-Mesquita/TPASLog4ShellPoC">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
