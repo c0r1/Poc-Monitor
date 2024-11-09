@@ -6529,7 +6529,7 @@ authentication.   
 ---
 ## CVE-2024-10914 ()
 > 
-- [imnotcha0s/cve-2024-10914](https://github.com/imnotcha0s/cve-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/cve-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/cve-2024-10914">
+- [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/CVE-2024-10914">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
