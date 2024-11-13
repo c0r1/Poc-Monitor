@@ -270,3 +270,8 @@
 ## CVE-2013-0791 (2013-04-03T11:56:00)
 > The CERT_DecodeCertPackage function in Mozilla Network Security Services (NSS), as used in Mozilla Firefox before 20.0, Firefox ESR 17.x before 17.0.5, Thunderbird before 17.0.5, Thunderbird ESR 17.x before 17.0.5, SeaMonkey before 2.17, and other products, allows remote attackers to cause a denial of service (out-of-bounds read and memory corruption) via a crafted certificate.
 - [Live-Hack-CVE/CVE-2013-0791](https://github.com/Live-Hack-CVE/CVE-2013-0791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0791">
+
+---
+## CVE-2013-0156 (2013-01-13T22:55:00)
+> active_support/core_ext/hash/conversions.rb in Ruby on Rails before 2.3.15, 3.0.x before 3.0.19, 3.1.x before 3.1.10, and 3.2.x before 3.2.11 does not properly restrict casts of string values, which allows remote attackers to conduct object-injection attacks and execute arbitrary code, or cause a denial of service (memory and CPU consumption) involving nested XML entity references, by leveraging Action Pack support for (1) YAML type conversion or (2) Symbol type conversion.
+- [oxBEN10/CVE-2013-0156](https://github.com/oxBEN10/CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/oxBEN10/CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/oxBEN10/CVE-2013-0156">
