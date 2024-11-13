@@ -881,6 +881,21 @@ The specific flaw exists within the product installer. The issue results from th
 - [Akhlak2511/CVE-2024-50968](https://github.com/Akhlak2511/CVE-2024-50968)	<img alt="forks" src="https://img.shields.io/github/forks/Akhlak2511/CVE-2024-50968">	<img alt="stars" src="https://img.shields.io/github/stars/Akhlak2511/CVE-2024-50968">
 
 ---
+## CVE-2024-50964 ()
+> 
+- [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50964">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50964">
+
+---
+## CVE-2024-50962 ()
+> 
+- [fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50962">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50962">
+
+---
+## CVE-2024-50961 ()
+> 
+- [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50961">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50961">
+
+---
 ## CVE-2024-5084 (2024-05-23T15:15:00)
 > The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-5084">
@@ -6115,6 +6130,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dorser/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dorser/cve-2024-21626">
 - [FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-21626">
 - [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626-old-docker-versions">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626-old-docker-versions">
+
+---
+## CVE-2024-21534 (2024-10-11T13:15:00)
+> Versions of the package jsonpath-plus before 10.0.7 are vulnerable to Remote Code Execution (RCE) due to improper input sanitization. An attacker can execute aribitrary code on the system by exploiting the unsafe default usage of vm in Node.**Note:**There was an attempt to fix it in version [10.0.0](https://github.com/JSONPath-Plus/JSONPath/commit/6b2f1b4c234292c75912b790bf7e2d7339d4ccd3) but it could still be exploited using [different payloads](https://github.com/JSONPath-Plus/JSONPath/issues/226).
+- [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/pabloopez/CVE-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/pabloopez/CVE-2024-21534">
 
 ---
 ## CVE-2024-21514 (2024-06-22T05:15:00)
