@@ -4429,6 +4429,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [GordonPol1/CVE-2024-28987](https://github.com/GordonPol1/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/GordonPol1/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/GordonPol1/CVE-2024-28987">
 - [Jaden1419/CVE-2024-28987](https://github.com/Jaden1419/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-28987">
 - [hatvix1/CVE-2024-28987](https://github.com/hatvix1/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-28987">
+- [expl0itsecurity/CVE-2024-28987](https://github.com/expl0itsecurity/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-28987">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
@@ -5729,6 +5730,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [zgimszhd61/CVE-2024-23113](https://github.com/zgimszhd61/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23113">
 - [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2024-23113">
 - [radoslavatanasov1/CVE-2024-23113](https://github.com/radoslavatanasov1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/radoslavatanasov1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/radoslavatanasov1/CVE-2024-23113">
+- [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-23113">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
