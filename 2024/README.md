@@ -51,6 +51,7 @@
 ## CVE-2024-9796 (2024-10-10T08:15:00)
 > The WP-Advanced-Search WordPress plugin before 3.3.9.2 does not sanitize and escape the t parameter before using it in a SQL statement, allowing unauthenticated users to perform SQL injection attacks
 - [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9796">
+- [issamiso/CVE-2024-9796](https://github.com/issamiso/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/issamiso/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/issamiso/CVE-2024-9796">
 
 ---
 ## CVE-2024-9680 (2024-10-09T13:15:00)
@@ -4475,6 +4476,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-2876">
 - [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/0xAgun/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/0xAgun/CVE-2024-2876">
 - [skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/skyrowalker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/skyrowalker/CVE-2024-2876">
+- [issamiso/CVE-2024-2876](https://github.com/issamiso/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/issamiso/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/issamiso/CVE-2024-2876">
 
 ---
 ## CVE-2024-28757 (2024-03-10T05:15:00)
