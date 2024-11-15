@@ -1289,6 +1289,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [Jomq12/CVE-2024-47575](https://github.com/Jomq12/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/Jomq12/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/Jomq12/CVE-2024-47575">
 - [VIRKiss/CVE-2024-47575](https://github.com/VIRKiss/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/VIRKiss/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/VIRKiss/CVE-2024-47575">
 - [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">
+- [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
@@ -1866,6 +1867,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [Jaden1419/CVE-2024-43532](https://github.com/Jaden1419/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-43532">
 - [hatvix1/CVE-2024-43532](https://github.com/hatvix1/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-43532">
 - [ShawtyTwo/CVE-2024-43532](https://github.com/ShawtyTwo/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/ShawtyTwo/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/ShawtyTwo/CVE-2024-43532">
+- [expl0itsecurity/CVE-2024-43532](https://github.com/expl0itsecurity/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-43532">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
