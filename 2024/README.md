@@ -199,6 +199,7 @@
 ## CVE-2024-8856 ()
 > 
 - [FoKiiin/CVE-2024-8856](https://github.com/FoKiiin/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-8856">
+- [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-8856">
 
 ---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
