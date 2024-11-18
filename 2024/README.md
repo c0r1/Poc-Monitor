@@ -1893,6 +1893,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
 
 ---
+## CVE-2024-43639 ()
+> 
+- [exploitsecure/CVE-2024-43639](https://github.com/exploitsecure/CVE-2024-43639)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43639">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43639">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
@@ -6840,6 +6845,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10629 ()
 > 
 - [RandomRobbieBF/CVE-2024-10629](https://github.com/RandomRobbieBF/CVE-2024-10629)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10629">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10629">
+
+---
+## CVE-2024-10592 ()
+> 
+- [windz3r0day/CVE-2024-10592](https://github.com/windz3r0day/CVE-2024-10592)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10592">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10592">
 
 ---
 ## CVE-2024-10586 ()
