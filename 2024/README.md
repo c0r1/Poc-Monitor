@@ -84,6 +84,7 @@
 ## CVE-2024-9474 ()
 > 
 - [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-9474">
+- [k4nfr3/CVE-2024-9474](https://github.com/k4nfr3/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/k4nfr3/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/k4nfr3/CVE-2024-9474">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
@@ -6040,6 +6041,15 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 ## CVE-2024-22263 (2024-06-19T15:15:00)
 > Spring Cloud Data Flow is a microservices-based Streaming and Batch data processing in Cloud Foundry and Kubernetes. The Skipper server has the ability to receive upload package requests. However, due to improper sanitization for upload path, a malicious user who has access to skipper server api can use a crafted upload request to write arbitrary file to any location on file system, may even compromises the server.
 - [securelayer7/CVE-2024-22263_Scanner](https://github.com/securelayer7/CVE-2024-22263_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2024-22263_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2024-22263_Scanner">
+
+---
+## CVE-2024-22262 (2024-04-16T06:15:00)
+> Applications that use UriComponentsBuilder to parse an externally provided URL (e.g. through a query parameter) AND perform validation checks on the host of the parsed URL may be vulnerable to a  open redirect https://cwe.mitre.org/data/definitions/601.html  attack or to a SSRF attack if the URL is used after passing validation checks.
+
+This is the same as  CVE-2024-22259 https://spring.io/security/cve-2024-22259  and  CVE-2024-22243 https://spring.io/security/cve-2024-22243 , but with different input.
+
+
+- [Performant-Labs/CVE-2024-22262](https://github.com/Performant-Labs/CVE-2024-22262)	<img alt="forks" src="https://img.shields.io/github/forks/Performant-Labs/CVE-2024-22262">	<img alt="stars" src="https://img.shields.io/github/stars/Performant-Labs/CVE-2024-22262">
 
 ---
 ## CVE-2024-22252 (2024-03-05T18:15:00)
