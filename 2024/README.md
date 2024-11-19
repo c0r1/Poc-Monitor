@@ -6798,6 +6798,7 @@ authentication.   
 > 
 - [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
 - [FoKiiin/CVE-2024-10924](https://github.com/FoKiiin/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10924">
+- [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/MattJButler/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/MattJButler/CVE-2024-10924">
 
 ---
 ## CVE-2024-10914 ()
@@ -6865,6 +6866,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10586 ()
 > 
 - [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
+
+---
+## CVE-2024-10508 ()
+> 
+- [ubaii/CVE-2024-10508](https://github.com/ubaii/CVE-2024-10508)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10508">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10508">
 
 ---
 ## CVE-2024-10470 ()
