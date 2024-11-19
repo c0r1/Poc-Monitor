@@ -6784,6 +6784,13 @@ authentication.   
 - [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2024-1112">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2024-1112">
 
 ---
+## CVE-2024-111 ()
+> 
+- [adminlove520/CVE-2024-111](https://github.com/adminlove520/CVE-2024-111)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/CVE-2024-111">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/CVE-2024-111">
+- [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-11120">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-11120">
+- [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2024-1112">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2024-1112">
+
+---
 ## CVE-2024-11016 ()
 > 
 - [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-11016">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-11016">
@@ -6799,6 +6806,7 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
 - [FoKiiin/CVE-2024-10924](https://github.com/FoKiiin/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10924">
 - [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/MattJButler/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/MattJButler/CVE-2024-10924">
+- [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">
 
 ---
 ## CVE-2024-10914 ()
