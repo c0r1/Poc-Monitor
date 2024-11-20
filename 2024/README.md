@@ -6857,6 +6857,7 @@ authentication.   
 - [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">
 - [m3ssap0/wordpress-really-simple-security-authn-bypass-exploit](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit">
 - [julesbsz/CVE-2024-10924](https://github.com/julesbsz/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/julesbsz/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/julesbsz/CVE-2024-10924">
+- [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-10924-Wordpress-Docker">
 
 ---
 ## CVE-2024-10914 ()
