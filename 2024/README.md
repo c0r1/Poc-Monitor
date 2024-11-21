@@ -1010,6 +1010,8 @@ The specific flaw exists within the product installer. The issue results from th
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-5084">
 - [z1gazaga/CVE-2024-5084](https://github.com/z1gazaga/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/z1gazaga/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/z1gazaga/CVE-2024-5084">
+- [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50849">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50849">
+- [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50848">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50848">
 
 ---
 ## CVE-2024-50804 ()
@@ -6987,6 +6989,11 @@ resulting in database manipulation.
 ## CVE-2024-10245 ()
 > 
 - [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10245">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10245">
+
+---
+## CVE-2024-10220 ()
+> 
+- [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
