@@ -2266,7 +2266,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > A deserialization of untrusted data vulnerability with a malicious payload can allow an unauthenticated remote code execution (RCE).
 - [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-40711">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-40711">
 - [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/realstatus/CVE-2024-40711-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/realstatus/CVE-2024-40711-Exp">
-- [XiaomingX/CVE-2024-40711-poc](https://github.com/XiaomingX/CVE-2024-40711-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-40711-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-40711-poc">
+- [XiaomingX/cve-2024-40711-poc](https://github.com/XiaomingX/cve-2024-40711-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-40711-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-40711-poc">
 
 ---
 ## CVE-2024-40676 ()
@@ -3320,6 +3320,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-33911">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-33911">
 
 ---
+## CVE-2024-33901 (2024-05-20T21:15:00)
+> Issue in KeePassXC 2.7.7 allows an attacker (who has the privileges of the victim) to recover some passwords stored in the .kdbx database via a memory dump. NOTE: the vendor disputes this because memory-management constraints make this unavoidable in the current design and other realistic designs.
+- [gmikisilva/CVE-2024-33901-ProofOfConcept](https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept)	<img alt="forks" src="https://img.shields.io/github/forks/gmikisilva/CVE-2024-33901-ProofOfConcept">	<img alt="stars" src="https://img.shields.io/github/stars/gmikisilva/CVE-2024-33901-ProofOfConcept">
+
+---
 ## CVE-2024-33896 (2024-08-02T18:16:00)
 > Cosy+ devices running a firmware 21.x below 21.2s10 or a firmware 22.x below 22.1s3 are vulnerable to code injection due to improper parameter blacklisting. This is fixed in version 21.2s10 and 22.1s3.
 - [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-33896-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-33896-PoC">
@@ -3675,7 +3680,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Julian-gmz/Ensimag_CVE-2024-32002](https://github.com/Julian-gmz/Ensimag_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/Ensimag_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/Ensimag_CVE-2024-32002">
 - [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/hook_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/hook_CVE-2024-32002">
 - [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/grecosamuel/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/grecosamuel/CVE-2024-32002">
-- [XiaomingX/CVE-2024-32002-poc](https://github.com/XiaomingX/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-32002-poc">
+- [XiaomingX/cve-2024-32002-poc](https://github.com/XiaomingX/cve-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-32002-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -5840,7 +5845,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-23692-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-23692-EXP">
 - [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692">
 - [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-23692">
-- [XiaomingX/CVE-2024-23692-poc](https://github.com/XiaomingX/CVE-2024-23692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-23692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-23692-poc">
+- [XiaomingX/cve-2024-23692-poc](https://github.com/XiaomingX/cve-2024-23692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23692-poc">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
