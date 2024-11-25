@@ -862,6 +862,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52433">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52433">
 
 ---
+## CVE-2024-52430 ()
+> 
+- [RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52430">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52430">
+
+---
 ## CVE-2024-52429 ()
 > 
 - [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52429">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52429">
@@ -870,6 +875,11 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-52382 ()
 > 
 - [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52382">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52382">
+
+---
+## CVE-2024-52380 ()
+> 
+- [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52380">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52380">
 
 ---
 ## CVE-2024-52318 ()
