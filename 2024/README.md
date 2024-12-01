@@ -4028,6 +4028,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up)	<img alt="forks" src="https://img.shields.io/github/forks/robertdfrench/ifuncd-up">	<img alt="stars" src="https://img.shields.io/github/stars/robertdfrench/ifuncd-up">
 - [yq93dskimzm2/CVE-2024-3094](https://github.com/yq93dskimzm2/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/yq93dskimzm2/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/yq93dskimzm2/CVE-2024-3094">
 - [XiaomingX/cve-2024-3094-xz-backdoor-exploit](https://github.com/XiaomingX/cve-2024-3094-xz-backdoor-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-3094-xz-backdoor-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-3094-xz-backdoor-exploit">
+- [AndreaCicca/Sicurezza-Informatica-Presentazione](https://github.com/AndreaCicca/Sicurezza-Informatica-Presentazione)	<img alt="forks" src="https://img.shields.io/github/forks/AndreaCicca/Sicurezza-Informatica-Presentazione">	<img alt="stars" src="https://img.shields.io/github/stars/AndreaCicca/Sicurezza-Informatica-Presentazione">
 
 ---
 ## CVE-2024-3090 (2024-03-30T13:15:00)
