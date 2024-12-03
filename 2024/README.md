@@ -110,6 +110,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465">
 - [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465">
 - [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465">
+- [XiaomingX/cve-2024-9465-poc](https://github.com/XiaomingX/cve-2024-9465-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-9465-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-9465-poc">
 
 ---
 ## CVE-2024-9464 (2024-10-09T17:15:00)
@@ -2285,6 +2286,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
 - [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/cve-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/cve-2024-42327">
 - [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
+- [compr00t/CVE-2024-42327](https://github.com/compr00t/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/compr00t/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/compr00t/CVE-2024-42327">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
