@@ -640,6 +640,7 @@ We recommend users to:
 > Certain DNSSEC aspects of the DNS protocol (in RFC 4033, 4034, 4035, 6840, and related RFCs) allow remote attackers to cause a denial of service (CPU consumption) via one or more DNSSEC responses, aka the "KeyTrap" issue. One of the concerns is that, when there is a zone with many DNSKEY and RRSIG records, the protocol specification implies that an algorithm must evaluate all combinations of DNSKEY and RRSIG records.
 - [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2023-50387">
 - [Pablodiz/CVE-2023-50387](https://github.com/Pablodiz/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/Pablodiz/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/Pablodiz/CVE-2023-50387">
+- [Meirelez/SSR-DNSSEC](https://github.com/Meirelez/SSR-DNSSEC)	<img alt="forks" src="https://img.shields.io/github/forks/Meirelez/SSR-DNSSEC">	<img alt="stars" src="https://img.shields.io/github/stars/Meirelez/SSR-DNSSEC">
 
 ---
 ## CVE-2023-50386 (2024-02-09T18:15:00)
@@ -4591,11 +4592,13 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [LeDocteurDesBits/cve-2023-32784](https://github.com/LeDocteurDesBits/cve-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/LeDocteurDesBits/cve-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/LeDocteurDesBits/cve-2023-32784">
 - [hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)	<img alt="forks" src="https://img.shields.io/github/forks/hau-zy/KeePass-dump-py">	<img alt="stars" src="https://img.shields.io/github/stars/hau-zy/KeePass-dump-py">
 - [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/dawnl3ss/CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/dawnl3ss/CVE-2023-32784">
-- [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/ValentinPundikov/poc-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/ValentinPundikov/poc-CVE-2023-32784">
+- [le01s/poc-CVE-2023-32784](https://github.com/le01s/poc-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/le01s/poc-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/le01s/poc-CVE-2023-32784">
 - [1ocho3/NCL_V](https://github.com/1ocho3/NCL_V)	<img alt="forks" src="https://img.shields.io/github/forks/1ocho3/NCL_V">	<img alt="stars" src="https://img.shields.io/github/stars/1ocho3/NCL_V">
 - [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/mister-turtle/cve-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/mister-turtle/cve-2023-32784">
 - [Cmadhushanka/CVE-2023-32784-Exploitation](https://github.com/Cmadhushanka/CVE-2023-32784-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/Cmadhushanka/CVE-2023-32784-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/Cmadhushanka/CVE-2023-32784-Exploitation">
 - [Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784](https://github.com/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">
+- [dev0558/CVE-2023-32784-EXPLOIT-REPORT](https://github.com/dev0558/CVE-2023-32784-EXPLOIT-REPORT)	<img alt="forks" src="https://img.shields.io/github/forks/dev0558/CVE-2023-32784-EXPLOIT-REPORT">	<img alt="stars" src="https://img.shields.io/github/stars/dev0558/CVE-2023-32784-EXPLOIT-REPORT">
+- [SarahZimmermann-Schmutzler/exploit_keepass](https://github.com/SarahZimmermann-Schmutzler/exploit_keepass)	<img alt="forks" src="https://img.shields.io/github/forks/SarahZimmermann-Schmutzler/exploit_keepass">	<img alt="stars" src="https://img.shields.io/github/stars/SarahZimmermann-Schmutzler/exploit_keepass">
 
 ---
 ## CVE-2023-32749 (2023-06-08T20:15:00)
