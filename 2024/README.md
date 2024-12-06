@@ -2322,6 +2322,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/cve-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/cve-2024-42327">
 - [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
 - [compr00t/CVE-2024-42327](https://github.com/compr00t/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/compr00t/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/compr00t/CVE-2024-42327">
+- [depers-rus/CVE-2024-42327](https://github.com/depers-rus/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/depers-rus/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/depers-rus/CVE-2024-42327">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
@@ -7339,6 +7340,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10542">
 - [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10542">
 - [FoKiiin/CVE-2024-10542](https://github.com/FoKiiin/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10542">
+
+---
+## CVE-2024-10516 ()
+> 
+- [RandomRobbieBF/CVE-2024-10516](https://github.com/RandomRobbieBF/CVE-2024-10516)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10516">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10516">
 
 ---
 ## CVE-2024-10508 ()
