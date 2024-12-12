@@ -2724,6 +2724,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031)	<img alt="forks" src="https://img.shields.io/github/forks/toneemarqus/CVE-2024-39031">	<img alt="stars" src="https://img.shields.io/github/stars/toneemarqus/CVE-2024-39031">
 
 ---
+## CVE-2024-38998 ()
+> 
+- [AlbedoPrime/PP_CVE-2024-38998](https://github.com/AlbedoPrime/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/AlbedoPrime/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/AlbedoPrime/PP_CVE-2024-38998">
+
+---
 ## CVE-2024-38856 (2024-08-05T09:15:00)
 > Incorrect Authorization vulnerability in Apache OFBiz.
 
