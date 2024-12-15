@@ -6720,6 +6720,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626-old-docker-versions">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626-old-docker-versions">
 
 ---
+## CVE-2024-21542 ()
+> 
+- [L3ster1337/Poc-CVE-2024-21542](https://github.com/L3ster1337/Poc-CVE-2024-21542)	<img alt="forks" src="https://img.shields.io/github/forks/L3ster1337/Poc-CVE-2024-21542">	<img alt="stars" src="https://img.shields.io/github/stars/L3ster1337/Poc-CVE-2024-21542">
+
+---
 ## CVE-2024-21534 (2024-10-11T13:15:00)
 > Versions of the package jsonpath-plus before 10.0.7 are vulnerable to Remote Code Execution (RCE) due to improper input sanitization. An attacker can execute aribitrary code on the system by exploiting the unsafe default usage of vm in Node.**Note:**There was an attempt to fix it in version [10.0.0](https://github.com/JSONPath-Plus/JSONPath/commit/6b2f1b4c234292c75912b790bf7e2d7339d4ccd3) but it could still be exploited using [different payloads](https://github.com/JSONPath-Plus/JSONPath/issues/226).
 - [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/pabloopez/CVE-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/pabloopez/CVE-2024-21534">
