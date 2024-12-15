@@ -5393,6 +5393,15 @@
 - [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
 
 ---
+## CVE-2020-0041 ()
+> 
+- [j4nn/CVE-2020-0041](https://github.com/j4nn/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/j4nn/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/j4nn/CVE-2020-0041">
+- [jcalabres/root-exploit-pixel3](https://github.com/jcalabres/root-exploit-pixel3)	<img alt="forks" src="https://img.shields.io/github/forks/jcalabres/root-exploit-pixel3">	<img alt="stars" src="https://img.shields.io/github/stars/jcalabres/root-exploit-pixel3">
+- [koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/koharin/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/koharin/CVE-2020-0041">
+- [vaginessa/CVE-2020-0041-Pixel-3a](https://github.com/vaginessa/CVE-2020-0041-Pixel-3a)	<img alt="forks" src="https://img.shields.io/github/forks/vaginessa/CVE-2020-0041-Pixel-3a">	<img alt="stars" src="https://img.shields.io/github/stars/vaginessa/CVE-2020-0041-Pixel-3a">
+- [bluefrostsecurity/CVE-2020-0041](https://github.com/bluefrostsecurity/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2020-0041">
+
+---
 ## CVE-2020-0022 (2020-02-13T15:15:00)
 > In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715
 - [k3vinlusec/Bluefrag_CVE-2020-0022](https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/k3vinlusec/Bluefrag_CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/k3vinlusec/Bluefrag_CVE-2020-0022">
