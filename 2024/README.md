@@ -895,6 +895,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/yangyanglo/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/yangyanglo/CVE-2024-53677">
 - [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/c4oocO/CVE-2024-53677-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/c4oocO/CVE-2024-53677-Docker">
 - [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-53677-S2-067">
+- [dustblessnotdust/CVE-2024-53677-S2-067--](https://github.com/dustblessnotdust/CVE-2024-53677-S2-067--)	<img alt="forks" src="https://img.shields.io/github/forks/dustblessnotdust/CVE-2024-53677-S2-067--">	<img alt="stars" src="https://img.shields.io/github/stars/dustblessnotdust/CVE-2024-53677-S2-067--">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
@@ -6229,6 +6230,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23298 ()
 > 
 - [p1tsi/CVE-2024-23298](https://github.com/p1tsi/CVE-2024-23298)	<img alt="forks" src="https://img.shields.io/github/forks/p1tsi/CVE-2024-23298">	<img alt="stars" src="https://img.shields.io/github/stars/p1tsi/CVE-2024-23298">
+- [p1tsi/CVE-2024-23298.app](https://github.com/p1tsi/CVE-2024-23298.app)	<img alt="forks" src="https://img.shields.io/github/forks/p1tsi/CVE-2024-23298.app">	<img alt="stars" src="https://img.shields.io/github/stars/p1tsi/CVE-2024-23298.app">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
