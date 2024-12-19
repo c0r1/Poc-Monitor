@@ -7317,6 +7317,11 @@ authentication.   
 - [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
 
 ---
+## CVE-2024-12025 ()
+> 
+- [RandomRobbieBF/CVE-2024-12025](https://github.com/RandomRobbieBF/CVE-2024-12025)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12025">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12025">
+
+---
 ## CVE-2024-11972 ()
 > 
 - [JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/JunTakemura/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/JunTakemura/exploit-CVE-2024-11972">
@@ -7519,6 +7524,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 > 
 - [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
 - [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
+- [MAHajian/CVE-2024-10793](https://github.com/MAHajian/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/MAHajian/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/MAHajian/CVE-2024-10793">
 
 ---
 ## CVE-2024-10728 ()
