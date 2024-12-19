@@ -2326,7 +2326,7 @@ use after free.
 - [merlin-ke/CVE_2019_15107](https://github.com/merlin-ke/CVE_2019_15107)	<img alt="forks" src="https://img.shields.io/github/forks/merlin-ke/CVE_2019_15107">	<img alt="stars" src="https://img.shields.io/github/stars/merlin-ke/CVE_2019_15107">
 - [f0rkr/CVE-2019-15107](https://github.com/f0rkr/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/f0rkr/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/f0rkr/CVE-2019-15107">
 - [hacknotes/CVE-2019-15107-Exploit](https://github.com/hacknotes/CVE-2019-15107-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hacknotes/CVE-2019-15107-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hacknotes/CVE-2019-15107-Exploit">
-- [Tuz-Wwsd/CVE-2019-15107_detection](https://github.com/Tuz-Wwsd/CVE-2019-15107_detection)	<img alt="forks" src="https://img.shields.io/github/forks/Tuz-Wwsd/CVE-2019-15107_detection">	<img alt="stars" src="https://img.shields.io/github/stars/Tuz-Wwsd/CVE-2019-15107_detection">
+- [CyberTuz/CVE-2019-15107_detection](https://github.com/CyberTuz/CVE-2019-15107_detection)	<img alt="forks" src="https://img.shields.io/github/forks/CyberTuz/CVE-2019-15107_detection">	<img alt="stars" src="https://img.shields.io/github/stars/CyberTuz/CVE-2019-15107_detection">
 - [whokilleddb/CVE-2019-15107](https://github.com/whokilleddb/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/whokilleddb/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/whokilleddb/CVE-2019-15107">
 - [darrenmartyn/CVE-2019-15107](https://github.com/darrenmartyn/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/darrenmartyn/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/darrenmartyn/CVE-2019-15107">
 - [puckiestyle/CVE-2019-15107](https://github.com/puckiestyle/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2019-15107">
@@ -2362,6 +2362,7 @@ use after free.
 - [0x4r2/Webmin-CVE-2019-15107](https://github.com/0x4r2/Webmin-CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/0x4r2/Webmin-CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/0x4r2/Webmin-CVE-2019-15107">
 - [NasrallahBaadi/CVE-2019-15107](https://github.com/NasrallahBaadi/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/NasrallahBaadi/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/NasrallahBaadi/CVE-2019-15107">
 - [grayorwhite/CVE-2019-15107](https://github.com/grayorwhite/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/grayorwhite/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/grayorwhite/CVE-2019-15107">
+- [MasterCode112/CVE-2019-15107](https://github.com/MasterCode112/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/MasterCode112/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/MasterCode112/CVE-2019-15107">
 
 ---
 ## CVE-2019-14974 (2019-08-14T16:15:00)
