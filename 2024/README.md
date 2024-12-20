@@ -1191,6 +1191,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50961">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50961">
 
 ---
+## CVE-2024-50945 ()
+> 
+- [AbdullahAlmutawa/CVE-2024-50945](https://github.com/AbdullahAlmutawa/CVE-2024-50945)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahAlmutawa/CVE-2024-50945">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahAlmutawa/CVE-2024-50945">
+
+---
 ## CVE-2024-50944 ()
 > 
 - [AbdullahAlmutawa/CVE-2024-50944](https://github.com/AbdullahAlmutawa/CVE-2024-50944)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahAlmutawa/CVE-2024-50944">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahAlmutawa/CVE-2024-50944">
