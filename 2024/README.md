@@ -3079,6 +3079,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Laukage/CVE-2024-38063](https://github.com/Laukage/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Laukage/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Laukage/CVE-2024-38063">
 - [Laukage/Windows-CVE-2024-38063](https://github.com/Laukage/Windows-CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Laukage/Windows-CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Laukage/Windows-CVE-2024-38063">
 - [jamesbishop785/CVE-2024-38063](https://github.com/jamesbishop785/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/jamesbishop785/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/jamesbishop785/CVE-2024-38063">
+- [jamesbishop785/CVE-2024-38063](https://github.com/jamesbishop785/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/jamesbishop785/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/jamesbishop785/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
