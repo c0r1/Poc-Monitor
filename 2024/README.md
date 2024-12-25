@@ -4706,6 +4706,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Justintroup85/exploits-forsale-collateral-damage](https://github.com/Justintroup85/exploits-forsale-collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/Justintroup85/exploits-forsale-collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/Justintroup85/exploits-forsale-collateral-damage">
 
 ---
+## CVE-2024-30085 ()
+> 
+- [Adamkadaban/CVE-2024-30085](https://github.com/Adamkadaban/CVE-2024-30085)	<img alt="forks" src="https://img.shields.io/github/forks/Adamkadaban/CVE-2024-30085">	<img alt="stars" src="https://img.shields.io/github/stars/Adamkadaban/CVE-2024-30085">
+
+---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
 > Windows Wi-Fi Driver Remote Code Execution Vulnerability
 - [alperenugurlu/CVE-2024-30078-](https://github.com/alperenugurlu/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-30078-">
