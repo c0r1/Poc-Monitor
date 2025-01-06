@@ -69,7 +69,7 @@
 ---
 ## CVE-2023-6931 ()
 > 
-- [jungju817/CVE-2023-6931](https://github.com/jungju817/CVE-2023-6931)	<img alt="forks" src="https://img.shields.io/github/forks/jungju817/CVE-2023-6931">	<img alt="stars" src="https://img.shields.io/github/stars/jungju817/CVE-2023-6931">
+- [K0n9-log/CVE-2023-6931](https://github.com/K0n9-log/CVE-2023-6931)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/CVE-2023-6931">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/CVE-2023-6931">
 
 ---
 ## CVE-2023-6895 (2023-12-17T08:15:00)
@@ -2542,6 +2542,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE](https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE">
 - [0x0d3ad/CVE-2023-41425](https://github.com/0x0d3ad/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2023-41425">
 - [xpltive/CVE-2023-41425](https://github.com/xpltive/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/xpltive/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/xpltive/CVE-2023-41425">
+- [samu21req/CVE-2023-41425](https://github.com/samu21req/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/samu21req/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/samu21req/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
