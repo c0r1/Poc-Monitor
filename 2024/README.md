@@ -2050,6 +2050,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [0xbd2/CVE-2024-4577](https://github.com/0xbd2/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/0xbd2/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/0xbd2/CVE-2024-4577">
 - [ahmetramazank/CVE-2024-4577](https://github.com/ahmetramazank/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetramazank/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetramazank/CVE-2024-4577">
 - [BTtea/CVE-2024-4577-RCE-PoC](https://github.com/BTtea/CVE-2024-4577-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2024-4577-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2024-4577-RCE-PoC">
+- [Dejavu666/CVE-2024-4577](https://github.com/Dejavu666/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Dejavu666/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Dejavu666/CVE-2024-4577">
 
 ---
 ## CVE-2024-4573 ()
@@ -3030,6 +3031,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-38998 ()
 > 
 - [AlbedoPrime/PP_CVE-2024-38998](https://github.com/AlbedoPrime/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/AlbedoPrime/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/AlbedoPrime/PP_CVE-2024-38998">
+- [cesarbtakeda/PP_CVE-2024-38998](https://github.com/cesarbtakeda/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/PP_CVE-2024-38998">
 
 ---
 ## CVE-2024-38856 (2024-08-05T09:15:00)
@@ -5561,6 +5563,11 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-27130">
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 - [XiaomingX/cve-2024-27130-poc](https://github.com/XiaomingX/cve-2024-27130-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-27130-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-27130-poc">
+
+---
+## CVE-2024-27115 ()
+> 
+- [theexploiters/CVE-2024-27115-Exploit](https://github.com/theexploiters/CVE-2024-27115-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-27115-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-27115-Exploit">
 
 ---
 ## CVE-2024-27088 (2024-02-26T17:15:00)
