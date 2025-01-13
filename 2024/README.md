@@ -1025,6 +1025,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc)	<img alt="forks" src="https://img.shields.io/github/forks/math-x-io/CVE-2024-54152-poc">	<img alt="stars" src="https://img.shields.io/github/stars/math-x-io/CVE-2024-54152-poc">
 
 ---
+## CVE-2024-53691 ()
+> 
+- [C411e/CVE-2024-53691](https://github.com/C411e/CVE-2024-53691)	<img alt="forks" src="https://img.shields.io/github/forks/C411e/CVE-2024-53691">	<img alt="stars" src="https://img.shields.io/github/stars/C411e/CVE-2024-53691">
+
+---
 ## CVE-2024-53677 ()
 > 
 - [cloudwafs/s2-067-CVE-2024-53677](https://github.com/cloudwafs/s2-067-CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/cloudwafs/s2-067-CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/cloudwafs/s2-067-CVE-2024-53677">
@@ -1520,6 +1525,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50427 (2024-10-29T09:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in Devsoft Baltic OÜ SurveyJS: Drag & Drop WordPress Form Builder.This issue affects SurveyJS: Drag & Drop WordPress Form Builder: from n/a through 1.9.136.
 - [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50427">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50427">
+
+---
+## CVE-2024-50404 ()
+> 
+- [C411e/CVE-2024-50404](https://github.com/C411e/CVE-2024-50404)	<img alt="forks" src="https://img.shields.io/github/forks/C411e/CVE-2024-50404">	<img alt="stars" src="https://img.shields.io/github/stars/C411e/CVE-2024-50404">
 
 ---
 ## CVE-2024-50395 (2024-11-22T16:15:00)
