@@ -862,6 +862,7 @@
 ## CVE-2019-5029 ()
 > 
 - [yZ1337/CVE-2019-5029](https://github.com/yZ1337/CVE-2019-5029)	<img alt="forks" src="https://img.shields.io/github/forks/yZ1337/CVE-2019-5029">	<img alt="stars" src="https://img.shields.io/github/stars/yZ1337/CVE-2019-5029">
+- [thehunt1s0n/Exihibitor-RCE](https://github.com/thehunt1s0n/Exihibitor-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thehunt1s0n/Exihibitor-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thehunt1s0n/Exihibitor-RCE">
 
 ---
 ## CVE-2019-4650 (2020-06-26T14:15:00)
