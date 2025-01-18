@@ -1049,6 +1049,12 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1te4ever/CVE-2024-54498-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1te4ever/CVE-2024-54498-PoC">
 
 ---
+## CVE-2024-54369 ()
+> 
+- [Nxploited/CVE-2024-54369-PoC](https://github.com/Nxploited/CVE-2024-54369-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54369-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54369-PoC">
+- [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54369">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54369">
+
+---
 ## CVE-2024-54363 ()
 > 
 - [Nxploited/CVE-2024-54363-Exploit](https://github.com/Nxploited/CVE-2024-54363-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54363-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54363-Exploit">
@@ -7756,6 +7762,11 @@ authentication.   
 ## CVE-2024-1346 (2024-02-19T12:15:00)
 > Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants.
 - [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-1346">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-1346">
+
+---
+## CVE-2024-13375 ()
+> 
+- [McTavishSue/CVE-2024-13375](https://github.com/McTavishSue/CVE-2024-13375)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2024-13375">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2024-13375">
 
 ---
 ## CVE-2024-12986 ()
