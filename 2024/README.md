@@ -985,6 +985,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">
 - [souzatyler/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/souzatyler/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/souzatyler/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/souzatyler/fortios-auth-bypass-check-CVE-2024-55591">
 - [sysirq/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-poc-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/sysirq/fortios-auth-bypass-poc-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/sysirq/fortios-auth-bypass-poc-CVE-2024-55591">
+- [sysirq/fortios-auth-bypass-exp-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-exp-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/sysirq/fortios-auth-bypass-exp-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/sysirq/fortios-auth-bypass-exp-CVE-2024-55591">
 
 ---
 ## CVE-2024-55587 ()
@@ -2959,6 +2960,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Wind010/CVE-2024-41570](https://github.com/Wind010/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2024-41570">
 - [sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sebr-dev/Havoc-C2-SSRF-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sebr-dev/Havoc-C2-SSRF-to-RCE">
 - [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/kit4py/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/kit4py/CVE-2024-41570">
+- [thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">
 
 ---
 ## CVE-2024-41453 ()
