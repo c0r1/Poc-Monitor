@@ -6094,6 +6094,7 @@
 - [Y0s9/CVE-2021-3129](https://github.com/Y0s9/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Y0s9/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Y0s9/CVE-2021-3129">
 - [0x0d3ad/CVE-2021-3129](https://github.com/0x0d3ad/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2021-3129">
 - [GodOfServer/CVE-2021-3129](https://github.com/GodOfServer/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/GodOfServer/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/GodOfServer/CVE-2021-3129">
+- [lukwagoasuman/CVE-2021-3129---Laravel-RCE](https://github.com/lukwagoasuman/CVE-2021-3129---Laravel-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/lukwagoasuman/CVE-2021-3129---Laravel-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/lukwagoasuman/CVE-2021-3129---Laravel-RCE">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
@@ -7855,6 +7856,7 @@
 - [lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lakshit1212/CVE-2021-23017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lakshit1212/CVE-2021-23017-PoC">
 - [ShivamDey/CVE-2021-23017](https://github.com/ShivamDey/CVE-2021-23017)	<img alt="forks" src="https://img.shields.io/github/forks/ShivamDey/CVE-2021-23017">	<img alt="stars" src="https://img.shields.io/github/stars/ShivamDey/CVE-2021-23017">
 - [z3usx01/CVE-2021-23017-POC](https://github.com/z3usx01/CVE-2021-23017-POC)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2021-23017-POC">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2021-23017-POC">
+- [lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14](https://github.com/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14)	<img alt="forks" src="https://img.shields.io/github/forks/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14">	<img alt="stars" src="https://img.shields.io/github/stars/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14">
 
 ---
 ## CVE-2021-22986 (2021-03-31T15:15:00)
