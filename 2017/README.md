@@ -128,6 +128,11 @@
 - [Live-Hack-CVE/CVE-2017-8879](https://github.com/Live-Hack-CVE/CVE-2017-8879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8879">
 
 ---
+## CVE-2017-8869 ()
+> 
+- [tankist0x01/CVE-2017-8869](https://github.com/tankist0x01/CVE-2017-8869)	<img alt="forks" src="https://img.shields.io/github/forks/tankist0x01/CVE-2017-8869">	<img alt="stars" src="https://img.shields.io/github/stars/tankist0x01/CVE-2017-8869">
+
+---
 ## CVE-2017-8842 (2017-05-08T14:29:00)
 > The bufRead::get() function in libzpaq/libzpaq.h in liblrzip.so in lrzip 0.631 allows remote attackers to cause a denial of service (divide-by-zero error and application crash) via a crafted archive.
 - [Live-Hack-CVE/CVE-2017-8842](https://github.com/Live-Hack-CVE/CVE-2017-8842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8842">
