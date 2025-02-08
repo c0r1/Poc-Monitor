@@ -757,6 +757,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6366-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6366-PoC">
 
 ---
+## CVE-2024-6244 ()
+> 
+- [Nxploited/CVE-2024-6244](https://github.com/Nxploited/CVE-2024-6244)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6244">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6244">
+
+---
 ## CVE-2024-6241 (2024-06-21T17:15:00)
 > A vulnerability was found in Pear Admin Boot up to 2.0.2 and classified as critical. This issue affects the function getDictItems of the file /system/dictData/getDictItems/. The manipulation with the input ,user(),1,1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-269375.
 - [bigb0x/CVE-2024-6241](https://github.com/bigb0x/CVE-2024-6241)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6241">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6241">
