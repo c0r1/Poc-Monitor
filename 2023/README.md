@@ -6105,6 +6105,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [m-lito13/SealSecurity_Exam](https://github.com/m-lito13/SealSecurity_Exam)	<img alt="forks" src="https://img.shields.io/github/forks/m-lito13/SealSecurity_Exam">	<img alt="stars" src="https://img.shields.io/github/stars/m-lito13/SealSecurity_Exam">
 - [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security)	<img alt="forks" src="https://img.shields.io/github/forks/ronmadar/Open-Source-Seal-Security">	<img alt="stars" src="https://img.shields.io/github/stars/ronmadar/Open-Source-Seal-Security">
 - [CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment)	<img alt="forks" src="https://img.shields.io/github/forks/CUCUMBERanOrSNCompany/SealSecurityAssignment">	<img alt="stars" src="https://img.shields.io/github/stars/CUCUMBERanOrSNCompany/SealSecurityAssignment">
+- [AlbertoChar/tough-cookie-exploit](https://github.com/AlbertoChar/tough-cookie-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlbertoChar/tough-cookie-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlbertoChar/tough-cookie-exploit">
 
 ---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
