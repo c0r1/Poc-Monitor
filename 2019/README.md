@@ -1925,6 +1925,13 @@ use after free.
 ## CVE-2019-18818 ()
 > 
 - [abelsrzz/CVE-2019-18818_CVE-2019-19609](https://github.com/abelsrzz/CVE-2019-18818_CVE-2019-19609)	<img alt="forks" src="https://img.shields.io/github/forks/abelsrzz/CVE-2019-18818_CVE-2019-19609">	<img alt="stars" src="https://img.shields.io/github/stars/abelsrzz/CVE-2019-18818_CVE-2019-19609">
+- [Hackhoven/Strapi-RCE](https://github.com/Hackhoven/Strapi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Hackhoven/Strapi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Hackhoven/Strapi-RCE">
+- [hadrian3689/strapi_cms_3.0.0-beta.17.7](https://github.com/hadrian3689/strapi_cms_3.0.0-beta.17.7)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/strapi_cms_3.0.0-beta.17.7">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/strapi_cms_3.0.0-beta.17.7">
+- [glowbase/CVE-2019-19609](https://github.com/glowbase/CVE-2019-19609)	<img alt="forks" src="https://img.shields.io/github/forks/glowbase/CVE-2019-19609">	<img alt="stars" src="https://img.shields.io/github/stars/glowbase/CVE-2019-19609">
+- [Shadawks/Strapi-CVE-2019-1881](https://github.com/Shadawks/Strapi-CVE-2019-1881)	<img alt="forks" src="https://img.shields.io/github/forks/Shadawks/Strapi-CVE-2019-1881">	<img alt="stars" src="https://img.shields.io/github/stars/Shadawks/Strapi-CVE-2019-1881">
+- [rasyidfox/CVE-2019-18818](https://github.com/rasyidfox/CVE-2019-18818)	<img alt="forks" src="https://img.shields.io/github/forks/rasyidfox/CVE-2019-18818">	<img alt="stars" src="https://img.shields.io/github/stars/rasyidfox/CVE-2019-18818">
+- [guglia001/CVE-2019-18818](https://github.com/guglia001/CVE-2019-18818)	<img alt="forks" src="https://img.shields.io/github/forks/guglia001/CVE-2019-18818">	<img alt="stars" src="https://img.shields.io/github/stars/guglia001/CVE-2019-18818">
+- [ossf-cve-benchmark/CVE-2019-18818](https://github.com/ossf-cve-benchmark/CVE-2019-18818)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-18818">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-18818">
 
 ---
 ## CVE-2019-18683 (2019-11-04T16:15:00)
