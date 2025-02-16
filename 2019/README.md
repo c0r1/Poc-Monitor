@@ -1922,6 +1922,11 @@ use after free.
 - [kkent030315/MsIoExploit](https://github.com/kkent030315/MsIoExploit)	<img alt="forks" src="https://img.shields.io/github/forks/kkent030315/MsIoExploit">	<img alt="stars" src="https://img.shields.io/github/stars/kkent030315/MsIoExploit">
 
 ---
+## CVE-2019-18818 ()
+> 
+- [abelsrzz/CVE-2019-18818_CVE-2019-19609](https://github.com/abelsrzz/CVE-2019-18818_CVE-2019-19609)	<img alt="forks" src="https://img.shields.io/github/forks/abelsrzz/CVE-2019-18818_CVE-2019-19609">	<img alt="stars" src="https://img.shields.io/github/stars/abelsrzz/CVE-2019-18818_CVE-2019-19609">
+
+---
 ## CVE-2019-18683 (2019-11-04T16:15:00)
 > An issue was discovered in drivers/media/platform/vivid in the Linux kernel through 5.3.8. It is exploitable for privilege escalation on some Linux distributions where local users have /dev/video0 access, but only if the driver happens to be loaded. There are multiple race conditions during streaming stopping in this driver (part of the V4L2 subsystem). These issues are caused by wrong mutex locking in vivid_stop_generating_vid_cap(), vivid_stop_generating_vid_out(), sdr_cap_stop_streaming(), and the corresponding kthreads. At least one of these race conditions leads to a use-after-free.
 - [Limesss/cve-2019-18683](https://github.com/Limesss/cve-2019-18683)	<img alt="forks" src="https://img.shields.io/github/forks/Limesss/cve-2019-18683">	<img alt="stars" src="https://img.shields.io/github/stars/Limesss/cve-2019-18683">
