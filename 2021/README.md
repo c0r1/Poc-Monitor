@@ -4630,7 +4630,7 @@
 - [cpu0x00/CVE-2021-3560](https://github.com/cpu0x00/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/cpu0x00/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/cpu0x00/CVE-2021-3560">
 - [0dayNinja/CVE-2021-3560](https://github.com/0dayNinja/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/0dayNinja/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/0dayNinja/CVE-2021-3560">
 - [BizarreLove/CVE-2021-3560](https://github.com/BizarreLove/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/BizarreLove/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/BizarreLove/CVE-2021-3560">
-- [TomMalvoRiddle/CVE-2021-3560](https://github.com/TomMalvoRiddle/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/TomMalvoRiddle/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/TomMalvoRiddle/CVE-2021-3560">
+- [admin-079/CVE-2021-3560](https://github.com/admin-079/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/admin-079/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/admin-079/CVE-2021-3560">
 - [AssassinUKG/Polkit-CVE-2021-3560](https://github.com/AssassinUKG/Polkit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/AssassinUKG/Polkit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/AssassinUKG/Polkit-CVE-2021-3560">
 - [hakivvi/CVE-2021-3560](https://github.com/hakivvi/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2021-3560">
 - [Almorabea/Polkit-exploit](https://github.com/Almorabea/Polkit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Almorabea/Polkit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Almorabea/Polkit-exploit">
@@ -4645,6 +4645,7 @@
 - [markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation](https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation">
 - [MY7H404/CVE-2021-3560-Polkit](https://github.com/MY7H404/CVE-2021-3560-Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/MY7H404/CVE-2021-3560-Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/MY7H404/CVE-2021-3560-Polkit">
 - [Kyyomaa/CVE-2021-3560-EXPLOIT](https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Kyyomaa/CVE-2021-3560-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Kyyomaa/CVE-2021-3560-EXPLOIT">
+- [arcslash/exploit_CVE-2021-3560](https://github.com/arcslash/exploit_CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/arcslash/exploit_CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/arcslash/exploit_CVE-2021-3560">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
