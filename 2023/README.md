@@ -733,6 +733,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [minhbao15677/CVE-2023-50164](https://github.com/minhbao15677/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/minhbao15677/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/minhbao15677/CVE-2023-50164">
 - [NikitaPark/CVE-2023-50164-PoC](https://github.com/NikitaPark/CVE-2023-50164-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NikitaPark/CVE-2023-50164-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NikitaPark/CVE-2023-50164-PoC">
 - [powerlesssta/cve-2023-50164-poc](https://github.com/powerlesssta/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/powerlesssta/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/powerlesssta/cve-2023-50164-poc">
+- [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-10924-Wordpress-Docker">
 
 ---
 ## CVE-2023-50132 ()
@@ -1540,6 +1541,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [infokek/activemq-honeypot](https://github.com/infokek/activemq-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/infokek/activemq-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/infokek/activemq-honeypot">
 - [cuanh2333/CVE-2023-46604](https://github.com/cuanh2333/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/cuanh2333/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/cuanh2333/CVE-2023-46604">
 - [tomasmussi/activemq-cve-2023-46604](https://github.com/tomasmussi/activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/tomasmussi/activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/tomasmussi/activemq-cve-2023-46604">
+- [skrkcb2/CVE-2023-46604](https://github.com/skrkcb2/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2023-46604">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
