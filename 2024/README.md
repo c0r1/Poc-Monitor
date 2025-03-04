@@ -361,6 +361,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 > An OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker to obtain remote code execution. The attacker must have admin level privileges to exploit this vulnerability.
 - [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-8190">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-8190">
 - [flyingllama87/CVE-2024-8190-unauth](https://github.com/flyingllama87/CVE-2024-8190-unauth)	<img alt="forks" src="https://img.shields.io/github/forks/flyingllama87/CVE-2024-8190-unauth">	<img alt="stars" src="https://img.shields.io/github/stars/flyingllama87/CVE-2024-8190-unauth">
+- [tequilasunsh1ne/ivanti_CVE_2024_8190](https://github.com/tequilasunsh1ne/ivanti_CVE_2024_8190)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/ivanti_CVE_2024_8190">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/ivanti_CVE_2024_8190">
 
 ---
 ## CVE-2024-81757 ()
@@ -7786,6 +7787,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 ## CVE-2024-21514 (2024-06-22T05:15:00)
 > This affects versions of the package opencart/opencart from 0.0.0. An SQL Injection issue was identified in the Divido payment extension for OpenCart, which is included by default in version 3.0.3.9. As an anonymous unauthenticated user, if the Divido payment module is installed (it does not have to be enabled), it is possible to exploit SQL injection to gain unauthorised access to the backend database. For any site which is vulnerable, any unauthenticated user could exploit this to dump the entire OpenCart database, including customer PII data.
 - [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-21514">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-21514">
+
+---
+## CVE-2024-21513 ()
+> 
+- [SavageSanta11/Reproduce-CVE-2024-21513](https://github.com/SavageSanta11/Reproduce-CVE-2024-21513)	<img alt="forks" src="https://img.shields.io/github/forks/SavageSanta11/Reproduce-CVE-2024-21513">	<img alt="stars" src="https://img.shields.io/github/stars/SavageSanta11/Reproduce-CVE-2024-21513">
 
 ---
 ## CVE-2024-21508 (2024-04-11T05:15:00)
