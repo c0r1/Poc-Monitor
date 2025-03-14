@@ -34,7 +34,7 @@
 > file/show.cgi in Webmin 1.590 and earlier allows remote authenticated users to execute arbitrary commands via an invalid character in a pathname, as demonstrated by a | (pipe) character.
 - [0xF331-D3AD/CVE-2012-2982](https://github.com/0xF331-D3AD/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/0xF331-D3AD/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/0xF331-D3AD/CVE-2012-2982">
 - [0xTas/CVE-2012-2982](https://github.com/0xTas/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/0xTas/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/0xTas/CVE-2012-2982">
-- [R00tendo/CVE-2012-2982](https://github.com/R00tendo/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/R00tendo/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/R00tendo/CVE-2012-2982">
+- [SpoofIMEI/CVE-2012-2982](https://github.com/SpoofIMEI/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/SpoofIMEI/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/SpoofIMEI/CVE-2012-2982">
 - [blu3ming/CVE-2012-2982](https://github.com/blu3ming/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/blu3ming/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/blu3ming/CVE-2012-2982">
 - [wizardy0ga/CVE_2012-2982](https://github.com/wizardy0ga/CVE_2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/wizardy0ga/CVE_2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/wizardy0ga/CVE_2012-2982">
 - [JohnHammond/CVE-2012-2982](https://github.com/JohnHammond/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2012-2982">
@@ -48,6 +48,7 @@
 - [Shadow-Spinner/CVE-2012-2982_python](https://github.com/Shadow-Spinner/CVE-2012-2982_python)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow-Spinner/CVE-2012-2982_python">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow-Spinner/CVE-2012-2982_python">
 - [elliotosama/CVE-2012-2982](https://github.com/elliotosama/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/elliotosama/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/elliotosama/CVE-2012-2982">
 - [SieGer05/CVE-2012-2982-Webmin-Exploit](https://github.com/SieGer05/CVE-2012-2982-Webmin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SieGer05/CVE-2012-2982-Webmin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SieGer05/CVE-2012-2982-Webmin-Exploit">
+- [lpuv/CVE-2012-2982](https://github.com/lpuv/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/lpuv/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/lpuv/CVE-2012-2982">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
