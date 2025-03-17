@@ -4265,6 +4265,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
 - [Imahian/CVE-2023-34598](https://github.com/Imahian/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-34598">
+- [Zer0F8th/CVE-2023-34598](https://github.com/Zer0F8th/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Zer0F8th/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Zer0F8th/CVE-2023-34598">
 
 ---
 ## CVE-2023-34584 ()
