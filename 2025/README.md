@@ -316,6 +316,7 @@
 ## CVE-2025-24071 ()
 > 
 - [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-24071-msfvenom">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-24071-msfvenom">
+- [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x6rss/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x6rss/CVE-2025-24071_PoC">
 
 ---
 ## CVE-2025-24016 ()
