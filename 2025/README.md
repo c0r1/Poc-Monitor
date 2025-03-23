@@ -25,6 +25,7 @@
 - [6mile/nextjs-CVE-2025-29927](https://github.com/6mile/nextjs-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/6mile/nextjs-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/6mile/nextjs-CVE-2025-29927">
 - [lirantal/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/lirantal/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/vulnerable-nextjs-14-CVE-2025-29927">
 - [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2025-29927">
+- [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
