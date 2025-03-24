@@ -40,6 +40,8 @@
 - [lediusa/CVE-2025-29927](https://github.com/lediusa/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/lediusa/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/lediusa/CVE-2025-29927">
 - [lem0n817/CVE-2025-29927](https://github.com/lem0n817/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/lem0n817/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/lem0n817/CVE-2025-29927">
 - [kuzushiki/CVE-2025-29927-test](https://github.com/kuzushiki/CVE-2025-29927-test)	<img alt="forks" src="https://img.shields.io/github/forks/kuzushiki/CVE-2025-29927-test">	<img alt="stars" src="https://img.shields.io/github/stars/kuzushiki/CVE-2025-29927-test">
+- [0xWhoknows/CVE-2025-29927](https://github.com/0xWhoknows/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/CVE-2025-29927">
+- [ricsirigu/CVE-2025-29927](https://github.com/ricsirigu/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ricsirigu/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ricsirigu/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
@@ -327,6 +329,7 @@
 - [MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24813">
 - [tonyarris/CVE-2025-24813-PoC](https://github.com/tonyarris/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tonyarris/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tonyarris/CVE-2025-24813-PoC">
 - [beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/beyond-devsecops/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/beyond-devsecops/CVE-2025-24813">
+- [u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Tomcat-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Tomcat-CVE_2025_24813">
 
 ---
 ## CVE-2025-2476 ()
