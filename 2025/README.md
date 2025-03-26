@@ -577,6 +577,7 @@
 - [Esonhugh/nginxnightmare](https://github.com/Esonhugh/nginxnightmare)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/nginxnightmare">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/nginxnightmare">
 - [justmorpheus/IngressNightmare-CVE-2025-1974](https://github.com/justmorpheus/IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/justmorpheus/IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/justmorpheus/IngressNightmare-CVE-2025-1974">
 - [dttuss/IngressNightmare-RCE-POC](https://github.com/dttuss/IngressNightmare-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dttuss/IngressNightmare-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dttuss/IngressNightmare-RCE-POC">
+- [zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2025-1974">
 
 ---
 ## CVE-2025-1716 ()
