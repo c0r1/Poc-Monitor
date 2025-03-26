@@ -19,6 +19,7 @@
 ## CVE-2025-30208 ()
 > 
 - [xuemian168/CVE-2025-30208](https://github.com/xuemian168/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-30208">
+- [ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/ThumpBo/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/ThumpBo/CVE-2025-30208-EXP">
 
 ---
 ## CVE-2025-30144 ()
@@ -578,6 +579,7 @@
 - [justmorpheus/IngressNightmare-CVE-2025-1974](https://github.com/justmorpheus/IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/justmorpheus/IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/justmorpheus/IngressNightmare-CVE-2025-1974">
 - [dttuss/IngressNightmare-RCE-POC](https://github.com/dttuss/IngressNightmare-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dttuss/IngressNightmare-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dttuss/IngressNightmare-RCE-POC">
 - [zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2025-1974">
+- [m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m-q-t/ingressnightmare-detection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m-q-t/ingressnightmare-detection-poc">
 
 ---
 ## CVE-2025-1716 ()
