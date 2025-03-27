@@ -112,6 +112,7 @@
 - [Heimd411/CVE-2025-29927-PoC](https://github.com/Heimd411/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-29927-PoC">
 - [m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit](https://github.com/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">
 - [KaztoRay/CVE-2025-29927-Research](https://github.com/KaztoRay/CVE-2025-29927-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KaztoRay/CVE-2025-29927-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KaztoRay/CVE-2025-29927-Research">
+- [nocomp/CVE-2025-29927-scanner](https://github.com/nocomp/CVE-2025-29927-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nocomp/CVE-2025-29927-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nocomp/CVE-2025-29927-scanner">
 
 ---
 ## CVE-2025-29814 ()
@@ -466,6 +467,7 @@
 - [shacojx/CVE-2025-24071-Exploit](https://github.com/shacojx/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2025-24071-Exploit">
 - [ThemeHackers/CVE-2025-24071](https://github.com/ThemeHackers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-24071">
 - [rubbxalc/CVE-2025-24071](https://github.com/rubbxalc/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-24071">
+- [Marcejr117/CVE-2025-24071_PoC](https://github.com/Marcejr117/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Marcejr117/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Marcejr117/CVE-2025-24071_PoC">
 
 ---
 ## CVE-2025-24016 ()
