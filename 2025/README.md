@@ -32,6 +32,7 @@
 - [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-30208_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-30208_POC">
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 - [iSee857/CVE-2025-30208-PoC](https://github.com/iSee857/CVE-2025-30208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-30208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-30208-PoC">
+- [LiChaser/CVE-2025-30208](https://github.com/LiChaser/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/LiChaser/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/LiChaser/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
@@ -99,6 +100,7 @@
 - [nicknisi/next-attack](https://github.com/nicknisi/next-attack)	<img alt="forks" src="https://img.shields.io/github/forks/nicknisi/next-attack">	<img alt="stars" src="https://img.shields.io/github/stars/nicknisi/next-attack">
 - [jmbowes/NextSecureScan](https://github.com/jmbowes/NextSecureScan)	<img alt="forks" src="https://img.shields.io/github/forks/jmbowes/NextSecureScan">	<img alt="stars" src="https://img.shields.io/github/stars/jmbowes/NextSecureScan">
 - [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
+- [aleongx/CVE-2025-29927_Scanner](https://github.com/aleongx/CVE-2025-29927_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29927_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29927_Scanner">
 
 ---
 ## CVE-2025-29814 ()
@@ -598,7 +600,7 @@
 - [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-1974">
 - [sandumjacob/IngressNightmare-POCs](https://github.com/sandumjacob/IngressNightmare-POCs)	<img alt="forks" src="https://img.shields.io/github/forks/sandumjacob/IngressNightmare-POCs">	<img alt="stars" src="https://img.shields.io/github/stars/sandumjacob/IngressNightmare-POCs">
 - [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yanmarques/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yanmarques/CVE-2025-1974">
-- [Esonhugh/nginxnightmare](https://github.com/Esonhugh/nginxnightmare)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/nginxnightmare">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/nginxnightmare">
+- [Esonhugh/ingressNightmare-CVE-2025-1974-exps](https://github.com/Esonhugh/ingressNightmare-CVE-2025-1974-exps)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/ingressNightmare-CVE-2025-1974-exps">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/ingressNightmare-CVE-2025-1974-exps">
 - [justmorpheus/IngressNightmare-CVE-2025-1974](https://github.com/justmorpheus/IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/justmorpheus/IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/justmorpheus/IngressNightmare-CVE-2025-1974">
 - [dttuss/IngressNightmare-RCE-POC](https://github.com/dttuss/IngressNightmare-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dttuss/IngressNightmare-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dttuss/IngressNightmare-RCE-POC">
 - [zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2025-1974">
