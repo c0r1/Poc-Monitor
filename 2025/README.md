@@ -55,6 +55,7 @@
 - [LiChaser/CVE-2025-30208](https://github.com/LiChaser/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/LiChaser/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/LiChaser/CVE-2025-30208">
 - [On1onss/CVE-2025-30208-LFI](https://github.com/On1onss/CVE-2025-30208-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/On1onss/CVE-2025-30208-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/On1onss/CVE-2025-30208-LFI">
 - [4xura/CVE-2025-30108](https://github.com/4xura/CVE-2025-30108)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2025-30108">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2025-30108">
+- [sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite)	<img alt="forks" src="https://img.shields.io/github/forks/sadhfdw129/CVE-2025-30208-Vite">	<img alt="stars" src="https://img.shields.io/github/stars/sadhfdw129/CVE-2025-30208-Vite">
 
 ---
 ## CVE-2025-30144 ()
@@ -448,6 +449,7 @@
 - [tonyarris/CVE-2025-24813-PoC](https://github.com/tonyarris/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tonyarris/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tonyarris/CVE-2025-24813-PoC">
 - [beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/beyond-devsecops/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/beyond-devsecops/CVE-2025-24813">
 - [u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Tomcat-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Tomcat-CVE_2025_24813">
+- [AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2025-24813">
 
 ---
 ## CVE-2025-2476 ()
