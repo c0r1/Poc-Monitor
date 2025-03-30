@@ -12,6 +12,11 @@
 - [adiivascu/CVE-2025-50000](https://github.com/adiivascu/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/adiivascu/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/adiivascu/CVE-2025-50000">
 
 ---
+## CVE-2025-3292027 ()
+> 
+- [itssixtyn3in/CVE-2025-3292027](https://github.com/itssixtyn3in/CVE-2025-3292027)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3292027">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3292027">
+
+---
 ## CVE-2025-3292026 ()
 > 
 - [itssixtyn3in/CVE-2025-3292026](https://github.com/itssixtyn3in/CVE-2025-3292026)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3292026">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3292026">
@@ -307,6 +312,11 @@
 - [Otsmane-Ahmed/CVE-2025-2620-poc](https://github.com/Otsmane-Ahmed/CVE-2025-2620-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/CVE-2025-2620-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/CVE-2025-2620-poc">
 - [A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2025-26202-Details">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2025-26202-Details">
 - [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206)	<img alt="forks" src="https://img.shields.io/github/forks/xibhi/CVE-2025-26206">	<img alt="stars" src="https://img.shields.io/github/stars/xibhi/CVE-2025-26206">
+
+---
+## CVE-2025-26125 ()
+> 
+- [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2025-26125">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2025-26125">
 
 ---
 ## CVE-2025-26056 ()
