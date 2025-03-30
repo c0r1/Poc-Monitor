@@ -174,7 +174,7 @@
 - [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
 - [dante01yoon/CVE-2025-29927](https://github.com/dante01yoon/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dante01yoon/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dante01yoon/CVE-2025-29927">
 - [ayato-shitomi/WebLab_CVE-2025-29927](https://github.com/ayato-shitomi/WebLab_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ayato-shitomi/WebLab_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ayato-shitomi/WebLab_CVE-2025-29927">
-- [Kamal-418/CVE-2025-29927-NextJs-Lab](https://github.com/Kamal-418/CVE-2025-29927-NextJs-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-418/CVE-2025-29927-NextJs-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-418/CVE-2025-29927-NextJs-Lab">
+- [Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927](https://github.com/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
@@ -890,6 +890,11 @@
 ## CVE-2025-0086 ()
 > 
 - [Mahesh-970/CVE-2025-0086](https://github.com/Mahesh-970/CVE-2025-0086)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2025-0086">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2025-0086">
+
+---
+## CVE-2025-0011 ()
+> 
+- [binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011](https://github.com/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011)	<img alt="forks" src="https://img.shields.io/github/forks/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011">	<img alt="stars" src="https://img.shields.io/github/stars/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011">
 
 ---
 ## CVE-2025-0000000 ()
