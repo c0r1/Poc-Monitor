@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-50002 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-50002](https://github.com/NotItsSixtyN3in/CVE-2025-50002)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50002">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50002">
+
+---
 ## CVE-2025-50001 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-50001](https://github.com/NotItsSixtyN3in/CVE-2025-50001)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50001">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50001">
@@ -258,6 +263,7 @@
 - [narasimhauppala/nextjs-middleware-bypass](https://github.com/narasimhauppala/nextjs-middleware-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/narasimhauppala/nextjs-middleware-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/narasimhauppala/nextjs-middleware-bypass">
 - [Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927](https://github.com/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">
 - [Gokul-Krishnan-V-R/cve-2025-29927](https://github.com/Gokul-Krishnan-V-R/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Gokul-Krishnan-V-R/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Gokul-Krishnan-V-R/cve-2025-29927">
+- [fahimalshihab/NextBypass](https://github.com/fahimalshihab/NextBypass)	<img alt="forks" src="https://img.shields.io/github/forks/fahimalshihab/NextBypass">	<img alt="stars" src="https://img.shields.io/github/stars/fahimalshihab/NextBypass">
 
 ---
 ## CVE-2025-29814 ()
