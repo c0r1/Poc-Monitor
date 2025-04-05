@@ -190,6 +190,7 @@
 - [0xshaheen/CVE-2025-30208](https://github.com/0xshaheen/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/0xshaheen/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/0xshaheen/CVE-2025-30208">
 - [sumeet-darekar/CVE-2025-30208](https://github.com/sumeet-darekar/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/sumeet-darekar/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/sumeet-darekar/CVE-2025-30208">
 - [4m3rr0r/CVE-2025-30208-PoC](https://github.com/4m3rr0r/CVE-2025-30208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2025-30208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2025-30208-PoC">
+- [lilil3333/Vite-CVE-2025-30208-EXP](https://github.com/lilil3333/Vite-CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/lilil3333/Vite-CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/lilil3333/Vite-CVE-2025-30208-EXP">
 
 ---
 ## CVE-2025-30144 ()
@@ -658,6 +659,7 @@
 - [AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2025-24813">
 - [manjula-aw/CVE-2025-24813](https://github.com/manjula-aw/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/manjula-aw/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/manjula-aw/CVE-2025-24813">
 - [B1gN0Se/Tomcat-CVE-2025-24813](https://github.com/B1gN0Se/Tomcat-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/Tomcat-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/Tomcat-CVE-2025-24813">
+- [AsaL1n/CVE-2025-24813](https://github.com/AsaL1n/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/AsaL1n/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/AsaL1n/CVE-2025-24813">
 
 ---
 ## CVE-2025-24799 ()
