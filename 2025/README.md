@@ -862,6 +862,12 @@
 - [NyxanGoat/CVE-2025-22467-PoC](https://github.com/NyxanGoat/CVE-2025-22467-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NyxanGoat/CVE-2025-22467-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NyxanGoat/CVE-2025-22467-PoC">
 
 ---
+## CVE-2025-22457 ()
+> 
+- [N4SL1/CVE-2025-22457-PoC](https://github.com/N4SL1/CVE-2025-22457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/N4SL1/CVE-2025-22457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/N4SL1/CVE-2025-22457-PoC">
+- [Vinylrider/ivantiunlocker](https://github.com/Vinylrider/ivantiunlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Vinylrider/ivantiunlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Vinylrider/ivantiunlocker">
+
+---
 ## CVE-2025-2233 ()
 > 
 - [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2233">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2233">
