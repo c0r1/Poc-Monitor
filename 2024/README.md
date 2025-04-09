@@ -4324,6 +4324,11 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [wingedmicroph/CVE-2024-36401](https://github.com/wingedmicroph/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/wingedmicroph/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/wingedmicroph/CVE-2024-36401">
 
 ---
+## CVE-2024-3640 ()
+> 
+- [liuliujiu/CVE-2024-3640-WafBypass](https://github.com/liuliujiu/CVE-2024-3640-WafBypass)	<img alt="forks" src="https://img.shields.io/github/forks/liuliujiu/CVE-2024-3640-WafBypass">	<img alt="stars" src="https://img.shields.io/github/stars/liuliujiu/CVE-2024-3640-WafBypass">
+
+---
 ## CVE-2024-36117 ()
 > 
 - [saketh-osmsec/CVE-2024-36117](https://github.com/saketh-osmsec/CVE-2024-36117)	<img alt="forks" src="https://img.shields.io/github/forks/saketh-osmsec/CVE-2024-36117">	<img alt="stars" src="https://img.shields.io/github/stars/saketh-osmsec/CVE-2024-36117">
