@@ -2239,6 +2239,7 @@ Please note: authentication is not required in order to exploit this vulnerabili
 > 
 - [IndominusRexes/CVE-2024-48887-Exploit](https://github.com/IndominusRexes/CVE-2024-48887-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2024-48887-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2024-48887-Exploit">
 - [cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit](https://github.com/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit">
+- [groshi215/CVE-2024-48887-Exploit](https://github.com/groshi215/CVE-2024-48887-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/groshi215/CVE-2024-48887-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/groshi215/CVE-2024-48887-Exploit">
 
 ---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
