@@ -974,6 +974,7 @@
 - [USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [USDTC/HTA-Exploit](https://github.com/USDTC/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/HTA-Exploit">
 - [mr-won/Log4shell](https://github.com/mr-won/Log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/Log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/Log4shell">
+- [khaidtraivch/CVE-2021-44228-Log4Shell-](https://github.com/khaidtraivch/CVE-2021-44228-Log4Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-44228-Log4Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-44228-Log4Shell-">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
