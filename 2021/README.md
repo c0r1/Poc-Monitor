@@ -8676,6 +8676,11 @@
 - [frknktlca/GravCMS_Nmap_Script](https://github.com/frknktlca/GravCMS_Nmap_Script)	<img alt="forks" src="https://img.shields.io/github/forks/frknktlca/GravCMS_Nmap_Script">	<img alt="stars" src="https://img.shields.io/github/stars/frknktlca/GravCMS_Nmap_Script">
 
 ---
+## CVE-2021-21424 ()
+> 
+- [moften/CVE-2021-21424](https://github.com/moften/CVE-2021-21424)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2021-21424">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2021-21424">
+
+---
 ## CVE-2021-21408 (2022-01-10T20:15:00)
 > Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.43 and 4.0.3, template authors could run restricted static php methods. Users should upgrade to version 3.1.43 or 4.0.3 to receive a patch.
 - [Live-Hack-CVE/CVE-2021-21408](https://github.com/Live-Hack-CVE/CVE-2021-21408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21408">
