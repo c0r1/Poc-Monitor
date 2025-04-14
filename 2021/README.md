@@ -1794,6 +1794,14 @@
 - [Live-Hack-CVE/CVE-2021-42371](https://github.com/Live-Hack-CVE/CVE-2021-42371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42371">
 
 ---
+## CVE-2021-42362 ()
+> 
+- [samiba6/CVE-2021-42362](https://github.com/samiba6/CVE-2021-42362)	<img alt="forks" src="https://img.shields.io/github/forks/samiba6/CVE-2021-42362">	<img alt="stars" src="https://img.shields.io/github/stars/samiba6/CVE-2021-42362">
+- [Nate0634034090/-nate158.res.codeRex.sleepsession.type.to_s.eql-shell-](https://github.com/Nate0634034090/-nate158.res.codeRex.sleepsession.type.to_s.eql-shell-)	<img alt="forks" src="https://img.shields.io/github/forks/Nate0634034090/-nate158.res.codeRex.sleepsession.type.to_s.eql-shell-">	<img alt="stars" src="https://img.shields.io/github/stars/Nate0634034090/-nate158.res.codeRex.sleepsession.type.to_s.eql-shell-">
+- [Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e](https://github.com/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e)	<img alt="forks" src="https://img.shields.io/github/forks/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e">	<img alt="stars" src="https://img.shields.io/github/stars/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e">
+- [simonecris/CVE-2021-42362-PoC](https://github.com/simonecris/CVE-2021-42362-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/simonecris/CVE-2021-42362-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/simonecris/CVE-2021-42362-PoC">
+
+---
 ## CVE-2021-4236 (2022-12-27T22:15:00)
 > Web Sockets do not execute any AuthenticateMethod methods which may be set, leading to a nil pointer dereference if the returned UserData pointer is assumed to be non-nil, or authentication bypass. This issue only affects WebSockets with an AuthenticateMethod hook. Request handlers that do not explicitly use WebSockets are not vulnerable.
 - [Live-Hack-CVE/CVE-2021-4236](https://github.com/Live-Hack-CVE/CVE-2021-4236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4236">
