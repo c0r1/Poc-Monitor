@@ -2289,6 +2289,7 @@
 - [javaamo/CVE-2021-41773](https://github.com/javaamo/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/javaamo/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/javaamo/CVE-2021-41773">
 - [ashique-thaha/CVE-2021-41773-POC](https://github.com/ashique-thaha/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ashique-thaha/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ashique-thaha/CVE-2021-41773-POC">
 - [luongchivi/CVE-2021-41773](https://github.com/luongchivi/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/CVE-2021-41773">
+- [khaidtraivch/CVE-2021-41773-Apache-2.4.49-](https://github.com/khaidtraivch/CVE-2021-41773-Apache-2.4.49-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
