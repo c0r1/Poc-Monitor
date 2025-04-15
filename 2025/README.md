@@ -436,6 +436,21 @@
 - [0xBl4nk/CVE-2025-29278](https://github.com/0xBl4nk/CVE-2025-29278)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-29278">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-29278">
 
 ---
+## CVE-2025-29277 ()
+> 
+- [0xBl4nk/CVE-2025-29277](https://github.com/0xBl4nk/CVE-2025-29277)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-29277">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-29277">
+
+---
+## CVE-2025-29276 ()
+> 
+- [0xBl4nk/CVE-2025-29276](https://github.com/0xBl4nk/CVE-2025-29276)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-29276">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-29276">
+
+---
+## CVE-2025-29275 ()
+> 
+- [0xBl4nk/CVE-2025-29275](https://github.com/0xBl4nk/CVE-2025-29275)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-29275">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-29275">
+
+---
 ## CVE-2025-29018 ()
 > 
 - [b1tm4r/CVE-2025-29018](https://github.com/b1tm4r/CVE-2025-29018)	<img alt="forks" src="https://img.shields.io/github/forks/b1tm4r/CVE-2025-29018">	<img alt="stars" src="https://img.shields.io/github/stars/b1tm4r/CVE-2025-29018">
