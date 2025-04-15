@@ -7893,6 +7893,11 @@ If the server is run as root (which is the default when installing the  snap pac
 - [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2023-1521">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2023-1521">
 
 ---
+## CVE-2023-1514 ()
+> 
+- [wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-](https://github.com/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-)	<img alt="forks" src="https://img.shields.io/github/forks/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-">	<img alt="stars" src="https://img.shields.io/github/stars/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-">
+
+---
 ## CVE-2023-1488 (2023-03-18T21:15:00)
 > A vulnerability, which was classified as problematic, was found in Lespeed WiseCleaner Wise System Monitor 1.5.3.54. Affected is the function 0x9C40A0D8/0x9C40A0DC/0x9C40A0E0 in the library WiseHDInfo64.dll of the component IoControlCode Handler. The manipulation leads to denial of service. It is possible to launch the attack on the local host. The exploit has been disclosed to the public and may be used. VDB-223374 is the identifier assigned to this vulnerability.
 - [bxtshit/CVE-2023-1488](https://github.com/bxtshit/CVE-2023-1488)	<img alt="forks" src="https://img.shields.io/github/forks/bxtshit/CVE-2023-1488">	<img alt="stars" src="https://img.shields.io/github/stars/bxtshit/CVE-2023-1488">
