@@ -211,11 +211,13 @@
 - [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
 - [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
 - [darses/CVE-2025-32433](https://github.com/darses/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/darses/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/darses/CVE-2025-32433">
+- [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/LemieOne/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/LemieOne/CVE-2025-32433">
 
 ---
 ## CVE-2025-32395 ()
 > 
 - [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395)	<img alt="forks" src="https://img.shields.io/github/forks/ruiwenya/CVE-2025-32395">	<img alt="stars" src="https://img.shields.io/github/stars/ruiwenya/CVE-2025-32395">
+- [xuemian168/CVE-2025-30208](https://github.com/xuemian168/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-30208">
 
 ---
 ## CVE-2025-32206 ()
@@ -942,6 +944,7 @@
 - [Franconyu/Poc_for_CVE-2025-24813](https://github.com/Franconyu/Poc_for_CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Franconyu/Poc_for_CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Franconyu/Poc_for_CVE-2025-24813">
 - [Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE](https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">
 - [Mattb709/CVE-2025-24813-Scanner](https://github.com/Mattb709/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-Scanner">
+- [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/Erosion2020/CVE-2025-24813-vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/Erosion2020/CVE-2025-24813-vulhub">
 
 ---
 ## CVE-2025-24799 ()
