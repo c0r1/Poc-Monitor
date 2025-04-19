@@ -591,6 +591,11 @@
 - [lkmn1/CVE-2025-2825-Exploit](https://github.com/lkmn1/CVE-2025-2825-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lkmn1/CVE-2025-2825-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lkmn1/CVE-2025-2825-Exploit">
 
 ---
+## CVE-2025-28121 ()
+> 
+- [pruthuraut/CVE-2025-28121](https://github.com/pruthuraut/CVE-2025-28121)	<img alt="forks" src="https://img.shields.io/github/forks/pruthuraut/CVE-2025-28121">	<img alt="stars" src="https://img.shields.io/github/stars/pruthuraut/CVE-2025-28121">
+
+---
 ## CVE-2025-2807 ()
 > 
 - [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2807">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2807">
