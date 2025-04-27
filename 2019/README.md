@@ -1851,6 +1851,7 @@ use after free.
 - [zerobytesecure/CVE-2019-19781](https://github.com/zerobytesecure/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/zerobytesecure/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/zerobytesecure/CVE-2019-19781">
 - [TheRealRzyS/nmap-citrix-cve-2019-19781](https://github.com/TheRealRzyS/nmap-citrix-cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealRzyS/nmap-citrix-cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealRzyS/nmap-citrix-cve-2019-19781">
 - [mr-won/CVE-2019-19781](https://github.com/mr-won/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/CVE-2019-19781">
+- [hyunjin0334/CVE-2019-19781](https://github.com/hyunjin0334/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/hyunjin0334/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/hyunjin0334/CVE-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
