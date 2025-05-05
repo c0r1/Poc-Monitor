@@ -8211,6 +8211,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626-old-docker-versions">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626-old-docker-versions">
 
 ---
+## CVE-2024-21546 ()
+> 
+- [ajdumanhug/CVE-2024-21546](https://github.com/ajdumanhug/CVE-2024-21546)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2024-21546">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2024-21546">
+
+---
 ## CVE-2024-21542 ()
 > 
 - [L3ster1337/Poc-CVE-2024-21542](https://github.com/L3ster1337/Poc-CVE-2024-21542)	<img alt="forks" src="https://img.shields.io/github/forks/L3ster1337/Poc-CVE-2024-21542">	<img alt="stars" src="https://img.shields.io/github/stars/L3ster1337/Poc-CVE-2024-21542">
