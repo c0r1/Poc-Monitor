@@ -210,7 +210,7 @@
 ---
 ## CVE-2025-3969 ()
 > 
-- [Stuub/CVE-2025-3969](https://github.com/Stuub/CVE-2025-3969)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2025-3969">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2025-3969">
+- [Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2025-3969-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2025-3969-Exploit">
 
 ---
 ## CVE-2025-39601 ()
