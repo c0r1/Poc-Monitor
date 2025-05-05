@@ -208,6 +208,11 @@
 - [cyruscostini/CVE-2025-3971](https://github.com/cyruscostini/CVE-2025-3971)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-3971">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-3971">
 
 ---
+## CVE-2025-3969 ()
+> 
+- [Stuub/CVE-2025-3969](https://github.com/Stuub/CVE-2025-3969)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2025-3969">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2025-3969">
+
+---
 ## CVE-2025-39601 ()
 > 
 - [Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-39601">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-39601">
