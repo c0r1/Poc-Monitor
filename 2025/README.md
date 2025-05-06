@@ -58,6 +58,11 @@
 - [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226)	<img alt="forks" src="https://img.shields.io/github/forks/koyomihack00/CVE-2025-47226">	<img alt="stars" src="https://img.shields.io/github/stars/koyomihack00/CVE-2025-47226">
 
 ---
+## CVE-2025-46731 ()
+> 
+- [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731)	<img alt="forks" src="https://img.shields.io/github/forks/singetu0096/CVE-2025-46731">	<img alt="stars" src="https://img.shields.io/github/stars/singetu0096/CVE-2025-46731">
+
+---
 ## CVE-2025-46701 ()
 > 
 - [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-46701">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-46701">
