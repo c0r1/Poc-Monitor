@@ -901,10 +901,12 @@
 ## CVE-2025-28074 ()
 > 
 - [mLniumm/CVE-2025-28074](https://github.com/mLniumm/CVE-2025-28074)	<img alt="forks" src="https://img.shields.io/github/forks/mLniumm/CVE-2025-28074">	<img alt="stars" src="https://img.shields.io/github/stars/mLniumm/CVE-2025-28074">
+- [mLniumm/CVE-2025-28074](https://github.com/mLniumm/CVE-2025-28074)	<img alt="forks" src="https://img.shields.io/github/forks/mLniumm/CVE-2025-28074">	<img alt="stars" src="https://img.shields.io/github/stars/mLniumm/CVE-2025-28074">
 
 ---
 ## CVE-2025-28073 ()
 > 
+- [mLniumm/CVE-2025-28073](https://github.com/mLniumm/CVE-2025-28073)	<img alt="forks" src="https://img.shields.io/github/forks/mLniumm/CVE-2025-28073">	<img alt="stars" src="https://img.shields.io/github/stars/mLniumm/CVE-2025-28073">
 - [mLniumm/CVE-2025-28073](https://github.com/mLniumm/CVE-2025-28073)	<img alt="forks" src="https://img.shields.io/github/forks/mLniumm/CVE-2025-28073">	<img alt="stars" src="https://img.shields.io/github/stars/mLniumm/CVE-2025-28073">
 
 ---
