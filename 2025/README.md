@@ -105,6 +105,11 @@
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
 
 ---
+## CVE-2025-4403 ()
+> 
+- [Yucaerin/CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4403">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4403">
+
+---
 ## CVE-2025-43929 ()
 > 
 - [0xBenCantCode/CVE-2025-43929](https://github.com/0xBenCantCode/CVE-2025-43929)	<img alt="forks" src="https://img.shields.io/github/forks/0xBenCantCode/CVE-2025-43929">	<img alt="stars" src="https://img.shields.io/github/stars/0xBenCantCode/CVE-2025-43929">
