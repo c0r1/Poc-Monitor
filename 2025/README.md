@@ -455,6 +455,11 @@
 - [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
 
 ---
+## CVE-2025-32407 ()
+> 
+- [diegovargasj/CVE-2025-32407](https://github.com/diegovargasj/CVE-2025-32407)	<img alt="forks" src="https://img.shields.io/github/forks/diegovargasj/CVE-2025-32407">	<img alt="stars" src="https://img.shields.io/github/stars/diegovargasj/CVE-2025-32407">
+
+---
 ## CVE-2025-32395 ()
 > 
 - [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395)	<img alt="forks" src="https://img.shields.io/github/forks/ruiwenya/CVE-2025-32395">	<img alt="stars" src="https://img.shields.io/github/stars/ruiwenya/CVE-2025-32395">
