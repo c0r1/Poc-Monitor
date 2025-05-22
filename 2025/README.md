@@ -255,6 +255,7 @@
 > 
 - [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2025-4322-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2025-4322-Exploit">
 - [maximo896/CVE-2025-4322](https://github.com/maximo896/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/maximo896/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/maximo896/CVE-2025-4322">
+- [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4322">
 
 ---
 ## CVE-2025-42599 ()
@@ -337,6 +338,11 @@
 ## CVE-2025-4162025 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162025">
+
+---
+## CVE-2025-4123 ()
+> 
+- [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
 
 ---
 ## CVE-2025-412027 ()
