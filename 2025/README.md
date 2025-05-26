@@ -188,6 +188,11 @@
 - [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">
 
 ---
+## CVE-2025-46173 ()
+> 
+- [pruthuraut/CVE-2025-46173](https://github.com/pruthuraut/CVE-2025-46173)	<img alt="forks" src="https://img.shields.io/github/forks/pruthuraut/CVE-2025-46173">	<img alt="stars" src="https://img.shields.io/github/stars/pruthuraut/CVE-2025-46173">
+
+---
 ## CVE-2025-4611 ()
 > 
 - [x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/x6vrn/CVE-2025-4611-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/x6vrn/CVE-2025-4611-PoC">
@@ -1232,6 +1237,7 @@
 ## CVE-2025-27363 ()
 > 
 - [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/CVE-2025-27363-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/CVE-2025-27363-proof-of-concept">
+- [ov3rf1ow/CVE-2025-27363](https://github.com/ov3rf1ow/CVE-2025-27363)	<img alt="forks" src="https://img.shields.io/github/forks/ov3rf1ow/CVE-2025-27363">	<img alt="stars" src="https://img.shields.io/github/stars/ov3rf1ow/CVE-2025-27363">
 
 ---
 ## CVE-2025-2704 ()
