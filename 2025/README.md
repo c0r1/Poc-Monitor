@@ -24,6 +24,7 @@
 ## CVE-2025-5287 ()
 > 
 - [Nxploited/CVE-2025-5287](https://github.com/Nxploited/CVE-2025-5287)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5287">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5287">
+- [wiseep/CVE-2025-5287](https://github.com/wiseep/CVE-2025-5287)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-5287">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-5287">
 
 ---
 ## CVE-2025-510 ()
@@ -213,6 +214,11 @@
 - [korden-c/CVE-2025-4664](https://github.com/korden-c/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4664">
 - [speinador/CVE-2025-4664-](https://github.com/speinador/CVE-2025-4664-)	<img alt="forks" src="https://img.shields.io/github/forks/speinador/CVE-2025-4664-">	<img alt="stars" src="https://img.shields.io/github/stars/speinador/CVE-2025-4664-">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
+
+---
+## CVE-2025-4631 ()
+> 
+- [Nxploited/CVE-2025-4631](https://github.com/Nxploited/CVE-2025-4631)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4631">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4631">
 
 ---
 ## CVE-2025-46271 ()
