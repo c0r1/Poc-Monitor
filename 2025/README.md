@@ -1654,6 +1654,7 @@
 ## CVE-2025-2539 ()
 > 
 - [verylazytech/CVE-2025-2539](https://github.com/verylazytech/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-2539">
+- [RootHarpy/CVE-2025-2539](https://github.com/RootHarpy/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-2539">
 
 ---
 ## CVE-2025-25369 ()
@@ -2046,6 +2047,11 @@
 ## CVE-2025-22223 ()
 > 
 - [1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/1ucky7/cve-2025-22223-demo-1.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/1ucky7/cve-2025-22223-demo-1.0.0">
+
+---
+## CVE-2025-22056 ()
+> 
+- [henrymartin262/CVE-2025-22056-exploit](https://github.com/henrymartin262/CVE-2025-22056-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/henrymartin262/CVE-2025-22056-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/henrymartin262/CVE-2025-22056-exploit">
 
 ---
 ## CVE-2025-21756 ()
