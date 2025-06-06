@@ -8559,6 +8559,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696)	<img alt="forks" src="https://img.shields.io/github/forks/clearbluejar/CVE-2024-20696">	<img alt="stars" src="https://img.shields.io/github/stars/clearbluejar/CVE-2024-20696">
 
 ---
+## CVE-2024-20674 ()
+> 
+- [gpotter2/CVE-2024-20674](https://github.com/gpotter2/CVE-2024-20674)	<img alt="forks" src="https://img.shields.io/github/forks/gpotter2/CVE-2024-20674">	<img alt="stars" src="https://img.shields.io/github/stars/gpotter2/CVE-2024-20674">
+
+---
 ## CVE-2024-20666 (2024-01-09T18:15:00)
 > BitLocker Security Feature Bypass Vulnerability
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
