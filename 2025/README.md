@@ -55,6 +55,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-5068 ()
+> 
+- [amandanegefa/CVE-2025-5068](https://github.com/amandanegefa/CVE-2025-5068)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-5068">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-5068">
+
+---
 ## CVE-2025-5054 ()
 > 
 - [daryllundy/cve-2025-5054](https://github.com/daryllundy/cve-2025-5054)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/cve-2025-5054">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/cve-2025-5054">
@@ -1976,7 +1981,7 @@
 - [ThemeHackers/CVE-2025-24071](https://github.com/ThemeHackers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-24071">
 - [rubbxalc/CVE-2025-24071](https://github.com/rubbxalc/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-24071">
 - [Marcejr117/CVE-2025-24071_PoC](https://github.com/Marcejr117/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Marcejr117/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Marcejr117/CVE-2025-24071_PoC">
-- [Cesar-http/Windows-Explorer-CVE-2025-24071](https://github.com/Cesar-http/Windows-Explorer-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Cesar-http/Windows-Explorer-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Cesar-http/Windows-Explorer-CVE-2025-24071">
+- [cesarbtakeda/Windows-Explorer-CVE-2025-24071](https://github.com/cesarbtakeda/Windows-Explorer-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/Windows-Explorer-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/Windows-Explorer-CVE-2025-24071">
 - [pswalia2u/CVE-2025-24071_POC](https://github.com/pswalia2u/CVE-2025-24071_POC)	<img alt="forks" src="https://img.shields.io/github/forks/pswalia2u/CVE-2025-24071_POC">	<img alt="stars" src="https://img.shields.io/github/stars/pswalia2u/CVE-2025-24071_POC">
 - [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054_PoC">
 - [helidem/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/helidem/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054_CVE-2025-24071-PoC">
