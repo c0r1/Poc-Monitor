@@ -683,6 +683,11 @@
 - [Mattb709/CVE-2025-34028-PoC-Commvault-RCE](https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-34028-PoC-Commvault-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-34028-PoC-Commvault-RCE">
 
 ---
+## CVE-2025-33073 ()
+> 
+- [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2025-33073">
+
+---
 ## CVE-2025-33053 ()
 > 
 - [alegrason/CVE-2025-33053](https://github.com/alegrason/CVE-2025-33053)	<img alt="forks" src="https://img.shields.io/github/forks/alegrason/CVE-2025-33053">	<img alt="stars" src="https://img.shields.io/github/stars/alegrason/CVE-2025-33053">
