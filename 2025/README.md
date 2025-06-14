@@ -708,6 +708,7 @@
 > 
 - [alegrason/CVE-2025-33053](https://github.com/alegrason/CVE-2025-33053)	<img alt="forks" src="https://img.shields.io/github/forks/alegrason/CVE-2025-33053">	<img alt="stars" src="https://img.shields.io/github/stars/alegrason/CVE-2025-33053">
 - [DevBuiHieu/CVE-2025-33053-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept">
+- [detectrespondrepeat/CVE-2025-33053](https://github.com/detectrespondrepeat/CVE-2025-33053)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-33053">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-33053">
 
 ---
 ## CVE-2025-32965 ()
