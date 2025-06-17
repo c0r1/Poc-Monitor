@@ -507,6 +507,11 @@
 - [darkDev-kirosky/CVE-2025-4322](https://github.com/darkDev-kirosky/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/darkDev-kirosky/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/darkDev-kirosky/CVE-2025-4322">
 
 ---
+## CVE-2025-43200 ()
+> 
+- [allinsthon/CVE-2025-43200](https://github.com/allinsthon/CVE-2025-43200)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-43200">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-43200">
+
+---
 ## CVE-2025-42599 ()
 > 
 - [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
@@ -598,6 +603,7 @@
 - [ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-](https://github.com/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">
 - [B1ack4sh/Blackash-CVE-2025-4123](https://github.com/B1ack4sh/Blackash-CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-4123">
 - [Nowafen/cve-2025-4123](https://github.com/Nowafen/cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/cve-2025-4123">
+- [DesDoTvl/CVE-2025-4123grafana](https://github.com/DesDoTvl/CVE-2025-4123grafana)	<img alt="forks" src="https://img.shields.io/github/forks/DesDoTvl/CVE-2025-4123grafana">	<img alt="stars" src="https://img.shields.io/github/stars/DesDoTvl/CVE-2025-4123grafana">
 
 ---
 ## CVE-2025-412027 ()
