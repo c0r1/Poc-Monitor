@@ -170,6 +170,7 @@
 - [5kr1pt/WriteUp-Roundcube_CVE-2025-49113](https://github.com/5kr1pt/WriteUp-Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/WriteUp-Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/WriteUp-Roundcube_CVE-2025-49113">
 - [B1ack4sh/Blackash-CVE-2025-49113](https://github.com/B1ack4sh/Blackash-CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49113">
 - [5kr1pt/Roundcube_CVE-2025-49113](https://github.com/5kr1pt/Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/Roundcube_CVE-2025-49113">
+- [punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/roundcube-cve-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/roundcube-cve-2025-49113">
 
 ---
 ## CVE-2025-48827 ()
@@ -866,6 +867,7 @@
 - [tiemio/RCE-CVE-2025-3248](https://github.com/tiemio/RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-CVE-2025-3248">
 - [ynsmroztas/CVE-2025-3248-Langflow-RCE](https://github.com/ynsmroztas/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2025-3248-Langflow-RCE">
 - [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-3248">
+- [0xgh057r3c0n/CVE-2025-3248](https://github.com/0xgh057r3c0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
