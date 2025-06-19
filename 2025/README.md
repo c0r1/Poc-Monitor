@@ -1699,6 +1699,11 @@
 - [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 
 ---
+## CVE-2025-26443 ()
+> 
+- [Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443](https://github.com/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443">
+
+---
 ## CVE-2025-26417 ()
 > 
 - [uthrasri/CVE-2025-26417](https://github.com/uthrasri/CVE-2025-26417)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2025-26417">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2025-26417">
