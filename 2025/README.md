@@ -659,6 +659,7 @@
 - [B1ack4sh/Blackash-CVE-2025-4123](https://github.com/B1ack4sh/Blackash-CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-4123">
 - [Nowafen/cve-2025-4123](https://github.com/Nowafen/cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/cve-2025-4123">
 - [DesDoTvl/CVE-2025-4123grafana](https://github.com/DesDoTvl/CVE-2025-4123grafana)	<img alt="forks" src="https://img.shields.io/github/forks/DesDoTvl/CVE-2025-4123grafana">	<img alt="stars" src="https://img.shields.io/github/stars/DesDoTvl/CVE-2025-4123grafana">
+- [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Grafana-cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Grafana-cve-2025-4123">
 
 ---
 ## CVE-2025-412027 ()
@@ -2051,6 +2052,7 @@
 - [fatkz/CVE-2025-24813](https://github.com/fatkz/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24813">
 - [maliqto/PoC-CVE-2025-24813](https://github.com/maliqto/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/maliqto/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/maliqto/PoC-CVE-2025-24813">
 - [mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-](https://github.com/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-">
+- [x1ongsec/CVE-2025-24813](https://github.com/x1ongsec/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/x1ongsec/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/x1ongsec/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
