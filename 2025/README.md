@@ -172,6 +172,7 @@
 - [Zen-kun04/CVE-2025-49132](https://github.com/Zen-kun04/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/Zen-kun04/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/Zen-kun04/CVE-2025-49132">
 - [nfoltc/CVE-2025-49132](https://github.com/nfoltc/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/nfoltc/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/nfoltc/CVE-2025-49132">
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
+- [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
 
 ---
 ## CVE-2025-49125 ()
@@ -580,6 +581,7 @@
 - [maximo896/CVE-2025-4322](https://github.com/maximo896/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/maximo896/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/maximo896/CVE-2025-4322">
 - [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4322">
 - [darkDev-kirosky/CVE-2025-4322](https://github.com/darkDev-kirosky/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/darkDev-kirosky/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/darkDev-kirosky/CVE-2025-4322">
+- [B1ack4sh/Blackash-CVE-2025-4322](https://github.com/B1ack4sh/Blackash-CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-4322">
 
 ---
 ## CVE-2025-43200 ()
