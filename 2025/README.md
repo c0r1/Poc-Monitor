@@ -96,6 +96,11 @@
 - [voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-5280-V8-OOB">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-5280-V8-OOB">
 
 ---
+## CVE-2025-51046 ()
+> 
+- [0xMesh-X/CVE-2025-51046](https://github.com/0xMesh-X/CVE-2025-51046)	<img alt="forks" src="https://img.shields.io/github/forks/0xMesh-X/CVE-2025-51046">	<img alt="stars" src="https://img.shields.io/github/stars/0xMesh-X/CVE-2025-51046">
+
+---
 ## CVE-2025-510 ()
 > 
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
@@ -184,6 +189,7 @@
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
 - [63square/CVE-2025-49132](https://github.com/63square/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/63square/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/63square/CVE-2025-49132">
+- [melonlonmeo/CVE-2025-49132](https://github.com/melonlonmeo/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/melonlonmeo/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/melonlonmeo/CVE-2025-49132">
 
 ---
 ## CVE-2025-49125 ()
