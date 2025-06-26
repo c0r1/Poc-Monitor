@@ -8,7 +8,7 @@
 ---
 ## CVE-2025-6543 ()
 > 
-- [grupooruss/citrix-cve-2025-6543](https://github.com/grupooruss/citrix-cve-2025-6543)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/citrix-cve-2025-6543">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/citrix-cve-2025-6543">
+- [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/Citrix-cve-2025-6543">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/Citrix-cve-2025-6543">
 
 ---
 ## CVE-2025-6335 ()
