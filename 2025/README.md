@@ -179,6 +179,7 @@
 ## CVE-2025-49596 ()
 > 
 - [ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596)	<img alt="forks" src="https://img.shields.io/github/forks/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">	<img alt="stars" src="https://img.shields.io/github/stars/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">
+- [ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596)	<img alt="forks" src="https://img.shields.io/github/forks/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">	<img alt="stars" src="https://img.shields.io/github/stars/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">
 
 ---
 ## CVE-2025-49493 ()
