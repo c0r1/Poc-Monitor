@@ -48,6 +48,11 @@
 - [neko205-mx/CVE-2025-6019_Exploit](https://github.com/neko205-mx/CVE-2025-6019_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-6019_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-6019_Exploit">
 
 ---
+## CVE-2025-6018 ()
+> 
+- [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iamgithubber/CVE-2025-6018-19-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iamgithubber/CVE-2025-6018-19-exploit">
+
+---
 ## CVE-2025-5964 ()
 > 
 - [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-5964-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-5964-">
