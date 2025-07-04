@@ -1125,7 +1125,7 @@
 - [atomicjjbod/CVE-2025-32462](https://github.com/atomicjjbod/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/atomicjjbod/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/atomicjjbod/CVE-2025-32462">
 - [cybersentinelx1/CVE-2025-32462-Exploit](https://github.com/cybersentinelx1/CVE-2025-32462-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cybersentinelx1/CVE-2025-32462-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cybersentinelx1/CVE-2025-32462-Exploit">
 - [mylovem313/CVE-2025-32462](https://github.com/mylovem313/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/mylovem313/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/mylovem313/CVE-2025-32462">
-- [cyberpoul/CVE-2025-32462](https://github.com/cyberpoul/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2025-32462">
+- [cyberpoul/CVE-2025-32462-POC](https://github.com/cyberpoul/CVE-2025-32462-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2025-32462-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2025-32462-POC">
 
 ---
 ## CVE-2025-32433 ()
