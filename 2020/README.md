@@ -1355,6 +1355,7 @@
 ## CVE-2020-36180 (2021-01-07T00:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.dbcp2.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36180](https://github.com/Live-Hack-CVE/CVE-2020-36180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36180">
+- [cuijiung/jackson-CVE-2020-36180](https://github.com/cuijiung/jackson-CVE-2020-36180)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/jackson-CVE-2020-36180">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/jackson-CVE-2020-36180">
 
 ---
 ## CVE-2020-36179 (2021-01-07T00:15:00)
@@ -4647,6 +4648,11 @@
 ## CVE-2020-12061 (2021-05-21T12:15:00)
 > An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.
 - [Live-Hack-CVE/CVE-2020-12061](https://github.com/Live-Hack-CVE/CVE-2020-12061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12061">
+
+---
+## CVE-2020-11989 ()
+> 
+- [cuijiung/shiro-CVE-2020-11989](https://github.com/cuijiung/shiro-CVE-2020-11989)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/shiro-CVE-2020-11989">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/shiro-CVE-2020-11989">
 
 ---
 ## CVE-2020-11984 ()
