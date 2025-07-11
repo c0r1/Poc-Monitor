@@ -2627,6 +2627,7 @@
 - [open-AIMS/log4j](https://github.com/open-AIMS/log4j)	<img alt="forks" src="https://img.shields.io/github/forks/open-AIMS/log4j">	<img alt="stars" src="https://img.shields.io/github/stars/open-AIMS/log4j">
 - [TheInterception/Log4J-Simulation-Tool](https://github.com/TheInterception/Log4J-Simulation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/Log4J-Simulation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/Log4J-Simulation-Tool">
 - [cckuailong/log4shell_1.x](https://github.com/cckuailong/log4shell_1.x)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/log4shell_1.x">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/log4shell_1.x">
+- [cuijiung/log4j-CVE-2021-4104](https://github.com/cuijiung/log4j-CVE-2021-4104)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/log4j-CVE-2021-4104">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/log4j-CVE-2021-4104">
 
 ---
 ## CVE-2021-41010 (2023-01-05T22:15:00)
