@@ -115,6 +115,7 @@
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 - [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2025-5777">
 - [0xgh057r3c0n/CVE-2025-5777](https://github.com/0xgh057r3c0n/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-5777">
+- [Jishanluhar/CVE-2025-5777](https://github.com/Jishanluhar/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Jishanluhar/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Jishanluhar/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
@@ -428,6 +429,7 @@
 - [qq1910591211/CVE-2025-48384](https://github.com/qq1910591211/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/qq1910591211/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/qq1910591211/CVE-2025-48384">
 - [qq1910591211/CVE-2025-48384](https://github.com/qq1910591211/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/qq1910591211/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/qq1910591211/CVE-2025-48384">
 - [vinieger/CVE-2025-48384-Dockerfile](https://github.com/vinieger/CVE-2025-48384-Dockerfile)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/CVE-2025-48384-Dockerfile">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/CVE-2025-48384-Dockerfile">
+- [vinieger/vinieger-CVE-2025-48384-Dockerfile](https://github.com/vinieger/vinieger-CVE-2025-48384-Dockerfile)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/vinieger-CVE-2025-48384-Dockerfile">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/vinieger-CVE-2025-48384-Dockerfile">
 
 ---
 ## CVE-2025-4822 ()
