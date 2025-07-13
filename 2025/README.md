@@ -459,6 +459,11 @@
 - [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-48129">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-48129">
 
 ---
+## CVE-2025-47981 ()
+> 
+- [barbaraogmgf/CVE-2025-47981-POC](https://github.com/barbaraogmgf/CVE-2025-47981-POC)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraogmgf/CVE-2025-47981-POC">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraogmgf/CVE-2025-47981-POC">
+
+---
 ## CVE-2025-4784 ()
 > 
 - [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4784">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4784">
@@ -2049,6 +2054,7 @@
 > 
 - [obamalaolu/CVE-2025-27591](https://github.com/obamalaolu/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/obamalaolu/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/obamalaolu/CVE-2025-27591">
 - [rvizx/CVE-2025-27591](https://github.com/rvizx/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-27591">
+- [BridgerAlderson/CVE-2025-27591](https://github.com/BridgerAlderson/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()
