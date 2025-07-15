@@ -833,6 +833,11 @@
 - [cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0](https://github.com/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0">
 
 ---
+## CVE-2025-44177 ()
+> 
+- [stSLAYER/Lich-Sec-CVE-CVE-2025-44177-](https://github.com/stSLAYER/Lich-Sec-CVE-CVE-2025-44177-)	<img alt="forks" src="https://img.shields.io/github/forks/stSLAYER/Lich-Sec-CVE-CVE-2025-44177-">	<img alt="stars" src="https://img.shields.io/github/stars/stSLAYER/Lich-Sec-CVE-CVE-2025-44177-">
+
+---
 ## CVE-2025-44148 ()
 > 
 - [barisbaydur/CVE-2025-44148](https://github.com/barisbaydur/CVE-2025-44148)	<img alt="forks" src="https://img.shields.io/github/forks/barisbaydur/CVE-2025-44148">	<img alt="stars" src="https://img.shields.io/github/stars/barisbaydur/CVE-2025-44148">
@@ -2780,6 +2785,11 @@
 ## CVE-2025-23245655 ()
 > 
 - [cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655)	<img alt="forks" src="https://img.shields.io/github/forks/cydragLINUX/CVE-2025-23245655">	<img alt="stars" src="https://img.shields.io/github/stars/cydragLINUX/CVE-2025-23245655">
+
+---
+## CVE-2025-23167 ()
+> 
+- [abhisek3122/CVE-2025-23167](https://github.com/abhisek3122/CVE-2025-23167)	<img alt="forks" src="https://img.shields.io/github/forks/abhisek3122/CVE-2025-23167">	<img alt="stars" src="https://img.shields.io/github/stars/abhisek3122/CVE-2025-23167">
 
 ---
 ## CVE-2025-23121 ()
