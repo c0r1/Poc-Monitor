@@ -232,6 +232,7 @@
 ## CVE-2025-52688 ()
 > 
 - [joelczk/CVE-2025-52688](https://github.com/joelczk/CVE-2025-52688)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-52688">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-52688">
+- [joelczk/CVE-2025-52688](https://github.com/joelczk/CVE-2025-52688)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-52688">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-52688">
 
 ---
 ## CVE-2025-52488 ()
