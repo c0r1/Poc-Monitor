@@ -199,6 +199,11 @@
 - [B1ack4sh/Blackash-CVE-2025-53833](https://github.com/B1ack4sh/Blackash-CVE-2025-53833)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53833">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53833">
 
 ---
+## CVE-2025-53640 ()
+> 
+- [rafaelcorvino1/CVE-2025-53640-Indico-User-Enumeration-via-api-principals-BOLA-](https://github.com/rafaelcorvino1/CVE-2025-53640-Indico-User-Enumeration-via-api-principals-BOLA-)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelcorvino1/CVE-2025-53640-Indico-User-Enumeration-via-api-principals-BOLA-">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelcorvino1/CVE-2025-53640-Indico-User-Enumeration-via-api-principals-BOLA-">
+
+---
 ## CVE-2025-53547 ()
 > 
 - [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DVKunion/CVE-2025-53547-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DVKunion/CVE-2025-53547-POC">
@@ -276,6 +281,11 @@
 ## CVE-2025-52097 ()
 > 
 - [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
+
+---
+## CVE-2025-51862 ()
+> 
+- [Secsys-FDU/CVE-2025-51862](https://github.com/Secsys-FDU/CVE-2025-51862)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51862">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51862">
 
 ---
 ## CVE-2025-51860 ()
