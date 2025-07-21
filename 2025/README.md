@@ -216,6 +216,7 @@
 - [Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770](https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770">
 - [kaizensecurity/CVE-2025-53770](https://github.com/kaizensecurity/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2025-53770">
 - [n1chr0x/ZeroPoint](https://github.com/n1chr0x/ZeroPoint)	<img alt="forks" src="https://img.shields.io/github/forks/n1chr0x/ZeroPoint">	<img alt="stars" src="https://img.shields.io/github/stars/n1chr0x/ZeroPoint">
+- [paolokappa/SharePointSecurityMonitor](https://github.com/paolokappa/SharePointSecurityMonitor)	<img alt="forks" src="https://img.shields.io/github/forks/paolokappa/SharePointSecurityMonitor">	<img alt="stars" src="https://img.shields.io/github/stars/paolokappa/SharePointSecurityMonitor">
 
 ---
 ## CVE-2025-53640 ()
