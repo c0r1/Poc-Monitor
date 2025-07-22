@@ -5688,6 +5688,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-31210">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-31210">
 
 ---
+## CVE-2024-3121 ()
+> 
+- [dark-ninja10/CVE-2024-3121](https://github.com/dark-ninja10/CVE-2024-3121)	<img alt="forks" src="https://img.shields.io/github/forks/dark-ninja10/CVE-2024-3121">	<img alt="stars" src="https://img.shields.io/github/stars/dark-ninja10/CVE-2024-3121">
+
+---
 ## CVE-2024-3116 (2024-04-04T15:15:00)
 > pgAdmin <= 8.4 is affected by a  Remote Code Execution (RCE) vulnerability through the validate binary path API. This vulnerability allows attackers to execute arbitrary code on the server hosting PGAdmin, posing a severe risk to the database management system's integrity and the security of the underlying data.
 
