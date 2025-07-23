@@ -188,6 +188,7 @@
 - [SleepNotF0und/CVE-2025-5777](https://github.com/SleepNotF0und/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-5777">
 - [B1ack4sh/Blackash-CVE-2025-5777](https://github.com/B1ack4sh/Blackash-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-5777">
 - [cyberleelawat/ExploitVeer](https://github.com/cyberleelawat/ExploitVeer)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/ExploitVeer">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/ExploitVeer">
+- [Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE](https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE">
 
 ---
 ## CVE-2025-5755 ()
@@ -248,6 +249,7 @@
 - [bijikutu/CVE-2025-53770-Exploit](https://github.com/bijikutu/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bijikutu/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bijikutu/CVE-2025-53770-Exploit">
 - [Lapesha/CVE-2025-53770](https://github.com/Lapesha/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Lapesha/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Lapesha/CVE-2025-53770">
 - [b33b0y/CVE-2025-53770](https://github.com/b33b0y/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/b33b0y/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/b33b0y/CVE-2025-53770">
+- [Hassanopop/CVE-2025-53770](https://github.com/Hassanopop/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Hassanopop/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Hassanopop/CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
@@ -1468,6 +1470,7 @@
 - [B1ack4sh/Blackash-CVE-2025-32756](https://github.com/B1ack4sh/Blackash-CVE-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32756">
 - [alm6no5/CVE-2025-32756-POC](https://github.com/alm6no5/CVE-2025-32756-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alm6no5/CVE-2025-32756-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alm6no5/CVE-2025-32756-POC">
 - [becrevex/CVE-2025-32756](https://github.com/becrevex/CVE-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-32756">
+- [shan0ar/cve-2025-32756](https://github.com/shan0ar/cve-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/shan0ar/cve-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/shan0ar/cve-2025-32756">
 
 ---
 ## CVE-2025-3272025 ()
