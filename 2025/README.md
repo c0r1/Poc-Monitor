@@ -129,6 +129,7 @@
 - [skimask1690/CVE-2025-6218-POC](https://github.com/skimask1690/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skimask1690/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skimask1690/CVE-2025-6218-POC">
 - [mulwareX/CVE-2025-6218-POC](https://github.com/mulwareX/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mulwareX/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mulwareX/CVE-2025-6218-POC">
 - [absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE](https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">
+- [vulnerbyte/CVE-2025-6218](https://github.com/vulnerbyte/CVE-2025-6218)	<img alt="forks" src="https://img.shields.io/github/forks/vulnerbyte/CVE-2025-6218">	<img alt="stars" src="https://img.shields.io/github/stars/vulnerbyte/CVE-2025-6218">
 
 ---
 ## CVE-2025-6082 ()
