@@ -3523,6 +3523,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [DACC4/CVE-2024-43044-jenkins-creds](https://github.com/DACC4/CVE-2024-43044-jenkins-creds)	<img alt="forks" src="https://img.shields.io/github/forks/DACC4/CVE-2024-43044-jenkins-creds">	<img alt="stars" src="https://img.shields.io/github/stars/DACC4/CVE-2024-43044-jenkins-creds">
 
 ---
+## CVE-2024-43018 ()
+> 
+- [joaosilva21/CVE-2024-43018](https://github.com/joaosilva21/CVE-2024-43018)	<img alt="forks" src="https://img.shields.io/github/forks/joaosilva21/CVE-2024-43018">	<img alt="stars" src="https://img.shields.io/github/stars/joaosilva21/CVE-2024-43018">
+
+---
 ## CVE-2024-42992 (2024-08-23T18:15:00)
 > Python Pip Pandas v2.2.2 was discovered to contain an arbitrary file read vulnerability.
 - [juwenyi/CVE-2024-42992](https://github.com/juwenyi/CVE-2024-42992)	<img alt="forks" src="https://img.shields.io/github/forks/juwenyi/CVE-2024-42992">	<img alt="stars" src="https://img.shields.io/github/stars/juwenyi/CVE-2024-42992">
