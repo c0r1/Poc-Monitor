@@ -243,6 +243,11 @@
 - [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554)	<img alt="forks" src="https://img.shields.io/github/forks/Aman-Parmar/CVE-2025-54554">	<img alt="stars" src="https://img.shields.io/github/stars/Aman-Parmar/CVE-2025-54554">
 
 ---
+## CVE-2025-54352 ()
+> 
+- [yohannslm/CVE-2025-54352](https://github.com/yohannslm/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/yohannslm/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/yohannslm/CVE-2025-54352">
+
+---
 ## CVE-2025-54313 ()
 > 
 - [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313)	<img alt="forks" src="https://img.shields.io/github/forks/nihilor/cve-2025-54313">	<img alt="stars" src="https://img.shields.io/github/stars/nihilor/cve-2025-54313">
@@ -893,6 +898,7 @@
 ## CVE-2025-47227 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-47227](https://github.com/B1ack4sh/Blackash-CVE-2025-47227)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-47227">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-47227">
+- [synacktiv/CVE-2025-47227_CVE-2025-47228](https://github.com/synacktiv/CVE-2025-47227_CVE-2025-47228)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2025-47227_CVE-2025-47228">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2025-47227_CVE-2025-47228">
 
 ---
 ## CVE-2025-47226 ()
