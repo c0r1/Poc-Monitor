@@ -566,6 +566,11 @@
 - [xhjy2020/CVE-2025-50472](https://github.com/xhjy2020/CVE-2025-50472)	<img alt="forks" src="https://img.shields.io/github/forks/xhjy2020/CVE-2025-50472">	<img alt="stars" src="https://img.shields.io/github/stars/xhjy2020/CVE-2025-50472">
 
 ---
+## CVE-2025-50460 ()
+> 
+- [Anchor0221/CVE-2025-50460](https://github.com/Anchor0221/CVE-2025-50460)	<img alt="forks" src="https://img.shields.io/github/forks/Anchor0221/CVE-2025-50460">	<img alt="stars" src="https://img.shields.io/github/stars/Anchor0221/CVE-2025-50460">
+
+---
 ## CVE-2025-5025 ()
 > 
 - [KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025)	<img alt="forks" src="https://img.shields.io/github/forks/KiPhuong/cve-2025-5025">	<img alt="stars" src="https://img.shields.io/github/stars/KiPhuong/cve-2025-5025">
