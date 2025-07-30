@@ -1756,6 +1756,7 @@
 ## CVE-2018-1049 ()
 > 
 - [lukehebe/CVE-2018-1049](https://github.com/lukehebe/CVE-2018-1049)	<img alt="forks" src="https://img.shields.io/github/forks/lukehebe/CVE-2018-1049">	<img alt="stars" src="https://img.shields.io/github/stars/lukehebe/CVE-2018-1049">
+- [CrossedWires/foxit-pdf-generator](https://github.com/CrossedWires/foxit-pdf-generator)	<img alt="forks" src="https://img.shields.io/github/forks/CrossedWires/foxit-pdf-generator">	<img alt="stars" src="https://img.shields.io/github/stars/CrossedWires/foxit-pdf-generator">
 
 ---
 ## CVE-2018-1042 (2018-01-22T08:29:00)
