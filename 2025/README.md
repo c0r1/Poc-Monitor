@@ -601,6 +601,11 @@
 - [Anchor0221/CVE-2025-50460](https://github.com/Anchor0221/CVE-2025-50460)	<img alt="forks" src="https://img.shields.io/github/forks/Anchor0221/CVE-2025-50460">	<img alt="stars" src="https://img.shields.io/github/stars/Anchor0221/CVE-2025-50460">
 
 ---
+## CVE-2025-50420 ()
+> 
+- [Landw-hub/CVE-2025-50420](https://github.com/Landw-hub/CVE-2025-50420)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-50420">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-50420">
+
+---
 ## CVE-2025-50341 ()
 > 
 - [millad7/Axelor-vulnerability-CVE-2025-50341](https://github.com/millad7/Axelor-vulnerability-CVE-2025-50341)	<img alt="forks" src="https://img.shields.io/github/forks/millad7/Axelor-vulnerability-CVE-2025-50341">	<img alt="stars" src="https://img.shields.io/github/stars/millad7/Axelor-vulnerability-CVE-2025-50341">
