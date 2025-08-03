@@ -3102,6 +3102,7 @@
 - [ibrahimsql/cve-2025-24893](https://github.com/ibrahimsql/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/cve-2025-24893">
 - [nopgadget/CVE-2025-24893](https://github.com/nopgadget/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/nopgadget/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/nopgadget/CVE-2025-24893">
 - [Kai7788/CVE-2025-24893-RCE-PoC](https://github.com/Kai7788/CVE-2025-24893-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Kai7788/CVE-2025-24893-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Kai7788/CVE-2025-24893-RCE-PoC">
+- [AliElKhatteb/CVE-2025-24893-POC](https://github.com/AliElKhatteb/CVE-2025-24893-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2025-24893-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2025-24893-POC">
 
 ---
 ## CVE-2025-24813 ()
