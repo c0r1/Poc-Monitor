@@ -46,7 +46,7 @@
 - [wizardy0ga/CVE_2012-2982](https://github.com/wizardy0ga/CVE_2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/wizardy0ga/CVE_2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/wizardy0ga/CVE_2012-2982">
 - [JohnHammond/CVE-2012-2982](https://github.com/JohnHammond/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2012-2982">
 - [Ari-Weinberg/CVE-2012-2982](https://github.com/Ari-Weinberg/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/Ari-Weinberg/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/Ari-Weinberg/CVE-2012-2982">
-- [AlexJS6/CVE-2012-2982_Python](https://github.com/AlexJS6/CVE-2012-2982_Python)	<img alt="forks" src="https://img.shields.io/github/forks/AlexJS6/CVE-2012-2982_Python">	<img alt="stars" src="https://img.shields.io/github/stars/AlexJS6/CVE-2012-2982_Python">
+- [Gvmyz/CVE-2012-2982_Python](https://github.com/Gvmyz/CVE-2012-2982_Python)	<img alt="forks" src="https://img.shields.io/github/forks/Gvmyz/CVE-2012-2982_Python">	<img alt="stars" src="https://img.shields.io/github/stars/Gvmyz/CVE-2012-2982_Python">
 - [cd6629/CVE-2012-2982-Python-PoC](https://github.com/cd6629/CVE-2012-2982-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cd6629/CVE-2012-2982-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cd6629/CVE-2012-2982-Python-PoC">
 - [OstojaOfficial/CVE-2012-2982](https://github.com/OstojaOfficial/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/OstojaOfficial/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/OstojaOfficial/CVE-2012-2982">
 - [Dawnn3619/CVE-2012-2982](https://github.com/Dawnn3619/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/Dawnn3619/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/Dawnn3619/CVE-2012-2982">
@@ -56,6 +56,7 @@
 - [elliotosama/CVE-2012-2982](https://github.com/elliotosama/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/elliotosama/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/elliotosama/CVE-2012-2982">
 - [SieGer05/CVE-2012-2982-Webmin-Exploit](https://github.com/SieGer05/CVE-2012-2982-Webmin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SieGer05/CVE-2012-2982-Webmin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SieGer05/CVE-2012-2982-Webmin-Exploit">
 - [lpuv/CVE-2012-2982](https://github.com/lpuv/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/lpuv/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/lpuv/CVE-2012-2982">
+- [SincIDK/CVE-2012-2982-Exploit-Script](https://github.com/SincIDK/CVE-2012-2982-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/SincIDK/CVE-2012-2982-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/SincIDK/CVE-2012-2982-Exploit-Script">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
