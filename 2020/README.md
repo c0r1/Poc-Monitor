@@ -5436,6 +5436,7 @@
 - [Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Chrisync/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Chrisync/CVE-Scanner">
 - [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
 - [maqeel-git/CVE-2020-0796](https://github.com/maqeel-git/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/maqeel-git/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/maqeel-git/CVE-2020-0796">
+- [esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-](https://github.com/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-)	<img alt="forks" src="https://img.shields.io/github/forks/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-">	<img alt="stars" src="https://img.shields.io/github/stars/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)

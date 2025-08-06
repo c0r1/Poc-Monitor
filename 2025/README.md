@@ -889,6 +889,11 @@
 - [itstarsec/CVE-2025-48703](https://github.com/itstarsec/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/itstarsec/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/itstarsec/CVE-2025-48703">
 
 ---
+## CVE-2025-48621 ()
+> 
+- [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
+
+---
 ## CVE-2025-48466 ()
 > 
 - [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)	<img alt="forks" src="https://img.shields.io/github/forks/shipcod3/CVE-2025-48466">	<img alt="stars" src="https://img.shields.io/github/stars/shipcod3/CVE-2025-48466">
