@@ -372,6 +372,7 @@
 > An issue was discovered in the node-serialize package 0.0.4 for Node.js. Untrusted data passed into the unserialize() function can be exploited to achieve arbitrary code execution by passing a JavaScript Object with an Immediately Invoked Function Expression (IIFE).
 - [Cr4zyD14m0nd137/Lab-for-CVE-2017-5941](https://github.com/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">
 - [Frivolous-scholar/CVE-2017-5941-NodeJS-RCE](https://github.com/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">
+- [kylew1004/cve-2017-5941-poc-docker-lab](https://github.com/kylew1004/cve-2017-5941-poc-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/kylew1004/cve-2017-5941-poc-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/kylew1004/cve-2017-5941-poc-docker-lab">
 
 ---
 ## CVE-2017-5871 (2019-05-22T20:29:00)
