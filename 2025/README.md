@@ -2240,6 +2240,8 @@
 - [jackieya/ViteVulScan](https://github.com/jackieya/ViteVulScan)	<img alt="forks" src="https://img.shields.io/github/forks/jackieya/ViteVulScan">	<img alt="stars" src="https://img.shields.io/github/stars/jackieya/ViteVulScan">
 - [harshgupptaa/Path-Transversal-CVE-2025-31125-](https://github.com/harshgupptaa/Path-Transversal-CVE-2025-31125-)	<img alt="forks" src="https://img.shields.io/github/forks/harshgupptaa/Path-Transversal-CVE-2025-31125-">	<img alt="stars" src="https://img.shields.io/github/stars/harshgupptaa/Path-Transversal-CVE-2025-31125-">
 - [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-30208-31125-31486-32395">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-30208-31125-31486-32395">
+- [nak000/Vitejs-exploit-CVE-2025-31125-rce](https://github.com/nak000/Vitejs-exploit-CVE-2025-31125-rce)	<img alt="forks" src="https://img.shields.io/github/forks/nak000/Vitejs-exploit-CVE-2025-31125-rce">	<img alt="stars" src="https://img.shields.io/github/stars/nak000/Vitejs-exploit-CVE-2025-31125-rce">
+- [MuhammadWaseem29/Vitejs-exploit](https://github.com/MuhammadWaseem29/Vitejs-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/Vitejs-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/Vitejs-exploit">
 
 ---
 ## CVE-2025-31033 ()
