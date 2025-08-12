@@ -297,6 +297,11 @@
 - [allinsthon/CVE-2025-54948](https://github.com/allinsthon/CVE-2025-54948)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54948">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54948">
 
 ---
+## CVE-2025-54887 ()
+> 
+- [shinigami-777/PoC_CVE-2025-54887](https://github.com/shinigami-777/PoC_CVE-2025-54887)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-54887">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-54887">
+
+---
 ## CVE-2025-54794 ()
 > 
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
@@ -531,6 +536,11 @@
 > 
 - [Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">
 - [gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">
+
+---
+## CVE-2025-52385 ()
+> 
+- [Kov404/CVE-2025-52385](https://github.com/Kov404/CVE-2025-52385)	<img alt="forks" src="https://img.shields.io/github/forks/Kov404/CVE-2025-52385">	<img alt="stars" src="https://img.shields.io/github/stars/Kov404/CVE-2025-52385">
 
 ---
 ## CVE-2025-52357 ()
