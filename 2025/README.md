@@ -338,6 +338,7 @@
 - [hunters-sec/CVE-2025-55188-7z-exploit](https://github.com/hunters-sec/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-55188-7z-exploit">
 - [san8383/CVE-2025-55188-7z-POC](https://github.com/san8383/CVE-2025-55188-7z-POC)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-55188-7z-POC">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-55188-7z-POC">
 - [vadim-belous/CVE-2025-55188-PoC](https://github.com/vadim-belous/CVE-2025-55188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vadim-belous/CVE-2025-55188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vadim-belous/CVE-2025-55188-PoC">
+- [rhllsingh/CVE-2025-55188-7z-exploit](https://github.com/rhllsingh/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rhllsingh/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rhllsingh/CVE-2025-55188-7z-exploit">
 
 ---
 ## CVE-2025-54962 ()
@@ -611,6 +612,11 @@
 > 
 - [Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">
 - [gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">
+
+---
+## CVE-2025-52392 ()
+> 
+- [137f/Soosyze-CMS-2.0---CVE-2025-52392](https://github.com/137f/Soosyze-CMS-2.0---CVE-2025-52392)	<img alt="forks" src="https://img.shields.io/github/forks/137f/Soosyze-CMS-2.0---CVE-2025-52392">	<img alt="stars" src="https://img.shields.io/github/stars/137f/Soosyze-CMS-2.0---CVE-2025-52392">
 
 ---
 ## CVE-2025-52385 ()
