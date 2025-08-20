@@ -2327,6 +2327,7 @@
 - [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check)	<img alt="forks" src="https://img.shields.io/github/forks/nairuzabulhul/nuclei-template-cve-2025-31324-check">	<img alt="stars" src="https://img.shields.io/github/stars/nairuzabulhul/nuclei-template-cve-2025-31324-check">
 - [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-31324">
 - [antichainalysis/sap-netweaver-0day-CVE-2025-31324](https://github.com/antichainalysis/sap-netweaver-0day-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/antichainalysis/sap-netweaver-0day-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/antichainalysis/sap-netweaver-0day-CVE-2025-31324">
+- [harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits">
 
 ---
 ## CVE-2025-31258 ()
