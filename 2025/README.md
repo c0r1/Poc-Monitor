@@ -18,7 +18,7 @@
 ---
 ## CVE-2025-8889 ()
 > 
-- [siberkampus/-CVE-2025-8889](https://github.com/siberkampus/-CVE-2025-8889)	<img alt="forks" src="https://img.shields.io/github/forks/siberkampus/-CVE-2025-8889">	<img alt="stars" src="https://img.shields.io/github/stars/siberkampus/-CVE-2025-8889">
+- [siberkampus/CVE-2025-8889](https://github.com/siberkampus/CVE-2025-8889)	<img alt="forks" src="https://img.shields.io/github/forks/siberkampus/CVE-2025-8889">	<img alt="stars" src="https://img.shields.io/github/stars/siberkampus/CVE-2025-8889">
 
 ---
 ## CVE-2025-8875 ()
