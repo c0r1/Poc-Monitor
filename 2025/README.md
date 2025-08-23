@@ -599,6 +599,7 @@
 ## CVE-2025-52970 ()
 > 
 - [Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-](https://github.com/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-">
+- [Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass](https://github.com/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">
 
 ---
 ## CVE-2025-52914 ()
