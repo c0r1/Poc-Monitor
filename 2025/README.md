@@ -1181,6 +1181,7 @@
 - [Wh04m1001/CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-48799">
 - [KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/KOVmechatronics/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/KOVmechatronics/CVE-2025-48799">
 - [painoob/CVE-2025-48799](https://github.com/painoob/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-48799">
+- [mrk336/CVE-2025-48799](https://github.com/mrk336/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-48799">
 
 ---
 ## CVE-2025-48708 ()
@@ -3789,6 +3790,7 @@
 ## CVE-2025-24201 ()
 > 
 - [AvonBorn/CVE-2025-24201-Exploit](https://github.com/AvonBorn/CVE-2025-24201-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-24201-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-24201-Exploit">
+- [5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201](https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201">
 
 ---
 ## CVE-2025-24200 ()
