@@ -389,6 +389,7 @@
 - [elw0od/PentesterLab](https://github.com/elw0od/PentesterLab)	<img alt="forks" src="https://img.shields.io/github/forks/elw0od/PentesterLab">	<img alt="stars" src="https://img.shields.io/github/stars/elw0od/PentesterLab">
 - [solovvway/CVE-2018-6574](https://github.com/solovvway/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/solovvway/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/solovvway/CVE-2018-6574">
 - [ek1l/CVE-2018-6574](https://github.com/ek1l/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/ek1l/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/ek1l/CVE-2018-6574">
+- [memmas/CVE-2018-6574](https://github.com/memmas/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/memmas/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/memmas/CVE-2018-6574">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
