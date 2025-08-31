@@ -406,6 +406,11 @@
 - [Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575)	<img alt="forks" src="https://img.shields.io/github/forks/Aether-0/CVE-2025-55575">	<img alt="stars" src="https://img.shields.io/github/stars/Aether-0/CVE-2025-55575">
 
 ---
+## CVE-2025-55349 ()
+> 
+- [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-55349">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-55349">
+
+---
 ## CVE-2025-55287 ()
 > 
 - [Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Eternalvalhalla/CVE-2025-55287-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Eternalvalhalla/CVE-2025-55287-POC">
@@ -3154,6 +3159,7 @@
 ## CVE-2025-2776 ()
 > 
 - [mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack](https://github.com/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack">
+- [watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain](https://github.com/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain">
 
 ---
 ## CVE-2025-27636 ()
