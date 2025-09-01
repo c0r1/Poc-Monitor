@@ -2722,6 +2722,11 @@
 - [natasaka/CVE-2025-30349](https://github.com/natasaka/CVE-2025-30349)	<img alt="forks" src="https://img.shields.io/github/forks/natasaka/CVE-2025-30349">	<img alt="stars" src="https://img.shields.io/github/stars/natasaka/CVE-2025-30349">
 
 ---
+## CVE-2025-30220 ()
+> 
+- [rxerium/CVE-2025-30220](https://github.com/rxerium/CVE-2025-30220)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-30220">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-30220">
+
+---
 ## CVE-2025-30216 ()
 > 
 - [oliviaisntcringe/CVE-2025-30216-PoC](https://github.com/oliviaisntcringe/CVE-2025-30216-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oliviaisntcringe/CVE-2025-30216-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oliviaisntcringe/CVE-2025-30216-PoC">
