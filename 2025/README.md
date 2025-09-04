@@ -293,6 +293,11 @@
 - [vulnerbyte/CVE-2025-6218](https://github.com/vulnerbyte/CVE-2025-6218)	<img alt="forks" src="https://img.shields.io/github/forks/vulnerbyte/CVE-2025-6218">	<img alt="stars" src="https://img.shields.io/github/stars/vulnerbyte/CVE-2025-6218">
 
 ---
+## CVE-2025-6085 ()
+> 
+- [d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6085">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6085">
+
+---
 ## CVE-2025-6082 ()
 > 
 - [byteReaper77/CVE-2025-6082](https://github.com/byteReaper77/CVE-2025-6082)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6082">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6082">
@@ -797,6 +802,11 @@
 ## CVE-2025-52392 ()
 > 
 - [137f/Soosyze-CMS-2.0---CVE-2025-52392](https://github.com/137f/Soosyze-CMS-2.0---CVE-2025-52392)	<img alt="forks" src="https://img.shields.io/github/forks/137f/Soosyze-CMS-2.0---CVE-2025-52392">	<img alt="stars" src="https://img.shields.io/github/stars/137f/Soosyze-CMS-2.0---CVE-2025-52392">
+
+---
+## CVE-2025-52389 ()
+> 
+- [milamrk/CVE-2025-52389](https://github.com/milamrk/CVE-2025-52389)	<img alt="forks" src="https://img.shields.io/github/forks/milamrk/CVE-2025-52389">	<img alt="stars" src="https://img.shields.io/github/stars/milamrk/CVE-2025-52389">
 
 ---
 ## CVE-2025-52385 ()
@@ -2309,6 +2319,11 @@
 ## CVE-2025-32710 ()
 > 
 - [Sincan2/RCE-CVE-2025-32710](https://github.com/Sincan2/RCE-CVE-2025-32710)	<img alt="forks" src="https://img.shields.io/github/forks/Sincan2/RCE-CVE-2025-32710">	<img alt="stars" src="https://img.shields.io/github/stars/Sincan2/RCE-CVE-2025-32710">
+
+---
+## CVE-2025-32709 ()
+> 
+- [AdnanSiyat/How-to-Patch-CVE-2025-32709](https://github.com/AdnanSiyat/How-to-Patch-CVE-2025-32709)	<img alt="forks" src="https://img.shields.io/github/forks/AdnanSiyat/How-to-Patch-CVE-2025-32709">	<img alt="stars" src="https://img.shields.io/github/stars/AdnanSiyat/How-to-Patch-CVE-2025-32709">
 
 ---
 ## CVE-2025-32682 ()
