@@ -347,6 +347,11 @@
 - [d0n601/CVE-2025-5961](https://github.com/d0n601/CVE-2025-5961)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-5961">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-5961">
 
 ---
+## CVE-2025-58440 ()
+> 
+- [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2025-58440">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2025-58440">
+
+---
 ## CVE-2025-5840 ()
 > 
 - [haxerr9/CVE-2025-5840](https://github.com/haxerr9/CVE-2025-5840)	<img alt="forks" src="https://img.shields.io/github/forks/haxerr9/CVE-2025-5840">	<img alt="stars" src="https://img.shields.io/github/stars/haxerr9/CVE-2025-5840">
@@ -4018,7 +4023,7 @@
 - [Marcejr117/CVE-2025-24071_PoC](https://github.com/Marcejr117/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Marcejr117/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Marcejr117/CVE-2025-24071_PoC">
 - [cesarbtakeda/Windows-Explorer-CVE-2025-24071](https://github.com/cesarbtakeda/Windows-Explorer-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/Windows-Explorer-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/Windows-Explorer-CVE-2025-24071">
 - [pswalia2u/CVE-2025-24071_POC](https://github.com/pswalia2u/CVE-2025-24071_POC)	<img alt="forks" src="https://img.shields.io/github/forks/pswalia2u/CVE-2025-24071_POC">	<img alt="stars" src="https://img.shields.io/github/stars/pswalia2u/CVE-2025-24071_POC">
-- [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054_PoC">
+- [basekilll/CVE-2025-24054_PoC](https://github.com/basekilll/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/basekilll/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/basekilll/CVE-2025-24054_PoC">
 - [helidem/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/helidem/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054_CVE-2025-24071-PoC">
 - [f4dee-backup/CVE-2025-24071](https://github.com/f4dee-backup/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-24071">
 - [LOOKY243/CVE-2025-24071-PoC](https://github.com/LOOKY243/CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOOKY243/CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOOKY243/CVE-2025-24071-PoC">
@@ -4027,6 +4032,7 @@
 - [B1ack4sh/Blackash-CVE-2025-24071](https://github.com/B1ack4sh/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24071">
 - [DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-](https://github.com/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-)	<img alt="forks" src="https://img.shields.io/github/forks/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">	<img alt="stars" src="https://img.shields.io/github/stars/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">
 - [Royall-Researchers/CVE-2025-24071](https://github.com/Royall-Researchers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2025-24071">
+- [AC8999/CVE-2025-24071](https://github.com/AC8999/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
