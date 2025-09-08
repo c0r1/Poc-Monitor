@@ -387,6 +387,7 @@
 - [blueisbeautiful/CVE-2025-57819](https://github.com/blueisbeautiful/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-57819">
 - [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/net-hex/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/net-hex/CVE-2025-57819">
 - [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-57819">
+- [B1ack4sh/Blackash-CVE-2025-57819](https://github.com/B1ack4sh/Blackash-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
@@ -3935,6 +3936,7 @@
 - [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24799">
 - [MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MatheuZSecurity/Exploit-CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MatheuZSecurity/Exploit-CVE-2025-24799">
 - [galletitaconpate/CVE-2025-24799](https://github.com/galletitaconpate/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/galletitaconpate/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/galletitaconpate/CVE-2025-24799">
+- [Rosemary1337/CVE-2025-24799](https://github.com/Rosemary1337/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/Rosemary1337/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/Rosemary1337/CVE-2025-24799">
 
 ---
 ## CVE-2025-24797 ()
