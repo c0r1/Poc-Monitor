@@ -4009,6 +4009,11 @@
 - [AnonymousDeveloper69/CVE-2025-24221](https://github.com/AnonymousDeveloper69/CVE-2025-24221)	<img alt="forks" src="https://img.shields.io/github/forks/AnonymousDeveloper69/CVE-2025-24221">	<img alt="stars" src="https://img.shields.io/github/stars/AnonymousDeveloper69/CVE-2025-24221">
 
 ---
+## CVE-2025-24204 ()
+> 
+- [FFRI/CVE-2025-24204](https://github.com/FFRI/CVE-2025-24204)	<img alt="forks" src="https://img.shields.io/github/forks/FFRI/CVE-2025-24204">	<img alt="stars" src="https://img.shields.io/github/stars/FFRI/CVE-2025-24204">
+
+---
 ## CVE-2025-24203 ()
 > 
 - [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths)	<img alt="forks" src="https://img.shields.io/github/forks/BlueDiamond2021/iOS-CVE-2025-24203-Paths">	<img alt="stars" src="https://img.shields.io/github/stars/BlueDiamond2021/iOS-CVE-2025-24203-Paths">
