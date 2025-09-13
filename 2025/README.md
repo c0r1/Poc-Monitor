@@ -6,6 +6,11 @@
 - [drackyjr/CVE-2025-9784](https://github.com/drackyjr/CVE-2025-9784)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-9784">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-9784">
 
 ---
+## CVE-2025-9776 ()
+> 
+- [SnailSploit/CVE-2025-9776](https://github.com/SnailSploit/CVE-2025-9776)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-9776">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-9776">
+
+---
 ## CVE-2025-9491 ()
 > 
 - [barbaraeivyu/CVE-2025-9491](https://github.com/barbaraeivyu/CVE-2025-9491)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9491">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9491">
@@ -488,6 +493,11 @@
 ## CVE-2025-5640 ()
 > 
 - [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-">
+
+---
+## CVE-2025-56019 ()
+> 
+- [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">
 
 ---
 ## CVE-2025-55998 ()
