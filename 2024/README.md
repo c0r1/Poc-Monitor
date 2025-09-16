@@ -3800,6 +3800,15 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [0xLynk/CVE-2024-41570-POC](https://github.com/0xLynk/CVE-2024-41570-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xLynk/CVE-2024-41570-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xLynk/CVE-2024-41570-POC">
 
 ---
+## CVE-2024-4157 ()
+> 
+- [Ch4os1/CVE-2024-4157-SSRF-RCE](https://github.com/Ch4os1/CVE-2024-4157-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4os1/CVE-2024-4157-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4os1/CVE-2024-4157-SSRF-RCE">
+- [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/kit4py/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/kit4py/CVE-2024-41570">
+- [muhmad-umair/CVE-2024-415770-ssrf-rce](https://github.com/muhmad-umair/CVE-2024-415770-ssrf-rce)	<img alt="forks" src="https://img.shields.io/github/forks/muhmad-umair/CVE-2024-415770-ssrf-rce">	<img alt="stars" src="https://img.shields.io/github/stars/muhmad-umair/CVE-2024-415770-ssrf-rce">
+- [thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">
+- [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
+
+---
 ## CVE-2024-41453 ()
 > 
 - [php-lover-boy/CVE-2024-41453_CVE-2024-41454](https://github.com/php-lover-boy/CVE-2024-41453_CVE-2024-41454)	<img alt="forks" src="https://img.shields.io/github/forks/php-lover-boy/CVE-2024-41453_CVE-2024-41454">	<img alt="stars" src="https://img.shields.io/github/stars/php-lover-boy/CVE-2024-41453_CVE-2024-41454">
