@@ -3340,6 +3340,8 @@
 - [adjscent/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/adjscent/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/adjscent/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/adjscent/vulnerable-nextjs-14-CVE-2025-29927">
 - [sdrtba/CVE-2025-29927](https://github.com/sdrtba/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sdrtba/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sdrtba/CVE-2025-29927">
 - [iteride/CVE-2025-29927](https://github.com/iteride/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-29927">
+- [amalpvatayam67/day10-nextjs-middleware-lab](https://github.com/amalpvatayam67/day10-nextjs-middleware-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day10-nextjs-middleware-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day10-nextjs-middleware-lab">
+- [sermikr0/nextjs-middleware-auth-bypass](https://github.com/sermikr0/nextjs-middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sermikr0/nextjs-middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sermikr0/nextjs-middleware-auth-bypass">
 
 ---
 ## CVE-2025-29824 ()
@@ -3531,6 +3533,7 @@
 - [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">
 - [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP)	<img alt="forks" src="https://img.shields.io/github/forks/ghostsec420/ShatteredFTP">	<img alt="stars" src="https://img.shields.io/github/stars/ghostsec420/ShatteredFTP">
 - [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">
+- [iteride/CVE-2025-2825](https://github.com/iteride/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-2825">
 
 ---
 ## CVE-2025-28121 ()
