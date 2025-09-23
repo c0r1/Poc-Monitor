@@ -2981,6 +2981,7 @@
 - [pxx917144686/12345](https://github.com/pxx917144686/12345)	<img alt="forks" src="https://img.shields.io/github/forks/pxx917144686/12345">	<img alt="stars" src="https://img.shields.io/github/stars/pxx917144686/12345">
 - [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/apple-positional-audio-codec-invalid-header">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/apple-positional-audio-codec-invalid-header">
 - [hunters-sec/CVE-2025-31200](https://github.com/hunters-sec/CVE-2025-31200)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-31200">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-31200">
+- [serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE](https://github.com/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE">
 
 ---
 ## CVE-2025-31161 ()
@@ -4774,6 +4775,7 @@
 - [B1ack4sh/Blackash-CVE-2025-1974](https://github.com/B1ack4sh/Blackash-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1974">
 - [Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Armand2002/Exploit-CVE-2025-1974-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Armand2002/Exploit-CVE-2025-1974-Lab">
 - [BiiTts/POC-IngressNightmare-CVE-2025-1974](https://github.com/BiiTts/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-IngressNightmare-CVE-2025-1974">
+- [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-1974">
 
 ---
 ## CVE-2025-1793 ()
