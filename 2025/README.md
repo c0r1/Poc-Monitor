@@ -405,6 +405,11 @@
 - [byteReaper77/CVE-2025-59342](https://github.com/byteReaper77/CVE-2025-59342)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-59342">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-59342">
 
 ---
+## CVE-2025-59251 ()
+> 
+- [allinsthon/CVE-2025-59251](https://github.com/allinsthon/CVE-2025-59251)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-59251">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-59251">
+
+---
 ## CVE-2025-58780 ()
 > 
 - [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
@@ -567,6 +572,11 @@
 ## CVE-2025-56762 ()
 > 
 - [Shaunak-Chatterjee/CVE-2025-56762](https://github.com/Shaunak-Chatterjee/CVE-2025-56762)	<img alt="forks" src="https://img.shields.io/github/forks/Shaunak-Chatterjee/CVE-2025-56762">	<img alt="stars" src="https://img.shields.io/github/stars/Shaunak-Chatterjee/CVE-2025-56762">
+
+---
+## CVE-2025-56708 ()
+> 
+- [xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709](https://github.com/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709">
 
 ---
 ## CVE-2025-56605 ()
