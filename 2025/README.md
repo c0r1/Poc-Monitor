@@ -3449,6 +3449,7 @@
 - [iteride/CVE-2025-29927](https://github.com/iteride/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-29927">
 - [amalpvatayam67/day10-nextjs-middleware-lab](https://github.com/amalpvatayam67/day10-nextjs-middleware-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day10-nextjs-middleware-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day10-nextjs-middleware-lab">
 - [sermikr0/nextjs-middleware-auth-bypass](https://github.com/sermikr0/nextjs-middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sermikr0/nextjs-middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sermikr0/nextjs-middleware-auth-bypass">
+- [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
