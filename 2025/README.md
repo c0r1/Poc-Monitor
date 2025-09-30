@@ -514,6 +514,11 @@
 - [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
 
 ---
+## CVE-2025-57529 ()
+> 
+- [songqb-xx/CVE-2025-57529](https://github.com/songqb-xx/CVE-2025-57529)	<img alt="forks" src="https://img.shields.io/github/forks/songqb-xx/CVE-2025-57529">	<img alt="stars" src="https://img.shields.io/github/stars/songqb-xx/CVE-2025-57529">
+
+---
 ## CVE-2025-57520 ()
 > 
 - [onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">
