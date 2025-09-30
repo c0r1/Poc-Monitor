@@ -1646,6 +1646,7 @@
 - [mrk336/CVE-2025-48799](https://github.com/mrk336/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-48799">
 - [mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat](https://github.com/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">
 - [ukisshinaah/CVE-2025-48799](https://github.com/ukisshinaah/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/ukisshinaah/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/ukisshinaah/CVE-2025-48799">
+- [gmh5225/CVE-2025-48799-](https://github.com/gmh5225/CVE-2025-48799-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-48799-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-48799-">
 
 ---
 ## CVE-2025-48708 ()
@@ -2894,6 +2895,11 @@
 - [MGunturG/CVE-2025-32462](https://github.com/MGunturG/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32462">
 - [j3r1ch0123/CVE-2025-32462](https://github.com/j3r1ch0123/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-32462">
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
+
+---
+## CVE-2025-32444 ()
+> 
+- [stuxbench/vLLM-CVE-2025-32444](https://github.com/stuxbench/vLLM-CVE-2025-32444)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vLLM-CVE-2025-32444">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vLLM-CVE-2025-32444">
 
 ---
 ## CVE-2025-32434 ()
