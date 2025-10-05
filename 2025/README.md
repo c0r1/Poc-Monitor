@@ -785,6 +785,11 @@
 - [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-55668">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-55668">
 
 ---
+## CVE-2025-55616 ()
+> 
+- [livepwn/CVE-2025-55616](https://github.com/livepwn/CVE-2025-55616)	<img alt="forks" src="https://img.shields.io/github/forks/livepwn/CVE-2025-55616">	<img alt="stars" src="https://img.shields.io/github/stars/livepwn/CVE-2025-55616">
+
+---
 ## CVE-2025-55580 ()
 > 
 - [ddobrev25/CVE-2025-55580](https://github.com/ddobrev25/CVE-2025-55580)	<img alt="forks" src="https://img.shields.io/github/forks/ddobrev25/CVE-2025-55580">	<img alt="stars" src="https://img.shields.io/github/stars/ddobrev25/CVE-2025-55580">
@@ -1081,6 +1086,7 @@
 - [fentnttntnt/CVE-2025-53770](https://github.com/fentnttntnt/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/fentnttntnt/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/fentnttntnt/CVE-2025-53770">
 - [ziisenpai/CVE-2025-53770-Scanner](https://github.com/ziisenpai/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ziisenpai/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ziisenpai/CVE-2025-53770-Scanner">
 - [Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell](https://github.com/Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell)	<img alt="forks" src="https://img.shields.io/github/forks/Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell">	<img alt="stars" src="https://img.shields.io/github/stars/Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell">
+- [victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320](https://github.com/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320)	<img alt="forks" src="https://img.shields.io/github/forks/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320">	<img alt="stars" src="https://img.shields.io/github/stars/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320">
 
 ---
 ## CVE-2025-53744 ()
