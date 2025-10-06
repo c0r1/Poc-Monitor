@@ -445,6 +445,7 @@
 ## CVE-2025-59489 ()
 > 
 - [GithubKillsMyOpsec/CVE-2025-59489-POC](https://github.com/GithubKillsMyOpsec/CVE-2025-59489-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GithubKillsMyOpsec/CVE-2025-59489-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GithubKillsMyOpsec/CVE-2025-59489-POC">
+- [RealtekDotSys/Meteor](https://github.com/RealtekDotSys/Meteor)	<img alt="forks" src="https://img.shields.io/github/forks/RealtekDotSys/Meteor">	<img alt="stars" src="https://img.shields.io/github/stars/RealtekDotSys/Meteor">
 
 ---
 ## CVE-2025-59424 ()
