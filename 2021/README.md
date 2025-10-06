@@ -6110,6 +6110,7 @@
 - [FlojBoj/CVE-2021-31630](https://github.com/FlojBoj/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2021-31630">
 - [machevalia/OpenPLC-CVE-2021-31630-RCE](https://github.com/machevalia/OpenPLC-CVE-2021-31630-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/machevalia/OpenPLC-CVE-2021-31630-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/machevalia/OpenPLC-CVE-2021-31630-RCE">
 - [behindsecurity/htb-wifinetictwo-exploit](https://github.com/behindsecurity/htb-wifinetictwo-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/behindsecurity/htb-wifinetictwo-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/behindsecurity/htb-wifinetictwo-exploit">
+- [UserB1ank/CVE-2021-31630](https://github.com/UserB1ank/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/UserB1ank/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/UserB1ank/CVE-2021-31630">
 
 ---
 ## CVE-2021-31589 (2022-01-05T12:15:00)
