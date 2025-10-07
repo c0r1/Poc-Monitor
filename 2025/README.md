@@ -382,6 +382,11 @@
 - [vulnerbyte/CVE-2025-6218](https://github.com/vulnerbyte/CVE-2025-6218)	<img alt="forks" src="https://img.shields.io/github/forks/vulnerbyte/CVE-2025-6218">	<img alt="stars" src="https://img.shields.io/github/stars/vulnerbyte/CVE-2025-6218">
 
 ---
+## CVE-2025-61984 ()
+> 
+- [dgl/cve-2025-61984-poc](https://github.com/dgl/cve-2025-61984-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dgl/cve-2025-61984-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dgl/cve-2025-61984-poc">
+
+---
 ## CVE-2025-61882 ()
 > 
 - [rxerium/CVE-2025-61882](https://github.com/rxerium/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882">
