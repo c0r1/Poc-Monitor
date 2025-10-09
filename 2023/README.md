@@ -7664,6 +7664,7 @@ kernel memory, lateral privilege escalation, and container escape.
 - [zoemurmure/CVE-2023-21554-PoC](https://github.com/zoemurmure/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21554-PoC">
 - [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2023-21554">
 - [Rahul-Thakur7/CVE-2023-21554](https://github.com/Rahul-Thakur7/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Rahul-Thakur7/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Rahul-Thakur7/CVE-2023-21554">
+- [shootweb/CVE-2023-21554](https://github.com/shootweb/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/shootweb/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/shootweb/CVE-2023-21554">
 
 ---
 ## CVE-2023-21537 ()
