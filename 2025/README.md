@@ -1656,6 +1656,7 @@
 - [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49844">
 - [srozb/reditrap](https://github.com/srozb/reditrap)	<img alt="forks" src="https://img.shields.io/github/forks/srozb/reditrap">	<img alt="stars" src="https://img.shields.io/github/stars/srozb/reditrap">
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
+- [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
 
 ---
 ## CVE-2025-49721 ()
@@ -3716,7 +3717,7 @@
 - [rubbxalc/CVE-2025-29927](https://github.com/rubbxalc/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-29927">
 - [olimpiofreitas/CVE-2025-29927-scanner](https://github.com/olimpiofreitas/CVE-2025-29927-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/olimpiofreitas/CVE-2025-29927-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/olimpiofreitas/CVE-2025-29927-scanner">
 - [0xpr4bin/vulnerable-next_js_cve-2025-29927](https://github.com/0xpr4bin/vulnerable-next_js_cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xpr4bin/vulnerable-next_js_cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xpr4bin/vulnerable-next_js_cve-2025-29927">
-- [moften/CVE-2025-29927](https://github.com/moften/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-29927">
+- [moften/CVE-2025-29927_Next.js_Auth_Bypass](https://github.com/moften/CVE-2025-29927_Next.js_Auth_Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-29927_Next.js_Auth_Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-29927_Next.js_Auth_Bypass">
 - [EarthAngel666/x-middleware-exploit](https://github.com/EarthAngel666/x-middleware-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/EarthAngel666/x-middleware-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/EarthAngel666/x-middleware-exploit">
 - [enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab">
 - [sagsooz/CVE-2025-29927](https://github.com/sagsooz/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2025-29927">
