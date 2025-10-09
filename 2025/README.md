@@ -1657,6 +1657,7 @@
 - [srozb/reditrap](https://github.com/srozb/reditrap)	<img alt="forks" src="https://img.shields.io/github/forks/srozb/reditrap">	<img alt="stars" src="https://img.shields.io/github/stars/srozb/reditrap">
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
 - [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
+- [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
 
 ---
 ## CVE-2025-49721 ()
