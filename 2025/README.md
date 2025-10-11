@@ -516,6 +516,7 @@
 > 
 - [GithubKillsMyOpsec/CVE-2025-59489-POC](https://github.com/GithubKillsMyOpsec/CVE-2025-59489-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GithubKillsMyOpsec/CVE-2025-59489-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GithubKillsMyOpsec/CVE-2025-59489-POC">
 - [RealtekDotSys/Meteor](https://github.com/RealtekDotSys/Meteor)	<img alt="forks" src="https://img.shields.io/github/forks/RealtekDotSys/Meteor">	<img alt="stars" src="https://img.shields.io/github/stars/RealtekDotSys/Meteor">
+- [taptap/cve-2025-59489](https://github.com/taptap/cve-2025-59489)	<img alt="forks" src="https://img.shields.io/github/forks/taptap/cve-2025-59489">	<img alt="stars" src="https://img.shields.io/github/stars/taptap/cve-2025-59489">
 
 ---
 ## CVE-2025-5947 ()
@@ -1712,6 +1713,7 @@
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
 - [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
 - [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
+- [imbas007/CVE-2025-49844-Vulnerability-Scanner](https://github.com/imbas007/CVE-2025-49844-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-49844-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-49844-Vulnerability-Scanner">
 
 ---
 ## CVE-2025-49721 ()
