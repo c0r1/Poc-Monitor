@@ -1270,6 +1270,13 @@
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
 
 ---
+## CVE-2017-12542 ()
+> 
+- [VijayShankar22/CVE-2017-12542](https://github.com/VijayShankar22/CVE-2017-12542)	<img alt="forks" src="https://img.shields.io/github/forks/VijayShankar22/CVE-2017-12542">	<img alt="stars" src="https://img.shields.io/github/stars/VijayShankar22/CVE-2017-12542">
+- [sk1dish/ilo4-rce-vuln-scanner](https://github.com/sk1dish/ilo4-rce-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sk1dish/ilo4-rce-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sk1dish/ilo4-rce-vuln-scanner">
+- [skelsec/CVE-2017-12542](https://github.com/skelsec/CVE-2017-12542)	<img alt="forks" src="https://img.shields.io/github/forks/skelsec/CVE-2017-12542">	<img alt="stars" src="https://img.shields.io/github/stars/skelsec/CVE-2017-12542">
+
+---
 ## CVE-2017-1235 (2017-09-25T16:29:00)
 > IBM WebSphere MQ 8.0 could allow an authenticated user to cause a premature termination of a client application thread which could potentially cause denial of service. IBM X-Force ID: 123914.
 - [11k4r/CVE-2017-1235_exploit](https://github.com/11k4r/CVE-2017-1235_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/11k4r/CVE-2017-1235_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/11k4r/CVE-2017-1235_exploit">
