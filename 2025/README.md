@@ -2786,6 +2786,7 @@
 - [DesDoTvl/CVE-2025-4123grafana](https://github.com/DesDoTvl/CVE-2025-4123grafana)	<img alt="forks" src="https://img.shields.io/github/forks/DesDoTvl/CVE-2025-4123grafana">	<img alt="stars" src="https://img.shields.io/github/stars/DesDoTvl/CVE-2025-4123grafana">
 - [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Grafana-cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Grafana-cve-2025-4123">
 - [ItsNee/Grafana-CVE-2025-4123-POC](https://github.com/ItsNee/Grafana-CVE-2025-4123-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsNee/Grafana-CVE-2025-4123-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsNee/Grafana-CVE-2025-4123-POC">
+- [MorphyKutay/CVE-2025-4123-Exploit](https://github.com/MorphyKutay/CVE-2025-4123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MorphyKutay/CVE-2025-4123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MorphyKutay/CVE-2025-4123-Exploit">
 
 ---
 ## CVE-2025-412027 ()
