@@ -427,6 +427,7 @@
 - [Sachinart/CVE-2025-61882](https://github.com/Sachinart/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-61882">
 - [B1ack4sh/Blackash-CVE-2025-61882](https://github.com/B1ack4sh/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61882">
 - [zerozenxlabs/CVE-2025-61882-Oracle-EBS](https://github.com/zerozenxlabs/CVE-2025-61882-Oracle-EBS)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2025-61882-Oracle-EBS">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2025-61882-Oracle-EBS">
+- [AlloySec/CVE-2025-61882](https://github.com/AlloySec/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/AlloySec/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/AlloySec/CVE-2025-61882">
 
 ---
 ## CVE-2025-61777 ()
