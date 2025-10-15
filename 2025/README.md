@@ -561,6 +561,7 @@
 ## CVE-2025-5947 ()
 > 
 - [M4rgs/CVE-2025-5947_Exploit](https://github.com/M4rgs/CVE-2025-5947_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-5947_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-5947_Exploit">
+- [NightlyAudit/CVE-2025-5947](https://github.com/NightlyAudit/CVE-2025-5947)	<img alt="forks" src="https://img.shields.io/github/forks/NightlyAudit/CVE-2025-5947">	<img alt="stars" src="https://img.shields.io/github/stars/NightlyAudit/CVE-2025-5947">
 
 ---
 ## CVE-2025-59424 ()
