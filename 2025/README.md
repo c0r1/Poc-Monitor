@@ -6,6 +6,11 @@
 - [balajigund/Research-on-CVE-2025-9998](https://github.com/balajigund/Research-on-CVE-2025-9998)	<img alt="forks" src="https://img.shields.io/github/forks/balajigund/Research-on-CVE-2025-9998">	<img alt="stars" src="https://img.shields.io/github/stars/balajigund/Research-on-CVE-2025-9998">
 
 ---
+## CVE-2025-9967 ()
+> 
+- [OraclePatch/CVE-2025-9967](https://github.com/OraclePatch/CVE-2025-9967)	<img alt="forks" src="https://img.shields.io/github/forks/OraclePatch/CVE-2025-9967">	<img alt="stars" src="https://img.shields.io/github/stars/OraclePatch/CVE-2025-9967">
+
+---
 ## CVE-2025-9784 ()
 > 
 - [drackyjr/CVE-2025-9784](https://github.com/drackyjr/CVE-2025-9784)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-9784">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-9784">
@@ -429,6 +434,7 @@
 - [zerozenxlabs/CVE-2025-61882-Oracle-EBS](https://github.com/zerozenxlabs/CVE-2025-61882-Oracle-EBS)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2025-61882-Oracle-EBS">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2025-61882-Oracle-EBS">
 - [AlloySec/CVE-2025-61882](https://github.com/AlloySec/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/AlloySec/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/AlloySec/CVE-2025-61882">
 - [HexSentinel-cmd/CVE-2025-61882](https://github.com/HexSentinel-cmd/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/HexSentinel-cmd/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/HexSentinel-cmd/CVE-2025-61882">
+- [RootAid/CVE-2025-61882](https://github.com/RootAid/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-61882">
 
 ---
 ## CVE-2025-61777 ()
@@ -5584,6 +5590,7 @@
 > 
 - [h4xnz/CVE-2025-10294-POC](https://github.com/h4xnz/CVE-2025-10294-POC)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-10294-POC">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-10294-POC">
 - [HexSentinel-cmd/CVE-2025-10294](https://github.com/HexSentinel-cmd/CVE-2025-10294)	<img alt="forks" src="https://img.shields.io/github/forks/HexSentinel-cmd/CVE-2025-10294">	<img alt="stars" src="https://img.shields.io/github/stars/HexSentinel-cmd/CVE-2025-10294">
+- [FixingPhantom/CVE-2025-10294](https://github.com/FixingPhantom/CVE-2025-10294)	<img alt="forks" src="https://img.shields.io/github/forks/FixingPhantom/CVE-2025-10294">	<img alt="stars" src="https://img.shields.io/github/stars/FixingPhantom/CVE-2025-10294">
 
 ---
 ## CVE-2025-10184 ()
