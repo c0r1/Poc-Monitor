@@ -464,6 +464,11 @@
 - [AmalJafarzade/CVE-2025-61319](https://github.com/AmalJafarzade/CVE-2025-61319)	<img alt="forks" src="https://img.shields.io/github/forks/AmalJafarzade/CVE-2025-61319">	<img alt="stars" src="https://img.shields.io/github/stars/AmalJafarzade/CVE-2025-61319">
 
 ---
+## CVE-2025-61301 ()
+> 
+- [eGkritsis/CVE-2025-61301](https://github.com/eGkritsis/CVE-2025-61301)	<img alt="forks" src="https://img.shields.io/github/forks/eGkritsis/CVE-2025-61301">	<img alt="stars" src="https://img.shields.io/github/stars/eGkritsis/CVE-2025-61301">
+
+---
 ## CVE-2025-61183 ()
 > 
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
@@ -5495,6 +5500,11 @@
 - [Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+
+---
+## CVE-2025-11832 ()
+> 
+- [SilentPacket-cmd/CVE-2025-11832](https://github.com/SilentPacket-cmd/CVE-2025-11832)	<img alt="forks" src="https://img.shields.io/github/forks/SilentPacket-cmd/CVE-2025-11832">	<img alt="stars" src="https://img.shields.io/github/stars/SilentPacket-cmd/CVE-2025-11832">
 
 ---
 ## CVE-2025-11449 ()
