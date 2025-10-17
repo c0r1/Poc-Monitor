@@ -39,6 +39,7 @@
 ## CVE-2025-9242 ()
 > 
 - [pulsecipher/CVE-2025-9242](https://github.com/pulsecipher/CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-9242">
+- [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
 
 ---
 ## CVE-2025-9196 ()
@@ -5644,6 +5645,11 @@
 ## CVE-2025-10792 ()
 > 
 - [ZackSecurity/CVE-2025-10792-test](https://github.com/ZackSecurity/CVE-2025-10792-test)	<img alt="forks" src="https://img.shields.io/github/forks/ZackSecurity/CVE-2025-10792-test">	<img alt="stars" src="https://img.shields.io/github/stars/ZackSecurity/CVE-2025-10792-test">
+
+---
+## CVE-2025-10742 ()
+> 
+- [netspecters/CVE-2025-10742](https://github.com/netspecters/CVE-2025-10742)	<img alt="forks" src="https://img.shields.io/github/forks/netspecters/CVE-2025-10742">	<img alt="stars" src="https://img.shields.io/github/stars/netspecters/CVE-2025-10742">
 
 ---
 ## CVE-2025-10720 ()
