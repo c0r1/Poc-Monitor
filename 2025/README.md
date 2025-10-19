@@ -5670,6 +5670,7 @@
 - [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">
 - [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/aninfosec/CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/aninfosec/CVE-2025-1094">
 - [B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1094">
+- [PinkArmor/CVE-2025-1094-Lab-Setup](https://github.com/PinkArmor/CVE-2025-1094-Lab-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/PinkArmor/CVE-2025-1094-Lab-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/PinkArmor/CVE-2025-1094-Lab-Setup">
 
 ---
 ## CVE-2025-10850 ()
