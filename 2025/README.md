@@ -198,6 +198,7 @@
 - [aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool](https://github.com/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">
 - [blowrrr/cve-2025-8088](https://github.com/blowrrr/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/blowrrr/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/blowrrr/cve-2025-8088">
 - [papcaii2004/CVE-2025-8088-WinRAR-builder](https://github.com/papcaii2004/CVE-2025-8088-WinRAR-builder)	<img alt="forks" src="https://img.shields.io/github/forks/papcaii2004/CVE-2025-8088-WinRAR-builder">	<img alt="stars" src="https://img.shields.io/github/stars/papcaii2004/CVE-2025-8088-WinRAR-builder">
+- [kaucent/CVE-2025-8088](https://github.com/kaucent/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kaucent/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kaucent/CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -3731,6 +3732,7 @@
 - [acan0007/CVE-2025-31161](https://github.com/acan0007/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/acan0007/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/acan0007/CVE-2025-31161">
 - [Teexo/CVE-2025-31161](https://github.com/Teexo/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/CVE-2025-31161">
 - [0xDTC/CrushFTP-auth-bypass-CVE-2025-31161](https://github.com/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161">
+- [cesarbtakeda/CVE-2025-31161](https://github.com/cesarbtakeda/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
