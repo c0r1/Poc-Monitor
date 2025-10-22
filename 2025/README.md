@@ -445,6 +445,11 @@
 - [vulnerbyte/CVE-2025-6218](https://github.com/vulnerbyte/CVE-2025-6218)	<img alt="forks" src="https://img.shields.io/github/forks/vulnerbyte/CVE-2025-6218">	<img alt="stars" src="https://img.shields.io/github/stars/vulnerbyte/CVE-2025-6218">
 
 ---
+## CVE-2025-62168 ()
+> 
+- [monzaviman/CVE-2025-62168](https://github.com/monzaviman/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-62168">
+
+---
 ## CVE-2025-6202 ()
 > 
 - [demining/Phoenix-Rowhammer-Attack-CVE-2025-6202](https://github.com/demining/Phoenix-Rowhammer-Attack-CVE-2025-6202)	<img alt="forks" src="https://img.shields.io/github/forks/demining/Phoenix-Rowhammer-Attack-CVE-2025-6202">	<img alt="stars" src="https://img.shields.io/github/stars/demining/Phoenix-Rowhammer-Attack-CVE-2025-6202">
@@ -887,6 +892,11 @@
 ## CVE-2025-56800 ()
 > 
 - [shinyColumn/CVE-2025-56800](https://github.com/shinyColumn/CVE-2025-56800)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-56800">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-56800">
+
+---
+## CVE-2025-56799 ()
+> 
+- [shinyColumn/CVE-2025-56799](https://github.com/shinyColumn/CVE-2025-56799)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-56799">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-56799">
 
 ---
 ## CVE-2025-56795 ()
