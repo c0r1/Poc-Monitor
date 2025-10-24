@@ -587,6 +587,11 @@
 - [zer0matt/CVE-2025-60751](https://github.com/zer0matt/CVE-2025-60751)	<img alt="forks" src="https://img.shields.io/github/forks/zer0matt/CVE-2025-60751">	<img alt="stars" src="https://img.shields.io/github/stars/zer0matt/CVE-2025-60751">
 
 ---
+## CVE-2025-60749 ()
+> 
+- [yawataa/CVE-2025-60749](https://github.com/yawataa/CVE-2025-60749)	<img alt="forks" src="https://img.shields.io/github/forks/yawataa/CVE-2025-60749">	<img alt="stars" src="https://img.shields.io/github/stars/yawataa/CVE-2025-60749">
+
+---
 ## CVE-2025-60736 ()
 > 
 - [WinDyAlphA/CVE-2025-60736](https://github.com/WinDyAlphA/CVE-2025-60736)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-60736">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-60736">
