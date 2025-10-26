@@ -499,6 +499,8 @@
 - [shinyhunterz/CVE-2025-61884-61882](https://github.com/shinyhunterz/CVE-2025-61884-61882)	<img alt="forks" src="https://img.shields.io/github/forks/shinyhunterz/CVE-2025-61884-61882">	<img alt="stars" src="https://img.shields.io/github/stars/shinyhunterz/CVE-2025-61884-61882">
 - [rxerium/CVE-2025-61882-CVE-2025-61884](https://github.com/rxerium/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882-CVE-2025-61884">
 - [shinyhunt/CVE-2025-61884](https://github.com/shinyhunt/CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/shinyhunt/CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/shinyhunt/CVE-2025-61884">
+- [siddu7575/CVE-2025-61882-CVE-2025-61884](https://github.com/siddu7575/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/siddu7575/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/siddu7575/CVE-2025-61882-CVE-2025-61884">
+- [pakagronglb/oracle-security-breaches-analysis-case-study](https://github.com/pakagronglb/oracle-security-breaches-analysis-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/pakagronglb/oracle-security-breaches-analysis-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/pakagronglb/oracle-security-breaches-analysis-case-study">
 
 ---
 ## CVE-2025-61882 ()
