@@ -1225,6 +1225,7 @@
 - [digitalsnemesis/CVE-2025-55315](https://github.com/digitalsnemesis/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsnemesis/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsnemesis/CVE-2025-55315">
 - [7huukdlnkjkjba/CVE-2025-55315-](https://github.com/7huukdlnkjkjba/CVE-2025-55315-)	<img alt="forks" src="https://img.shields.io/github/forks/7huukdlnkjkjba/CVE-2025-55315-">	<img alt="stars" src="https://img.shields.io/github/stars/7huukdlnkjkjba/CVE-2025-55315-">
 - [jlinebau/CVE-2025-55315-Scanner-Monitor](https://github.com/jlinebau/CVE-2025-55315-Scanner-Monitor)	<img alt="forks" src="https://img.shields.io/github/forks/jlinebau/CVE-2025-55315-Scanner-Monitor">	<img alt="stars" src="https://img.shields.io/github/stars/jlinebau/CVE-2025-55315-Scanner-Monitor">
+- [blackquantas/CVE-2025-55315](https://github.com/blackquantas/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/blackquantas/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/blackquantas/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
@@ -1563,6 +1564,11 @@
 ## CVE-2025-53547 ()
 > 
 - [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DVKunion/CVE-2025-53547-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DVKunion/CVE-2025-53547-POC">
+
+---
+## CVE-2025-53533 ()
+> 
+- [moezbouzayani9/Pi-hole-XSS-CVE-2025-53533](https://github.com/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533)	<img alt="forks" src="https://img.shields.io/github/forks/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533">	<img alt="stars" src="https://img.shields.io/github/stars/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533">
 
 ---
 ## CVE-2025-5349 ()
