@@ -748,6 +748,8 @@
 - [jiansiting/CVE-2025-59287](https://github.com/jiansiting/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/jiansiting/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/jiansiting/CVE-2025-59287">
 - [garvitv14/CVE-2025-59287](https://github.com/garvitv14/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/garvitv14/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/garvitv14/CVE-2025-59287">
 - [exphaze/CVE-2025-59287](https://github.com/exphaze/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/exphaze/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/exphaze/CVE-2025-59287">
+- [snareloop/CVE-2025-59287](https://github.com/snareloop/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/snareloop/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/snareloop/CVE-2025-59287">
+- [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET)	<img alt="forks" src="https://img.shields.io/github/forks/0xBruno/WSUSploit.NET">	<img alt="stars" src="https://img.shields.io/github/stars/0xBruno/WSUSploit.NET">
 
 ---
 ## CVE-2025-59285 ()
@@ -5526,6 +5528,11 @@
 ## CVE-2025-22223 ()
 > 
 - [1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/1ucky7/cve-2025-22223-demo-1.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/1ucky7/cve-2025-22223-demo-1.0.0">
+
+---
+## CVE-2025-22167 ()
+> 
+- [issamjr/CVE-2025-22167](https://github.com/issamjr/CVE-2025-22167)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-22167">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-22167">
 
 ---
 ## CVE-2025-22131 ()
