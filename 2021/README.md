@@ -1032,6 +1032,11 @@
 - [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2021-44158">
 
 ---
+## CVE-2021-44142 ()
+> 
+- [WinDyAlphA/CVE-2021-44142-vulnerable-lab](https://github.com/WinDyAlphA/CVE-2021-44142-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2021-44142-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2021-44142-vulnerable-lab">
+
+---
 ## CVE-2021-44103 (2022-03-28T14:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2021-42192. Reason: This candidate is a duplicate of CVE-2021-42192. Notes: All CVE users should reference CVE-2021-42192 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103)	<img alt="forks" src="https://img.shields.io/github/forks/paulotrindadec/CVE-2021-44103">	<img alt="stars" src="https://img.shields.io/github/stars/paulotrindadec/CVE-2021-44103">
