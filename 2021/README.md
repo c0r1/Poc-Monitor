@@ -4835,6 +4835,7 @@
 - [MandipJoshi/CVE-2021-3560](https://github.com/MandipJoshi/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/MandipJoshi/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/MandipJoshi/CVE-2021-3560">
 - [Antoine-MANTIS/POC-Bash-CVE-2021-3560](https://github.com/Antoine-MANTIS/POC-Bash-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/Antoine-MANTIS/POC-Bash-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/Antoine-MANTIS/POC-Bash-CVE-2021-3560">
 - [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
+- [titusG85/SideWinder-Exploit](https://github.com/titusG85/SideWinder-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/titusG85/SideWinder-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/titusG85/SideWinder-Exploit">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
@@ -6748,6 +6749,7 @@
 - [magicrc/CVE-2021-29447](https://github.com/magicrc/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2021-29447">
 - [Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7](https://github.com/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7)	<img alt="forks" src="https://img.shields.io/github/forks/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7">	<img alt="stars" src="https://img.shields.io/github/stars/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7">
 - [0xricksanchez/CVE-2021-29447](https://github.com/0xricksanchez/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/0xricksanchez/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/0xricksanchez/CVE-2021-29447">
+- [ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-](https://github.com/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)
