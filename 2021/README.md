@@ -4834,6 +4834,7 @@
 - [arcslash/exploit_CVE-2021-3560](https://github.com/arcslash/exploit_CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/arcslash/exploit_CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/arcslash/exploit_CVE-2021-3560">
 - [MandipJoshi/CVE-2021-3560](https://github.com/MandipJoshi/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/MandipJoshi/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/MandipJoshi/CVE-2021-3560">
 - [Antoine-MANTIS/POC-Bash-CVE-2021-3560](https://github.com/Antoine-MANTIS/POC-Bash-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/Antoine-MANTIS/POC-Bash-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/Antoine-MANTIS/POC-Bash-CVE-2021-3560">
+- [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
@@ -6746,6 +6747,7 @@
 - [specializzazione-cyber-security/demo-CVE-2021-29447-lezione](https://github.com/specializzazione-cyber-security/demo-CVE-2021-29447-lezione)	<img alt="forks" src="https://img.shields.io/github/forks/specializzazione-cyber-security/demo-CVE-2021-29447-lezione">	<img alt="stars" src="https://img.shields.io/github/stars/specializzazione-cyber-security/demo-CVE-2021-29447-lezione">
 - [magicrc/CVE-2021-29447](https://github.com/magicrc/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2021-29447">
 - [Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7](https://github.com/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7)	<img alt="forks" src="https://img.shields.io/github/forks/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7">	<img alt="stars" src="https://img.shields.io/github/stars/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7">
+- [0xricksanchez/CVE-2021-29447](https://github.com/0xricksanchez/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/0xricksanchez/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/0xricksanchez/CVE-2021-29447">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)
