@@ -1793,6 +1793,7 @@
 - [sethwhy/BlueDoor](https://github.com/sethwhy/BlueDoor)	<img alt="forks" src="https://img.shields.io/github/forks/sethwhy/BlueDoor">	<img alt="stars" src="https://img.shields.io/github/stars/sethwhy/BlueDoor">
 - [DenuwanJayasekara/CVE-Exploitation-Reports](https://github.com/DenuwanJayasekara/CVE-Exploitation-Reports)	<img alt="forks" src="https://img.shields.io/github/forks/DenuwanJayasekara/CVE-Exploitation-Reports">	<img alt="stars" src="https://img.shields.io/github/stars/DenuwanJayasekara/CVE-Exploitation-Reports">
 - [AnugiArrawwala/CVE-Research](https://github.com/AnugiArrawwala/CVE-Research)	<img alt="forks" src="https://img.shields.io/github/forks/AnugiArrawwala/CVE-Research">	<img alt="stars" src="https://img.shields.io/github/stars/AnugiArrawwala/CVE-Research">
+- [B1ack4sh/Blackash-CVE-2017-0144](https://github.com/B1ack4sh/Blackash-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2017-0144">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)
