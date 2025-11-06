@@ -8934,6 +8934,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [PolarisXSec/CVE-2024-21413](https://github.com/PolarisXSec/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/PolarisXSec/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/PolarisXSec/CVE-2024-21413">
 - [MQKGitHub/Moniker-Link-CVE-2024-21413](https://github.com/MQKGitHub/Moniker-Link-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/MQKGitHub/Moniker-Link-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/MQKGitHub/Moniker-Link-CVE-2024-21413">
 - [yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-](https://github.com/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-">
+- [gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC](https://github.com/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
