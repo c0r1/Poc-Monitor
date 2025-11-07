@@ -494,6 +494,11 @@
 - [Kgan0509/CVE-2025-63441](https://github.com/Kgan0509/CVE-2025-63441)	<img alt="forks" src="https://img.shields.io/github/forks/Kgan0509/CVE-2025-63441">	<img alt="stars" src="https://img.shields.io/github/stars/Kgan0509/CVE-2025-63441">
 
 ---
+## CVE-2025-63420 ()
+> 
+- [MMAKINGDOM/CVE-2025-63420](https://github.com/MMAKINGDOM/CVE-2025-63420)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-63420">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-63420">
+
+---
 ## CVE-2025-63353 ()
 > 
 - [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/hanianis/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/hanianis/CVE-2025-63353">
@@ -765,6 +770,11 @@
 - [Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6058">
 - [JayVillain/Scan-CVE-2025-6058](https://github.com/JayVillain/Scan-CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/JayVillain/Scan-CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/JayVillain/Scan-CVE-2025-6058">
 - [0xgh057r3c0n/CVE-2025-6058](https://github.com/0xgh057r3c0n/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6058">
+
+---
+## CVE-2025-60574 ()
+> 
+- [jacopoaugelli/CVE-2025-60574](https://github.com/jacopoaugelli/CVE-2025-60574)	<img alt="forks" src="https://img.shields.io/github/forks/jacopoaugelli/CVE-2025-60574">	<img alt="stars" src="https://img.shields.io/github/stars/jacopoaugelli/CVE-2025-60574">
 
 ---
 ## CVE-2025-60503 ()
