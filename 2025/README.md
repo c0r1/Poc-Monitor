@@ -40,6 +40,7 @@
 ## CVE-2025-9491 ()
 > 
 - [barbaraeivyu/CVE-2025-9491](https://github.com/barbaraeivyu/CVE-2025-9491)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9491">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9491">
+- [Amperclock/CVE-2025-9491_POC](https://github.com/Amperclock/CVE-2025-9491_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Amperclock/CVE-2025-9491_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Amperclock/CVE-2025-9491_POC">
 
 ---
 ## CVE-2025-9286 ()
