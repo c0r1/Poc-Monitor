@@ -2990,6 +2990,7 @@
 - [sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit](https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit">
 - [Cappricio-Securities/CVE-2021-40438](https://github.com/Cappricio-Securities/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2021-40438">
 - [n0m-d/CVE-2021-40438-POC](https://github.com/n0m-d/CVE-2021-40438-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n0m-d/CVE-2021-40438-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n0m-d/CVE-2021-40438-POC">
+- [yakir2b/check-point-gateways-rce](https://github.com/yakir2b/check-point-gateways-rce)	<img alt="forks" src="https://img.shields.io/github/forks/yakir2b/check-point-gateways-rce">	<img alt="stars" src="https://img.shields.io/github/stars/yakir2b/check-point-gateways-rce">
 
 ---
 ## CVE-2021-40419 (2022-01-28T20:15:00)
