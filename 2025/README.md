@@ -444,6 +444,7 @@
 ## CVE-2025-64495 ()
 > 
 - [AlphabugX/CVE-2025-64495-POC](https://github.com/AlphabugX/CVE-2025-64495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2025-64495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2025-64495-POC">
+- [B1ack4sh/Blackash-CVE-2025-64495](https://github.com/B1ack4sh/Blackash-CVE-2025-64495)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64495">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64495">
 
 ---
 ## CVE-2025-64459 ()
@@ -505,6 +506,11 @@
 ## CVE-2025-63420 ()
 > 
 - [MMAKINGDOM/CVE-2025-63420](https://github.com/MMAKINGDOM/CVE-2025-63420)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-63420">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-63420">
+
+---
+## CVE-2025-63419 ()
+> 
+- [MMAKINGDOM/CVE-2025-63419](https://github.com/MMAKINGDOM/CVE-2025-63419)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-63419">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-63419">
 
 ---
 ## CVE-2025-63353 ()
