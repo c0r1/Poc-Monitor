@@ -478,6 +478,11 @@
 - [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/CrafterCMS-CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/CrafterCMS-CVE-2025-6384">
 
 ---
+## CVE-2025-63666 ()
+> 
+- [Remenis/CVE-2025-63666](https://github.com/Remenis/CVE-2025-63666)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-63666">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-63666">
+
+---
 ## CVE-2025-63589 ()
 > 
 - [cybercrewinc/CVE-2025-63589](https://github.com/cybercrewinc/CVE-2025-63589)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63589">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63589">
@@ -6482,6 +6487,11 @@
 - [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)	<img alt="forks" src="https://img.shields.io/github/forks/yuuouu/ColorOS-CVE-2025-10184">	<img alt="stars" src="https://img.shields.io/github/stars/yuuouu/ColorOS-CVE-2025-10184">
 - [Webpage-gh/CVE-2025-10184-PoC](https://github.com/Webpage-gh/CVE-2025-10184-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Webpage-gh/CVE-2025-10184-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Webpage-gh/CVE-2025-10184-PoC">
 - [ENGWes/ColorOS-CVE-2025-10184](https://github.com/ENGWes/ColorOS-CVE-2025-10184)	<img alt="forks" src="https://img.shields.io/github/forks/ENGWes/ColorOS-CVE-2025-10184">	<img alt="stars" src="https://img.shields.io/github/stars/ENGWes/ColorOS-CVE-2025-10184">
+
+---
+## CVE-2025-10161 ()
+> 
+- [FeZqq/CVE-2025-10161](https://github.com/FeZqq/CVE-2025-10161)	<img alt="forks" src="https://img.shields.io/github/forks/FeZqq/CVE-2025-10161">	<img alt="stars" src="https://img.shields.io/github/stars/FeZqq/CVE-2025-10161">
 
 ---
 ## CVE-2025-1015 ()
