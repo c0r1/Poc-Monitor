@@ -446,6 +446,11 @@
 - [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberency/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberency/CVE-2025-6514">
 
 ---
+## CVE-2025-64708 ()
+> 
+- [DylanDavis1/CVE-2025-64708](https://github.com/DylanDavis1/CVE-2025-64708)	<img alt="forks" src="https://img.shields.io/github/forks/DylanDavis1/CVE-2025-64708">	<img alt="stars" src="https://img.shields.io/github/stars/DylanDavis1/CVE-2025-64708">
+
+---
 ## CVE-2025-64495 ()
 > 
 - [AlphabugX/CVE-2025-64495-POC](https://github.com/AlphabugX/CVE-2025-64495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2025-64495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2025-64495-POC">
@@ -4045,6 +4050,7 @@
 > 
 - [2h3ph3rd/CVE-2025-32434](https://github.com/2h3ph3rd/CVE-2025-32434)	<img alt="forks" src="https://img.shields.io/github/forks/2h3ph3rd/CVE-2025-32434">	<img alt="stars" src="https://img.shields.io/github/stars/2h3ph3rd/CVE-2025-32434">
 - [cyhe50/cve-2025-32434-poc](https://github.com/cyhe50/cve-2025-32434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cyhe50/cve-2025-32434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cyhe50/cve-2025-32434-poc">
+- [Camier/VOIXCODER](https://github.com/Camier/VOIXCODER)	<img alt="forks" src="https://img.shields.io/github/forks/Camier/VOIXCODER">	<img alt="stars" src="https://img.shields.io/github/stars/Camier/VOIXCODER">
 
 ---
 ## CVE-2025-32433 ()
