@@ -4044,6 +4044,7 @@
 ## CVE-2025-32434 ()
 > 
 - [2h3ph3rd/CVE-2025-32434](https://github.com/2h3ph3rd/CVE-2025-32434)	<img alt="forks" src="https://img.shields.io/github/forks/2h3ph3rd/CVE-2025-32434">	<img alt="stars" src="https://img.shields.io/github/stars/2h3ph3rd/CVE-2025-32434">
+- [cyhe50/cve-2025-32434-poc](https://github.com/cyhe50/cve-2025-32434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cyhe50/cve-2025-32434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cyhe50/cve-2025-32434-poc">
 
 ---
 ## CVE-2025-32433 ()
