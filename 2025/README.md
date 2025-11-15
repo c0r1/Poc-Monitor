@@ -307,6 +307,7 @@
 - [Gabriel-Lacorte/CVE-2025-7771](https://github.com/Gabriel-Lacorte/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2025-7771">
 - [Demoo1337/ThrottleStop](https://github.com/Demoo1337/ThrottleStop)	<img alt="forks" src="https://img.shields.io/github/forks/Demoo1337/ThrottleStop">	<img alt="stars" src="https://img.shields.io/github/stars/Demoo1337/ThrottleStop">
 - [fxrstor/ThrottleStopPoC](https://github.com/fxrstor/ThrottleStopPoC)	<img alt="forks" src="https://img.shields.io/github/forks/fxrstor/ThrottleStopPoC">	<img alt="stars" src="https://img.shields.io/github/stars/fxrstor/ThrottleStopPoC">
+- [AmrHuss/throttlestop-exploit-rw](https://github.com/AmrHuss/throttlestop-exploit-rw)	<img alt="forks" src="https://img.shields.io/github/forks/AmrHuss/throttlestop-exploit-rw">	<img alt="stars" src="https://img.shields.io/github/stars/AmrHuss/throttlestop-exploit-rw">
 
 ---
 ## CVE-2025-7769 ()
@@ -491,6 +492,7 @@
 - [sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC](https://github.com/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">
 - [sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC](https://github.com/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">
 - [B1ack4sh/Blackash-CVE-2025-64446](https://github.com/B1ack4sh/Blackash-CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64446">
+- [soltanali0/CVE-2025-64446-Exploit](https://github.com/soltanali0/CVE-2025-64446-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-64446-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-64446-Exploit">
 
 ---
 ## CVE-2025-64403 ()
@@ -618,6 +620,11 @@
 > 
 - [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
 - [Malayke/n8n-remote-code-execution-cve-2025-62726-exploit](https://github.com/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">
+
+---
+## CVE-2025-62507 ()
+> 
+- [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
 
 ---
 ## CVE-2025-62506 ()
