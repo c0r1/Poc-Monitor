@@ -2879,6 +2879,7 @@ use after free.
 - [josemlwdf/CVE-2019-13272](https://github.com/josemlwdf/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/josemlwdf/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/josemlwdf/CVE-2019-13272">
 - [umsundu/CVE-2019-13272](https://github.com/umsundu/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/umsundu/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/umsundu/CVE-2019-13272">
 - [letsr00t/CVE-2019-13272](https://github.com/letsr00t/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2019-13272">
+- [Chinmay1743/ptrace-vuln](https://github.com/Chinmay1743/ptrace-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Chinmay1743/ptrace-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Chinmay1743/ptrace-vuln">
 
 ---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
