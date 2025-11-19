@@ -9413,6 +9413,9 @@
 - [DLL00P/CVE-2021-1675](https://github.com/DLL00P/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/DLL00P/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/DLL00P/CVE-2021-1675">
 - [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
 - [ccordeiro/CVE-2021-1675](https://github.com/ccordeiro/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-1675">
+- [VoiidByte/Impacket](https://github.com/VoiidByte/Impacket)	<img alt="forks" src="https://img.shields.io/github/forks/VoiidByte/Impacket">	<img alt="stars" src="https://img.shields.io/github/stars/VoiidByte/Impacket">
+- [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
+- [000Tonio/cve-2021-1675](https://github.com/000Tonio/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/000Tonio/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/000Tonio/cve-2021-1675">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
