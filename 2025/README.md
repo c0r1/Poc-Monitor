@@ -3701,6 +3701,11 @@
 - [hacefresko/CVE-2025-40634](https://github.com/hacefresko/CVE-2025-40634)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2025-40634">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2025-40634">
 
 ---
+## CVE-2025-40629 ()
+> 
+- [omr00t/CVE-2025-40629](https://github.com/omr00t/CVE-2025-40629)	<img alt="forks" src="https://img.shields.io/github/forks/omr00t/CVE-2025-40629">	<img alt="stars" src="https://img.shields.io/github/stars/omr00t/CVE-2025-40629">
+
+---
 ## CVE-2025-4009 ()
 > 
 - [realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-4009">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-4009">
@@ -5157,6 +5162,7 @@
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
 - [krn966/CVE-2025-27591](https://github.com/krn966/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/krn966/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/krn966/CVE-2025-27591">
 - [0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591](https://github.com/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">
+- [0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Jeff/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Jeff/CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()
