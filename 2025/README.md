@@ -264,6 +264,11 @@
 - [Nxploited/CVE-2025-7955](https://github.com/Nxploited/CVE-2025-7955)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7955">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7955">
 
 ---
+## CVE-2025-7892 ()
+> 
+- [FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form](https://github.com/FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form)	<img alt="forks" src="https://img.shields.io/github/forks/FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form">	<img alt="stars" src="https://img.shields.io/github/stars/FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form">
+
+---
 ## CVE-2025-7850 ()
 > 
 - [ByteHawkSec/CVE-2025-7850-POC](https://github.com/ByteHawkSec/CVE-2025-7850-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-7850-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-7850-POC">
