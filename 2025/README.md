@@ -6062,6 +6062,11 @@
 - [mrk336/CVE-2025-23266](https://github.com/mrk336/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-23266">
 
 ---
+## CVE-2025-23247 ()
+> 
+- [SpiralBL0CK/CVE-2025-23247](https://github.com/SpiralBL0CK/CVE-2025-23247)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2025-23247">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2025-23247">
+
+---
 ## CVE-2025-23245655 ()
 > 
 - [cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655)	<img alt="forks" src="https://img.shields.io/github/forks/cydragLINUX/CVE-2025-23245655">	<img alt="stars" src="https://img.shields.io/github/stars/cydragLINUX/CVE-2025-23245655">
