@@ -573,6 +573,11 @@
 - [Shubham03007/CVE-2025-63830](https://github.com/Shubham03007/CVE-2025-63830)	<img alt="forks" src="https://img.shields.io/github/forks/Shubham03007/CVE-2025-63830">	<img alt="stars" src="https://img.shields.io/github/stars/Shubham03007/CVE-2025-63830">
 
 ---
+## CVE-2025-63729 ()
+> 
+- [Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-](https://github.com/Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-">
+
+---
 ## CVE-2025-63700 ()
 > 
 - [itsnishat08/CVE-2025-63700](https://github.com/itsnishat08/CVE-2025-63700)	<img alt="forks" src="https://img.shields.io/github/forks/itsnishat08/CVE-2025-63700">	<img alt="stars" src="https://img.shields.io/github/stars/itsnishat08/CVE-2025-63700">
@@ -1988,6 +1993,7 @@
 - [Momollax/CVE-2025-53772-IIS-WebDeploy-RCE](https://github.com/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE">
 - [fortihack/CVE-2025-53772](https://github.com/fortihack/CVE-2025-53772)	<img alt="forks" src="https://img.shields.io/github/forks/fortihack/CVE-2025-53772">	<img alt="stars" src="https://img.shields.io/github/stars/fortihack/CVE-2025-53772">
 - [go-bi/CVE-2025-53772-](https://github.com/go-bi/CVE-2025-53772-)	<img alt="forks" src="https://img.shields.io/github/forks/go-bi/CVE-2025-53772-">	<img alt="stars" src="https://img.shields.io/github/stars/go-bi/CVE-2025-53772-">
+- [SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC](https://github.com/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC">
 
 ---
 ## CVE-2025-53770 ()
