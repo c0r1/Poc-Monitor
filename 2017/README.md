@@ -320,6 +320,7 @@
 - [caique-garbim/CVE-2017-7494_SambaCry](https://github.com/caique-garbim/CVE-2017-7494_SambaCry)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2017-7494_SambaCry">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2017-7494_SambaCry">
 - [00mjk/exploit-CVE-2017-7494](https://github.com/00mjk/exploit-CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/00mjk/exploit-CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/00mjk/exploit-CVE-2017-7494">
 - [Live-Hack-CVE/CVE-2017-7494](https://github.com/Live-Hack-CVE/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7494">
+- [FelipeR-UFBA/cve-2017-7494-fixed](https://github.com/FelipeR-UFBA/cve-2017-7494-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/FelipeR-UFBA/cve-2017-7494-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/FelipeR-UFBA/cve-2017-7494-fixed">
 
 ---
 ## CVE-2017-7410 (2017-04-03T22:59:00)
