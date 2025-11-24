@@ -259,6 +259,11 @@
 - [Live-Hack-CVE/CVE-2019-8550](https://github.com/Live-Hack-CVE/CVE-2019-8550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8550">
 
 ---
+## CVE-2019-8451 ()
+> 
+- [b0ul1/CVE-2019-8451](https://github.com/b0ul1/CVE-2019-8451)	<img alt="forks" src="https://img.shields.io/github/forks/b0ul1/CVE-2019-8451">	<img alt="stars" src="https://img.shields.io/github/stars/b0ul1/CVE-2019-8451">
+
+---
 ## CVE-2019-8331 (2019-02-20T16:29:00)
 > In Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute.
 - [Thampakon/CVE-2019-8331](https://github.com/Thampakon/CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2019-8331">
