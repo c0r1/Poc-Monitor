@@ -2426,6 +2426,7 @@
 - [FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit](https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">
 - [adrianmafandy/CVE-2021-41773](https://github.com/adrianmafandy/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/adrianmafandy/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/adrianmafandy/CVE-2021-41773">
 - [thushan-123/apache_http_server_CVE-2021-41773](https://github.com/thushan-123/apache_http_server_CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/thushan-123/apache_http_server_CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/thushan-123/apache_http_server_CVE-2021-41773">
+- [faizdotid/CVE-2021-41773](https://github.com/faizdotid/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
