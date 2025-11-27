@@ -786,6 +786,11 @@
 - [baktistr/cve-2025-62726-poc](https://github.com/baktistr/cve-2025-62726-poc)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-poc">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-poc">
 
 ---
+## CVE-2025-62593 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-62593](https://github.com/B1ack4sh/Blackash-CVE-2025-62593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-62593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-62593">
+
+---
 ## CVE-2025-62507 ()
 > 
 - [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
