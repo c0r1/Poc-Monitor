@@ -8689,6 +8689,7 @@
 > 
 - [gui2000guix-ui/cve-2021-21980-nuclei-poc](https://github.com/gui2000guix-ui/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-nuclei-poc">
 - [pkxk5pr6m2-web/cve-2021-21980-nuclei-poc](https://github.com/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">
+- [gui2000guix-ui/cve-2021-21980-mock-server](https://github.com/gui2000guix-ui/cve-2021-21980-mock-server)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-mock-server">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-mock-server">
 
 ---
 ## CVE-2021-21974 (2021-02-24T17:15:00)
