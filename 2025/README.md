@@ -4212,7 +4212,7 @@
 - [sleepasleepzzz/CVE-2025-33073](https://github.com/sleepasleepzzz/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sleepasleepzzz/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sleepasleepzzz/CVE-2025-33073">
 - [SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073](https://github.com/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
-- [B1ack4sh/Blackash-CVE-2025-33073](https://github.com/B1ack4sh/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-33073">
+- [Ashwesker/Blackash-CVE-2025-33073](https://github.com/Ashwesker/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
