@@ -623,6 +623,7 @@
 - [xxoprt/CVE-2025-6440](https://github.com/xxoprt/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/CVE-2025-6440">
 - [Nxploited/CVE-2025-6440](https://github.com/Nxploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6440">
 - [m2hcz/CVE-2025-6440-Poc-Exploit](https://github.com/m2hcz/CVE-2025-6440-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/CVE-2025-6440-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/CVE-2025-6440-Poc-Exploit">
+- [smuft1707/CVE-2025-6440](https://github.com/smuft1707/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/smuft1707/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/smuft1707/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()
@@ -6797,6 +6798,11 @@
 ## CVE-2025-1461 ()
 > 
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
+
+---
+## CVE-2025-13796 ()
+> 
+- [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
 
 ---
 ## CVE-2025-13615 ()
