@@ -1303,6 +1303,11 @@
 - [NightlyAudit/CVE-2025-5947](https://github.com/NightlyAudit/CVE-2025-5947)	<img alt="forks" src="https://img.shields.io/github/forks/NightlyAudit/CVE-2025-5947">	<img alt="stars" src="https://img.shields.io/github/stars/NightlyAudit/CVE-2025-5947">
 
 ---
+## CVE-2025-59427 ()
+> 
+- [ibnurusdianto/CVE-2025-59427](https://github.com/ibnurusdianto/CVE-2025-59427)	<img alt="forks" src="https://img.shields.io/github/forks/ibnurusdianto/CVE-2025-59427">	<img alt="stars" src="https://img.shields.io/github/stars/ibnurusdianto/CVE-2025-59427">
+
+---
 ## CVE-2025-59424 ()
 > 
 - [JOOJIII/CVE-2025-59424](https://github.com/JOOJIII/CVE-2025-59424)	<img alt="forks" src="https://img.shields.io/github/forks/JOOJIII/CVE-2025-59424">	<img alt="stars" src="https://img.shields.io/github/stars/JOOJIII/CVE-2025-59424">
