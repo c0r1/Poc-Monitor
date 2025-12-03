@@ -1598,6 +1598,11 @@
 - [sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515)	<img alt="forks" src="https://img.shields.io/github/forks/sanchitsahni/CVE-2025-57515">	<img alt="stars" src="https://img.shields.io/github/stars/sanchitsahni/CVE-2025-57515">
 
 ---
+## CVE-2025-57489 ()
+> 
+- [graypixel2121/CVE-2025-57489](https://github.com/graypixel2121/CVE-2025-57489)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-57489">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-57489">
+
+---
 ## CVE-2025-57457 ()
 > 
 - [restdone/CVE-2025-57457](https://github.com/restdone/CVE-2025-57457)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2025-57457">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2025-57457">
@@ -6124,6 +6129,7 @@
 - [80Ottanta80/CVE-2025-24893-PoC](https://github.com/80Ottanta80/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2025-24893-PoC">
 - [kimtangker/CVE-2025-24893](https://github.com/kimtangker/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/kimtangker/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/kimtangker/CVE-2025-24893">
 - [B1ack4sh/Blackash-CVE-2025-24893](https://github.com/B1ack4sh/Blackash-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24893">
+- [0xDTC/XWiki-Platform-RCE-CVE-2025-24893](https://github.com/0xDTC/XWiki-Platform-RCE-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/XWiki-Platform-RCE-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/XWiki-Platform-RCE-CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
