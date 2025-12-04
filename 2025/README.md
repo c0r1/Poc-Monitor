@@ -2093,6 +2093,9 @@
 - [MedusaSH/POC-CVE-2025-55182](https://github.com/MedusaSH/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MedusaSH/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MedusaSH/POC-CVE-2025-55182">
 - [ps-interactive/cve-2025-55182](https://github.com/ps-interactive/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/cve-2025-55182">
 - [tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension](https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">
+- [Cillian-Collins/CVE-2025-55182](https://github.com/Cillian-Collins/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Cillian-Collins/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Cillian-Collins/CVE-2025-55182">
+- [clevernyyyy/CVE-2025-55182-Dockerized](https://github.com/clevernyyyy/CVE-2025-55182-Dockerized)	<img alt="forks" src="https://img.shields.io/github/forks/clevernyyyy/CVE-2025-55182-Dockerized">	<img alt="stars" src="https://img.shields.io/github/stars/clevernyyyy/CVE-2025-55182-Dockerized">
+- [im-hanzou/CVE-2025-55182-POC-SCANNER](https://github.com/im-hanzou/CVE-2025-55182-POC-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2025-55182-POC-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2025-55182-POC-SCANNER">
 
 ---
 ## CVE-2025-54988 ()
@@ -7011,6 +7014,7 @@
 - [lasthero-887/CVE-2025-13486---Poc](https://github.com/lasthero-887/CVE-2025-13486---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/lasthero-887/CVE-2025-13486---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/lasthero-887/CVE-2025-13486---Poc">
 - [0xnemian/CVE-2025-13486.-CVE-2025-13486](https://github.com/0xnemian/CVE-2025-13486.-CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xnemian/CVE-2025-13486.-CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xnemian/CVE-2025-13486.-CVE-2025-13486">
 - [0xanis/CVE-2025-13486-POC](https://github.com/0xanis/CVE-2025-13486-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xanis/CVE-2025-13486-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xanis/CVE-2025-13486-POC">
+- [KrE80r/cve-2025-13486-vuln-setup](https://github.com/KrE80r/cve-2025-13486-vuln-setup)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/cve-2025-13486-vuln-setup">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/cve-2025-13486-vuln-setup">
 
 ---
 ## CVE-2025-13390 ()
