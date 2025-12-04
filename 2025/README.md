@@ -2045,6 +2045,8 @@
 - [7ealvivek/CVE-2025-55182-by-Realvivek](https://github.com/7ealvivek/CVE-2025-55182-by-Realvivek)	<img alt="forks" src="https://img.shields.io/github/forks/7ealvivek/CVE-2025-55182-by-Realvivek">	<img alt="stars" src="https://img.shields.io/github/stars/7ealvivek/CVE-2025-55182-by-Realvivek">
 - [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/assetnote/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/assetnote/react2shell-scanner">
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gensecaihq/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gensecaihq/react2shell-scanner">
+- [dissy123/cve-2025-55182](https://github.com/dissy123/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dissy123/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dissy123/cve-2025-55182">
+- [hzhsec/cve_2025_55182_test](https://github.com/hzhsec/cve_2025_55182_test)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/cve_2025_55182_test">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/cve_2025_55182_test">
 
 ---
 ## CVE-2025-54988 ()
