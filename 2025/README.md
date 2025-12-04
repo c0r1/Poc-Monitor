@@ -456,6 +456,7 @@
 - [Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
 - [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
 - [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
+- [jctommasi/react2shellVulnApp](https://github.com/jctommasi/react2shellVulnApp)	<img alt="forks" src="https://img.shields.io/github/forks/jctommasi/react2shellVulnApp">	<img alt="stars" src="https://img.shields.io/github/stars/jctommasi/react2shellVulnApp">
 
 ---
 ## CVE-2025-66022 ()
@@ -2067,6 +2068,7 @@
 - [SoICT-BKSEC/CVE-2025-55182-docker-lab](https://github.com/SoICT-BKSEC/CVE-2025-55182-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SoICT-BKSEC/CVE-2025-55182-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SoICT-BKSEC/CVE-2025-55182-docker-lab">
 - [acheong08/CVE-2025-55182-vite-rsc](https://github.com/acheong08/CVE-2025-55182-vite-rsc)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-55182-vite-rsc">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-55182-vite-rsc">
 - [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
+- [jctommasi/react2shellVulnApp](https://github.com/jctommasi/react2shellVulnApp)	<img alt="forks" src="https://img.shields.io/github/forks/jctommasi/react2shellVulnApp">	<img alt="stars" src="https://img.shields.io/github/stars/jctommasi/react2shellVulnApp">
 
 ---
 ## CVE-2025-54988 ()
