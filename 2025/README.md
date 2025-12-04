@@ -2061,6 +2061,7 @@
 - [c0rydoras/CVE-2025-55182](https://github.com/c0rydoras/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/c0rydoras/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/c0rydoras/CVE-2025-55182">
 - [luskafaria/cve-2025-55182](https://github.com/luskafaria/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luskafaria/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luskafaria/cve-2025-55182">
 - [0xPThree/cve-2025-55182](https://github.com/0xPThree/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-55182">
+- [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
 
 ---
 ## CVE-2025-54988 ()
