@@ -2035,6 +2035,8 @@
 - [Sat0ru-qwq/CVE-2025-55182-exp](https://github.com/Sat0ru-qwq/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Sat0ru-qwq/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Sat0ru-qwq/CVE-2025-55182-exp">
 - [mingyisecurity-lab/CVE-2025-55182-TOOLS](https://github.com/mingyisecurity-lab/CVE-2025-55182-TOOLS)	<img alt="forks" src="https://img.shields.io/github/forks/mingyisecurity-lab/CVE-2025-55182-TOOLS">	<img alt="stars" src="https://img.shields.io/github/stars/mingyisecurity-lab/CVE-2025-55182-TOOLS">
 - [joaonevess/rust-flight](https://github.com/joaonevess/rust-flight)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/rust-flight">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/rust-flight">
+- [sudo-Yangziran/CVE-2025-55182POC](https://github.com/sudo-Yangziran/CVE-2025-55182POC)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-Yangziran/CVE-2025-55182POC">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-Yangziran/CVE-2025-55182POC">
+- [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -6949,6 +6951,7 @@
 ## CVE-2025-13486 ()
 > 
 - [lasthero-887/CVE-2025-13486---Poc](https://github.com/lasthero-887/CVE-2025-13486---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/lasthero-887/CVE-2025-13486---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/lasthero-887/CVE-2025-13486---Poc">
+- [0xnemian/CVE-2025-13486.-CVE-2025-13486](https://github.com/0xnemian/CVE-2025-13486.-CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xnemian/CVE-2025-13486.-CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xnemian/CVE-2025-13486.-CVE-2025-13486">
 
 ---
 ## CVE-2025-13390 ()
