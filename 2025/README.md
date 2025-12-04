@@ -2085,6 +2085,11 @@
 - [EynaExp/CVE-2025-55182-POC](https://github.com/EynaExp/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/CVE-2025-55182-POC">
 - [Emiyelbarto/CVE-2025-55182-PoC](https://github.com/Emiyelbarto/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Emiyelbarto/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Emiyelbarto/CVE-2025-55182-PoC">
 - [MrR0b0t19/CVE-2025-55182-shellinteractive](https://github.com/MrR0b0t19/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2025-55182-shellinteractive">
+- [aquinn-r7/CVE-2025-55182-VulnCheckPOC](https://github.com/aquinn-r7/CVE-2025-55182-VulnCheckPOC)	<img alt="forks" src="https://img.shields.io/github/forks/aquinn-r7/CVE-2025-55182-VulnCheckPOC">	<img alt="stars" src="https://img.shields.io/github/stars/aquinn-r7/CVE-2025-55182-VulnCheckPOC">
+- [nxgn-kd01/cve-2025-55182-scanner](https://github.com/nxgn-kd01/cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nxgn-kd01/cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nxgn-kd01/cve-2025-55182-scanner">
+- [marginaldeer/CVE-2025-55182_scanner](https://github.com/marginaldeer/CVE-2025-55182_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marginaldeer/CVE-2025-55182_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marginaldeer/CVE-2025-55182_scanner">
+- [MedusaSH/POC-CVE-2025-55182](https://github.com/MedusaSH/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MedusaSH/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MedusaSH/POC-CVE-2025-55182">
+- [ps-interactive/cve-2025-55182](https://github.com/ps-interactive/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
