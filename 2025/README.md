@@ -470,6 +470,7 @@
 - [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
 - [mattcbarrett/check-cve-2025-66478](https://github.com/mattcbarrett/check-cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/mattcbarrett/check-cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/mattcbarrett/check-cve-2025-66478">
 - [tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension](https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">
+- [ZihxS/check-react-rce-cve-2025-55182](https://github.com/ZihxS/check-react-rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ZihxS/check-react-rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ZihxS/check-react-rce-cve-2025-55182">
 
 ---
 ## CVE-2025-66022 ()
@@ -2108,6 +2109,7 @@
 - [topstar88/CVE-2025-55182](https://github.com/topstar88/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/topstar88/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/topstar88/CVE-2025-55182">
 - [emadshanab/POC-for-CVE-2025-55182](https://github.com/emadshanab/POC-for-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emadshanab/POC-for-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emadshanab/POC-for-CVE-2025-55182">
 - [Darker-Ink/react-ssr-vulnerability](https://github.com/Darker-Ink/react-ssr-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Darker-Ink/react-ssr-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Darker-Ink/react-ssr-vulnerability">
+- [selectarget/CVE-2025-55182-Exploit](https://github.com/selectarget/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/selectarget/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/selectarget/CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-54988 ()
