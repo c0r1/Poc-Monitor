@@ -1106,6 +1106,11 @@
 - [GovindPalakkal/CVE-2025-61299_POC](https://github.com/GovindPalakkal/CVE-2025-61299_POC)	<img alt="forks" src="https://img.shields.io/github/forks/GovindPalakkal/CVE-2025-61299_POC">	<img alt="stars" src="https://img.shields.io/github/stars/GovindPalakkal/CVE-2025-61299_POC">
 
 ---
+## CVE-2025-61228 ()
+> 
+- [graypixel2121/CVE-2025-61228](https://github.com/graypixel2121/CVE-2025-61228)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-61228">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-61228">
+
+---
 ## CVE-2025-61196 ()
 > 
 - [zsamamah/CVE-2025-61196](https://github.com/zsamamah/CVE-2025-61196)	<img alt="forks" src="https://img.shields.io/github/forks/zsamamah/CVE-2025-61196">	<img alt="stars" src="https://img.shields.io/github/stars/zsamamah/CVE-2025-61196">
@@ -2168,6 +2173,8 @@
 - [NathanJ60/react2shell-interactive](https://github.com/NathanJ60/react2shell-interactive)	<img alt="forks" src="https://img.shields.io/github/forks/NathanJ60/react2shell-interactive">	<img alt="stars" src="https://img.shields.io/github/stars/NathanJ60/react2shell-interactive">
 - [GarethMSheldon/React2Shell-CVE-2025-55182-Detector](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/React2Shell-CVE-2025-55182-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/React2Shell-CVE-2025-55182-Detector">
 - [alsaut1/react2shell-lab](https://github.com/alsaut1/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alsaut1/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alsaut1/react2shell-lab">
+- [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
+- [mxm0z/r2s](https://github.com/mxm0z/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/mxm0z/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/mxm0z/r2s">
 
 ---
 ## CVE-2025-54988 ()
@@ -3069,6 +3076,11 @@
 ## CVE-2025-49667 ()
 > 
 - [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49667">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49667">
+
+---
+## CVE-2025-49666 ()
+> 
+- [17patmaks/CVE-2025-49666-Sigma-Rule](https://github.com/17patmaks/CVE-2025-49666-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/17patmaks/CVE-2025-49666-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/17patmaks/CVE-2025-49666-Sigma-Rule">
 
 ---
 ## CVE-2025-49619 ()
