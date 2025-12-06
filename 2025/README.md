@@ -494,6 +494,7 @@
 - [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 - [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
+- [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 
 ---
 ## CVE-2025-66022 ()
@@ -2198,7 +2199,7 @@
 - [mxm0z/r2s](https://github.com/mxm0z/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/mxm0z/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/mxm0z/r2s">
 - [hackersatyamrastogi/react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate">
 - [kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182">
-- [yanoshercohen/CVE-2025-55182](https://github.com/yanoshercohen/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yanoshercohen/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yanoshercohen/CVE-2025-55182">
+- [yanoshercohen/React2Shell_CVE-2025-55182](https://github.com/yanoshercohen/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yanoshercohen/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yanoshercohen/React2Shell_CVE-2025-55182">
 - [StealthMoud/CVE-2025-55182-Scanner](https://github.com/StealthMoud/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/CVE-2025-55182-Scanner">
 - [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emredavut/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emredavut/CVE-2025-55182">
 - [grp-ops/react2shell](https://github.com/grp-ops/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/grp-ops/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/grp-ops/react2shell">
@@ -2225,6 +2226,8 @@
 - [Bashamega/react-CVE-2025-55182-fixer](https://github.com/Bashamega/react-CVE-2025-55182-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/Bashamega/react-CVE-2025-55182-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/Bashamega/react-CVE-2025-55182-fixer">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 - [fullhunt/react2shell-test-server](https://github.com/fullhunt/react2shell-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/react2shell-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/react2shell-test-server">
+- [keklick1337/CVE-2025-55182-golang-PoC](https://github.com/keklick1337/CVE-2025-55182-golang-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-55182-golang-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-55182-golang-PoC">
+- [orgito1015/CVE-2025-55182-RCE-Exploit](https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-RCE-Exploit">
 
 ---
 ## CVE-2025-54988 ()
