@@ -110,6 +110,7 @@
 - [fortihack/CVE-2025-9074](https://github.com/fortihack/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/fortihack/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/fortihack/CVE-2025-9074">
 - [pucagit/CVE-2025-9074](https://github.com/pucagit/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/pucagit/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/pucagit/CVE-2025-9074">
 - [OilSeller2001/PoC-for-CVE-2025-9074](https://github.com/OilSeller2001/PoC-for-CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/OilSeller2001/PoC-for-CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/OilSeller2001/PoC-for-CVE-2025-9074">
+- [BridgerAlderson/CVE-2025-9074-PoC](https://github.com/BridgerAlderson/CVE-2025-9074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-9074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-9074-PoC">
 
 ---
 ## CVE-2025-9043 ()
@@ -2246,6 +2247,7 @@
 - [MuhammadWaseem29/React2Shell_Rce-cve-2025-55182](https://github.com/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182">
 - [l0n3m4n/CVE-2025-55182](https://github.com/l0n3m4n/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2025-55182">
 - [shreyas-malhotra/RCE2Shell-CVE-2025-55182](https://github.com/shreyas-malhotra/RCE2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/RCE2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/RCE2Shell-CVE-2025-55182">
+- [shreyas-malhotra/React2Shell-CVE-2025-55182](https://github.com/shreyas-malhotra/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
