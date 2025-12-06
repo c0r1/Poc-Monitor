@@ -2232,6 +2232,8 @@
 - [rubensuxo-eh/react2shell-exploit](https://github.com/rubensuxo-eh/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rubensuxo-eh/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rubensuxo-eh/react2shell-exploit">
 - [CirqueiraDev/MassExploit-CVE-2025-55182](https://github.com/CirqueiraDev/MassExploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/CirqueiraDev/MassExploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/CirqueiraDev/MassExploit-CVE-2025-55182">
 - [w3irdo21/CVE-2025-55182-react2shell](https://github.com/w3irdo21/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/w3irdo21/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/w3irdo21/CVE-2025-55182-react2shell">
+- [Hghost0x00/CVE-2025-55182](https://github.com/Hghost0x00/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Hghost0x00/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Hghost0x00/CVE-2025-55182">
+- [zamdevio/r2s](https://github.com/zamdevio/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/zamdevio/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/zamdevio/r2s">
 
 ---
 ## CVE-2025-54988 ()
@@ -7187,7 +7189,7 @@
 ---
 ## CVE-2025-13377 ()
 > 
-- [jessicasmithka/CVE-2025-13377-Exploit](https://github.com/jessicasmithka/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jessicasmithka/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jessicasmithka/CVE-2025-13377-Exploit">
+- [IceSpice31/CVE-2025-13377-Exploit](https://github.com/IceSpice31/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IceSpice31/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IceSpice31/CVE-2025-13377-Exploit">
 
 ---
 ## CVE-2025-13372 ()
