@@ -2212,6 +2212,7 @@
 - [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
 - [Archerkong/CVE-2025-55182](https://github.com/Archerkong/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Archerkong/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Archerkong/CVE-2025-55182">
 - [MaxK9999/CVE-2025-55182](https://github.com/MaxK9999/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MaxK9999/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MaxK9999/CVE-2025-55182">
+- [Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-](https://github.com/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">
 
 ---
 ## CVE-2025-54988 ()
