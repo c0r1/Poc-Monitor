@@ -489,6 +489,9 @@
 - [hackersatyamrastogi/react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate">
 - [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emredavut/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emredavut/CVE-2025-55182">
 - [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
+- [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
+- [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
+- [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
 
 ---
 ## CVE-2025-66022 ()
