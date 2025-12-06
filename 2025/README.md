@@ -495,6 +495,7 @@
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 - [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
+- [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)	<img alt="forks" src="https://img.shields.io/github/forks/vercel-labs/fix-react2shell-next">	<img alt="stars" src="https://img.shields.io/github/stars/vercel-labs/fix-react2shell-next">
 
 ---
 ## CVE-2025-66022 ()
@@ -2228,6 +2229,7 @@
 - [fullhunt/react2shell-test-server](https://github.com/fullhunt/react2shell-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/react2shell-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/react2shell-test-server">
 - [keklick1337/CVE-2025-55182-golang-PoC](https://github.com/keklick1337/CVE-2025-55182-golang-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-55182-golang-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-55182-golang-PoC">
 - [orgito1015/CVE-2025-55182-RCE-Exploit](https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-RCE-Exploit">
+- [rubensuxo-eh/react2shell-exploit](https://github.com/rubensuxo-eh/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rubensuxo-eh/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rubensuxo-eh/react2shell-exploit">
 
 ---
 ## CVE-2025-54988 ()
@@ -7179,6 +7181,11 @@
 ## CVE-2025-1338 ()
 > 
 - [jxcaxtc/CVE-2025-1338](https://github.com/jxcaxtc/CVE-2025-1338)	<img alt="forks" src="https://img.shields.io/github/forks/jxcaxtc/CVE-2025-1338">	<img alt="stars" src="https://img.shields.io/github/stars/jxcaxtc/CVE-2025-1338">
+
+---
+## CVE-2025-13377 ()
+> 
+- [jessicasmithka/CVE-2025-13377-Exploit](https://github.com/jessicasmithka/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jessicasmithka/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jessicasmithka/CVE-2025-13377-Exploit">
 
 ---
 ## CVE-2025-13372 ()
