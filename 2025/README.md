@@ -1461,6 +1461,7 @@
 - [M507/CVE-2025-59287-PoC](https://github.com/M507/CVE-2025-59287-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2025-59287-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2025-59287-PoC">
 - [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Adel-kaka-dz/cve-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Adel-kaka-dz/cve-2025-59287">
 - [mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments](https://github.com/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">
+- [17patmaks/CVE-2025-59287-Sigma-Rule](https://github.com/17patmaks/CVE-2025-59287-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/17patmaks/CVE-2025-59287-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/17patmaks/CVE-2025-59287-Sigma-Rule">
 
 ---
 ## CVE-2025-59285 ()
@@ -2234,6 +2235,8 @@
 - [w3irdo21/CVE-2025-55182-react2shell](https://github.com/w3irdo21/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/w3irdo21/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/w3irdo21/CVE-2025-55182-react2shell">
 - [Hghost0x00/CVE-2025-55182](https://github.com/Hghost0x00/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Hghost0x00/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Hghost0x00/CVE-2025-55182">
 - [zamdevio/r2s](https://github.com/zamdevio/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/zamdevio/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/zamdevio/r2s">
+- [0xN7y/CVE-2025-55182](https://github.com/0xN7y/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2025-55182">
+- [AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web](https://github.com/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web">
 
 ---
 ## CVE-2025-54988 ()
