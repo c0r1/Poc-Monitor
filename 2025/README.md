@@ -477,7 +477,13 @@
 - [imbas007/POC-CVE-2025-66478](https://github.com/imbas007/POC-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-66478">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
 - [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
-- [sh1ro8/react2shell](https://github.com/sh1ro8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/sh1ro8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/sh1ro8/react2shell">
+- [xkey8/react2shell](https://github.com/xkey8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/xkey8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/xkey8/react2shell">
+- [namest504/CVE-2025-66478-Exploit-Poc](https://github.com/namest504/CVE-2025-66478-Exploit-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/namest504/CVE-2025-66478-Exploit-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/namest504/CVE-2025-66478-Exploit-Poc">
+- [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
+- [grp-ops/react2shell](https://github.com/grp-ops/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/grp-ops/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/grp-ops/react2shell">
+- [hackersatyamrastogi/react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate">
+- [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emredavut/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emredavut/CVE-2025-55182">
+- [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
 
 ---
 ## CVE-2025-66022 ()
@@ -595,6 +601,11 @@
 ## CVE-2025-65320 ()
 > 
 - [Smarttfoxx/CVE-2025-65320](https://github.com/Smarttfoxx/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-65320">
+
+---
+## CVE-2025-65300 ()
+> 
+- [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
 
 ---
 ## CVE-2025-6514 ()
@@ -2184,6 +2195,7 @@
 - [5olitude/CVES](https://github.com/5olitude/CVES)	<img alt="forks" src="https://img.shields.io/github/forks/5olitude/CVES">	<img alt="stars" src="https://img.shields.io/github/stars/5olitude/CVES">
 - [mohit121312/CVE-2025-55182_full_exploit](https://github.com/mohit121312/CVE-2025-55182_full_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mohit121312/CVE-2025-55182_full_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mohit121312/CVE-2025-55182_full_exploit">
 - [fankh/cve-2025-55182-test-lab-windows](https://github.com/fankh/cve-2025-55182-test-lab-windows)	<img alt="forks" src="https://img.shields.io/github/forks/fankh/cve-2025-55182-test-lab-windows">	<img alt="stars" src="https://img.shields.io/github/stars/fankh/cve-2025-55182-test-lab-windows">
+- [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
 
 ---
 ## CVE-2025-54988 ()
