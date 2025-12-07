@@ -2270,6 +2270,7 @@
 - [ethicalrohitt/React2Shell_cve-2025-55182](https://github.com/ethicalrohitt/React2Shell_cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ethicalrohitt/React2Shell_cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ethicalrohitt/React2Shell_cve-2025-55182">
 - [ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell](https://github.com/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell">
 - [shakilkhatri/scanner-for-CVE-2025-55182-vulnerability](https://github.com/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability">
+- [UmmItKin/CVE-2025-55182-PoC](https://github.com/UmmItKin/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UmmItKin/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UmmItKin/CVE-2025-55182-PoC">
 
 ---
 ## CVE-2025-54988 ()
