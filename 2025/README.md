@@ -2290,6 +2290,7 @@
 - [SainiONHacks/CVE-2025-55182-Scanner](https://github.com/SainiONHacks/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/SainiONHacks/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/SainiONHacks/CVE-2025-55182-Scanner">
 - [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
 - [umairahmadh/react-vuln-scanner](https://github.com/umairahmadh/react-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/umairahmadh/react-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/umairahmadh/react-vuln-scanner">
+- [surajhacx/react2shellpoc](https://github.com/surajhacx/react2shellpoc)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/react2shellpoc">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/react2shellpoc">
 
 ---
 ## CVE-2025-54988 ()
