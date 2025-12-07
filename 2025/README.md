@@ -458,6 +458,7 @@
 ## CVE-2025-66516 ()
 > 
 - [B1gh0rnn/CVE-2025-66516](https://github.com/B1gh0rnn/CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-66516">
+- [sitanshuforever/cve-2025-66516](https://github.com/sitanshuforever/cve-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/sitanshuforever/cve-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/sitanshuforever/cve-2025-66516">
 
 ---
 ## CVE-2025-66478 ()
