@@ -501,6 +501,7 @@
 - [Rhyru9/CVE-2025-66478](https://github.com/Rhyru9/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CVE-2025-66478">
 - [aiexz/CVE-2025-66478-kinda-waf](https://github.com/aiexz/CVE-2025-66478-kinda-waf)	<img alt="forks" src="https://img.shields.io/github/forks/aiexz/CVE-2025-66478-kinda-waf">	<img alt="stars" src="https://img.shields.io/github/stars/aiexz/CVE-2025-66478-kinda-waf">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
+- [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
 
 ---
 ## CVE-2025-66022 ()
@@ -2258,6 +2259,9 @@
 - [klassiker/CVE-2025-55182](https://github.com/klassiker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/klassiker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/klassiker/CVE-2025-55182">
 - [MikeTheHash/CVE-2025-55182](https://github.com/MikeTheHash/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MikeTheHash/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MikeTheHash/CVE-2025-55182">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
+- [Qixinlee/CVE-2025-55182-Scanner](https://github.com/Qixinlee/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Qixinlee/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Qixinlee/CVE-2025-55182-Scanner">
+- [DelvyGonzalez/react2shell-security-toolkit](https://github.com/DelvyGonzalez/react2shell-security-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/DelvyGonzalez/react2shell-security-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/DelvyGonzalez/react2shell-security-toolkit">
+- [rapticore/ore_react2shell_scanner](https://github.com/rapticore/ore_react2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/rapticore/ore_react2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/rapticore/ore_react2shell_scanner">
 
 ---
 ## CVE-2025-54988 ()
