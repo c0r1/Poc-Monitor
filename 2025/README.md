@@ -627,6 +627,11 @@
 - [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
 
 ---
+## CVE-2025-65271 ()
+> 
+- [1337Skid/CVE-2025-65271](https://github.com/1337Skid/CVE-2025-65271)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2025-65271">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2025-65271">
+
+---
 ## CVE-2025-6514 ()
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
@@ -2275,6 +2280,7 @@
 - [robbin0919/CVE-2025-55182](https://github.com/robbin0919/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-55182">
 - [AliHzSec/CVE-2025-55182](https://github.com/AliHzSec/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2025-55182">
 - [zr0n/react2shell](https://github.com/zr0n/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/react2shell">
+- [hunter24x24/CVE-2025-55182-mass](https://github.com/hunter24x24/CVE-2025-55182-mass)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/CVE-2025-55182-mass">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/CVE-2025-55182-mass">
 
 ---
 ## CVE-2025-54988 ()
