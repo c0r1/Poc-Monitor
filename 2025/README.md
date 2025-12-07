@@ -2282,6 +2282,7 @@
 - [AliHzSec/CVE-2025-55182](https://github.com/AliHzSec/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2025-55182">
 - [zr0n/react2shell](https://github.com/zr0n/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/react2shell">
 - [hunter24x24/CVE-2025-55182-mass](https://github.com/hunter24x24/CVE-2025-55182-mass)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/CVE-2025-55182-mass">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/CVE-2025-55182-mass">
+- [andressuarezmonk/CVE-2025-55182](https://github.com/andressuarezmonk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/andressuarezmonk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/andressuarezmonk/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -7011,6 +7012,11 @@
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
+
+---
+## CVE-2025-20384 ()
+> 
+- [Axselll/CVE-2025-20384](https://github.com/Axselll/CVE-2025-20384)	<img alt="forks" src="https://img.shields.io/github/forks/Axselll/CVE-2025-20384">	<img alt="stars" src="https://img.shields.io/github/stars/Axselll/CVE-2025-20384">
 
 ---
 ## CVE-2025-20354 ()
