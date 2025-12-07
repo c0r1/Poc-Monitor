@@ -2285,7 +2285,7 @@
 - [andressuarezmonk/CVE-2025-55182](https://github.com/andressuarezmonk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/andressuarezmonk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/andressuarezmonk/CVE-2025-55182">
 - [M4xSec/CVE-2025-55182-React2Shell-RCE-Shell](https://github.com/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell">
 - [cybertechajju/R2C-CVE-2025-55182-66478](https://github.com/cybertechajju/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/R2C-CVE-2025-55182-66478">
-- [Dh4v4l8/-CVE-2025-55182-poc-tool](https://github.com/Dh4v4l8/-CVE-2025-55182-poc-tool)	<img alt="forks" src="https://img.shields.io/github/forks/Dh4v4l8/-CVE-2025-55182-poc-tool">	<img alt="stars" src="https://img.shields.io/github/stars/Dh4v4l8/-CVE-2025-55182-poc-tool">
+- [Dh4v4l8/CVE-2025-55182-poc-tool](https://github.com/Dh4v4l8/CVE-2025-55182-poc-tool)	<img alt="forks" src="https://img.shields.io/github/forks/Dh4v4l8/CVE-2025-55182-poc-tool">	<img alt="stars" src="https://img.shields.io/github/stars/Dh4v4l8/CVE-2025-55182-poc-tool">
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa)	<img alt="forks" src="https://img.shields.io/github/forks/Pantheon-Security/medusa">	<img alt="stars" src="https://img.shields.io/github/stars/Pantheon-Security/medusa">
 - [SainiONHacks/CVE-2025-55182-Scanner](https://github.com/SainiONHacks/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/SainiONHacks/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/SainiONHacks/CVE-2025-55182-Scanner">
 - [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
@@ -7251,6 +7251,7 @@
 ## CVE-2025-13377 ()
 > 
 - [IceSpice31/CVE-2025-13377-Exploit](https://github.com/IceSpice31/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IceSpice31/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IceSpice31/CVE-2025-13377-Exploit">
+- [Rimas214/CVE-2025-13377-Exploit](https://github.com/Rimas214/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Rimas214/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Rimas214/CVE-2025-13377-Exploit">
 
 ---
 ## CVE-2025-13372 ()
