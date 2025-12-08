@@ -2321,6 +2321,9 @@
 - [LucasPDiniz/CVE-2025-55182](https://github.com/LucasPDiniz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2025-55182">
 - [wangzhengquan/CVE-2025-55182](https://github.com/wangzhengquan/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wangzhengquan/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wangzhengquan/CVE-2025-55182">
 - [lincemorado97/CVE-2025-55182_CVE-2025-66478](https://github.com/lincemorado97/CVE-2025-55182_CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-55182_CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-55182_CVE-2025-66478">
+- [justmadeid/CVE-2025-55182](https://github.com/justmadeid/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/justmadeid/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/justmadeid/CVE-2025-55182">
+- [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
+- [lee191/CVE-2025-55182](https://github.com/lee191/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lee191/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lee191/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
