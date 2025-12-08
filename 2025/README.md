@@ -211,6 +211,7 @@
 ## CVE-2025-8191 ()
 > 
 - [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8191">
+- [mayank-s16/Swagger-HTML-Injection-CVE-2025-8191](https://github.com/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191">
 
 ---
 ## CVE-2025-8088 ()
@@ -520,6 +521,7 @@
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 - [Letalandroid/cve-2025-66478_rce_vulnerable](https://github.com/Letalandroid/cve-2025-66478_rce_vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Letalandroid/cve-2025-66478_rce_vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Letalandroid/cve-2025-66478_rce_vulnerable">
+- [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
 
 ---
 ## CVE-2025-66022 ()
@@ -2355,6 +2357,8 @@
 - [FurkanKAYAPINAR/React-Next-Scanner](https://github.com/FurkanKAYAPINAR/React-Next-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/React-Next-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/React-Next-Scanner">
 - [lowercasenumbers/CVE-2025-55182](https://github.com/lowercasenumbers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-55182">
 - [AggressiveUser/React2Hell](https://github.com/AggressiveUser/React2Hell)	<img alt="forks" src="https://img.shields.io/github/forks/AggressiveUser/React2Hell">	<img alt="stars" src="https://img.shields.io/github/stars/AggressiveUser/React2Hell">
+- [racall/cve-2025-55182-node](https://github.com/racall/cve-2025-55182-node)	<img alt="forks" src="https://img.shields.io/github/forks/racall/cve-2025-55182-node">	<img alt="stars" src="https://img.shields.io/github/stars/racall/cve-2025-55182-node">
+- [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
 
 ---
 ## CVE-2025-54988 ()
