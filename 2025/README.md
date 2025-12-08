@@ -2315,6 +2315,7 @@
 - [xiaoxiunique/CVE-2025-55182-scanner](https://github.com/xiaoxiunique/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiunique/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiunique/CVE-2025-55182-scanner">
 - [faizdotid/rust-cve-2025-55182](https://github.com/faizdotid/rust-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/rust-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/rust-cve-2025-55182">
 - [arashiyans/CVE-2025-55182-CVE-2025-66478](https://github.com/arashiyans/CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/arashiyans/CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/arashiyans/CVE-2025-55182-CVE-2025-66478">
+- [LucasPDiniz/CVE-2025-55182](https://github.com/LucasPDiniz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
