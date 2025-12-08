@@ -509,6 +509,7 @@
 - [aiexz/CVE-2025-66478-kinda-waf](https://github.com/aiexz/CVE-2025-66478-kinda-waf)	<img alt="forks" src="https://img.shields.io/github/forks/aiexz/CVE-2025-66478-kinda-waf">	<img alt="stars" src="https://img.shields.io/github/stars/aiexz/CVE-2025-66478-kinda-waf">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 - [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
+- [ExpTechTW/CVE-2025-66478](https://github.com/ExpTechTW/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/ExpTechTW/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/ExpTechTW/CVE-2025-66478">
 
 ---
 ## CVE-2025-66022 ()
@@ -2306,6 +2307,8 @@
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 - [CharlesTheGreat77/CVE-2025-55182-Test-Server](https://github.com/CharlesTheGreat77/CVE-2025-55182-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/CharlesTheGreat77/CVE-2025-55182-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/CharlesTheGreat77/CVE-2025-55182-Test-Server">
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
+- [lalaterry/CVE-2025-55182-React2Shell-lab](https://github.com/lalaterry/CVE-2025-55182-React2Shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/lalaterry/CVE-2025-55182-React2Shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/lalaterry/CVE-2025-55182-React2Shell-lab">
+- [xiaoxiunique/CVE-2025-55182-scanner](https://github.com/xiaoxiunique/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiunique/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiunique/CVE-2025-55182-scanner">
 
 ---
 ## CVE-2025-54988 ()
