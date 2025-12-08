@@ -1567,7 +1567,7 @@
 ---
 ## CVE-2025-58360 ()
 > 
-- [B1ack4sh/Blackash-CVE-2025-58360](https://github.com/B1ack4sh/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58360">
+- [Ashwesker/Blackash-CVE-2025-58360](https://github.com/Ashwesker/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-58360">
 - [quyenheu/CVE-2025-58360](https://github.com/quyenheu/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/quyenheu/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/quyenheu/CVE-2025-58360">
 
 ---
@@ -2334,6 +2334,8 @@
 - [0xsj/CVE-2025-55182](https://github.com/0xsj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xsj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xsj/CVE-2025-55182">
 - [Macaroniwdcheese/CVE-2025-55182-Lab](https://github.com/Macaroniwdcheese/CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Macaroniwdcheese/CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Macaroniwdcheese/CVE-2025-55182-Lab">
 - [MrRockettt/CVE-2025-55182](https://github.com/MrRockettt/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrRockettt/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrRockettt/CVE-2025-55182">
+- [HUAHUAI23/CVE-2025-55182-POC](https://github.com/HUAHUAI23/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HUAHUAI23/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HUAHUAI23/CVE-2025-55182-POC">
+- [LvMalware/CVE-2025-55182](https://github.com/LvMalware/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LvMalware/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LvMalware/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
