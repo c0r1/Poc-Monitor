@@ -519,6 +519,7 @@
 - [lincemorado97/CVE-2025-55182_CVE-2025-66478](https://github.com/lincemorado97/CVE-2025-55182_CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-55182_CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-55182_CVE-2025-66478">
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
+- [Letalandroid/cve-2025-66478_rce_vulnerable](https://github.com/Letalandroid/cve-2025-66478_rce_vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Letalandroid/cve-2025-66478_rce_vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Letalandroid/cve-2025-66478_rce_vulnerable">
 
 ---
 ## CVE-2025-66022 ()
@@ -2333,7 +2334,7 @@
 - [Syrins/CVE-2025-55182-React2Shell-RCE](https://github.com/Syrins/CVE-2025-55182-React2Shell-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-55182-React2Shell-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-55182-React2Shell-RCE">
 - [0xsj/CVE-2025-55182](https://github.com/0xsj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xsj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xsj/CVE-2025-55182">
 - [Macaroniwdcheese/CVE-2025-55182-Lab](https://github.com/Macaroniwdcheese/CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Macaroniwdcheese/CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Macaroniwdcheese/CVE-2025-55182-Lab">
-- [MrRockettt/CVE-2025-55182](https://github.com/MrRockettt/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrRockettt/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrRockettt/CVE-2025-55182">
+- [0xSalm0n/CVE-2025-55182](https://github.com/0xSalm0n/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xSalm0n/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xSalm0n/CVE-2025-55182">
 - [HUAHUAI23/CVE-2025-55182-POC](https://github.com/HUAHUAI23/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HUAHUAI23/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HUAHUAI23/CVE-2025-55182-POC">
 - [LvMalware/CVE-2025-55182](https://github.com/LvMalware/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LvMalware/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LvMalware/CVE-2025-55182">
 - [yaupunal/CVE-2025-55182-scanner](https://github.com/yaupunal/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yaupunal/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yaupunal/CVE-2025-55182-scanner">
@@ -2344,6 +2345,8 @@
 - [Benrich127N/react2shell_analyzer](https://github.com/Benrich127N/react2shell_analyzer)	<img alt="forks" src="https://img.shields.io/github/forks/Benrich127N/react2shell_analyzer">	<img alt="stars" src="https://img.shields.io/github/stars/Benrich127N/react2shell_analyzer">
 - [hamm0nz/react2shell-audit](https://github.com/hamm0nz/react2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/hamm0nz/react2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/hamm0nz/react2shell-audit">
 - [7amzahard/React2shell](https://github.com/7amzahard/React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/React2shell">
+- [im-ezboy/CVE-2025-55182-zoomeye](https://github.com/im-ezboy/CVE-2025-55182-zoomeye)	<img alt="forks" src="https://img.shields.io/github/forks/im-ezboy/CVE-2025-55182-zoomeye">	<img alt="stars" src="https://img.shields.io/github/stars/im-ezboy/CVE-2025-55182-zoomeye">
+- [Ibonok/CVE-2025-55182-Burp-Passive-Extension](https://github.com/Ibonok/CVE-2025-55182-Burp-Passive-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2025-55182-Burp-Passive-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2025-55182-Burp-Passive-Extension">
 
 ---
 ## CVE-2025-54988 ()
