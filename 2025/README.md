@@ -574,6 +574,7 @@
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile">
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep">
 - [shyambhanushali/React2Shell](https://github.com/shyambhanushali/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shyambhanushali/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shyambhanushali/React2Shell">
+- [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-66022 ()
@@ -2657,6 +2658,11 @@
 > 
 - [callinston/CVE-2025-54106](https://github.com/callinston/CVE-2025-54106)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-54106">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-54106">
 - [DExplo1ted/CVE-2025-54106-POC](https://github.com/DExplo1ted/CVE-2025-54106-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DExplo1ted/CVE-2025-54106-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DExplo1ted/CVE-2025-54106-POC">
+
+---
+## CVE-2025-54100 ()
+> 
+- [osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/osman1337-security/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/osman1337-security/CVE-2025-54100">
 
 ---
 ## CVE-2025-53964 ()
