@@ -529,6 +529,7 @@
 - [hlsitechio/shellockolm](https://github.com/hlsitechio/shellockolm)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/shellockolm">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/shellockolm">
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm">
 - [ancs21/react2shell-scanner-rust](https://github.com/ancs21/react2shell-scanner-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ancs21/react2shell-scanner-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ancs21/react2shell-scanner-rust">
+- [MoisesTapia/http-react2shell](https://github.com/MoisesTapia/http-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/http-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/http-react2shell">
 
 ---
 ## CVE-2025-66022 ()
