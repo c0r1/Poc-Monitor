@@ -2513,6 +2513,9 @@
 - [BeichenDream/CVE-2025-55182-GodzillaMemoryShell](https://github.com/BeichenDream/CVE-2025-55182-GodzillaMemoryShell)	<img alt="forks" src="https://img.shields.io/github/forks/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">	<img alt="stars" src="https://img.shields.io/github/stars/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">
 - [DanielXavierJob/-CVE-2025-55182](https://github.com/DanielXavierJob/-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/DanielXavierJob/-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/DanielXavierJob/-CVE-2025-55182">
 - [Legus-Yeung/CVE-2025-55182-exploit](https://github.com/Legus-Yeung/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Legus-Yeung/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Legus-Yeung/CVE-2025-55182-exploit">
+- [CrazyloveforWeb/Golang-CVE-2025-55182-POC](https://github.com/CrazyloveforWeb/Golang-CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CrazyloveforWeb/Golang-CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CrazyloveforWeb/Golang-CVE-2025-55182-POC">
+- [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
+- [sponte/nextjs-cve-version-confusion](https://github.com/sponte/nextjs-cve-version-confusion)	<img alt="forks" src="https://img.shields.io/github/forks/sponte/nextjs-cve-version-confusion">	<img alt="stars" src="https://img.shields.io/github/stars/sponte/nextjs-cve-version-confusion">
 
 ---
 ## CVE-2025-54988 ()
