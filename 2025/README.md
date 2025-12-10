@@ -2485,6 +2485,7 @@
 - [theman001/CVE-2025-55182_PoC-Test-Server](https://github.com/theman001/CVE-2025-55182_PoC-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-55182_PoC-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-55182_PoC-Test-Server">
 - [BakhodiribnYashinibnMansur/CVE-2025-55182](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55182">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
+- [Sotatek-KhaiNguyen3/CVE-2025-55182](https://github.com/Sotatek-KhaiNguyen3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sotatek-KhaiNguyen3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sotatek-KhaiNguyen3/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
