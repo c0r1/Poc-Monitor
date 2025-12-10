@@ -2543,6 +2543,7 @@
 - [VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/RscScan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/RscScan">
 - [CerberusMrX/Cerberus-React2Shell-Scanner-Exploit](https://github.com/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit">
 - [Gymnott1/CVE-2025-55182](https://github.com/Gymnott1/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Gymnott1/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Gymnott1/CVE-2025-55182">
+- [J4ck3LSyN-Gen2/CVE-2025-55182](https://github.com/J4ck3LSyN-Gen2/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
