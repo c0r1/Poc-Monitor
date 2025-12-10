@@ -2547,6 +2547,7 @@
 - [yz9yt/React2Shell-CTF](https://github.com/yz9yt/React2Shell-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/yz9yt/React2Shell-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/yz9yt/React2Shell-CTF">
 - [Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Ayady/react2shellNSE">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Ayady/react2shellNSE">
 - [VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/RscScan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/RscScan">
+- [pkrasulia/CVE-2025-55182-NextJS-RCE-PoC](https://github.com/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC">
 
 ---
 ## CVE-2025-54988 ()
