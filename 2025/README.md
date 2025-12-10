@@ -2476,6 +2476,8 @@
 - [osman-butt/CVE-2025-55182-demo](https://github.com/osman-butt/CVE-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/osman-butt/CVE-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/osman-butt/CVE-2025-55182-demo">
 - [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
 - [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
+- [iamblacksolo2-BugBounty/POC2-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">
+- [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
 
 ---
 ## CVE-2025-54988 ()
