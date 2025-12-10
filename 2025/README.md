@@ -113,6 +113,7 @@
 - [BridgerAlderson/CVE-2025-9074-PoC](https://github.com/BridgerAlderson/CVE-2025-9074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-9074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-9074-PoC">
 - [xwpdx0/poc-2025-9074](https://github.com/xwpdx0/poc-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/xwpdx0/poc-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/xwpdx0/poc-2025-9074">
 - [PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape](https://github.com/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">
+- [pppxo/CVE-2025-9074-PoC-Bash](https://github.com/pppxo/CVE-2025-9074-PoC-Bash)	<img alt="forks" src="https://img.shields.io/github/forks/pppxo/CVE-2025-9074-PoC-Bash">	<img alt="stars" src="https://img.shields.io/github/stars/pppxo/CVE-2025-9074-PoC-Bash">
 
 ---
 ## CVE-2025-9043 ()
@@ -2119,6 +2120,7 @@
 ## CVE-2025-55449 ()
 > 
 - [Marven11/CVE-2025-55449-AstrBot-RCE](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2025-55449-AstrBot-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2025-55449-AstrBot-RCE">
+- [xhh1h/CVE-2025-55449](https://github.com/xhh1h/CVE-2025-55449)	<img alt="forks" src="https://img.shields.io/github/forks/xhh1h/CVE-2025-55449">	<img alt="stars" src="https://img.shields.io/github/stars/xhh1h/CVE-2025-55449">
 
 ---
 ## CVE-2025-55349 ()
@@ -6870,6 +6872,7 @@
 - [rubenformation/CVE-2025-50154](https://github.com/rubenformation/CVE-2025-50154)	<img alt="forks" src="https://img.shields.io/github/forks/rubenformation/CVE-2025-50154">	<img alt="stars" src="https://img.shields.io/github/stars/rubenformation/CVE-2025-50154">
 - [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 - [Untouchable17/CVE-2025-24054](https://github.com/Untouchable17/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/Untouchable17/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/Untouchable17/CVE-2025-24054">
+- [WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">
 
 ---
 ## CVE-2025-2404 ()
