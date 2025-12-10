@@ -876,7 +876,9 @@
 ---
 ## CVE-2025-6389 ()
 > 
-- [B1ack4sh/Blackash-CVE-2025-6389](https://github.com/B1ack4sh/Blackash-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6389">
+- [Ashwesker/Blackash-CVE-2025-6389](https://github.com/Ashwesker/Blackash-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-6389">
+- [itsismarcos/SneeitScanner-CVE-2025-6389](https://github.com/itsismarcos/SneeitScanner-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/SneeitScanner-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/SneeitScanner-CVE-2025-6389">
+- [thorat-shubham/JXL_Infotainment_CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_CVE-2025-63895">
 
 ---
 ## CVE-2025-63888 ()
@@ -1803,6 +1805,11 @@
 ## CVE-2025-57489 ()
 > 
 - [graypixel2121/CVE-2025-57489](https://github.com/graypixel2121/CVE-2025-57489)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-57489">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-57489">
+
+---
+## CVE-2025-57462 ()
+> 
+- [aljoharasubaie/CVE-2025-57462](https://github.com/aljoharasubaie/CVE-2025-57462)	<img alt="forks" src="https://img.shields.io/github/forks/aljoharasubaie/CVE-2025-57462">	<img alt="stars" src="https://img.shields.io/github/stars/aljoharasubaie/CVE-2025-57462">
 
 ---
 ## CVE-2025-57460 ()
