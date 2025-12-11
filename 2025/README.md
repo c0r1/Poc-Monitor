@@ -2597,6 +2597,7 @@
 - [xalgord1/CVE-2025-55182-POC](https://github.com/xalgord1/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord1/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord1/CVE-2025-55182-POC">
 - [LC-pro/CVE-2025-55182-EXP](https://github.com/LC-pro/CVE-2025-55182-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LC-pro/CVE-2025-55182-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LC-pro/CVE-2025-55182-EXP">
 - [Tiger-Foxx/exploit-react-CVE-2025-55182](https://github.com/Tiger-Foxx/exploit-react-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger-Foxx/exploit-react-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger-Foxx/exploit-react-CVE-2025-55182">
+- [anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension)	<img alt="forks" src="https://img.shields.io/github/forks/anuththara2007-W/CVE-2025-55182-Exploit-extension">	<img alt="stars" src="https://img.shields.io/github/stars/anuththara2007-W/CVE-2025-55182-Exploit-extension">
 
 ---
 ## CVE-2025-54988 ()
