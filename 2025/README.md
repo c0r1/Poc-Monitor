@@ -2648,6 +2648,8 @@
 - [raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-](https://github.com/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-)	<img alt="forks" src="https://img.shields.io/github/forks/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">	<img alt="stars" src="https://img.shields.io/github/stars/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">
 - [oguri-souhei/CVE-2025-55182](https://github.com/oguri-souhei/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/oguri-souhei/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/oguri-souhei/CVE-2025-55182">
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
+- [xalgord/React2Shell](https://github.com/xalgord/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
