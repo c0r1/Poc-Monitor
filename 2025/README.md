@@ -2296,6 +2296,8 @@
 - [hans362/CVE-2025-55184-poc](https://github.com/hans362/CVE-2025-55184-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hans362/CVE-2025-55184-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hans362/CVE-2025-55184-poc">
 - [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update)	<img alt="forks" src="https://img.shields.io/github/forks/williavs/nextjs-security-update">	<img alt="stars" src="https://img.shields.io/github/stars/williavs/nextjs-security-update">
 - [BakhodiribnYashinibnMansur/CVE-2025-55184](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55184">
+- [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
 
 ---
 ## CVE-2025-55183 ()
@@ -2650,6 +2652,8 @@
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
 - [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
 - [xalgord/React2Shell](https://github.com/xalgord/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord/React2Shell">
+- [ryanhafid/Scan_CVE-2025-55182](https://github.com/ryanhafid/Scan_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/Scan_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/Scan_CVE-2025-55182">
+- [ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/PoC_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/PoC_CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
