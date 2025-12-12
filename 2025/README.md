@@ -2633,6 +2633,9 @@
 - [IrsyadSEC/CVE-2025-55182-MassPayloadAttack](https://github.com/IrsyadSEC/CVE-2025-55182-MassPayloadAttack)	<img alt="forks" src="https://img.shields.io/github/forks/IrsyadSEC/CVE-2025-55182-MassPayloadAttack">	<img alt="stars" src="https://img.shields.io/github/stars/IrsyadSEC/CVE-2025-55182-MassPayloadAttack">
 - [Shadowroot97/React2Shell-CVE-2025-55182](https://github.com/Shadowroot97/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Shadowroot97/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Shadowroot97/React2Shell-CVE-2025-55182">
 - [yuta3003/CVE-2025-55182](https://github.com/yuta3003/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yuta3003/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yuta3003/CVE-2025-55182">
+- [W41T3D3V1L/COMPLETE-CVE-2025-55182](https://github.com/W41T3D3V1L/COMPLETE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/W41T3D3V1L/COMPLETE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/W41T3D3V1L/COMPLETE-CVE-2025-55182">
+- [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
+- [securifyai/React2Shell-CVE-2025-55182](https://github.com/securifyai/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/securifyai/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/securifyai/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
