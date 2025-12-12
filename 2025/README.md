@@ -2297,6 +2297,7 @@
 - [Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55183">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55183">
 - [kimtruth/CVE-2025-55183-poc](https://github.com/kimtruth/CVE-2025-55183-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kimtruth/CVE-2025-55183-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kimtruth/CVE-2025-55183-poc">
 - [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update)	<img alt="forks" src="https://img.shields.io/github/forks/williavs/nextjs-security-update">	<img alt="stars" src="https://img.shields.io/github/stars/williavs/nextjs-security-update">
+- [X-Cotang/CVE-2025-55183_POC](https://github.com/X-Cotang/CVE-2025-55183_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-Cotang/CVE-2025-55183_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-Cotang/CVE-2025-55183_POC">
 
 ---
 ## CVE-2025-55182 ()
