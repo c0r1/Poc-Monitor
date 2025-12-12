@@ -795,6 +795,11 @@
 - [shinyseam/CVE-2025-64513](https://github.com/shinyseam/CVE-2025-64513)	<img alt="forks" src="https://img.shields.io/github/forks/shinyseam/CVE-2025-64513">	<img alt="stars" src="https://img.shields.io/github/stars/shinyseam/CVE-2025-64513">
 
 ---
+## CVE-2025-64512 ()
+> 
+- [luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/CVE-2025-64512-Polyglot-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/CVE-2025-64512-Polyglot-PoC">
+
+---
 ## CVE-2025-64500 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-64500](https://github.com/B1ack4sh/Blackash-CVE-2025-64500)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64500">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64500">
@@ -2637,6 +2642,7 @@
 - [W41T3D3V1L/COMPLETE-CVE-2025-55182](https://github.com/W41T3D3V1L/COMPLETE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/W41T3D3V1L/COMPLETE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/W41T3D3V1L/COMPLETE-CVE-2025-55182">
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [securifyai/React2Shell-CVE-2025-55182](https://github.com/securifyai/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/securifyai/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/securifyai/React2Shell-CVE-2025-55182">
+- [0x5k/rs_CVE-2025-55182_React2Shell](https://github.com/0x5k/rs_CVE-2025-55182_React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0x5k/rs_CVE-2025-55182_React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0x5k/rs_CVE-2025-55182_React2Shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -6908,6 +6914,7 @@
 ## CVE-2025-24367 ()
 > 
 - [TheCyberGeek/CVE-2025-24367-Cacti-PoC](https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2025-24367-Cacti-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2025-24367-Cacti-PoC">
+- [r0tn3x/CVE-2025-24367](https://github.com/r0tn3x/CVE-2025-24367)	<img alt="forks" src="https://img.shields.io/github/forks/r0tn3x/CVE-2025-24367">	<img alt="stars" src="https://img.shields.io/github/stars/r0tn3x/CVE-2025-24367">
 
 ---
 ## CVE-2025-24354 ()
@@ -7585,6 +7592,7 @@
 ## CVE-2025-13780 ()
 > 
 - [zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/zeropwn/pgadmin4-9.10-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/zeropwn/pgadmin4-9.10-CVE-2025-13780">
+- [meenakshisl/PoC-CVE-2025-13780](https://github.com/meenakshisl/PoC-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/meenakshisl/PoC-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/meenakshisl/PoC-CVE-2025-13780">
 
 ---
 ## CVE-2025-13615 ()
