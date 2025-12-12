@@ -2643,6 +2643,7 @@
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [securifyai/React2Shell-CVE-2025-55182](https://github.com/securifyai/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/securifyai/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/securifyai/React2Shell-CVE-2025-55182">
 - [0x5k/rs_CVE-2025-55182_React2Shell](https://github.com/0x5k/rs_CVE-2025-55182_React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0x5k/rs_CVE-2025-55182_React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0x5k/rs_CVE-2025-55182_React2Shell">
+- [raivenLockdown/CVE-2025-55182_RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-](https://github.com/raivenLockdown/CVE-2025-55182_RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-)	<img alt="forks" src="https://img.shields.io/github/forks/raivenLockdown/CVE-2025-55182_RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">	<img alt="stars" src="https://img.shields.io/github/stars/raivenLockdown/CVE-2025-55182_RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">
 
 ---
 ## CVE-2025-54988 ()
