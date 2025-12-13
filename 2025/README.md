@@ -7635,6 +7635,11 @@
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
 
 ---
+## CVE-2025-14221 ()
+> 
+- [fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221)	<img alt="forks" src="https://img.shields.io/github/forks/fatmatrabelsi17/CVE-2025-14221">	<img alt="stars" src="https://img.shields.io/github/stars/fatmatrabelsi17/CVE-2025-14221">
+
+---
 ## CVE-2025-13796 ()
 > 
 - [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
