@@ -2077,7 +2077,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 ## CVE-2023-44487 (2023-10-10T14:15:00)
 > The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
-- [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/imabee101/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/imabee101/CVE-2023-44487">
+- [Appsynergy-io/CVE-2023-44487](https://github.com/Appsynergy-io/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/Appsynergy-io/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/Appsynergy-io/CVE-2023-44487">
 - [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHackr/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHackr/CVE-2023-44487">
 - [pabloec20/rapidreset](https://github.com/pabloec20/rapidreset)	<img alt="forks" src="https://img.shields.io/github/forks/pabloec20/rapidreset">	<img alt="stars" src="https://img.shields.io/github/stars/pabloec20/rapidreset">
 - [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)	<img alt="forks" src="https://img.shields.io/github/forks/secengjeff/rapidresetclient">	<img alt="stars" src="https://img.shields.io/github/stars/secengjeff/rapidresetclient">
@@ -2098,6 +2098,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [zanks08/cve-2023-44487-demo](https://github.com/zanks08/cve-2023-44487-demo)	<img alt="forks" src="https://img.shields.io/github/forks/zanks08/cve-2023-44487-demo">	<img alt="stars" src="https://img.shields.io/github/stars/zanks08/cve-2023-44487-demo">
 - [madhusudhan-in/CVE_2023_44487-Rapid_Reset](https://github.com/madhusudhan-in/CVE_2023_44487-Rapid_Reset)	<img alt="forks" src="https://img.shields.io/github/forks/madhusudhan-in/CVE_2023_44487-Rapid_Reset">	<img alt="stars" src="https://img.shields.io/github/stars/madhusudhan-in/CVE_2023_44487-Rapid_Reset">
 - [gmh5225/CVE_2023_44487-Rapid_Reset](https://github.com/gmh5225/CVE_2023_44487-Rapid_Reset)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE_2023_44487-Rapid_Reset">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE_2023_44487-Rapid_Reset">
+- [tpirate/cve-2023-44487-POC](https://github.com/tpirate/cve-2023-44487-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tpirate/cve-2023-44487-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tpirate/cve-2023-44487-POC">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
