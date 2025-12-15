@@ -3626,6 +3626,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-43400 ()
 > 
 - [rain321654/yasa-cve-2024-43400](https://github.com/rain321654/yasa-cve-2024-43400)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/yasa-cve-2024-43400">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/yasa-cve-2024-43400">
+- [rain321654/yasa-cve-2024-43400-main1](https://github.com/rain321654/yasa-cve-2024-43400-main1)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/yasa-cve-2024-43400-main1">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/yasa-cve-2024-43400-main1">
 
 ---
 ## CVE-2024-43363 (2024-10-07T21:15:00)
@@ -3638,6 +3639,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skilfoy/CVE-2024-4323-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skilfoy/CVE-2024-4323-Exploit-POC">
 - [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-4323">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-4323">
 - [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuansec/CVE-2024-4323-dos_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuansec/CVE-2024-4323-dos_poc">
+
+---
+## CVE-2024-43202 ()
+> 
+- [ive57/yasa-cve-2024-43202](https://github.com/ive57/yasa-cve-2024-43202)	<img alt="forks" src="https://img.shields.io/github/forks/ive57/yasa-cve-2024-43202">	<img alt="stars" src="https://img.shields.io/github/stars/ive57/yasa-cve-2024-43202">
 
 ---
 ## CVE-2024-4320 (2024-06-06T19:16:00)
