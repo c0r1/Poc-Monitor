@@ -669,6 +669,11 @@
 - [KhanhDuy155/calibre-web-CVE-2025-65858](https://github.com/KhanhDuy155/calibre-web-CVE-2025-65858)	<img alt="forks" src="https://img.shields.io/github/forks/KhanhDuy155/calibre-web-CVE-2025-65858">	<img alt="stars" src="https://img.shields.io/github/stars/KhanhDuy155/calibre-web-CVE-2025-65858">
 
 ---
+## CVE-2025-65855 ()
+> 
+- [LuisMirandaAcebedo/CVE-2025-65855](https://github.com/LuisMirandaAcebedo/CVE-2025-65855)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMirandaAcebedo/CVE-2025-65855">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMirandaAcebedo/CVE-2025-65855">
+
+---
 ## CVE-2025-65806 ()
 > 
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
@@ -5406,6 +5411,7 @@
 - [cyhe50/cve-2025-32434-poc](https://github.com/cyhe50/cve-2025-32434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cyhe50/cve-2025-32434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cyhe50/cve-2025-32434-poc">
 - [Camier/VOIXCODER](https://github.com/Camier/VOIXCODER)	<img alt="forks" src="https://img.shields.io/github/forks/Camier/VOIXCODER">	<img alt="stars" src="https://img.shields.io/github/stars/Camier/VOIXCODER">
 - [B1tBit/CVE-2025-32434-exploit](https://github.com/B1tBit/CVE-2025-32434-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBit/CVE-2025-32434-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBit/CVE-2025-32434-exploit">
+- [Cheval-Paresseux/cve_2025_32434](https://github.com/Cheval-Paresseux/cve_2025_32434)	<img alt="forks" src="https://img.shields.io/github/forks/Cheval-Paresseux/cve_2025_32434">	<img alt="stars" src="https://img.shields.io/github/stars/Cheval-Paresseux/cve_2025_32434">
 
 ---
 ## CVE-2025-32433 ()
