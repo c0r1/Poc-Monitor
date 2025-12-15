@@ -2726,6 +2726,7 @@
 - [Call123X/-cve-2025-55182](https://github.com/Call123X/-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Call123X/-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Call123X/-cve-2025-55182">
 - [hulh122/CVE-2025-55182](https://github.com/hulh122/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hulh122/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hulh122/CVE-2025-55182">
 - [simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/simantchaudhari/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/simantchaudhari/CVE-2025-55182">
+- [Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182](https://github.com/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -6899,6 +6900,7 @@
 - [0xDTC/XWiki-Platform-RCE-CVE-2025-24893](https://github.com/0xDTC/XWiki-Platform-RCE-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/XWiki-Platform-RCE-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/XWiki-Platform-RCE-CVE-2025-24893">
 - [dr4x-c0d3r/xwiki-exploit](https://github.com/dr4x-c0d3r/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/xwiki-exploit">
 - [dr4xp/xwiki-rce](https://github.com/dr4xp/xwiki-rce)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/xwiki-rce">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/xwiki-rce">
+- [o0wo0o/CVE-2025-24893_Shell](https://github.com/o0wo0o/CVE-2025-24893_Shell)	<img alt="forks" src="https://img.shields.io/github/forks/o0wo0o/CVE-2025-24893_Shell">	<img alt="stars" src="https://img.shields.io/github/stars/o0wo0o/CVE-2025-24893_Shell">
 
 ---
 ## CVE-2025-24813 ()
