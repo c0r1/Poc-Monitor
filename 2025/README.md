@@ -7157,6 +7157,7 @@
 - [DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-](https://github.com/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-)	<img alt="forks" src="https://img.shields.io/github/forks/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">	<img alt="stars" src="https://img.shields.io/github/stars/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">
 - [Royall-Researchers/CVE-2025-24071](https://github.com/Royall-Researchers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2025-24071">
 - [AC8999/CVE-2025-24071](https://github.com/AC8999/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-24071">
+- [Abdelrahman0Sayed/CVE-2025-24071](https://github.com/Abdelrahman0Sayed/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Abdelrahman0Sayed/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Abdelrahman0Sayed/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
