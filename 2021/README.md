@@ -1046,6 +1046,7 @@
 - [Sliaswrk/HTA-Exploit](https://github.com/Sliaswrk/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sliaswrk/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sliaswrk/HTA-Exploit">
 - [Sliaswrk/PDF-FUD-Exploit](https://github.com/Sliaswrk/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sliaswrk/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sliaswrk/PDF-FUD-Exploit">
 - [IAmNewbieZ/CVE-2021-44228](https://github.com/IAmNewbieZ/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/IAmNewbieZ/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/IAmNewbieZ/CVE-2021-44228">
+- [Loliverte/Log4j-Vulnerability](https://github.com/Loliverte/Log4j-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Loliverte/Log4j-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Loliverte/Log4j-Vulnerability">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
