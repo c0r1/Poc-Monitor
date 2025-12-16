@@ -459,6 +459,11 @@
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
 
 ---
+## CVE-2025-68116 ()
+> 
+- [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
+
+---
 ## CVE-2025-6758 ()
 > 
 - [Nxploited/CVE-2025-6758](https://github.com/Nxploited/CVE-2025-6758)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6758">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6758">
@@ -7153,11 +7158,13 @@
 - [LOOKY243/CVE-2025-24071-PoC](https://github.com/LOOKY243/CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOOKY243/CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOOKY243/CVE-2025-24071-PoC">
 - [ex-cal1bur/SMB_CVE-2025-24071](https://github.com/ex-cal1bur/SMB_CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/ex-cal1bur/SMB_CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/ex-cal1bur/SMB_CVE-2025-24071">
 - [TH-SecForge/CVE-2025-24071](https://github.com/TH-SecForge/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-24071">
-- [B1ack4sh/Blackash-CVE-2025-24071](https://github.com/B1ack4sh/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24071">
+- [Ashwesker/Blackash-CVE-2025-24071](https://github.com/Ashwesker/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-24071">
 - [DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-](https://github.com/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-)	<img alt="forks" src="https://img.shields.io/github/forks/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">	<img alt="stars" src="https://img.shields.io/github/stars/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">
 - [Royall-Researchers/CVE-2025-24071](https://github.com/Royall-Researchers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2025-24071">
 - [AC8999/CVE-2025-24071](https://github.com/AC8999/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-24071">
 - [Abdelrahman0Sayed/CVE-2025-24071](https://github.com/Abdelrahman0Sayed/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Abdelrahman0Sayed/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Abdelrahman0Sayed/CVE-2025-24071">
+- [WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">
+- [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 
 ---
 ## CVE-2025-24054 ()
