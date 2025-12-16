@@ -2763,6 +2763,7 @@
 - [EQSTLab/CVE-2025-55182](https://github.com/EQSTLab/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-55182">
 - [scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/FiberBreak">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/FiberBreak">
 - [d0cnull/nextjs-CVE-2025-55182](https://github.com/d0cnull/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/d0cnull/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/d0cnull/nextjs-CVE-2025-55182">
+- [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
 
 ---
 ## CVE-2025-54988 ()
@@ -6785,7 +6786,7 @@
 - [adilburaksen/CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/adilburaksen/CVE-2025-25257-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/adilburaksen/CVE-2025-25257-Exploit-Tool">
 - [imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-25257">
 - [imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-25257">
-- [B1ack4sh/Blackash-CVE-2025-25257](https://github.com/B1ack4sh/Blackash-CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-25257">
+- [Ashwesker/Blackash-CVE-2025-25257](https://github.com/Ashwesker/Blackash-CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-25257">
 - [mtjanus106/CVE-2025-25257](https://github.com/mtjanus106/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mtjanus106/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mtjanus106/CVE-2025-25257">
 - [secwatch92/fortiweb_rce_toolkit](https://github.com/secwatch92/fortiweb_rce_toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/secwatch92/fortiweb_rce_toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/secwatch92/fortiweb_rce_toolkit">
 - [0xgh057r3c0n/CVE-2025-25257](https://github.com/0xgh057r3c0n/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-25257">
