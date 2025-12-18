@@ -1153,6 +1153,7 @@
 ## CVE-2025-63353 ()
 > 
 - [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/hanianis/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/hanianis/CVE-2025-63353">
+- [0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/0xA1M/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/0xA1M/CVE-2025-63353">
 
 ---
 ## CVE-2025-6335 ()
@@ -7876,6 +7877,11 @@
 - [MalBean/CVE-2025-14174-Bypass-](https://github.com/MalBean/CVE-2025-14174-Bypass-)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass-">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass-">
 - [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
 - [Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Satirush/CVE-2025-14174-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Satirush/CVE-2025-14174-Poc">
+
+---
+## CVE-2025-14156 ()
+> 
+- [Nxploited/CVE-2025-14156](https://github.com/Nxploited/CVE-2025-14156)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14156">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14156">
 
 ---
 ## CVE-2025-13796 ()
