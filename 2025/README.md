@@ -461,7 +461,7 @@
 ---
 ## CVE-2025-68434 ()
 > 
-- [Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">
+- [Nixon-H/CVE-2025-68434-OSPOS-CSRF](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF">
 
 ---
 ## CVE-2025-68147 ()
@@ -2417,6 +2417,7 @@
 - [EvtDanya/rsc-vulnerabilities](https://github.com/EvtDanya/rsc-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/rsc-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/rsc-vulnerabilities">
 - [cybertechajju/CVE-2025-55184-POC-Expolit](https://github.com/cybertechajju/CVE-2025-55184-POC-Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2025-55184-POC-Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2025-55184-POC-Expolit">
 - [Tarekhshaikh13/CVE-2025-55184](https://github.com/Tarekhshaikh13/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/Tarekhshaikh13/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/Tarekhshaikh13/CVE-2025-55184">
+- [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
 
 ---
 ## CVE-2025-55183 ()
@@ -2822,6 +2823,7 @@
 - [ceh-aditya-raj/CVE-2025-55182](https://github.com/ceh-aditya-raj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ceh-aditya-raj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ceh-aditya-raj/CVE-2025-55182">
 - [pwnxpl0it/react2shell-lab](https://github.com/pwnxpl0it/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pwnxpl0it/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pwnxpl0it/react2shell-lab">
 - [aleksandrova834/react2shell-bypasswaf](https://github.com/aleksandrova834/react2shell-bypasswaf)	<img alt="forks" src="https://img.shields.io/github/forks/aleksandrova834/react2shell-bypasswaf">	<img alt="stars" src="https://img.shields.io/github/stars/aleksandrova834/react2shell-bypasswaf">
+- [r4j3sh-com/CVE-2025-55182](https://github.com/r4j3sh-com/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
