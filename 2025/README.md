@@ -474,6 +474,21 @@
 - [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
 
 ---
+## CVE-2025-67888 ()
+> 
+- [reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67888">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67888">
+
+---
+## CVE-2025-67887 ()
+> 
+- [reewardius/CVE-2025-67887](https://github.com/reewardius/CVE-2025-67887)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67887">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67887">
+
+---
+## CVE-2025-67886 ()
+> 
+- [reewardius/CVE-2025-67886](https://github.com/reewardius/CVE-2025-67886)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67886">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67886">
+
+---
 ## CVE-2025-67780 ()
 > 
 - [SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit](https://github.com/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit">
@@ -5251,6 +5266,7 @@
 - [TheTorjanCaptain/CVE-2025-33053-Checker-PoC](https://github.com/TheTorjanCaptain/CVE-2025-33053-Checker-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2025-33053-Checker-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2025-33053-Checker-PoC">
 - [kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept](https://github.com/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept">
 - [4n4s4zi/CVE-2025-33053_PoC](https://github.com/4n4s4zi/CVE-2025-33053_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/CVE-2025-33053_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/CVE-2025-33053_PoC">
+- [Cyberw1ng/CVE-2025-33053-POC](https://github.com/Cyberw1ng/CVE-2025-33053-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberw1ng/CVE-2025-33053-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberw1ng/CVE-2025-33053-POC">
 
 ---
 ## CVE-2025-32965 ()
