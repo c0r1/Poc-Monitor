@@ -2846,6 +2846,8 @@
 - [pwnxpl0it/react2shell-lab](https://github.com/pwnxpl0it/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pwnxpl0it/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pwnxpl0it/react2shell-lab">
 - [aleksandrova834/react2shell-bypasswaf](https://github.com/aleksandrova834/react2shell-bypasswaf)	<img alt="forks" src="https://img.shields.io/github/forks/aleksandrova834/react2shell-bypasswaf">	<img alt="stars" src="https://img.shields.io/github/stars/aleksandrova834/react2shell-bypasswaf">
 - [r4j3sh-com/CVE-2025-55182](https://github.com/r4j3sh-com/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-55182">
+- [rashedhasan090/cve-2025-55182-mitigator](https://github.com/rashedhasan090/cve-2025-55182-mitigator)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/cve-2025-55182-mitigator">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/cve-2025-55182-mitigator">
+- [degenwithheart/React2Shell-Vulnerability-Verification-Script](https://github.com/degenwithheart/React2Shell-Vulnerability-Verification-Script)	<img alt="forks" src="https://img.shields.io/github/forks/degenwithheart/React2Shell-Vulnerability-Verification-Script">	<img alt="stars" src="https://img.shields.io/github/stars/degenwithheart/React2Shell-Vulnerability-Verification-Script">
 
 ---
 ## CVE-2025-54988 ()
@@ -7860,6 +7862,11 @@
 ## CVE-2025-1461 ()
 > 
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
+
+---
+## CVE-2025-14440 ()
+> 
+- [Nxploited/CVE-2025-14440](https://github.com/Nxploited/CVE-2025-14440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14440">
 
 ---
 ## CVE-2025-14269 ()
