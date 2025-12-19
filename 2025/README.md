@@ -2868,6 +2868,7 @@
 - [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RavinduRathnayaka/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RavinduRathnayaka/CVE-2025-55182-PoC">
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-55182">
 - [chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script">
+- [lamaper/CVE-2025-55182-Toolbox](https://github.com/lamaper/CVE-2025-55182-Toolbox)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2025-55182-Toolbox">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2025-55182-Toolbox">
 
 ---
 ## CVE-2025-54988 ()
