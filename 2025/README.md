@@ -776,6 +776,11 @@
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
 
 ---
+## CVE-2025-65790 ()
+> 
+- [hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790](https://github.com/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790)	<img alt="forks" src="https://img.shields.io/github/forks/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790">	<img alt="stars" src="https://img.shields.io/github/stars/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790">
+
+---
 ## CVE-2025-65754 ()
 > 
 - [Bnyt7/CVE-2025-65754](https://github.com/Bnyt7/CVE-2025-65754)	<img alt="forks" src="https://img.shields.io/github/forks/Bnyt7/CVE-2025-65754">	<img alt="stars" src="https://img.shields.io/github/stars/Bnyt7/CVE-2025-65754">
@@ -4737,6 +4742,11 @@
 ## CVE-2025-4380 ()
 > 
 - [r0otk3r/CVE-2025-4380](https://github.com/r0otk3r/CVE-2025-4380)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-4380">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-4380">
+
+---
+## CVE-2025-43541 ()
+> 
+- [crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0bit/CVE-2025-43541">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0bit/CVE-2025-43541">
 
 ---
 ## CVE-2025-43504 ()
