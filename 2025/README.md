@@ -2915,6 +2915,9 @@
 - [niokagi/react-cve-2025-55182-test](https://github.com/niokagi/react-cve-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/niokagi/react-cve-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/niokagi/react-cve-2025-55182-test">
 - [niokagi/react-cve-2025-55182](https://github.com/niokagi/react-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/niokagi/react-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/niokagi/react-cve-2025-55182">
 - [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
+- [vonuyvicoo/nextploiter](https://github.com/vonuyvicoo/nextploiter)	<img alt="forks" src="https://img.shields.io/github/forks/vonuyvicoo/nextploiter">	<img alt="stars" src="https://img.shields.io/github/stars/vonuyvicoo/nextploiter">
+- [BlackTechX011/React2Shell](https://github.com/BlackTechX011/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/BlackTechX011/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/BlackTechX011/React2Shell">
+- [knightwolf01/React2Shell](https://github.com/knightwolf01/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/knightwolf01/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/knightwolf01/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
