@@ -741,6 +741,7 @@
 - [Geekby/n8n-CVE-2025-65964](https://github.com/Geekby/n8n-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Geekby/n8n-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Geekby/n8n-CVE-2025-65964">
 - [Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-65964">
 - [Saboor-Hakimi-23/CVE-2025-65964](https://github.com/Saboor-Hakimi-23/CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi-23/CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi-23/CVE-2025-65964">
+- [Pinus97/CVE-2025-65964-POC](https://github.com/Pinus97/CVE-2025-65964-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Pinus97/CVE-2025-65964-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Pinus97/CVE-2025-65964-POC">
 
 ---
 ## CVE-2025-65945 ()
@@ -1335,6 +1336,7 @@
 - [dexterm300/CVE-2025-62215-exploit-poc](https://github.com/dexterm300/CVE-2025-62215-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/CVE-2025-62215-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/CVE-2025-62215-exploit-poc">
 - [mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation](https://github.com/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">
 - [abrewer251/CVE-2025-62215_Windows_Kernel_PE](https://github.com/abrewer251/CVE-2025-62215_Windows_Kernel_PE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-62215_Windows_Kernel_PE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-62215_Windows_Kernel_PE">
+- [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
 
 ---
 ## CVE-2025-62207 ()
@@ -2930,6 +2932,7 @@
 - [BlackTechX011/React2Shell](https://github.com/BlackTechX011/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/BlackTechX011/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/BlackTechX011/React2Shell">
 - [knightwolf01/React2Shell](https://github.com/knightwolf01/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/knightwolf01/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/knightwolf01/React2Shell">
 - [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
+- [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
 
 ---
 ## CVE-2025-54988 ()
