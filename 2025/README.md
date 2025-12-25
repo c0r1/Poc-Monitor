@@ -484,6 +484,7 @@
 - [manyaigdtuw/CVE-2025-68613_Scanner](https://github.com/manyaigdtuw/CVE-2025-68613_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manyaigdtuw/CVE-2025-68613_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manyaigdtuw/CVE-2025-68613_Scanner">
 - [AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AbdulRKB/n8n-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AbdulRKB/n8n-RCE">
 - [JohannesLks/CVE-2025-68613-Python-Exploit](https://github.com/JohannesLks/CVE-2025-68613-Python-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-68613-Python-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-68613-Python-Exploit">
+- [hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate](https://github.com/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">
 
 ---
 ## CVE-2025-6860 ()
@@ -2999,6 +3000,7 @@
 - [wiixx44/CVE-2025-55182](https://github.com/wiixx44/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wiixx44/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wiixx44/CVE-2025-55182">
 - [alyaapm/CVE-2025-55182-shellinteractive](https://github.com/alyaapm/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/alyaapm/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/alyaapm/CVE-2025-55182-shellinteractive">
 - [thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
+- [sobuj0007/Nextjs_RCE_Exploit_Tool](https://github.com/sobuj0007/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sobuj0007/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sobuj0007/Nextjs_RCE_Exploit_Tool">
 
 ---
 ## CVE-2025-54988 ()
@@ -5682,6 +5684,7 @@
 - [Ghstxz/CVE-2025-32463](https://github.com/Ghstxz/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Ghstxz/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Ghstxz/CVE-2025-32463">
 - [ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation](https://github.com/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">
 - [justjoeyking/CVE-2025-32463](https://github.com/justjoeyking/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/justjoeyking/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/justjoeyking/CVE-2025-32463">
+- [Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Alperen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Alperen/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
