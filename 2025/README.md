@@ -2979,6 +2979,7 @@
 - [mayank729/CVE-2025-55182-scanner](https://github.com/mayank729/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mayank729/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mayank729/CVE-2025-55182-scanner">
 - [guiimoraes/react2shell-evolved](https://github.com/guiimoraes/react2shell-evolved)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/react2shell-evolved">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/react2shell-evolved">
 - [meneim99/react2shell-scanner](https://github.com/meneim99/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/meneim99/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/meneim99/react2shell-scanner">
+- [Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mayca369/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mayca369/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -3873,6 +3874,7 @@
 - [Ashwesker/Blackash-CVE-2025-49844](https://github.com/Ashwesker/Blackash-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-49844">
 - [saneki/cve-2025-49844](https://github.com/saneki/cve-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/saneki/cve-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/saneki/cve-2025-49844">
 - [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
+- [hzhsec/redis-cve_2025_49844](https://github.com/hzhsec/redis-cve_2025_49844)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/redis-cve_2025_49844">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/redis-cve_2025_49844">
 
 ---
 ## CVE-2025-49752 ()
