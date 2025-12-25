@@ -1771,6 +1771,11 @@
 - [d0n601/CVE-2025-5961](https://github.com/d0n601/CVE-2025-5961)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-5961">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-5961">
 
 ---
+## CVE-2025-59532 ()
+> 
+- [baktistr/cve-2025-59532-poc](https://github.com/baktistr/cve-2025-59532-poc)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-59532-poc">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-59532-poc">
+
+---
 ## CVE-2025-59528 ()
 > 
 - [zimshk/CVE-2025-59528.yaml](https://github.com/zimshk/CVE-2025-59528.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/zimshk/CVE-2025-59528.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/zimshk/CVE-2025-59528.yaml">
@@ -5731,6 +5736,7 @@
 - [l1nuxkid/CVE-2025-32433](https://github.com/l1nuxkid/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/l1nuxkid/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/l1nuxkid/CVE-2025-32433">
 - [radzek15/CVE-2025-32433](https://github.com/radzek15/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-32433">
 - [soltanali0/CVE-2025-32433-Eploit](https://github.com/soltanali0/CVE-2025-32433-Eploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-32433-Eploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-32433-Eploit">
+- [giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/cve-2025-32433_rce_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/cve-2025-32433_rce_exploit">
 
 ---
 ## CVE-2025-32432 ()
