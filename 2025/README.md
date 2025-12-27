@@ -1785,6 +1785,7 @@
 > 
 - [Ashwesker/Blackash-CVE-2025-59718](https://github.com/Ashwesker/Blackash-CVE-2025-59718)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-59718">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-59718">
 - [exfil0/CVE-2025-59718-PoC](https://github.com/exfil0/CVE-2025-59718-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-59718-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-59718-PoC">
+- [moften/CVE-2025-59718-Fortinet-Poc](https://github.com/moften/CVE-2025-59718-Fortinet-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-59718-Fortinet-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-59718-Fortinet-Poc">
 
 ---
 ## CVE-2025-5964 ()
@@ -3021,6 +3022,7 @@
 - [kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-](https://github.com/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-">
 - [ahmed-dev-op/CVE-2025-55182](https://github.com/ahmed-dev-op/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmed-dev-op/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmed-dev-op/CVE-2025-55182">
 - [iksanwkk/CVE-2025-55182-exp](https://github.com/iksanwkk/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/iksanwkk/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/iksanwkk/CVE-2025-55182-exp">
+- [Lennonxlz/react2shell-ultimate](https://github.com/Lennonxlz/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/Lennonxlz/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/Lennonxlz/react2shell-ultimate">
 
 ---
 ## CVE-2025-54988 ()
