@@ -3041,6 +3041,7 @@
 - [ahmedtouzani/CVE-2025-55182](https://github.com/ahmedtouzani/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedtouzani/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedtouzani/CVE-2025-55182">
 - [haftomgu/CVE-2025-55182-advanced-scanner-](https://github.com/haftomgu/CVE-2025-55182-advanced-scanner-)	<img alt="forks" src="https://img.shields.io/github/forks/haftomgu/CVE-2025-55182-advanced-scanner-">	<img alt="stars" src="https://img.shields.io/github/stars/haftomgu/CVE-2025-55182-advanced-scanner-">
 - [KingHacker353/R2C-CVE-2025-55182-66478](https://github.com/KingHacker353/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/R2C-CVE-2025-55182-66478">
+- [MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell](https://github.com/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -8108,6 +8109,7 @@
 - [Ashwesker/Blackash-CVE-2025-14847](https://github.com/Ashwesker/Blackash-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14847">
 - [Black1hp/mongobleed-scanner](https://github.com/Black1hp/mongobleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Black1hp/mongobleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Black1hp/mongobleed-scanner">
 - [saereya/CVE-2025-14847---MongoBleed](https://github.com/saereya/CVE-2025-14847---MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/saereya/CVE-2025-14847---MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/saereya/CVE-2025-14847---MongoBleed">
+- [nma-io/mongobleed](https://github.com/nma-io/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/nma-io/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/nma-io/mongobleed">
 
 ---
 ## CVE-2025-14765 ()
