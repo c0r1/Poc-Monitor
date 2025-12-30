@@ -477,6 +477,7 @@
 ## CVE-2025-68645 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-68645](https://github.com/Ashwesker/Blackash-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-68645">
+- [chinaxploiter/CVE-2025-68645-PoC](https://github.com/chinaxploiter/CVE-2025-68645-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2025-68645-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2025-68645-PoC">
 
 ---
 ## CVE-2025-68615 ()
@@ -8231,6 +8232,7 @@
 - [FurkanKAYAPINAR/CVE-2025-14847-MongoBleed-Exploit](https://github.com/FurkanKAYAPINAR/CVE-2025-14847-MongoBleed-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2025-14847-MongoBleed-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2025-14847-MongoBleed-Exploit">
 - [j0lt-github/mongobleedburp](https://github.com/j0lt-github/mongobleedburp)	<img alt="forks" src="https://img.shields.io/github/forks/j0lt-github/mongobleedburp">	<img alt="stars" src="https://img.shields.io/github/stars/j0lt-github/mongobleedburp">
 - [ogpourya/CVE-2025-14847](https://github.com/ogpourya/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/ogpourya/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/ogpourya/CVE-2025-14847">
+- [NoNameError/MongoBLEED---CVE-2025-14847-POC-](https://github.com/NoNameError/MongoBLEED---CVE-2025-14847-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/NoNameError/MongoBLEED---CVE-2025-14847-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/NoNameError/MongoBLEED---CVE-2025-14847-POC-">
 
 ---
 ## CVE-2025-14765 ()
