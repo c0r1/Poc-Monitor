@@ -8898,6 +8898,7 @@
 ## CVE-2025-0288 ()
 > 
 - [MeisamEb/CVE-2025-0288](https://github.com/MeisamEb/CVE-2025-0288)	<img alt="forks" src="https://img.shields.io/github/forks/MeisamEb/CVE-2025-0288">	<img alt="stars" src="https://img.shields.io/github/stars/MeisamEb/CVE-2025-0288">
+- [barhen12/CVE-2025-0288](https://github.com/barhen12/CVE-2025-0288)	<img alt="forks" src="https://img.shields.io/github/forks/barhen12/CVE-2025-0288">	<img alt="stars" src="https://img.shields.io/github/stars/barhen12/CVE-2025-0288">
 
 ---
 ## CVE-2025-0282 ()
