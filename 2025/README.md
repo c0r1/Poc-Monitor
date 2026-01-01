@@ -610,6 +610,11 @@
 - [YongYe-Security/CVE-2025-67254](https://github.com/YongYe-Security/CVE-2025-67254)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2025-67254">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2025-67254">
 
 ---
+## CVE-2025-67158 ()
+> 
+- [Remenis/CVE-2025-67158](https://github.com/Remenis/CVE-2025-67158)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-67158">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-67158">
+
+---
 ## CVE-2025-6713 ()
 > 
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">
