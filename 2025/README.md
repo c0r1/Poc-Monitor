@@ -1526,6 +1526,7 @@
 ## CVE-2025-61922 ()
 > 
 - [captaincookie34/Vulnerability-Playground-CVE-2025-61922](https://github.com/captaincookie34/Vulnerability-Playground-CVE-2025-61922)	<img alt="forks" src="https://img.shields.io/github/forks/captaincookie34/Vulnerability-Playground-CVE-2025-61922">	<img alt="stars" src="https://img.shields.io/github/stars/captaincookie34/Vulnerability-Playground-CVE-2025-61922">
+- [g0vguy/CVE-2025-61922-PoC](https://github.com/g0vguy/CVE-2025-61922-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g0vguy/CVE-2025-61922-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g0vguy/CVE-2025-61922-PoC">
 
 ---
 ## CVE-2025-61884 ()
