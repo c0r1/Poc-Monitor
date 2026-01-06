@@ -2505,6 +2505,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [zora-beep/CVE-2023-4220](https://github.com/zora-beep/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/zora-beep/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/zora-beep/CVE-2023-4220">
 - [insomnia-jacob/CVE-2023-4220](https://github.com/insomnia-jacob/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-4220">
 - [gmh5225/CVE-2023-4220](https://github.com/gmh5225/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-4220">
+- [Rai2en/CVE-2023-4220-Chamilo-LMS](https://github.com/Rai2en/CVE-2023-4220-Chamilo-LMS)	<img alt="forks" src="https://img.shields.io/github/forks/Rai2en/CVE-2023-4220-Chamilo-LMS">	<img alt="stars" src="https://img.shields.io/github/stars/Rai2en/CVE-2023-4220-Chamilo-LMS">
 
 ---
 ## CVE-2023-422 ()
