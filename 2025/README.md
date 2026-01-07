@@ -8294,6 +8294,7 @@
 - [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-1974">
 - [gunyakit/CVE-2025-1974-PoC-exploit](https://github.com/gunyakit/CVE-2025-1974-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-1974-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-1974-PoC-exploit">
 - [I3r1h0n/IngressNightterror](https://github.com/I3r1h0n/IngressNightterror)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/IngressNightterror">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/IngressNightterror">
+- [BoianEduard/-CVE-2025-1974](https://github.com/BoianEduard/-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/-CVE-2025-1974">
 
 ---
 ## CVE-2025-1913 ()
