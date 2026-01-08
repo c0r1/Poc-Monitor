@@ -3903,6 +3903,8 @@ prior to
 
 - [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
+- [Chocapikk/CVE-2023-36846](https://github.com/Chocapikk/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-36846">
+- [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-36845-6-">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-36845-6-">
 
 ---
 ## CVE-2023-36845 (2023-08-17T20:15:00)
@@ -4385,7 +4387,7 @@ The specific flaw exists within the DDP service. The issue results from the lack
 - [knitteruntil0s/CVE-2023-3519](https://github.com/knitteruntil0s/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/knitteruntil0s/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/knitteruntil0s/CVE-2023-3519">
 - [JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck)	<img alt="forks" src="https://img.shields.io/github/forks/JonaNeidhart/CVE-2023-3519-BackdoorCheck">	<img alt="stars" src="https://img.shields.io/github/stars/JonaNeidhart/CVE-2023-3519-BackdoorCheck">
 - [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Aicks/Citrix-CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Aicks/Citrix-CVE-2023-3519">
-- [Mohammaddvd/CVE-2023-3519](https://github.com/Mohammaddvd/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammaddvd/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammaddvd/CVE-2023-3519">
+- [dhammerg/CVE-2023-3519](https://github.com/dhammerg/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/dhammerg/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/dhammerg/CVE-2023-3519">
 - [Chocapikk/CVE-2023-3519](https://github.com/Chocapikk/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-3519">
 
 ---
@@ -4402,6 +4404,11 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 ## CVE-2023-35085 ()
 > 
 - [maoruiQa/CVE-2023-35085-POC-EXP](https://github.com/maoruiQa/CVE-2023-35085-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/maoruiQa/CVE-2023-35085-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/maoruiQa/CVE-2023-35085-POC-EXP">
+
+---
+## CVE-2023-35082 ()
+> 
+- [Chocapikk/CVE-2023-35082](https://github.com/Chocapikk/CVE-2023-35082)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-35082">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-35082">
 
 ---
 ## CVE-2023-35080 (2023-11-15T00:15:00)
