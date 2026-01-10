@@ -10567,6 +10567,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Dit-Developers/CVE-2024-0044-](https://github.com/Dit-Developers/CVE-2024-0044-)	<img alt="forks" src="https://img.shields.io/github/forks/Dit-Developers/CVE-2024-0044-">	<img alt="stars" src="https://img.shields.io/github/stars/Dit-Developers/CVE-2024-0044-">
 - [HoyoenKim/CVE-2024-0044_PoC](https://github.com/HoyoenKim/CVE-2024-0044_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/HoyoenKim/CVE-2024-0044_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/HoyoenKim/CVE-2024-0044_PoC">
 - [Athexhacker/EXPLOITER](https://github.com/Athexhacker/EXPLOITER)	<img alt="forks" src="https://img.shields.io/github/forks/Athexhacker/EXPLOITER">	<img alt="stars" src="https://img.shields.io/github/stars/Athexhacker/EXPLOITER">
+- [JackTekno/Chrome-Forensic_CVE-2024-0044](https://github.com/JackTekno/Chrome-Forensic_CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/JackTekno/Chrome-Forensic_CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/JackTekno/Chrome-Forensic_CVE-2024-0044">
 
 ---
 ## CVE-2024-0040 (2024-02-16T02:15:00)
