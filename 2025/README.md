@@ -2192,6 +2192,11 @@
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
 
 ---
+## CVE-2025-58098 ()
+> 
+- [dhmosfunk/CVE-2025-58098](https://github.com/dhmosfunk/CVE-2025-58098)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2025-58098">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2025-58098">
+
+---
 ## CVE-2025-58034 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-58034](https://github.com/B1ack4sh/Blackash-CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58034">
