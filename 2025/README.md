@@ -3264,6 +3264,7 @@
 - [Sown0205/CVE_2025_55182](https://github.com/Sown0205/CVE_2025_55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sown0205/CVE_2025_55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sown0205/CVE_2025_55182">
 - [Faithtiannn/CVE-2025-55182](https://github.com/Faithtiannn/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Faithtiannn/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Faithtiannn/CVE-2025-55182">
 - [Vanbinh-dev/CVE_2025_55182_testing](https://github.com/Vanbinh-dev/CVE_2025_55182_testing)	<img alt="forks" src="https://img.shields.io/github/forks/Vanbinh-dev/CVE_2025_55182_testing">	<img alt="stars" src="https://img.shields.io/github/stars/Vanbinh-dev/CVE_2025_55182_testing">
+- [termireum/react2shell](https://github.com/termireum/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/react2shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -3693,6 +3694,11 @@
 ## CVE-2025-5304 ()
 > 
 - [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5304">
+
+---
+## CVE-2025-53020 ()
+> 
+- [galbarnahum/CVE-2025-53020-PoC](https://github.com/galbarnahum/CVE-2025-53020-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/galbarnahum/CVE-2025-53020-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/galbarnahum/CVE-2025-53020-PoC">
 
 ---
 ## CVE-2025-52970 ()
