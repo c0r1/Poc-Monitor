@@ -7378,6 +7378,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/D0rDa4aN919/CVE-2023-22809-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/D0rDa4aN919/CVE-2023-22809-Exploiter">
 - [laxmiyamkolu/SUDO-privilege-escalation](https://github.com/laxmiyamkolu/SUDO-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/laxmiyamkolu/SUDO-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/laxmiyamkolu/SUDO-privilege-escalation">
 - [Spydomain/CVE-2023-22809-automated-python-exploits](https://github.com/Spydomain/CVE-2023-22809-automated-python-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2023-22809-automated-python-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2023-22809-automated-python-exploits">
+- [ValeuDoamne/CVE-2023-22809](https://github.com/ValeuDoamne/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/ValeuDoamne/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/ValeuDoamne/CVE-2023-22809">
 
 ---
 ## CVE-2023-22726 (2023-01-20T22:15:00)
