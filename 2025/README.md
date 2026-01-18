@@ -683,6 +683,16 @@
 - [0xthem7/CVE-2025-67294](https://github.com/0xthem7/CVE-2025-67294)	<img alt="forks" src="https://img.shields.io/github/forks/0xthem7/CVE-2025-67294">	<img alt="stars" src="https://img.shields.io/github/stars/0xthem7/CVE-2025-67294">
 
 ---
+## CVE-2025-67263 ()
+> 
+- [Smarttfoxx/CVE-2025-67263](https://github.com/Smarttfoxx/CVE-2025-67263)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-67263">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-67263">
+
+---
+## CVE-2025-67261 ()
+> 
+- [Smarttfoxx/CVE-2025-67261](https://github.com/Smarttfoxx/CVE-2025-67261)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-67261">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-67261">
+
+---
 ## CVE-2025-67254 ()
 > 
 - [YongYe-Security/CVE-2025-67254](https://github.com/YongYe-Security/CVE-2025-67254)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2025-67254">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2025-67254">
