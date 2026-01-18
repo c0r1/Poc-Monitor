@@ -5709,7 +5709,8 @@
 > 
 - [Cedric-Martz/CVE-2025-36911_scan](https://github.com/Cedric-Martz/CVE-2025-36911_scan)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric-Martz/CVE-2025-36911_scan">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric-Martz/CVE-2025-36911_scan">
 - [SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-](https://github.com/SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-">
-- [zalexdev/whisper-pair-app](https://github.com/zalexdev/whisper-pair-app)	<img alt="forks" src="https://img.shields.io/github/forks/zalexdev/whisper-pair-app">	<img alt="stars" src="https://img.shields.io/github/stars/zalexdev/whisper-pair-app">
+- [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app)	<img alt="forks" src="https://img.shields.io/github/forks/zalexdev/wpair-app">	<img alt="stars" src="https://img.shields.io/github/stars/zalexdev/wpair-app">
+- [SpectrixDev/DIY_WhisperPair](https://github.com/SpectrixDev/DIY_WhisperPair)	<img alt="forks" src="https://img.shields.io/github/forks/SpectrixDev/DIY_WhisperPair">	<img alt="stars" src="https://img.shields.io/github/stars/SpectrixDev/DIY_WhisperPair">
 
 ---
 ## CVE-2025-36535 ()
