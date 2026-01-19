@@ -1542,6 +1542,7 @@
 ## CVE-2025-62518 ()
 > 
 - [AirineiAndrei/Tarmageddon-CVE-2025-62518-](https://github.com/AirineiAndrei/Tarmageddon-CVE-2025-62518-)	<img alt="forks" src="https://img.shields.io/github/forks/AirineiAndrei/Tarmageddon-CVE-2025-62518-">	<img alt="stars" src="https://img.shields.io/github/stars/AirineiAndrei/Tarmageddon-CVE-2025-62518-">
+- [edera-dev/cve-tarmageddon](https://github.com/edera-dev/cve-tarmageddon)	<img alt="forks" src="https://img.shields.io/github/forks/edera-dev/cve-tarmageddon">	<img alt="stars" src="https://img.shields.io/github/stars/edera-dev/cve-tarmageddon">
 
 ---
 ## CVE-2025-62507 ()
