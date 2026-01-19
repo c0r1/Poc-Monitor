@@ -1539,6 +1539,11 @@
 - [B1ack4sh/Blackash-CVE-2025-62593](https://github.com/B1ack4sh/Blackash-CVE-2025-62593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-62593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-62593">
 
 ---
+## CVE-2025-62518 ()
+> 
+- [AirineiAndrei/Tarmageddon-CVE-2025-62518-](https://github.com/AirineiAndrei/Tarmageddon-CVE-2025-62518-)	<img alt="forks" src="https://img.shields.io/github/forks/AirineiAndrei/Tarmageddon-CVE-2025-62518-">	<img alt="stars" src="https://img.shields.io/github/stars/AirineiAndrei/Tarmageddon-CVE-2025-62518-">
+
+---
 ## CVE-2025-62507 ()
 > 
 - [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
