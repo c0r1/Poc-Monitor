@@ -3366,6 +3366,7 @@
 - [faisha1311/React2Shell-CVE-2025-55182-TryHackMe](https://github.com/faisha1311/React2Shell-CVE-2025-55182-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/faisha1311/React2Shell-CVE-2025-55182-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/faisha1311/React2Shell-CVE-2025-55182-TryHackMe">
 - [fBUZk2BH/RSC-Detect-CVE-2025-55182](https://github.com/fBUZk2BH/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/fBUZk2BH/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/fBUZk2BH/RSC-Detect-CVE-2025-55182">
 - [0xdolan/nextjs-CVE-2025-55182](https://github.com/0xdolan/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xdolan/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xdolan/nextjs-CVE-2025-55182">
+- [BBD-YZZ/CVE-2025-55182](https://github.com/BBD-YZZ/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
