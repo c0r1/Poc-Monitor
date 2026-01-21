@@ -154,6 +154,7 @@
 - [netw0rk7/CVE-2019-9193-Home-Lab](https://github.com/netw0rk7/CVE-2019-9193-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2019-9193-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2019-9193-Home-Lab">
 - [jhnhnck/CVE-2019-9193](https://github.com/jhnhnck/CVE-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/jhnhnck/CVE-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/jhnhnck/CVE-2019-9193">
 - [Cheryanika/CVE-2019-9193---Postgresql---RCE](https://github.com/Cheryanika/CVE-2019-9193---Postgresql---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Cheryanika/CVE-2019-9193---Postgresql---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Cheryanika/CVE-2019-9193---Postgresql---RCE">
+- [CybersRMUTL/CVE-2019-9193-Postgresql-RCE](https://github.com/CybersRMUTL/CVE-2019-9193-Postgresql-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CybersRMUTL/CVE-2019-9193-Postgresql-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CybersRMUTL/CVE-2019-9193-Postgresql-RCE">
 
 ---
 ## CVE-2019-9139 (2019-04-25T18:29:00)
@@ -3356,6 +3357,7 @@ use after free.
 - [uyerr/PoC_CVE-2019-10149--rce](https://github.com/uyerr/PoC_CVE-2019-10149--rce)	<img alt="forks" src="https://img.shields.io/github/forks/uyerr/PoC_CVE-2019-10149--rce">	<img alt="stars" src="https://img.shields.io/github/stars/uyerr/PoC_CVE-2019-10149--rce">
 - [VoyagerOnne/Exim-CVE-2019-10149](https://github.com/VoyagerOnne/Exim-CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/VoyagerOnne/Exim-CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/VoyagerOnne/Exim-CVE-2019-10149">
 - [Cheryanika/CVE-2019-10149---Exim4---RCE](https://github.com/Cheryanika/CVE-2019-10149---Exim4---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Cheryanika/CVE-2019-10149---Exim4---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Cheryanika/CVE-2019-10149---Exim4---RCE">
+- [CybersRMUTL/CVE-2019-10149-Exim4-RCE](https://github.com/CybersRMUTL/CVE-2019-10149-Exim4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CybersRMUTL/CVE-2019-10149-Exim4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CybersRMUTL/CVE-2019-10149-Exim4-RCE">
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
