@@ -12,6 +12,7 @@
 - [duy-31/CVE-2026-24061---telnetd](https://github.com/duy-31/CVE-2026-24061---telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2026-24061---telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2026-24061---telnetd">
 - [leonjza/inetutils-telnetd-auth-bypass](https://github.com/leonjza/inetutils-telnetd-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/leonjza/inetutils-telnetd-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/leonjza/inetutils-telnetd-auth-bypass">
 - [parameciumzhang/Tell-Me-Root](https://github.com/parameciumzhang/Tell-Me-Root)	<img alt="forks" src="https://img.shields.io/github/forks/parameciumzhang/Tell-Me-Root">	<img alt="stars" src="https://img.shields.io/github/stars/parameciumzhang/Tell-Me-Root">
+- [Chocapikk/CVE-2026-24061](https://github.com/Chocapikk/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
