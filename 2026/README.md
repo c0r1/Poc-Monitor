@@ -10,6 +10,7 @@
 > 
 - [TryA9ain/CVE-2026-24061](https://github.com/TryA9ain/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/CVE-2026-24061">
 - [duy-31/CVE-2026-24061---telnetd](https://github.com/duy-31/CVE-2026-24061---telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2026-24061---telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2026-24061---telnetd">
+- [leonjza/inetutils-telnetd-auth-bypass](https://github.com/leonjza/inetutils-telnetd-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/leonjza/inetutils-telnetd-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/leonjza/inetutils-telnetd-auth-bypass">
 
 ---
 ## CVE-2026-2395 ()
