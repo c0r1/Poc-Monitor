@@ -16,6 +16,7 @@
 - [JayGLXR/CVE-2026-24061-POC](https://github.com/JayGLXR/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JayGLXR/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JayGLXR/CVE-2026-24061-POC">
 - [yanxinwu946/CVE-2026-24061--telnetd](https://github.com/yanxinwu946/CVE-2026-24061--telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-24061--telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-24061--telnetd">
 - [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2026-24061">
+- [h3athen/CVE-2026-24061](https://github.com/h3athen/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/h3athen/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/h3athen/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
