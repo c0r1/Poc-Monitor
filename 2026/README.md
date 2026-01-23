@@ -24,6 +24,7 @@
 - [r00tuser111/CVE-2026-24061](https://github.com/r00tuser111/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/r00tuser111/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/r00tuser111/CVE-2026-24061">
 - [balgan/CVE-2026-24061](https://github.com/balgan/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/balgan/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/balgan/CVE-2026-24061">
 - [SystemVll/CVE-2026-24061](https://github.com/SystemVll/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-24061">
+- [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
 
 ---
 ## CVE-2026-2395 ()
