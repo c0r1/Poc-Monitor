@@ -554,6 +554,8 @@
 ## CVE-2025-68921 ()
 > 
 - [ZeroMemoryEx/CVE-2025-68921](https://github.com/ZeroMemoryEx/CVE-2025-68921)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2025-68921">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2025-68921">
+- [kikiuuw/CVE-2025-68921](https://github.com/kikiuuw/CVE-2025-68921)	<img alt="forks" src="https://img.shields.io/github/forks/kikiuuw/CVE-2025-68921">	<img alt="stars" src="https://img.shields.io/github/stars/kikiuuw/CVE-2025-68921">
+- [kikiuuw/kikiuuw.github.io](https://github.com/kikiuuw/kikiuuw.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/kikiuuw/kikiuuw.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/kikiuuw/kikiuuw.github.io">
 
 ---
 ## CVE-2025-68860 ()
@@ -612,6 +614,7 @@
 - [ahmedshamsddin/n8n-RCE-CVE-2025-68613](https://github.com/ahmedshamsddin/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/n8n-RCE-CVE-2025-68613">
 - [TheInterception/n8n_CVE-2025-68613_exploit_payloads](https://github.com/TheInterception/n8n_CVE-2025-68613_exploit_payloads)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/n8n_CVE-2025-68613_exploit_payloads">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/n8n_CVE-2025-68613_exploit_payloads">
 - [shibaaa204/CVE-2025-68613](https://github.com/shibaaa204/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/CVE-2025-68613">
+- [Victorhugofariasvieir66/relatorio-n8n.md](https://github.com/Victorhugofariasvieir66/relatorio-n8n.md)	<img alt="forks" src="https://img.shields.io/github/forks/Victorhugofariasvieir66/relatorio-n8n.md">	<img alt="stars" src="https://img.shields.io/github/stars/Victorhugofariasvieir66/relatorio-n8n.md">
 
 ---
 ## CVE-2025-6860 ()
