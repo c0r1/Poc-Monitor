@@ -2320,6 +2320,12 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 
 ---
+## CVE-2019-17147 ()
+> 
+- [imnot-ye/CVE-2019-17147](https://github.com/imnot-ye/CVE-2019-17147)	<img alt="forks" src="https://img.shields.io/github/forks/imnot-ye/CVE-2019-17147">	<img alt="stars" src="https://img.shields.io/github/stars/imnot-ye/CVE-2019-17147">
+- [DrmnSamoLiu/CVE-2019-17147_Practice_Material](https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material)	<img alt="forks" src="https://img.shields.io/github/forks/DrmnSamoLiu/CVE-2019-17147_Practice_Material">	<img alt="stars" src="https://img.shields.io/github/stars/DrmnSamoLiu/CVE-2019-17147_Practice_Material">
+
+---
 ## CVE-2019-17133 (2019-10-04T12:15:00)
 > In the Linux kernel through 5.3.2, cfg80211_mgd_wext_giwessid in net/wireless/wext-sme.c does not reject a long SSID IE, leading to a Buffer Overflow.
 - [krnidhi/linux_4.19.72_CVE-2019-17133](https://github.com/krnidhi/linux_4.19.72_CVE-2019-17133)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/linux_4.19.72_CVE-2019-17133">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/linux_4.19.72_CVE-2019-17133">
