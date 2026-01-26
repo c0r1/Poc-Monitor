@@ -45,6 +45,7 @@
 - [punitdarji/telnetd-cve-2026-24061](https://github.com/punitdarji/telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/telnetd-cve-2026-24061">
 - [XsanFlip/CVE-2026-24061-Scanner](https://github.com/XsanFlip/CVE-2026-24061-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-24061-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-24061-Scanner">
 - [LionKing-2022/cve-2026-24061-gui](https://github.com/LionKing-2022/cve-2026-24061-gui)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/cve-2026-24061-gui">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/cve-2026-24061-gui">
+- [LionKing-2022/cve-2026-24061-exploit-tool](https://github.com/LionKing-2022/cve-2026-24061-exploit-tool)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/cve-2026-24061-exploit-tool">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/cve-2026-24061-exploit-tool">
 
 ---
 ## CVE-2026-2395 ()
