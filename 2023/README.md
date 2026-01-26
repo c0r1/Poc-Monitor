@@ -3378,6 +3378,11 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820">
 
 ---
+## CVE-2023-38817 ()
+> 
+- [SecSecBurger/CVE-2023-38817](https://github.com/SecSecBurger/CVE-2023-38817)	<img alt="forks" src="https://img.shields.io/github/forks/SecSecBurger/CVE-2023-38817">	<img alt="stars" src="https://img.shields.io/github/stars/SecSecBurger/CVE-2023-38817">
+
+---
 ## CVE-2023-38743 (2023-09-11T19:15:00)
 > Zoho ManageEngine ADManager Plus before Build 7200 allows admin users to execute commands on the host machine.
 - [PetrusViet/CVE-2023-38743](https://github.com/PetrusViet/CVE-2023-38743)	<img alt="forks" src="https://img.shields.io/github/forks/PetrusViet/CVE-2023-38743">	<img alt="stars" src="https://img.shields.io/github/stars/PetrusViet/CVE-2023-38743">
