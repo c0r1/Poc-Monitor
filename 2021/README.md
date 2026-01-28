@@ -7330,6 +7330,7 @@
 - [glen-pearson/ProxyLogon-CVE-2021-26855](https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/ProxyLogon-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/ProxyLogon-CVE-2021-26855">
 - [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855">
 - [Wercd/CVE-2021-26855](https://github.com/Wercd/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/Wercd/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/Wercd/CVE-2021-26855">
+- [SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065](https://github.com/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065">
 
 ---
 ## CVE-2021-26828 ()
