@@ -546,6 +546,7 @@
 - [qalesyaSN/CVE-2025-6934](https://github.com/qalesyaSN/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/qalesyaSN/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/qalesyaSN/CVE-2025-6934">
 - [1atakan1/CVE-2025-6934-Opal-Estate-Exploit](https://github.com/1atakan1/CVE-2025-6934-Opal-Estate-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/1atakan1/CVE-2025-6934-Opal-Estate-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/1atakan1/CVE-2025-6934-Opal-Estate-Exploit">
 - [y0uki-sec/CVE-2025-6934](https://github.com/y0uki-sec/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/y0uki-sec/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/y0uki-sec/CVE-2025-6934">
+- [1atakan1/CVE-2025-6934](https://github.com/1atakan1/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/1atakan1/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/1atakan1/CVE-2025-6934">
 
 ---
 ## CVE-2025-69194 ()
