@@ -10,6 +10,8 @@
 > 
 - [m0d0ri205/CVE-2026-24858](https://github.com/m0d0ri205/CVE-2026-24858)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/CVE-2026-24858">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/CVE-2026-24858">
 - [b1gchoi/CVE-2026-24858](https://github.com/b1gchoi/CVE-2026-24858)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24858">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24858">
+- [absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass](https://github.com/absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass">
+- [SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-](https://github.com/SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-">
 
 ---
 ## CVE-2026-24688 ()
@@ -280,6 +282,11 @@
 ## CVE-2026-1470 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-1470](https://github.com/Ashwesker/Ashwesker-CVE-2026-1470)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1470">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1470">
+
+---
+## CVE-2026-1457 ()
+> 
+- [ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution](https://github.com/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution">
 
 ---
 ## CVE-2026-1208 ()
