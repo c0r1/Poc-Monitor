@@ -8288,6 +8288,12 @@
 - [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040)	<img alt="forks" src="https://img.shields.io/github/forks/GabrieleDattile/CVE-2025-23040">	<img alt="stars" src="https://img.shields.io/github/stars/GabrieleDattile/CVE-2025-23040">
 
 ---
+## CVE-2025-2304 ()
+> 
+- [whiteov3rflow/CVE-2025-2304-POC](https://github.com/whiteov3rflow/CVE-2025-2304-POC)	<img alt="forks" src="https://img.shields.io/github/forks/whiteov3rflow/CVE-2025-2304-POC">	<img alt="stars" src="https://img.shields.io/github/stars/whiteov3rflow/CVE-2025-2304-POC">
+- [d3vn0mi/cve-2025-2304-poc](https://github.com/d3vn0mi/cve-2025-2304-poc)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/cve-2025-2304-poc">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/cve-2025-2304-poc">
+
+---
 ## CVE-2025-2301 ()
 > 
 - [sahici/CVE-2025-2301](https://github.com/sahici/CVE-2025-2301)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-2301">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-2301">
