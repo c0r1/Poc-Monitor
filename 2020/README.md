@@ -307,6 +307,11 @@
 - [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8512">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8512">
 
 ---
+## CVE-2020-8437 ()
+> 
+- [mavlevin/uTorrent-CVE-2020-8437](https://github.com/mavlevin/uTorrent-CVE-2020-8437)	<img alt="forks" src="https://img.shields.io/github/forks/mavlevin/uTorrent-CVE-2020-8437">	<img alt="stars" src="https://img.shields.io/github/stars/mavlevin/uTorrent-CVE-2020-8437">
+
+---
 ## CVE-2020-8417 (2020-01-28T21:15:00)
 > The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.
 - [Vulnmachines/WordPress_CVE-2020-8417](https://github.com/Vulnmachines/WordPress_CVE-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/WordPress_CVE-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/WordPress_CVE-2020-8417">
