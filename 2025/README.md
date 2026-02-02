@@ -2365,6 +2365,8 @@
 - [rxerium/CVE-2025-58360](https://github.com/rxerium/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-58360">
 - [Joker-Wiggin/CVE-2025-58360-GeoServer-XXE](https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE">
 - [quyenheu/Bypass-CVE-2025-58360](https://github.com/quyenheu/Bypass-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/quyenheu/Bypass-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/quyenheu/Bypass-CVE-2025-58360">
+- [thomas-osgood/cve-2025-58360](https://github.com/thomas-osgood/cve-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/cve-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/cve-2025-58360">
+- [carlzhang123/Blackash-CVE-2025-58360](https://github.com/carlzhang123/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/carlzhang123/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/carlzhang123/Blackash-CVE-2025-58360">
 
 ---
 ## CVE-2025-58180 ()
@@ -6098,6 +6100,7 @@
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
 - [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
+- [irjfifndn-prog/Blackash-CVE-2025-33073](https://github.com/irjfifndn-prog/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/irjfifndn-prog/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/irjfifndn-prog/Blackash-CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
