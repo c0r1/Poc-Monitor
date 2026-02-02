@@ -6419,6 +6419,7 @@
 - [soltanali0/CVE-2025-32433-Eploit](https://github.com/soltanali0/CVE-2025-32433-Eploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-32433-Eploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-32433-Eploit">
 - [giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/cve-2025-32433_rce_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/cve-2025-32433_rce_exploit">
 - [AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433](https://github.com/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433">
+- [blackcat4347/CVE-2025-32433-available-for-windows](https://github.com/blackcat4347/CVE-2025-32433-available-for-windows)	<img alt="forks" src="https://img.shields.io/github/forks/blackcat4347/CVE-2025-32433-available-for-windows">	<img alt="stars" src="https://img.shields.io/github/stars/blackcat4347/CVE-2025-32433-available-for-windows">
 
 ---
 ## CVE-2025-32432 ()
