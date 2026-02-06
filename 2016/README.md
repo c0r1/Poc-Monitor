@@ -505,6 +505,7 @@
 - [LiEnby/PSSRoot](https://github.com/LiEnby/PSSRoot)	<img alt="forks" src="https://img.shields.io/github/forks/LiEnby/PSSRoot">	<img alt="stars" src="https://img.shields.io/github/stars/LiEnby/PSSRoot">
 - [talsim/root-dirtyc0w](https://github.com/talsim/root-dirtyc0w)	<img alt="forks" src="https://img.shields.io/github/forks/talsim/root-dirtyc0w">	<img alt="stars" src="https://img.shields.io/github/stars/talsim/root-dirtyc0w">
 - [ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195](https://github.com/ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195">
+- [theo543/OSDS_Paper_CVE-2016-5195](https://github.com/theo543/OSDS_Paper_CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/theo543/OSDS_Paper_CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/theo543/OSDS_Paper_CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
