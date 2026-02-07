@@ -1094,6 +1094,7 @@
 > 
 - [CQ-Tools/CVE-2020-4066-fixed](https://github.com/CQ-Tools/CVE-2020-4066-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-4066-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-4066-fixed">
 - [CQ-Tools/CVE-2020-4066-unfixed](https://github.com/CQ-Tools/CVE-2020-4066-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-4066-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-4066-unfixed">
+- [ossf-cve-benchmark/CVE-2020-4066](https://github.com/ossf-cve-benchmark/CVE-2020-4066)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-4066">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-4066">
 
 ---
 ## CVE-2020-4062 (2020-06-22T16:15:00)
@@ -4065,6 +4066,7 @@
 > 
 - [CQ-Tools/CVE-2020-15156-fixed](https://github.com/CQ-Tools/CVE-2020-15156-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-15156-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-15156-fixed">
 - [CQ-Tools/CVE-2020-15156-unfixed](https://github.com/CQ-Tools/CVE-2020-15156-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-15156-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-15156-unfixed">
+- [ossf-cve-benchmark/CVE-2020-15156](https://github.com/ossf-cve-benchmark/CVE-2020-15156)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-15156">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-15156">
 
 ---
 ## CVE-2020-15117 (2020-07-15T18:15:00)
