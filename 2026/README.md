@@ -47,6 +47,11 @@
 - [mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE](https://github.com/mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE">
 
 ---
+## CVE-2026-25253 ()
+> 
+- [al4n4n/CVE-2026-25253-research](https://github.com/al4n4n/CVE-2026-25253-research)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-25253-research">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-25253-research">
+
+---
 ## CVE-2026-25211 ()
 > 
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
