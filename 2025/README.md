@@ -1752,6 +1752,7 @@
 - [mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation](https://github.com/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">
 - [abrewer251/CVE-2025-62215_Windows_Kernel_PE](https://github.com/abrewer251/CVE-2025-62215_Windows_Kernel_PE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-62215_Windows_Kernel_PE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-62215_Windows_Kernel_PE">
 - [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
+- [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis">
 
 ---
 ## CVE-2025-62207 ()
@@ -3822,6 +3823,7 @@
 - [fokda-prodz/CVE-2025-5394](https://github.com/fokda-prodz/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/fokda-prodz/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/fokda-prodz/CVE-2025-5394">
 - [Nxploited/CVE-2025-5394](https://github.com/Nxploited/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5394">
 - [Yucaerin/CVE-2025-5394](https://github.com/Yucaerin/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-5394">
+- [qalesyaSN/CVE-2025-5394](https://github.com/qalesyaSN/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/qalesyaSN/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/qalesyaSN/CVE-2025-5394">
 
 ---
 ## CVE-2025-53833 ()
@@ -5293,6 +5295,7 @@
 > 
 - [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4606">
 - [UcenHaxor07/CVE-2025-4606](https://github.com/UcenHaxor07/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/UcenHaxor07/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/UcenHaxor07/CVE-2025-4606">
+- [Yetazyyy/CVE-2025-4606](https://github.com/Yetazyyy/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2025-4606">
 
 ---
 ## CVE-2025-46047 ()
