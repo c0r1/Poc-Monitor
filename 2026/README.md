@@ -454,6 +454,12 @@
 - [kimstars/Ashwesker-CVE-2026-21509](https://github.com/kimstars/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/kimstars/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/kimstars/Ashwesker-CVE-2026-21509">
 - [kaizensecurity/CVE-2026-21509](https://github.com/kaizensecurity/CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2026-21509">
 - [PinPin1140/cve-2026-21509](https://github.com/PinPin1140/cve-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/PinPin1140/cve-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/PinPin1140/cve-2026-21509">
+- [planetoid/cve-2026-21509-mitigation](https://github.com/planetoid/cve-2026-21509-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/planetoid/cve-2026-21509-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/planetoid/cve-2026-21509-mitigation">
+
+---
+## CVE-2026-21508 ()
+> 
+- [0xc4r/CVE-2026-21508_POC](https://github.com/0xc4r/CVE-2026-21508_POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4r/CVE-2026-21508_POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4r/CVE-2026-21508_POC">
 
 ---
 ## CVE-2026-21451 ()
