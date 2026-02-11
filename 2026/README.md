@@ -440,6 +440,11 @@
 - [DarkSploits/CVE-2026-21643-Exploit](https://github.com/DarkSploits/CVE-2026-21643-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSploits/CVE-2026-21643-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSploits/CVE-2026-21643-Exploit">
 
 ---
+## CVE-2026-21531 ()
+> 
+- [NetVanguard-cmd/CVE-2026-21531](https://github.com/NetVanguard-cmd/CVE-2026-21531)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-21531">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-21531">
+
+---
 ## CVE-2026-21509 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21509](https://github.com/Ashwesker/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21509">
