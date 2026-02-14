@@ -1892,6 +1892,11 @@
 - [boroeurnprach/CVE-2025-61686-PoC](https://github.com/boroeurnprach/CVE-2025-61686-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-61686-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-61686-PoC">
 
 ---
+## CVE-2025-61638 ()
+> 
+- [gui-ying233/CVE-2025-61638](https://github.com/gui-ying233/CVE-2025-61638)	<img alt="forks" src="https://img.shields.io/github/forks/gui-ying233/CVE-2025-61638">	<img alt="stars" src="https://img.shields.io/github/stars/gui-ying233/CVE-2025-61638">
+
+---
 ## CVE-2025-61506 ()
 > 
 - [pescada-dev/CVE-2025-61506](https://github.com/pescada-dev/CVE-2025-61506)	<img alt="forks" src="https://img.shields.io/github/forks/pescada-dev/CVE-2025-61506">	<img alt="stars" src="https://img.shields.io/github/stars/pescada-dev/CVE-2025-61506">
@@ -8479,6 +8484,8 @@
 - [PwnManjaro/CVE-2025-2304](https://github.com/PwnManjaro/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/PwnManjaro/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/PwnManjaro/CVE-2025-2304">
 - [sparrowhawk1113/Exploit-for-CVE-2025-2304](https://github.com/sparrowhawk1113/Exploit-for-CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/sparrowhawk1113/Exploit-for-CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/sparrowhawk1113/Exploit-for-CVE-2025-2304">
 - [CsuriBird/CVE-2025-2304](https://github.com/CsuriBird/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/CsuriBird/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/CsuriBird/CVE-2025-2304">
+- [MAEN1-prog/CVE-2025-2304](https://github.com/MAEN1-prog/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/MAEN1-prog/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/MAEN1-prog/CVE-2025-2304">
+- [MAEN1-prog/maen1-prog.github.io](https://github.com/MAEN1-prog/maen1-prog.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MAEN1-prog/maen1-prog.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MAEN1-prog/maen1-prog.github.io">
 
 ---
 ## CVE-2025-2301 ()
