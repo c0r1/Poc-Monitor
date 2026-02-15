@@ -579,6 +579,11 @@
 - [TibbersV6/CVE-2026-21440-POC-EXP](https://github.com/TibbersV6/CVE-2026-21440-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/TibbersV6/CVE-2026-21440-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/TibbersV6/CVE-2026-21440-POC-EXP">
 
 ---
+## CVE-2026-2144 ()
+> 
+- [jermaine22sei/CVE-2026-2144-exploit](https://github.com/jermaine22sei/CVE-2026-2144-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2144-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2144-exploit">
+
+---
 ## CVE-2026-21437 ()
 > 
 - [osmancanvural/CVE-2026-21437](https://github.com/osmancanvural/CVE-2026-21437)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21437">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21437">
@@ -742,6 +747,11 @@
 ## CVE-2026-0770 ()
 > 
 - [affix/CVE-2026-0770-PoC](https://github.com/affix/CVE-2026-0770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2026-0770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2026-0770-PoC">
+
+---
+## CVE-2026-0745 ()
+> 
+- [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
 
 ---
 ## CVE-2026-0628 ()
