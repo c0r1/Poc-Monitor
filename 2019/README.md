@@ -2148,6 +2148,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-18413](https://github.com/Live-Hack-CVE/CVE-2019-18413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18413">
 
 ---
+## CVE-2019-18393 ()
+> 
+- [andikahilmy/CVE-2019-18393-Openfire-vulnerable](https://github.com/andikahilmy/CVE-2019-18393-Openfire-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-18393-Openfire-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-18393-Openfire-vulnerable">
+
+---
 ## CVE-2019-18391 (2019-12-23T16:15:00)
 > A heap-based buffer overflow in the vrend_renderer_transfer_write_iov function in vrend_renderer.c in virglrenderer through 0.8.0 allows guest OS users to cause a denial of service via VIRGL_CCMD_RESOURCE_INLINE_WRITE commands.
 - [Live-Hack-CVE/CVE-2019-18391](https://github.com/Live-Hack-CVE/CVE-2019-18391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18391">
@@ -2307,6 +2312,7 @@ use after free.
 ## CVE-2019-17531 (2019-10-12T21:15:00)
 > A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the apache-log4j-extra (version 1.2.x) jar in the classpath, and an attacker can provide a JNDI service to access, it is possible to make the service execute a malicious payload.
 - [Live-Hack-CVE/CVE-2019-17531](https://github.com/Live-Hack-CVE/CVE-2019-17531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17531">
+- [andikahilmy/CVE-2019-17531-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-17531-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-17531-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-17531-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-17519 (2020-02-12T19:15:00)
@@ -3149,6 +3155,11 @@ use after free.
 - [fuzzlove/eLabFTW-1.8.5-EntityController-Arbitrary-File-Upload-RCE](https://github.com/fuzzlove/eLabFTW-1.8.5-EntityController-Arbitrary-File-Upload-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fuzzlove/eLabFTW-1.8.5-EntityController-Arbitrary-File-Upload-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fuzzlove/eLabFTW-1.8.5-EntityController-Arbitrary-File-Upload-RCE">
 
 ---
+## CVE-2019-12086 ()
+> 
+- [andikahilmy/CVE-2019-12086-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-12086-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-12086-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-12086-jackson-databind-vulnerable">
+
+---
 ## CVE-2019-1205 (2019-08-14T21:15:00)
 > A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka 'Microsoft Word Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-1201.
 - [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)	<img alt="forks" src="https://img.shields.io/github/forks/razordeveloper/CVE-2019-1205">	<img alt="stars" src="https://img.shields.io/github/stars/razordeveloper/CVE-2019-1205">
@@ -3534,6 +3545,11 @@ use after free.
 ## CVE-2019-1003030 ()
 > 
 - [overgrowncarrot1/CVE-2019-1003030](https://github.com/overgrowncarrot1/CVE-2019-1003030)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2019-1003030">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2019-1003030">
+
+---
+## CVE-2019-1003010 ()
+> 
+- [andikahilmy/CVE-2019-1003010-Prasanna-vulnerable](https://github.com/andikahilmy/CVE-2019-1003010-Prasanna-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-1003010-Prasanna-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-1003010-Prasanna-vulnerable">
 
 ---
 ## CVE-2019-0845 (2019-04-09T21:29:00)
