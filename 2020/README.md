@@ -1448,6 +1448,7 @@
 ## CVE-2020-36188 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.
 - [Live-Hack-CVE/CVE-2020-36188](https://github.com/Live-Hack-CVE/CVE-2020-36188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36188">
+- [andikahilmy/CVE-2020-36188-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36188-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36188-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36188-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36187 (2021-01-06T23:15:00)
@@ -1467,6 +1468,7 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.SharedPoolDataSource.
 - [Live-Hack-CVE/CVE-2020-36185](https://github.com/Live-Hack-CVE/CVE-2020-36185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36185">
 - [Live-Hack-CVE/CVE-2020-36185](https://github.com/Live-Hack-CVE/CVE-2020-36185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36185">
+- [andikahilmy/CVE-2020-36185-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36185-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36185-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36185-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36184 (2021-01-06T23:15:00)
@@ -1480,6 +1482,7 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.docx4j.org.apache.xalan.lib.sql.JNDIConnectionPool.
 - [Live-Hack-CVE/CVE-2020-36183](https://github.com/Live-Hack-CVE/CVE-2020-36183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36183">
 - [Live-Hack-CVE/CVE-2020-36183](https://github.com/Live-Hack-CVE/CVE-2020-36183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36183">
+- [andikahilmy/CVE-2020-36183-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36183-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36183-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36183-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36182 (2021-01-07T00:15:00)
@@ -4155,6 +4158,11 @@
 - [Live-Hack-CVE/CVE-2020-15275](https://github.com/Live-Hack-CVE/CVE-2020-15275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15275">
 
 ---
+## CVE-2020-15250 ()
+> 
+- [andikahilmy/CVE-2020-15250-junit4-vulnerable](https://github.com/andikahilmy/CVE-2020-15250-junit4-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-15250-junit4-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-15250-junit4-vulnerable">
+
+---
 ## CVE-2020-15229 (2020-10-14T19:15:00)
 > Singularity (an open source container platform) from version 3.1.1 through 3.6.3 has a vulnerability. Due to insecure handling of path traversal and the lack of path sanitization within `unsquashfs`, it is possible to overwrite/create any files on the host filesystem during the extraction with a crafted squashfs filesystem. The extraction occurs automatically for unprivileged (either installation or with `allow setuid = no`) run of Singularity when a user attempt to run an image which is a local SIF image or a single file containing a squashfs filesystem and is coming from remote sources `library://` or `shub://`. Image build is also impacted in a more serious way as it can be used by a root user, allowing an attacker to overwrite/create files leading to a system compromise, so far bootstrap methods `library`, `shub` and `localimage` are triggering the squashfs extraction. This issue is addressed in Singularity 3.6.4. All users are advised to upgrade to 3.6.4 especially if they use Singularity mainly for building image as root user. There is no solid workaround except to temporary avoid to use unprivileged mode with single file images in favor of sandbox images instead. Regarding image build, temporary avoid to build from `library` and `shub` sources and as much as possible use `--fakeroot` or a VM for that.
 - [Live-Hack-CVE/CVE-2020-15229](https://github.com/Live-Hack-CVE/CVE-2020-15229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15229">
@@ -5095,6 +5103,11 @@
 ## CVE-2020-11179 (2021-01-21T10:15:00)
 > Arbitrary read and write to kernel addresses by temporarily overwriting ring buffer pointer and creating a race condition. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
 - [sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU](https://github.com/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU)	<img alt="forks" src="https://img.shields.io/github/forks/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU">	<img alt="stars" src="https://img.shields.io/github/stars/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU">
+
+---
+## CVE-2020-11112 ()
+> 
+- [andikahilmy/CVE-2020-11112-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-11112-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-11112-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-11112-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-11111 ()

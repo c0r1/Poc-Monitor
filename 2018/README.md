@@ -2061,6 +2061,11 @@
 - [andikahilmy/CVE-2018-1000844-retrofit-vulnerable](https://github.com/andikahilmy/CVE-2018-1000844-retrofit-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">
 
 ---
+## CVE-2018-1000822 ()
+> 
+- [andikahilmy/CVE-2018-1000822-fess-vulnerable](https://github.com/andikahilmy/CVE-2018-1000822-fess-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000822-fess-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000822-fess-vulnerable">
+
+---
 ## CVE-2018-1000168 (2018-05-08T15:29:00)
 > nghttp2 version >= 1.10.0 and nghttp2 <= v1.31.0 contains an Improper Input Validation CWE-20 vulnerability in ALTSVC frame handling that can result in segmentation fault leading to denial of service. This attack appears to be exploitable via network client. This vulnerability appears to have been fixed in >= 1.31.1.
 - [Live-Hack-CVE/CVE-2018-1000168](https://github.com/Live-Hack-CVE/CVE-2018-1000168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000168">

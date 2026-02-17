@@ -2148,6 +2148,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-18413](https://github.com/Live-Hack-CVE/CVE-2019-18413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18413">
 
 ---
+## CVE-2019-18394 ()
+> 
+- [andikahilmy/CVE-2019-18394-Openfire-vulnerable](https://github.com/andikahilmy/CVE-2019-18394-Openfire-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-18394-Openfire-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-18394-Openfire-vulnerable">
+
+---
 ## CVE-2019-18393 ()
 > 
 - [andikahilmy/CVE-2019-18393-Openfire-vulnerable](https://github.com/andikahilmy/CVE-2019-18393-Openfire-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-18393-Openfire-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-18393-Openfire-vulnerable">
@@ -3552,6 +3557,11 @@ use after free.
 - [andikahilmy/CVE-2019-1003010-Prasanna-vulnerable](https://github.com/andikahilmy/CVE-2019-1003010-Prasanna-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-1003010-Prasanna-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-1003010-Prasanna-vulnerable">
 
 ---
+## CVE-2019-1003000 ()
+> 
+- [andikahilmy/CVE-2019-1003000-script-security-plugin-vulnerable](https://github.com/andikahilmy/CVE-2019-1003000-script-security-plugin-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-1003000-script-security-plugin-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-1003000-script-security-plugin-vulnerable">
+
+---
 ## CVE-2019-0845 (2019-04-09T21:29:00)
 > A remote code execution vulnerability exists when the IOleCvt interface renders ASP webpage content, aka 'Windows IOleCvt Interface Remote Code Execution Vulnerability'.
 - [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
@@ -3664,6 +3674,11 @@ use after free.
 - [shoucheng3/tapestry-5-cve-2019-0207](https://github.com/shoucheng3/tapestry-5-cve-2019-0207)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/tapestry-5-cve-2019-0207">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/tapestry-5-cve-2019-0207">
 - [shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">
 - [shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed">
+
+---
+## CVE-2019-0201 ()
+> 
+- [andikahilmy/CVE-2019-0201-zookeeper-vulnerable](https://github.com/andikahilmy/CVE-2019-0201-zookeeper-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-0201-zookeeper-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-0201-zookeeper-vulnerable">
 
 ---
 ## CVE-2019-0194 ()
