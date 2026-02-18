@@ -144,7 +144,7 @@
 ---
 ## CVE-2019-9194 ()
 > 
-- [estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-](https://github.com/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-">
+- [estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC](https://github.com/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC">
 
 ---
 ## CVE-2019-9193 (2019-04-01T21:30:00)
