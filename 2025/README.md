@@ -472,6 +472,11 @@
 - [r2c-CSE/multer-sca-rule-test_cve-2025-7338](https://github.com/r2c-CSE/multer-sca-rule-test_cve-2025-7338)	<img alt="forks" src="https://img.shields.io/github/forks/r2c-CSE/multer-sca-rule-test_cve-2025-7338">	<img alt="stars" src="https://img.shields.io/github/stars/r2c-CSE/multer-sca-rule-test_cve-2025-7338">
 
 ---
+## CVE-2025-71243 ()
+> 
+- [Chocapikk/CVE-2025-71243](https://github.com/Chocapikk/CVE-2025-71243)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-71243">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-71243">
+
+---
 ## CVE-2025-70899 ()
 > 
 - [mathavamoorthi/CVE-2025-70899](https://github.com/mathavamoorthi/CVE-2025-70899)	<img alt="forks" src="https://img.shields.io/github/forks/mathavamoorthi/CVE-2025-70899">	<img alt="stars" src="https://img.shields.io/github/stars/mathavamoorthi/CVE-2025-70899">
