@@ -271,6 +271,7 @@
 - [theemperorspath/CVE-2026-2441-PoC](https://github.com/theemperorspath/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theemperorspath/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theemperorspath/CVE-2026-2441-PoC">
 - [glitchhawks/CVE-2026-2441](https://github.com/glitchhawks/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-2441">
 - [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
+- [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
 
 ---
 ## CVE-2026-24306 ()
