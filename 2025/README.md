@@ -568,6 +568,11 @@
 - [Wise-Security/CVE-2025-69600](https://github.com/Wise-Security/CVE-2025-69600)	<img alt="forks" src="https://img.shields.io/github/forks/Wise-Security/CVE-2025-69600">	<img alt="stars" src="https://img.shields.io/github/stars/Wise-Security/CVE-2025-69600">
 
 ---
+## CVE-2025-69599 ()
+> 
+- [Wise-Security/CVE-2025-69599](https://github.com/Wise-Security/CVE-2025-69599)	<img alt="forks" src="https://img.shields.io/github/forks/Wise-Security/CVE-2025-69599">	<img alt="stars" src="https://img.shields.io/github/stars/Wise-Security/CVE-2025-69599">
+
+---
 ## CVE-2025-69581 ()
 > 
 - [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-69581">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-69581">
@@ -670,6 +675,8 @@
 - [Ashwesker/Ashwesker-CVE-2025-68645](https://github.com/Ashwesker/Ashwesker-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-68645">
 - [chinaxploiter/CVE-2025-68645-PoC](https://github.com/chinaxploiter/CVE-2025-68645-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2025-68645-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2025-68645-PoC">
 - [MaxMnMl/zimbramail-CVE-2025-68645-poc](https://github.com/MaxMnMl/zimbramail-CVE-2025-68645-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/zimbramail-CVE-2025-68645-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/zimbramail-CVE-2025-68645-poc">
+- [CMEGh0stX47/CVE-2025-68645](https://github.com/CMEGh0stX47/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/CMEGh0stX47/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/CMEGh0stX47/CVE-2025-68645">
+- [faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability](https://github.com/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">
 
 ---
 ## CVE-2025-68615 ()
