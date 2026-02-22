@@ -4472,6 +4472,11 @@
 - [furk4nyildiz/CVE-2025-50754-PoC](https://github.com/furk4nyildiz/CVE-2025-50754-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/furk4nyildiz/CVE-2025-50754-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/furk4nyildiz/CVE-2025-50754-PoC">
 
 ---
+## CVE-2025-50738 ()
+> 
+- [tiemio/CVE-2025-50738-PoC](https://github.com/tiemio/CVE-2025-50738-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/CVE-2025-50738-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/CVE-2025-50738-PoC">
+
+---
 ## CVE-2025-5068 ()
 > 
 - [amandanegefa/CVE-2025-5068](https://github.com/amandanegefa/CVE-2025-5068)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-5068">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-5068">
