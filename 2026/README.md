@@ -569,6 +569,7 @@
 ## CVE-2026-22241 ()
 > 
 - [CVEs-Labs/CVE-2026-22241](https://github.com/CVEs-Labs/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-22241">
+- [Ashifcoder/CVE-2026-22241](https://github.com/Ashifcoder/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/Ashifcoder/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/Ashifcoder/CVE-2026-22241">
 
 ---
 ## CVE-2026-22200 ()
