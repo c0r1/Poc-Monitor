@@ -809,6 +809,7 @@
 ## CVE-2025-67733 ()
 > 
 - [JYlab/CVE-2025-67733-RESP-Injection-PoC](https://github.com/JYlab/CVE-2025-67733-RESP-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JYlab/CVE-2025-67733-RESP-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JYlab/CVE-2025-67733-RESP-Injection-PoC">
+- [JYlab/CVE-2025-67733-RESP-Injection-PoC](https://github.com/JYlab/CVE-2025-67733-RESP-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JYlab/CVE-2025-67733-RESP-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JYlab/CVE-2025-67733-RESP-Injection-PoC">
 
 ---
 ## CVE-2025-67730 ()
@@ -829,6 +830,11 @@
 ## CVE-2025-67494 ()
 > 
 - [Chocapikk/CVE-2025-67494](https://github.com/Chocapikk/CVE-2025-67494)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-67494">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-67494">
+
+---
+## CVE-2025-67445 ()
+> 
+- [DaRkSpOoOk/CVE-2025-67445](https://github.com/DaRkSpOoOk/CVE-2025-67445)	<img alt="forks" src="https://img.shields.io/github/forks/DaRkSpOoOk/CVE-2025-67445">	<img alt="stars" src="https://img.shields.io/github/stars/DaRkSpOoOk/CVE-2025-67445">
 
 ---
 ## CVE-2025-67435 ()
