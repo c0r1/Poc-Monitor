@@ -6917,6 +6917,7 @@
 - [Shisones/CVE-2025-31161](https://github.com/Shisones/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Shisones/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Shisones/CVE-2025-31161">
 - [ch3m1cl/CVE-2025-31161](https://github.com/ch3m1cl/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ch3m1cl/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ch3m1cl/CVE-2025-31161">
 - [Drelinss/Blackash-CVE-2025-31161](https://github.com/Drelinss/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Drelinss/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Drelinss/Blackash-CVE-2025-31161">
+- [eserror/CVE-2025-31161](https://github.com/eserror/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/eserror/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/eserror/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
