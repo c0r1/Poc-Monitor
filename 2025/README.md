@@ -518,6 +518,11 @@
 - [mewb12/CVE-2025-70311-JEEWMS](https://github.com/mewb12/CVE-2025-70311-JEEWMS)	<img alt="forks" src="https://img.shields.io/github/forks/mewb12/CVE-2025-70311-JEEWMS">	<img alt="stars" src="https://img.shields.io/github/stars/mewb12/CVE-2025-70311-JEEWMS">
 
 ---
+## CVE-2025-69985 ()
+> 
+- [joshuavanderpoll/CVE-2025-69985](https://github.com/joshuavanderpoll/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-69985">
+
+---
 ## CVE-2025-6998 ()
 > 
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
