@@ -7089,6 +7089,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Cappricio-Securities/CVE-2023-24044](https://github.com/Cappricio-Securities/CVE-2023-24044)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-24044">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-24044">
 
 ---
+## CVE-2023-24012 ()
+> 
+- [SafeLock-D2E/Quiksand-CVE-2023-24012](https://github.com/SafeLock-D2E/Quiksand-CVE-2023-24012)	<img alt="forks" src="https://img.shields.io/github/forks/SafeLock-D2E/Quiksand-CVE-2023-24012">	<img alt="stars" src="https://img.shields.io/github/stars/SafeLock-D2E/Quiksand-CVE-2023-24012">
+
+---
 ## CVE-2023-23946 (2023-02-14T20:15:00)
 > Git, a revision control system, is vulnerable to path traversal prior to versions 2.39.2, 2.38.4, 2.37.6, 2.36.5, 2.35.7, 2.34.7, 2.33.7, 2.32.6, 2.31.7, and 2.30.8. By feeding a crafted input to `git apply`, a path outside the working tree can be overwritten as the user who is running `git apply`. A fix has been prepared and will appear in v2.39.2, v2.38.4, v2.37.6, v2.36.5, v2.35.7, v2.34.7, v2.33.7, v2.32.6, v2.31.7, and v2.30.8. As a workaround, use `git apply --stat` to inspect a patch before applying; avoid applying one that creates a symbolic link and then creates a file beyond the symbolic link.
 - [thomsoe/Test_CVE-2023-23946](https://github.com/thomsoe/Test_CVE-2023-23946)	<img alt="forks" src="https://img.shields.io/github/forks/thomsoe/Test_CVE-2023-23946">	<img alt="stars" src="https://img.shields.io/github/stars/thomsoe/Test_CVE-2023-23946">
