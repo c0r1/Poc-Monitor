@@ -723,6 +723,11 @@
 - [bamov970/CVE-2026-21858](https://github.com/bamov970/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-21858">
 
 ---
+## CVE-2026-21852 ()
+> 
+- [atiilla/CVE-2026-21852-PoC](https://github.com/atiilla/CVE-2026-21852-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-21852-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-21852-PoC">
+
+---
 ## CVE-2026-21721 ()
 > 
 - [Leonideath/Exploit-LPE-CVE-2026-21721](https://github.com/Leonideath/Exploit-LPE-CVE-2026-21721)	<img alt="forks" src="https://img.shields.io/github/forks/Leonideath/Exploit-LPE-CVE-2026-21721">	<img alt="stars" src="https://img.shields.io/github/stars/Leonideath/Exploit-LPE-CVE-2026-21721">
