@@ -4360,6 +4360,7 @@
 - [ChenZIDu/CVE-2020-14645](https://github.com/ChenZIDu/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/ChenZIDu/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/ChenZIDu/CVE-2020-14645">
 - [DaBoQuan/CVE-2020-14645](https://github.com/DaBoQuan/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/DaBoQuan/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/DaBoQuan/CVE-2020-14645">
 - [Y4er/CVE-2020-14645](https://github.com/Y4er/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2020-14645">
+- [NeCr00/CVE-2020-14645](https://github.com/NeCr00/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/NeCr00/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/NeCr00/CVE-2020-14645">
 
 ---
 ## CVE-2020-14583 (2020-07-15T18:15:00)
