@@ -1182,6 +1182,7 @@
 - [LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof](https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof)	<img alt="forks" src="https://img.shields.io/github/forks/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof">	<img alt="stars" src="https://img.shields.io/github/stars/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof">
 - [exploiteur/CVE-2017-14980](https://github.com/exploiteur/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/exploiteur/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/exploiteur/CVE-2017-14980">
 - [DaviGSantana/Exploit-CVE-2017-14980](https://github.com/DaviGSantana/Exploit-CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/DaviGSantana/Exploit-CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/DaviGSantana/Exploit-CVE-2017-14980">
+- [damariion/CVE-2017-14980](https://github.com/damariion/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2017-14980">
 
 ---
 ## CVE-2017-14864 (2017-09-29T01:34:00)
