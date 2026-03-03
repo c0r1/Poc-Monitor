@@ -6347,6 +6347,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [BOSE122/CVE-2024-3094](https://github.com/BOSE122/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/BOSE122/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/BOSE122/CVE-2024-3094">
 - [encikayelwhitehat-glitch/CVE-2024-3094](https://github.com/encikayelwhitehat-glitch/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/encikayelwhitehat-glitch/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/encikayelwhitehat-glitch/CVE-2024-3094">
 - [hackura/xz-cve-2024-3094](https://github.com/hackura/xz-cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/hackura/xz-cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/hackura/xz-cve-2024-3094">
+- [zaryouhashraf/CVE-2024-3094](https://github.com/zaryouhashraf/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2024-3094">
 
 ---
 ## CVE-2024-3090 (2024-03-30T13:15:00)
@@ -8370,6 +8371,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [wvverez/CVE-2024-23897](https://github.com/wvverez/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2024-23897">
 - [wvverez/CVE-2024-23897](https://github.com/wvverez/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2024-23897">
 - [vmc8ll/poc-CVE-2024-23897](https://github.com/vmc8ll/poc-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmc8ll/poc-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmc8ll/poc-CVE-2024-23897">
+- [aldamd/CTF](https://github.com/aldamd/CTF)	<img alt="forks" src="https://img.shields.io/github/forks/aldamd/CTF">	<img alt="stars" src="https://img.shields.io/github/stars/aldamd/CTF">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
