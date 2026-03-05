@@ -704,6 +704,11 @@
 - [0x30c4/enclave-vm-CVE-2026-22686](https://github.com/0x30c4/enclave-vm-CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/0x30c4/enclave-vm-CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/0x30c4/enclave-vm-CVE-2026-22686">
 
 ---
+## CVE-2026-2268 ()
+> 
+- [moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC](https://github.com/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC">
+
+---
 ## CVE-2026-22610 ()
 > 
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
@@ -948,6 +953,7 @@
 - [Dimchuk/CVE-2026-20127-chain](https://github.com/Dimchuk/CVE-2026-20127-chain)	<img alt="forks" src="https://img.shields.io/github/forks/Dimchuk/CVE-2026-20127-chain">	<img alt="stars" src="https://img.shields.io/github/stars/Dimchuk/CVE-2026-20127-chain">
 - [zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE](https://github.com/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">
 - [leemuun/CVE-2026-20127](https://github.com/leemuun/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/leemuun/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/leemuun/CVE-2026-20127">
+- [bluefalconink/cisa-ed-26-03-tracker](https://github.com/bluefalconink/cisa-ed-26-03-tracker)	<img alt="forks" src="https://img.shields.io/github/forks/bluefalconink/cisa-ed-26-03-tracker">	<img alt="stars" src="https://img.shields.io/github/stars/bluefalconink/cisa-ed-26-03-tracker">
 
 ---
 ## CVE-2026-20045 ()
