@@ -974,6 +974,11 @@
 - [BugFor-Pings/CVE-2026-20127_EXP](https://github.com/BugFor-Pings/CVE-2026-20127_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2026-20127_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2026-20127_EXP">
 
 ---
+## CVE-2026-20079 ()
+> 
+- [Sushilsin/CVE-2026-20079](https://github.com/Sushilsin/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20079">
+
+---
 ## CVE-2026-20045 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-20045](https://github.com/Ashwesker/Ashwesker-CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-20045">
