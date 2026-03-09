@@ -380,6 +380,12 @@
 ## CVE-2026-25253 ()
 > 
 - [al4n4n/CVE-2026-25253-research](https://github.com/al4n4n/CVE-2026-25253-research)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-25253-research">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-25253-research">
+- [EQSTLab/CVE-2026-25253](https://github.com/EQSTLab/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-25253">
+- [adibirzu/openclaw-security-monitor](https://github.com/adibirzu/openclaw-security-monitor)	<img alt="forks" src="https://img.shields.io/github/forks/adibirzu/openclaw-security-monitor">	<img alt="stars" src="https://img.shields.io/github/stars/adibirzu/openclaw-security-monitor">
+- [FrigateCaptain/openclaw_vulnerabilities_and_solutions](https://github.com/FrigateCaptain/openclaw_vulnerabilities_and_solutions)	<img alt="forks" src="https://img.shields.io/github/forks/FrigateCaptain/openclaw_vulnerabilities_and_solutions">	<img alt="stars" src="https://img.shields.io/github/stars/FrigateCaptain/openclaw_vulnerabilities_and_solutions">
+- [Ckokoski/moatbot-security](https://github.com/Ckokoski/moatbot-security)	<img alt="forks" src="https://img.shields.io/github/forks/Ckokoski/moatbot-security">	<img alt="stars" src="https://img.shields.io/github/stars/Ckokoski/moatbot-security">
+- [Joseph19820124/openclaw-vuln-report](https://github.com/Joseph19820124/openclaw-vuln-report)	<img alt="forks" src="https://img.shields.io/github/forks/Joseph19820124/openclaw-vuln-report">	<img alt="stars" src="https://img.shields.io/github/stars/Joseph19820124/openclaw-vuln-report">
+- [ethiack/moltbot-1click-rce](https://github.com/ethiack/moltbot-1click-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/moltbot-1click-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/moltbot-1click-rce">
 
 ---
 ## CVE-2026-25242 ()
