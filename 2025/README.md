@@ -526,6 +526,11 @@
 - [malvector/CVE-2025-70341](https://github.com/malvector/CVE-2025-70341)	<img alt="forks" src="https://img.shields.io/github/forks/malvector/CVE-2025-70341">	<img alt="stars" src="https://img.shields.io/github/stars/malvector/CVE-2025-70341">
 
 ---
+## CVE-2025-70330 ()
+> 
+- [TheMalwareGuardian/CVE-2025-70330](https://github.com/TheMalwareGuardian/CVE-2025-70330)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-70330">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-70330">
+
+---
 ## CVE-2025-70311 ()
 > 
 - [mewb12/CVE-2025-70311-JEEWMS](https://github.com/mewb12/CVE-2025-70311-JEEWMS)	<img alt="forks" src="https://img.shields.io/github/forks/mewb12/CVE-2025-70311-JEEWMS">	<img alt="stars" src="https://img.shields.io/github/stars/mewb12/CVE-2025-70311-JEEWMS">
@@ -3122,6 +3127,11 @@
 ## CVE-2025-55555 ()
 > 
 - [aydin5245/CVE-2025-55555-CVE](https://github.com/aydin5245/CVE-2025-55555-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-55555-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-55555-CVE">
+
+---
+## CVE-2025-5548 ()
+> 
+- [TheMalwareGuardian/CVE-2025-5548](https://github.com/TheMalwareGuardian/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
