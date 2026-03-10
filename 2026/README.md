@@ -75,6 +75,11 @@
 - [skoveit/CVE-2026-29781](https://github.com/skoveit/CVE-2026-29781)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-29781">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-29781">
 
 ---
+## CVE-2026-29780 ()
+> 
+- [redyank/CVE-2026-29780](https://github.com/redyank/CVE-2026-29780)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-29780">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-29780">
+
+---
 ## CVE-2026-29041 ()
 > 
 - [celeboy711-hue/CVE-2026-29041](https://github.com/celeboy711-hue/CVE-2026-29041)	<img alt="forks" src="https://img.shields.io/github/forks/celeboy711-hue/CVE-2026-29041">	<img alt="stars" src="https://img.shields.io/github/stars/celeboy711-hue/CVE-2026-29041">
