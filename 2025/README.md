@@ -4020,6 +4020,7 @@
 - [synacktiv/Livepyre](https://github.com/synacktiv/Livepyre)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/Livepyre">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/Livepyre">
 - [haxorstars/CVE-2025-54068](https://github.com/haxorstars/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/haxorstars/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/haxorstars/CVE-2025-54068">
 - [y0uki-sec/CVE-2025-54068](https://github.com/y0uki-sec/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/y0uki-sec/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/y0uki-sec/CVE-2025-54068">
+- [Jenderal92/livewire-vuln-scanner](https://github.com/Jenderal92/livewire-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/livewire-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/livewire-vuln-scanner">
 
 ---
 ## CVE-2025-53964 ()
@@ -6238,6 +6239,7 @@
 - [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-38001">
 - [ngobao2002/CVE-2025-38001-test](https://github.com/ngobao2002/CVE-2025-38001-test)	<img alt="forks" src="https://img.shields.io/github/forks/ngobao2002/CVE-2025-38001-test">	<img alt="stars" src="https://img.shields.io/github/stars/ngobao2002/CVE-2025-38001-test">
 - [boeseejykbtanke348/CVE-2025-38001](https://github.com/boeseejykbtanke348/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/boeseejykbtanke348/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/boeseejykbtanke348/CVE-2025-38001">
+- [aexdyhaxor/CVE-2025-38001](https://github.com/aexdyhaxor/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-38001">
 
 ---
 ## CVE-2025-37947 ()
