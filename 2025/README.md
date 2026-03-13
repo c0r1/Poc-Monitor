@@ -2177,6 +2177,7 @@
 - [Rohitberiwala/CVE-2025-60787-MotionEye-RCE](https://github.com/Rohitberiwala/CVE-2025-60787-MotionEye-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/CVE-2025-60787-MotionEye-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/CVE-2025-60787-MotionEye-RCE">
 - [gunzf0x/CVE-2025-60787](https://github.com/gunzf0x/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2025-60787">
 - [lil0xplorer/CVE-2025-60787_PoC](https://github.com/lil0xplorer/CVE-2025-60787_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lil0xplorer/CVE-2025-60787_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lil0xplorer/CVE-2025-60787_PoC">
+- [d3vn0mi/CVE-2025-60787-POC](https://github.com/d3vn0mi/CVE-2025-60787-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2025-60787-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2025-60787-POC">
 
 ---
 ## CVE-2025-60752 ()
@@ -4786,6 +4787,7 @@
 - [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
 - [hzhsec/redis-cve_2025_49844](https://github.com/hzhsec/redis-cve_2025_49844)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/redis-cve_2025_49844">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/redis-cve_2025_49844">
 - [0xAshwesker/CVE-2025-49844](https://github.com/0xAshwesker/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-49844">
+- [Cilectiy/CVE-2025-49844](https://github.com/Cilectiy/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Cilectiy/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Cilectiy/CVE-2025-49844">
 
 ---
 ## CVE-2025-49752 ()
