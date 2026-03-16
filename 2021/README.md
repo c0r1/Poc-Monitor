@@ -2474,6 +2474,7 @@
 - [dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773](https://github.com/dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773">
 - [ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB](https://github.com/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB">
 - [RevShellXD/LFI-Destruction](https://github.com/RevShellXD/LFI-Destruction)	<img alt="forks" src="https://img.shields.io/github/forks/RevShellXD/LFI-Destruction">	<img alt="stars" src="https://img.shields.io/github/stars/RevShellXD/LFI-Destruction">
+- [zubairahm3d/apache-cve-2021-41773-lab](https://github.com/zubairahm3d/apache-cve-2021-41773-lab)	<img alt="forks" src="https://img.shields.io/github/forks/zubairahm3d/apache-cve-2021-41773-lab">	<img alt="stars" src="https://img.shields.io/github/stars/zubairahm3d/apache-cve-2021-41773-lab">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
