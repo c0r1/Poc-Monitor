@@ -3849,6 +3849,7 @@
 - [lutraat/CVE-2025-55182-React-RSC-Exploit](https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lutraat/CVE-2025-55182-React-RSC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lutraat/CVE-2025-55182-React-RSC-Exploit">
 - [orgito1015/CVE-2025-55182-Researching-process](https://github.com/orgito1015/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-Researching-process">
 - [monarchfish/cve-2025-55182-poc](https://github.com/monarchfish/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/monarchfish/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/monarchfish/cve-2025-55182-poc">
+- [nexxp90/CVE-2025-55182_RCE_Exploit](https://github.com/nexxp90/CVE-2025-55182_RCE_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nexxp90/CVE-2025-55182_RCE_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nexxp90/CVE-2025-55182_RCE_Exploit">
 
 ---
 ## CVE-2025-55130 ()
