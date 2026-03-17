@@ -481,6 +481,11 @@
 - [ibrahmsql/CVE-2026-25807-Exploit](https://github.com/ibrahmsql/CVE-2026-25807-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-25807-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-25807-Exploit">
 
 ---
+## CVE-2026-25769 ()
+> 
+- [hakaioffsec/CVE-2026-25769](https://github.com/hakaioffsec/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-25769">
+
+---
 ## CVE-2026-25746 ()
 > 
 - [ChrisSub08/CVE-2026-25746_SqlInjectionVulnerabilityOpenEMR7.0.4](https://github.com/ChrisSub08/CVE-2026-25746_SqlInjectionVulnerabilityOpenEMR7.0.4)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-25746_SqlInjectionVulnerabilityOpenEMR7.0.4">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-25746_SqlInjectionVulnerabilityOpenEMR7.0.4">
