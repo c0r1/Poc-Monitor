@@ -80,6 +80,11 @@
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
 
 ---
+## CVE-2026-32746 ()
+> 
+- [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
+
+---
 ## CVE-2026-32722 ()
 > 
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
@@ -710,6 +715,8 @@
 ## CVE-2026-2413 ()
 > 
 - [p3Nt3st3r-sTAr/CVE-2026-2413-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-2413-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-2413-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-2413-POC">
+- [reschjonas/CVE-2026-24135](https://github.com/reschjonas/CVE-2026-24135)	<img alt="forks" src="https://img.shields.io/github/forks/reschjonas/CVE-2026-24135">	<img alt="stars" src="https://img.shields.io/github/stars/reschjonas/CVE-2026-24135">
+- [FilipeGaudard/CVE-2026-24134-PoC](https://github.com/FilipeGaudard/CVE-2026-24134-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-24134-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-24134-PoC">
 
 ---
 ## CVE-2026-24061 ()
