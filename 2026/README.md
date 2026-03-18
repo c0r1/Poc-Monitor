@@ -707,6 +707,11 @@
 - [FilipeGaudard/CVE-2026-24134-PoC](https://github.com/FilipeGaudard/CVE-2026-24134-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-24134-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-24134-PoC">
 
 ---
+## CVE-2026-2413 ()
+> 
+- [p3Nt3st3r-sTAr/CVE-2026-2413-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-2413-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-2413-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-2413-POC">
+
+---
 ## CVE-2026-24061 ()
 > 
 - [TryA9ain/CVE-2026-24061](https://github.com/TryA9ain/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/CVE-2026-24061">
@@ -1015,6 +1020,11 @@
 - [silentexploitexe/CVE-2026-22153](https://github.com/silentexploitexe/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2026-22153">
 - [washingtonmaister/CVE-2026-22153-exp](https://github.com/washingtonmaister/CVE-2026-22153-exp)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-22153-exp">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-22153-exp">
 - [glitchhawks/CVE-2026-22153](https://github.com/glitchhawks/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-22153">
+
+---
+## CVE-2026-21994 ()
+> 
+- [TEXploited/CVE-2026-21994](https://github.com/TEXploited/CVE-2026-21994)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21994">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21994">
 
 ---
 ## CVE-2026-21962 ()
