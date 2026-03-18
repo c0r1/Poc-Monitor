@@ -2475,6 +2475,9 @@
 - [ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB](https://github.com/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB">
 - [RevShellXD/LFI-Destruction](https://github.com/RevShellXD/LFI-Destruction)	<img alt="forks" src="https://img.shields.io/github/forks/RevShellXD/LFI-Destruction">	<img alt="stars" src="https://img.shields.io/github/stars/RevShellXD/LFI-Destruction">
 - [zubairahm3d/apache-cve-2021-41773-lab](https://github.com/zubairahm3d/apache-cve-2021-41773-lab)	<img alt="forks" src="https://img.shields.io/github/forks/zubairahm3d/apache-cve-2021-41773-lab">	<img alt="stars" src="https://img.shields.io/github/stars/zubairahm3d/apache-cve-2021-41773-lab">
+- [Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE](https://github.com/Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE">
+- [tsiddiquea/cve-reproduction-lab](https://github.com/tsiddiquea/cve-reproduction-lab)	<img alt="forks" src="https://img.shields.io/github/forks/tsiddiquea/cve-reproduction-lab">	<img alt="stars" src="https://img.shields.io/github/stars/tsiddiquea/cve-reproduction-lab">
+- [Nanxsec/exploitApache](https://github.com/Nanxsec/exploitApache)	<img alt="forks" src="https://img.shields.io/github/forks/Nanxsec/exploitApache">	<img alt="stars" src="https://img.shields.io/github/stars/Nanxsec/exploitApache">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)

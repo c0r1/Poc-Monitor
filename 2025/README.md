@@ -3851,6 +3851,7 @@
 - [orgito1015/CVE-2025-55182-Researching-process](https://github.com/orgito1015/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-Researching-process">
 - [monarchfish/cve-2025-55182-poc](https://github.com/monarchfish/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/monarchfish/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/monarchfish/cve-2025-55182-poc">
 - [nexxp90/CVE-2025-55182_RCE_Exploit](https://github.com/nexxp90/CVE-2025-55182_RCE_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nexxp90/CVE-2025-55182_RCE_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nexxp90/CVE-2025-55182_RCE_Exploit">
+- [luoluoqingge/CVE-2025-55182](https://github.com/luoluoqingge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luoluoqingge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luoluoqingge/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -5826,6 +5827,11 @@
 ## CVE-2025-43960 ()
 > 
 - [far00t01/CVE-2025-43960](https://github.com/far00t01/CVE-2025-43960)	<img alt="forks" src="https://img.shields.io/github/forks/far00t01/CVE-2025-43960">	<img alt="stars" src="https://img.shields.io/github/stars/far00t01/CVE-2025-43960">
+
+---
+## CVE-2025-4396 ()
+> 
+- [Nefhara/CVE-2025-4396](https://github.com/Nefhara/CVE-2025-4396)	<img alt="forks" src="https://img.shields.io/github/forks/Nefhara/CVE-2025-4396">	<img alt="stars" src="https://img.shields.io/github/stars/Nefhara/CVE-2025-4396">
 
 ---
 ## CVE-2025-43929 ()
