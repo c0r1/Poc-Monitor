@@ -1216,6 +1216,14 @@
 - [ahmed-dev-op/CVE-2025-55182](https://github.com/ahmed-dev-op/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmed-dev-op/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmed-dev-op/CVE-2025-55182">
 - [hndko/react2shell-rce-autobot](https://github.com/hndko/react2shell-rce-autobot)	<img alt="forks" src="https://img.shields.io/github/forks/hndko/react2shell-rce-autobot">	<img alt="stars" src="https://img.shields.io/github/stars/hndko/react2shell-rce-autobot">
 - [KingHacker353/R2C-CVE-2025-55182-66478](https://github.com/KingHacker353/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/R2C-CVE-2025-55182-66478">
+- [kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182">
+- [InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner](https://github.com/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">
+- [imad457/NextJS-RCE-Root-Takeover](https://github.com/imad457/NextJS-RCE-Root-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/imad457/NextJS-RCE-Root-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/imad457/NextJS-RCE-Root-Takeover">
+- [khadafigans/React2Shell](https://github.com/khadafigans/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/khadafigans/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/khadafigans/React2Shell">
+- [MuhammadUwais/React2Shell](https://github.com/MuhammadUwais/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/React2Shell">
+- [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
+- [termireum/react2shell](https://github.com/termireum/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/react2shell">
+- [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
 
 ---
 ## CVE-2025-66470 ()
@@ -3904,6 +3912,7 @@
 - [nexxp90/CVE-2025-55182_RCE_Exploit](https://github.com/nexxp90/CVE-2025-55182_RCE_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nexxp90/CVE-2025-55182_RCE_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nexxp90/CVE-2025-55182_RCE_Exploit">
 - [luoluoqingge/CVE-2025-55182](https://github.com/luoluoqingge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luoluoqingge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luoluoqingge/CVE-2025-55182">
 - [RyosukeDTomita/CVE-2025-55182](https://github.com/RyosukeDTomita/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RyosukeDTomita/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RyosukeDTomita/CVE-2025-55182">
+- [eagle-nett/React2Shell-PoC-CVE-2025-55182](https://github.com/eagle-nett/React2Shell-PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/React2Shell-PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/React2Shell-PoC-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
