@@ -1005,6 +1005,11 @@
 - [XoTourLiff/CVE-2026-2402](https://github.com/XoTourLiff/CVE-2026-2402)	<img alt="forks" src="https://img.shields.io/github/forks/XoTourLiff/CVE-2026-2402">	<img alt="stars" src="https://img.shields.io/github/stars/XoTourLiff/CVE-2026-2402">
 
 ---
+## CVE-2026-24018 ()
+> 
+- [febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018](https://github.com/febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018)	<img alt="forks" src="https://img.shields.io/github/forks/febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018">	<img alt="stars" src="https://img.shields.io/github/stars/febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018">
+
+---
 ## CVE-2026-24009 ()
 > 
 - [BiranPeretz/docling-core-CVE-2026-24009](https://github.com/BiranPeretz/docling-core-CVE-2026-24009)	<img alt="forks" src="https://img.shields.io/github/forks/BiranPeretz/docling-core-CVE-2026-24009">	<img alt="stars" src="https://img.shields.io/github/stars/BiranPeretz/docling-core-CVE-2026-24009">
