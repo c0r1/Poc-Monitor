@@ -47,6 +47,7 @@
 ## CVE-2026-3891 ()
 > 
 - [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-3891">
+- [vladimirmanylobed451/CVE-2026-3891](https://github.com/vladimirmanylobed451/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/vladimirmanylobed451/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/vladimirmanylobed451/CVE-2026-3891">
 
 ---
 ## CVE-2026-3888 ()
@@ -874,7 +875,7 @@
 ---
 ## CVE-2026-24126 ()
 > 
-- [alexb616/CVE-2026-24126](https://github.com/alexb616/CVE-2026-24126)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/CVE-2026-24126">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/CVE-2026-24126">
+- [alexb616/Weblate-CVE-2026-24126](https://github.com/alexb616/Weblate-CVE-2026-24126)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/Weblate-CVE-2026-24126">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/Weblate-CVE-2026-24126">
 
 ---
 ## CVE-2026-24061 ()
