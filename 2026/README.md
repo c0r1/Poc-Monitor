@@ -121,6 +121,11 @@
 - [rootdirective-sec/CVE-2026-3395-Lab](https://github.com/rootdirective-sec/CVE-2026-3395-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3395-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3395-Lab">
 
 ---
+## CVE-2026-33937 ()
+> 
+- [dinhvaren/cve-2026-33937](https://github.com/dinhvaren/cve-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/dinhvaren/cve-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/dinhvaren/cve-2026-33937">
+
+---
 ## CVE-2026-33868 ()
 > 
 - [O99099O/By-Poloss..-..CVE-2026-33868](https://github.com/O99099O/By-Poloss..-..CVE-2026-33868)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-33868">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-33868">
@@ -413,6 +418,11 @@
 ## CVE-2026-2848 ()
 > 
 - [richardpaimu34/CVE-2026-2848](https://github.com/richardpaimu34/CVE-2026-2848)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-2848">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-2848">
+
+---
+## CVE-2026-28466 ()
+> 
+- [Orioning/CVE-2026-28466](https://github.com/Orioning/CVE-2026-28466)	<img alt="forks" src="https://img.shields.io/github/forks/Orioning/CVE-2026-28466">	<img alt="stars" src="https://img.shields.io/github/stars/Orioning/CVE-2026-28466">
 
 ---
 ## CVE-2026-28372 ()
@@ -834,6 +844,11 @@
 ## CVE-2026-25126 ()
 > 
 - [Jvr2022/CVE-2026-25126](https://github.com/Jvr2022/CVE-2026-25126)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-25126">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-25126">
+
+---
+## CVE-2026-25099 ()
+> 
+- [yahiahamza/CVE-2026-25099](https://github.com/yahiahamza/CVE-2026-25099)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-25099">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-25099">
 
 ---
 ## CVE-2026-25075 ()
@@ -1596,6 +1611,7 @@
 ## CVE-2026-20079 ()
 > 
 - [Sushilsin/CVE-2026-20079](https://github.com/Sushilsin/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20079">
+- [0xBlackash/CVE-2026-20079](https://github.com/0xBlackash/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20079">
 
 ---
 ## CVE-2026-20045 ()
