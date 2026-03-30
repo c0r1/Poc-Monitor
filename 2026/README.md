@@ -388,6 +388,11 @@
 - [thegenetic/CVE-2026-2964-Lab](https://github.com/thegenetic/CVE-2026-2964-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab">
 
 ---
+## CVE-2026-29597 ()
+> 
+- [padayali-JD/CVE-2026-29597](https://github.com/padayali-JD/CVE-2026-29597)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29597">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29597">
+
+---
 ## CVE-2026-29187 ()
 > 
 - [ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEmr7.0.4](https://github.com/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEmr7.0.4)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEmr7.0.4">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEmr7.0.4">
