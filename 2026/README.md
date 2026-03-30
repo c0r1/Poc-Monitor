@@ -136,6 +136,12 @@
 - [SnailSploit/CVE-2026-33693](https://github.com/SnailSploit/CVE-2026-33693)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-33693">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-33693">
 
 ---
+## CVE-2026-33634 ()
+> 
+- [fevar54/CVE-2026-33634-Scanner](https://github.com/fevar54/CVE-2026-33634-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-33634-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-33634-Scanner">
+- [ugurrates/teampcp-supply-chain-attack](https://github.com/ugurrates/teampcp-supply-chain-attack)	<img alt="forks" src="https://img.shields.io/github/forks/ugurrates/teampcp-supply-chain-attack">	<img alt="stars" src="https://img.shields.io/github/stars/ugurrates/teampcp-supply-chain-attack">
+
+---
 ## CVE-2026-33532 ()
 > 
 - [danwulff/astro_CVE-2026-33532](https://github.com/danwulff/astro_CVE-2026-33532)	<img alt="forks" src="https://img.shields.io/github/forks/danwulff/astro_CVE-2026-33532">	<img alt="stars" src="https://img.shields.io/github/stars/danwulff/astro_CVE-2026-33532">
@@ -482,6 +488,11 @@
 ## CVE-2026-27884 ()
 > 
 - [RaynLight/CVE-2026-27884](https://github.com/RaynLight/CVE-2026-27884)	<img alt="forks" src="https://img.shields.io/github/forks/RaynLight/CVE-2026-27884">	<img alt="stars" src="https://img.shields.io/github/stars/RaynLight/CVE-2026-27884">
+
+---
+## CVE-2026-27876 ()
+> 
+- [0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-27876">
 
 ---
 ## CVE-2026-27831 ()
