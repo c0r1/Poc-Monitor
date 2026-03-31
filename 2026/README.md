@@ -336,6 +336,8 @@
 > 
 - [RootAid/CVE-2026-3055](https://github.com/RootAid/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-3055">
 - [0xBlackash/CVE-2026-3055](https://github.com/0xBlackash/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-3055">
+- [fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n](https://github.com/fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n">
+- [fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC](https://github.com/fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC">
 
 ---
 ## CVE-2026-30498 ()
@@ -1858,6 +1860,7 @@
 ## CVE-2026-0848 ()
 > 
 - [HyperPS/CVE-2026-0848](https://github.com/HyperPS/CVE-2026-0848)	<img alt="forks" src="https://img.shields.io/github/forks/HyperPS/CVE-2026-0848">	<img alt="stars" src="https://img.shields.io/github/stars/HyperPS/CVE-2026-0848">
+- [fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n](https://github.com/fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n">
 
 ---
 ## CVE-2026-0847 ()
