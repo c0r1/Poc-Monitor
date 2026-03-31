@@ -63,6 +63,7 @@
 - [netw0rk7/CVE-2026-3888-PoC](https://github.com/netw0rk7/CVE-2026-3888-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2026-3888-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2026-3888-PoC">
 - [nomaisthere/CVE-2026-3888](https://github.com/nomaisthere/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2026-3888">
 - [TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE](https://github.com/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">
+- [DanielTangnes/CVE-2026-3888](https://github.com/DanielTangnes/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/DanielTangnes/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/DanielTangnes/CVE-2026-3888">
 
 ---
 ## CVE-2026-3847 ()
@@ -214,6 +215,11 @@
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
 
 ---
+## CVE-2026-32321 ()
+> 
+- [drkim-dev/CVE-2026-32321](https://github.com/drkim-dev/CVE-2026-32321)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-32321">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-32321">
+
+---
 ## CVE-2026-3228 ()
 > 
 - [NULL200OK/CVE-2026-3228](https://github.com/NULL200OK/CVE-2026-3228)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-3228">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-3228">
@@ -242,6 +248,11 @@
 ## CVE-2026-32127 ()
 > 
 - [ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0](https://github.com/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">
+
+---
+## CVE-2026-32096 ()
+> 
+- [andrebhu/CVE-2026-32096](https://github.com/andrebhu/CVE-2026-32096)	<img alt="forks" src="https://img.shields.io/github/forks/andrebhu/CVE-2026-32096">	<img alt="stars" src="https://img.shields.io/github/stars/andrebhu/CVE-2026-32096">
 
 ---
 ## CVE-2026-31899 ()
