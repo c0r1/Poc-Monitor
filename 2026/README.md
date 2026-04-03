@@ -31,6 +31,11 @@
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
 
 ---
+## CVE-2026-5147 ()
+> 
+- [lan1oc/cve-2026-5147-exp](https://github.com/lan1oc/cve-2026-5147-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lan1oc/cve-2026-5147-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lan1oc/cve-2026-5147-exp">
+
+---
 ## CVE-2026-5027 ()
 > 
 - [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
@@ -109,6 +114,11 @@
 ## CVE-2026-34828 ()
 > 
 - [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
+
+---
+## CVE-2026-34444 ()
+> 
+- [redyank/CVE-2026-34444](https://github.com/redyank/CVE-2026-34444)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-34444">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-34444">
 
 ---
 ## CVE-2026-3442 ()
@@ -1037,6 +1047,7 @@
 ## CVE-2026-24516 ()
 > 
 - [poxsky/CVE-2026-24516-DigitalOcean-RCE](https://github.com/poxsky/CVE-2026-24516-DigitalOcean-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/poxsky/CVE-2026-24516-DigitalOcean-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/poxsky/CVE-2026-24516-DigitalOcean-RCE">
+- [poxsky/CVE-2026-24516-DigitalOcean-RCE.](https://github.com/poxsky/CVE-2026-24516-DigitalOcean-RCE.)	<img alt="forks" src="https://img.shields.io/github/forks/poxsky/CVE-2026-24516-DigitalOcean-RCE.">	<img alt="stars" src="https://img.shields.io/github/stars/poxsky/CVE-2026-24516-DigitalOcean-RCE.">
 
 ---
 ## CVE-2026-24423 ()
