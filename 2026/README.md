@@ -242,6 +242,11 @@
 - [regaan/CVE-2026-33340](https://github.com/regaan/CVE-2026-33340)	<img alt="forks" src="https://img.shields.io/github/forks/regaan/CVE-2026-33340">	<img alt="stars" src="https://img.shields.io/github/stars/regaan/CVE-2026-33340">
 
 ---
+## CVE-2026-33331 ()
+> 
+- [abhayclasher/CVE-2026-33331](https://github.com/abhayclasher/CVE-2026-33331)	<img alt="forks" src="https://img.shields.io/github/forks/abhayclasher/CVE-2026-33331">	<img alt="stars" src="https://img.shields.io/github/stars/abhayclasher/CVE-2026-33331">
+
+---
 ## CVE-2026-33149 ()
 > 
 - [FilipeGaudard/CVE-2026-33149-PoC](https://github.com/FilipeGaudard/CVE-2026-33149-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-33149-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-33149-PoC">
