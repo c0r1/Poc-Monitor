@@ -6724,6 +6724,11 @@
 - [yusufdalbudak/CVE-2025-32965-xrpl-js-poc](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl-js-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">
 
 ---
+## CVE-2025-32957 ()
+> 
+- [toratako/CVE-2025-32957-PoC](https://github.com/toratako/CVE-2025-32957-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/toratako/CVE-2025-32957-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/toratako/CVE-2025-32957-PoC">
+
+---
 ## CVE-2025-3292029 ()
 > 
 - [itssixtyn3in/CVE-2025-3292029](https://github.com/itssixtyn3in/CVE-2025-3292029)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3292029">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3292029">
