@@ -255,6 +255,11 @@
 - [abhayclasher/CVE-2026-33331](https://github.com/abhayclasher/CVE-2026-33331)	<img alt="forks" src="https://img.shields.io/github/forks/abhayclasher/CVE-2026-33331">	<img alt="stars" src="https://img.shields.io/github/stars/abhayclasher/CVE-2026-33331">
 
 ---
+## CVE-2026-33186 ()
+> 
+- [JohannesLks/CVE-2026-33186](https://github.com/JohannesLks/CVE-2026-33186)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-33186">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-33186">
+
+---
 ## CVE-2026-33149 ()
 > 
 - [FilipeGaudard/CVE-2026-33149-PoC](https://github.com/FilipeGaudard/CVE-2026-33149-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-33149-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-33149-PoC">
@@ -278,6 +283,11 @@
 - [rootdirective-sec/CVE-2026-33017-Lab](https://github.com/rootdirective-sec/CVE-2026-33017-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33017-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33017-Lab">
 - [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
 - [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
+
+---
+## CVE-2026-32945 ()
+> 
+- [JohannesLks/CVE-2026-32945](https://github.com/JohannesLks/CVE-2026-32945)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-32945">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-32945">
 
 ---
 ## CVE-2026-32941 ()
@@ -601,6 +611,11 @@
 - [aykhan32/CVE-2026-2898-FunAdmin-Deserialization](https://github.com/aykhan32/CVE-2026-2898-FunAdmin-Deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">
 
 ---
+## CVE-2026-28858 ()
+> 
+- [kaleth4/CVE-2026-28858](https://github.com/kaleth4/CVE-2026-28858)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-28858">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-28858">
+
+---
 ## CVE-2026-28767 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-28767](https://github.com/MichaelAdamGroberman/CVE-2026-28767)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28767">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28767">
@@ -689,6 +704,11 @@
 ## CVE-2026-27739 ()
 > 
 - [bankerke/-CVE-2026-27739-poc](https://github.com/bankerke/-CVE-2026-27739-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bankerke/-CVE-2026-27739-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bankerke/-CVE-2026-27739-poc">
+
+---
+## CVE-2026-27654 ()
+> 
+- [JohannesLks/CVE-2026-27654](https://github.com/JohannesLks/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-27654">
 
 ---
 ## CVE-2026-27639 ()
