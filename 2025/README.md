@@ -8043,7 +8043,7 @@
 ---
 ## CVE-2025-27515 ()
 > 
-- [joaovicdev/POC-CVE-2025-27515](https://github.com/joaovicdev/POC-CVE-2025-27515)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/POC-CVE-2025-27515">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/POC-CVE-2025-27515">
+- [joaovicdev/EXPLOIT-CVE-2025-27515](https://github.com/joaovicdev/EXPLOIT-CVE-2025-27515)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2025-27515">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2025-27515">
 
 ---
 ## CVE-2025-27480 ()
