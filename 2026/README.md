@@ -24,6 +24,7 @@
 ## CVE-2026-5281 ()
 > 
 - [umair-aziz025/CVE-2026-5281-Research-Toolkit](https://github.com/umair-aziz025/CVE-2026-5281-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281-Research-Toolkit">
+- [TheMalwareGuardian/CVE-2026-5281](https://github.com/TheMalwareGuardian/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-5281">
 
 ---
 ## CVE-2026-5252 ()
@@ -1484,6 +1485,11 @@
 - [DedsecTeam-BlackHat/CVE-2026-23550](https://github.com/DedsecTeam-BlackHat/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/DedsecTeam-BlackHat/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/DedsecTeam-BlackHat/CVE-2026-23550">
 - [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
 - [dzmind2312/Mass-CVE-2026-23550-Exploit](https://github.com/dzmind2312/Mass-CVE-2026-23550-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/Mass-CVE-2026-23550-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/Mass-CVE-2026-23550-Exploit">
+
+---
+## CVE-2026-23524 ()
+> 
+- [rockmelodies/CVE-2026-23524](https://github.com/rockmelodies/CVE-2026-23524)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/CVE-2026-23524">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/CVE-2026-23524">
 
 ---
 ## CVE-2026-23520 ()
