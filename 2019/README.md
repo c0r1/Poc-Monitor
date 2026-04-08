@@ -2717,6 +2717,7 @@ use after free.
 - [m4lk3rnel/CVE-2019-15107](https://github.com/m4lk3rnel/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/m4lk3rnel/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/m4lk3rnel/CVE-2019-15107">
 - [EdouardosStav/CVE-2019-15107-RCE-WebMin](https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin)	<img alt="forks" src="https://img.shields.io/github/forks/EdouardosStav/CVE-2019-15107-RCE-WebMin">	<img alt="stars" src="https://img.shields.io/github/stars/EdouardosStav/CVE-2019-15107-RCE-WebMin">
 - [bayazid-bit/CVE-2019-15107](https://github.com/bayazid-bit/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2019-15107">
+- [adampawelczyk/CVE-2019-15107](https://github.com/adampawelczyk/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/CVE-2019-15107">
 
 ---
 ## CVE-2019-14974 (2019-08-14T16:15:00)
