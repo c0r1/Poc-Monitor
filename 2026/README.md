@@ -318,6 +318,7 @@
 - [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
 - [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
 - [masterwok/CVE-2026-33017-Langflow-POC](https://github.com/masterwok/CVE-2026-33017-Langflow-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2026-33017-Langflow-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2026-33017-Langflow-POC">
+- [oscarmine/CVE-2026-33017-Exploit](https://github.com/oscarmine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-33017-Exploit">
 
 ---
 ## CVE-2026-32945 ()
