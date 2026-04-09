@@ -4954,6 +4954,11 @@
 - [Live-Hack-CVE/CVE-2020-12460](https://github.com/Live-Hack-CVE/CVE-2020-12460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12460">
 
 ---
+## CVE-2020-12446 ()
+> 
+- [enessakircolak/CVE-2020-12446](https://github.com/enessakircolak/CVE-2020-12446)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2020-12446">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2020-12446">
+
+---
 ## CVE-2020-12351 (2020-11-23T17:15:00)
 > Improper input validation in BlueZ may allow an unauthenticated user to potentially enable escalation of privilege via adjacent access.
 - [Live-Hack-CVE/CVE-2020-12351](https://github.com/Live-Hack-CVE/CVE-2020-12351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12351">
