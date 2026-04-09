@@ -42,6 +42,11 @@
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
 
 ---
+## CVE-2026-5173 ()
+> 
+- [0xBlackash/CVE-2026-5173](https://github.com/0xBlackash/CVE-2026-5173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5173">
+
+---
 ## CVE-2026-5147 ()
 > 
 - [lan1oc/cve-2026-5147-exp](https://github.com/lan1oc/cve-2026-5147-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lan1oc/cve-2026-5147-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lan1oc/cve-2026-5147-exp">
