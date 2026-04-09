@@ -5498,6 +5498,7 @@
 - [estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC](https://github.com/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC">
 - [popyue/CVE-2025-47812](https://github.com/popyue/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-47812">
 - [0xjuarez/CVE-2025-47812](https://github.com/0xjuarez/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xjuarez/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xjuarez/CVE-2025-47812">
+- [Majdae/CVE-2025-47812-Research](https://github.com/Majdae/CVE-2025-47812-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Majdae/CVE-2025-47812-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Majdae/CVE-2025-47812-Research">
 
 ---
 ## CVE-2025-47810 ()
