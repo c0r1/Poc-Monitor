@@ -21,6 +21,11 @@
 - [Lechansky/CVE-2026-5733](https://github.com/Lechansky/CVE-2026-5733)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-5733">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-5733">
 
 ---
+## CVE-2026-5530 ()
+> 
+- [davidrxchester/CVE-2026-5530](https://github.com/davidrxchester/CVE-2026-5530)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-5530">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-5530">
+
+---
 ## CVE-2026-5465 ()
 > 
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
@@ -356,7 +361,7 @@
 - [rootdirective-sec/CVE-2026-33017-Lab](https://github.com/rootdirective-sec/CVE-2026-33017-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33017-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33017-Lab">
 - [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
 - [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
-- [masterwok/CVE-2026-33017-Langflow-POC](https://github.com/masterwok/CVE-2026-33017-Langflow-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2026-33017-Langflow-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2026-33017-Langflow-POC">
+- [masterwok/CVE-2026-33017-Langflow-PoC](https://github.com/masterwok/CVE-2026-33017-Langflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2026-33017-Langflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2026-33017-Langflow-PoC">
 - [oscarmine/CVE-2026-33017-Exploit](https://github.com/oscarmine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-33017-Exploit">
 
 ---
