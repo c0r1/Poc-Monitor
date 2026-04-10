@@ -1780,6 +1780,7 @@
 - [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876">
 - [daytriftnewgen/CVE-2026-21876-backstory](https://github.com/daytriftnewgen/CVE-2026-21876-backstory)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876-backstory">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876-backstory">
 - [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876">
+- [Mefhika120/CVE-2026-21876](https://github.com/Mefhika120/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/Mefhika120/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/Mefhika120/CVE-2026-21876">
 
 ---
 ## CVE-2026-21858 ()
@@ -2184,6 +2185,12 @@
 - [CVEs-Labs/CVE-2026-1357](https://github.com/CVEs-Labs/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-1357">
 - [Nxploited/CVE-2026-1357](https://github.com/Nxploited/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1357">
 - [0xAshwesker/CVE-2026-1357](https://github.com/0xAshwesker/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-1357">
+
+---
+## CVE-2026-1312 ()
+> 
+- [alpinine/CVE-2026-1312-Testing](https://github.com/alpinine/CVE-2026-1312-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/alpinine/CVE-2026-1312-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/alpinine/CVE-2026-1312-Testing">
+- [sw0rd1ight/CVE-2026-1312](https://github.com/sw0rd1ight/CVE-2026-1312)	<img alt="forks" src="https://img.shields.io/github/forks/sw0rd1ight/CVE-2026-1312">	<img alt="stars" src="https://img.shields.io/github/stars/sw0rd1ight/CVE-2026-1312">
 
 ---
 ## CVE-2026-1311 ()
