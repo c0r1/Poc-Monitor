@@ -1527,6 +1527,11 @@
 - [TheDeepOpc/CVE-2026-23885](https://github.com/TheDeepOpc/CVE-2026-23885)	<img alt="forks" src="https://img.shields.io/github/forks/TheDeepOpc/CVE-2026-23885">	<img alt="stars" src="https://img.shields.io/github/stars/TheDeepOpc/CVE-2026-23885">
 
 ---
+## CVE-2026-23869 ()
+> 
+- [yohannslm/CVE-2026-23869](https://github.com/yohannslm/CVE-2026-23869)	<img alt="forks" src="https://img.shields.io/github/forks/yohannslm/CVE-2026-23869">	<img alt="stars" src="https://img.shields.io/github/stars/yohannslm/CVE-2026-23869">
+
+---
 ## CVE-2026-23842 ()
 > 
 - [AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10](https://github.com/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10">
