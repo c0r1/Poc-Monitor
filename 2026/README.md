@@ -873,6 +873,11 @@
 - [rav1010/CVE-2026-27636](https://github.com/rav1010/CVE-2026-27636)	<img alt="forks" src="https://img.shields.io/github/forks/rav1010/CVE-2026-27636">	<img alt="stars" src="https://img.shields.io/github/stars/rav1010/CVE-2026-27636">
 
 ---
+## CVE-2026-27621 ()
+> 
+- [lukasz-rybak/CVE-2026-27621](https://github.com/lukasz-rybak/CVE-2026-27621)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-27621">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-27621">
+
+---
 ## CVE-2026-27579 ()
 > 
 - [mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration](https://github.com/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">
@@ -1333,6 +1338,11 @@
 - [boroeurnprach/CVE-2026-24422_PoC](https://github.com/boroeurnprach/CVE-2026-24422_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-24422_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-24422_PoC">
 
 ---
+## CVE-2026-24415 ()
+> 
+- [lukasz-rybak/CVE-2026-24415](https://github.com/lukasz-rybak/CVE-2026-24415)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24415">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24415">
+
+---
 ## CVE-2026-2441 ()
 > 
 - [b1gchoi/CVE-2026-2441_POC](https://github.com/b1gchoi/CVE-2026-2441_POC)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-2441_POC">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-2441_POC">
@@ -1642,6 +1652,21 @@
 - [cypher-21/CVE-2026-23520](https://github.com/cypher-21/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/cypher-21/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/cypher-21/CVE-2026-23520">
 
 ---
+## CVE-2026-23500 ()
+> 
+- [lukasz-rybak/CVE-2026-23500](https://github.com/lukasz-rybak/CVE-2026-23500)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23500">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23500">
+
+---
+## CVE-2026-23499 ()
+> 
+- [lukasz-rybak/CVE-2026-23499](https://github.com/lukasz-rybak/CVE-2026-23499)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23499">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23499">
+
+---
+## CVE-2026-23498 ()
+> 
+- [lukasz-rybak/CVE-2026-23498](https://github.com/lukasz-rybak/CVE-2026-23498)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23498">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23498">
+
+---
 ## CVE-2026-23478 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-23478](https://github.com/Ashwesker/Ashwesker-CVE-2026-23478)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-23478">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-23478">
@@ -1666,6 +1691,11 @@
 ## CVE-2026-22862 ()
 > 
 - [qzhodl/CVE-2026-22862](https://github.com/qzhodl/CVE-2026-22862)	<img alt="forks" src="https://img.shields.io/github/forks/qzhodl/CVE-2026-22862">	<img alt="stars" src="https://img.shields.io/github/stars/qzhodl/CVE-2026-22862">
+
+---
+## CVE-2026-22849 ()
+> 
+- [lukasz-rybak/CVE-2026-22849](https://github.com/lukasz-rybak/CVE-2026-22849)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-22849">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-22849">
 
 ---
 ## CVE-2026-22844 ()
@@ -2214,6 +2244,11 @@
 - [ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution](https://github.com/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution">
 - [ii4gsp/CVE-2026-1457](https://github.com/ii4gsp/CVE-2026-1457)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457">
 - [ii4gsp/CVE-2026-1457](https://github.com/ii4gsp/CVE-2026-1457)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457">
+
+---
+## CVE-2026-1434 ()
+> 
+- [lukasz-rybak/CVE-2026-1434](https://github.com/lukasz-rybak/CVE-2026-1434)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-1434">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-1434">
 
 ---
 ## CVE-2026-1424 ()
