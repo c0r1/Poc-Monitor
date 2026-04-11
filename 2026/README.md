@@ -99,6 +99,11 @@
 - [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
 
 ---
+## CVE-2026-4350 ()
+> 
+- [whyiamsobusy/CVE-2026-4350](https://github.com/whyiamsobusy/CVE-2026-4350)	<img alt="forks" src="https://img.shields.io/github/forks/whyiamsobusy/CVE-2026-4350">	<img alt="stars" src="https://img.shields.io/github/stars/whyiamsobusy/CVE-2026-4350">
+
+---
 ## CVE-2026-4342 ()
 > 
 - [stuartMoorhouse/CVE-2026-4342](https://github.com/stuartMoorhouse/CVE-2026-4342)	<img alt="forks" src="https://img.shields.io/github/forks/stuartMoorhouse/CVE-2026-4342">	<img alt="stars" src="https://img.shields.io/github/stars/stuartMoorhouse/CVE-2026-4342">
