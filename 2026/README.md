@@ -359,6 +359,11 @@
 - [abhayclasher/CVE-2026-33331](https://github.com/abhayclasher/CVE-2026-33331)	<img alt="forks" src="https://img.shields.io/github/forks/abhayclasher/CVE-2026-33331">	<img alt="stars" src="https://img.shields.io/github/stars/abhayclasher/CVE-2026-33331">
 
 ---
+## CVE-2026-33229 ()
+> 
+- [azefzafyoussef/CVE-2026-33229](https://github.com/azefzafyoussef/CVE-2026-33229)	<img alt="forks" src="https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-33229">	<img alt="stars" src="https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-33229">
+
+---
 ## CVE-2026-33186 ()
 > 
 - [JohannesLks/CVE-2026-33186](https://github.com/JohannesLks/CVE-2026-33186)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-33186">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-33186">
