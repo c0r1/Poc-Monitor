@@ -5623,6 +5623,11 @@
 - [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226)	<img alt="forks" src="https://img.shields.io/github/forks/koyomihack00/CVE-2025-47226">	<img alt="stars" src="https://img.shields.io/github/stars/koyomihack00/CVE-2025-47226">
 
 ---
+## CVE-2025-4720 ()
+> 
+- [Xmyronn/duplicate-CVE-2025-4720-](https://github.com/Xmyronn/duplicate-CVE-2025-4720-)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/duplicate-CVE-2025-4720-">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/duplicate-CVE-2025-4720-">
+
+---
 ## CVE-2025-47181 ()
 > 
 - [encrypter15/CVE-2025-47181](https://github.com/encrypter15/CVE-2025-47181)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-47181">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-47181">
