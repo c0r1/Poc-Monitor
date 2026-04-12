@@ -6732,6 +6732,11 @@
 - [0xgh057r3c0n/CVE-2025-34077](https://github.com/0xgh057r3c0n/CVE-2025-34077)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34077">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34077">
 
 ---
+## CVE-2025-34065 ()
+> 
+- [Savanooo/avtech-cve-2025-34065-analysis](https://github.com/Savanooo/avtech-cve-2025-34065-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Savanooo/avtech-cve-2025-34065-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Savanooo/avtech-cve-2025-34065-analysis">
+
+---
 ## CVE-2025-34040 ()
 > 
 - [jisi-001/CVE-2025-34040Exp](https://github.com/jisi-001/CVE-2025-34040Exp)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2025-34040Exp">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2025-34040Exp">
