@@ -2764,6 +2764,8 @@
 - [Kamigold/Flowise-RCE](https://github.com/Kamigold/Flowise-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamigold/Flowise-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamigold/Flowise-RCE">
 - [TYehan/CVE-2025-58434-59528](https://github.com/TYehan/CVE-2025-58434-59528)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-58434-59528">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-58434-59528">
 - [p1ctur3p3rf3ct/CVE-2025-58434](https://github.com/p1ctur3p3rf3ct/CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2025-58434">
+- [jwsly12/CVE-2025-58434-59528-htb-ctf](https://github.com/jwsly12/CVE-2025-58434-59528-htb-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/jwsly12/CVE-2025-58434-59528-htb-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/jwsly12/CVE-2025-58434-59528-htb-ctf">
+- [kartik2005221/CVE-2025-58434-poc](https://github.com/kartik2005221/CVE-2025-58434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-poc">
 
 ---
 ## CVE-2025-5840 ()
