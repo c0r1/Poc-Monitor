@@ -191,6 +191,11 @@
 - [HiZisec/CVE-2026-3847-Poc](https://github.com/HiZisec/CVE-2026-3847-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3847-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3847-Poc">
 
 ---
+## CVE-2026-3805 ()
+> 
+- [Rat5ak/CVE-2026-3805-curl-SMB-UAF](https://github.com/Rat5ak/CVE-2026-3805-curl-SMB-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-3805-curl-SMB-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-3805-curl-SMB-UAF">
+
+---
 ## CVE-2026-3796 ()
 > 
 - [cwjchoi01/CVE-2026-3796](https://github.com/cwjchoi01/CVE-2026-3796)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2026-3796">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2026-3796">
@@ -548,6 +553,11 @@
 > 
 - [Jvr2022/CVE-2026-31802](https://github.com/Jvr2022/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-31802">
 - [Recorded-texteditor120/CVE-2026-31802](https://github.com/Recorded-texteditor120/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Recorded-texteditor120/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Recorded-texteditor120/CVE-2026-31802">
+
+---
+## CVE-2026-31413 ()
+> 
+- [Rat5ak/CVE-2026-31413-BPF-Container-Escape](https://github.com/Rat5ak/CVE-2026-31413-BPF-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31413-BPF-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31413-BPF-Container-Escape">
 
 ---
 ## CVE-2026-31402 ()
