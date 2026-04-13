@@ -289,6 +289,7 @@
 - [TYehan/CVE-2025-8110-Gogs-RCE-Exploit](https://github.com/TYehan/CVE-2025-8110-Gogs-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-8110-Gogs-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-8110-Gogs-RCE-Exploit">
 - [secopssite/HTB](https://github.com/secopssite/HTB)	<img alt="forks" src="https://img.shields.io/github/forks/secopssite/HTB">	<img alt="stars" src="https://img.shields.io/github/stars/secopssite/HTB">
 - [0dgt/CVE-2025-8110](https://github.com/0dgt/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/0dgt/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/0dgt/CVE-2025-8110">
+- [popyue/CVE-2025-8110](https://github.com/popyue/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -4010,6 +4011,7 @@
 - [kaxm23/rust-cve-2025-55182-scanner](https://github.com/kaxm23/rust-cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/rust-cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/rust-cve-2025-55182-scanner">
 - [RewantChaudhari/nextjs-rce-incident-response](https://github.com/RewantChaudhari/nextjs-rce-incident-response)	<img alt="forks" src="https://img.shields.io/github/forks/RewantChaudhari/nextjs-rce-incident-response">	<img alt="stars" src="https://img.shields.io/github/stars/RewantChaudhari/nextjs-rce-incident-response">
 - [oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/R2SAE">
+- [AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500](https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">
 
 ---
 ## CVE-2025-55130 ()
