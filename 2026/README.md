@@ -281,6 +281,11 @@
 - [0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724">
 
 ---
+## CVE-2026-34621 ()
+> 
+- [ercihan/CVE-2026-34621](https://github.com/ercihan/CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-34621">
+
+---
 ## CVE-2026-34444 ()
 > 
 - [redyank/CVE-2026-34444](https://github.com/redyank/CVE-2026-34444)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-34444">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-34444">
@@ -2121,6 +2126,7 @@
 ## CVE-2026-20833 ()
 > 
 - [v-jfanca/cve-2026-20833-rc4-kerberos](https://github.com/v-jfanca/cve-2026-20833-rc4-kerberos)	<img alt="forks" src="https://img.shields.io/github/forks/v-jfanca/cve-2026-20833-rc4-kerberos">	<img alt="stars" src="https://img.shields.io/github/stars/v-jfanca/cve-2026-20833-rc4-kerberos">
+- [Ath-PS/RC4-AD-Depreciation-CVE-2026-20833](https://github.com/Ath-PS/RC4-AD-Depreciation-CVE-2026-20833)	<img alt="forks" src="https://img.shields.io/github/forks/Ath-PS/RC4-AD-Depreciation-CVE-2026-20833">	<img alt="stars" src="https://img.shields.io/github/stars/Ath-PS/RC4-AD-Depreciation-CVE-2026-20833">
 
 ---
 ## CVE-2026-20820 ()
