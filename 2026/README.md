@@ -1831,6 +1831,11 @@
 - [D7EAD/CVE-2026-22722](https://github.com/D7EAD/CVE-2026-22722)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-22722">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-22722">
 
 ---
+## CVE-2026-22692 ()
+> 
+- [lukasz-rybak/CVE-2026-22692](https://github.com/lukasz-rybak/CVE-2026-22692)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-22692">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-22692">
+
+---
 ## CVE-2026-22686 ()
 > 
 - [amusedx/CVE-2026-22686](https://github.com/amusedx/CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/amusedx/CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/amusedx/CVE-2026-22686">
