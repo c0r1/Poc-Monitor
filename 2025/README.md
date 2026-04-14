@@ -564,6 +564,11 @@
 - [mewb12/CVE-2025-70311-JEEWMS](https://github.com/mewb12/CVE-2025-70311-JEEWMS)	<img alt="forks" src="https://img.shields.io/github/forks/mewb12/CVE-2025-70311-JEEWMS">	<img alt="stars" src="https://img.shields.io/github/stars/mewb12/CVE-2025-70311-JEEWMS">
 
 ---
+## CVE-2025-69993 ()
+> 
+- [PierfrancescoConti/leaflet-cve-2025-69993](https://github.com/PierfrancescoConti/leaflet-cve-2025-69993)	<img alt="forks" src="https://img.shields.io/github/forks/PierfrancescoConti/leaflet-cve-2025-69993">	<img alt="stars" src="https://img.shields.io/github/stars/PierfrancescoConti/leaflet-cve-2025-69993">
+
+---
 ## CVE-2025-69985 ()
 > 
 - [joshuavanderpoll/CVE-2025-69985](https://github.com/joshuavanderpoll/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-69985">
