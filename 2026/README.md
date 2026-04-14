@@ -457,6 +457,7 @@
 - [oscarmine/CVE-2026-33017-Exploit](https://github.com/oscarmine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-33017-Exploit">
 - [oscar-mine/CVE-2026-33017-Exploit](https://github.com/oscar-mine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/CVE-2026-33017-Exploit">
 - [Spydomain/CVE-2026-33017-lab](https://github.com/Spydomain/CVE-2026-33017-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2026-33017-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2026-33017-lab">
+- [Spydomain/CVE-2026-33017-langflow-lab](https://github.com/Spydomain/CVE-2026-33017-langflow-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2026-33017-langflow-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2026-33017-langflow-lab">
 
 ---
 ## CVE-2026-32945 ()
