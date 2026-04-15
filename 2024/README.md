@@ -6480,6 +6480,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [ElinaNotElina/cve-2024-3094-analysis](https://github.com/ElinaNotElina/cve-2024-3094-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ElinaNotElina/cve-2024-3094-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ElinaNotElina/cve-2024-3094-analysis">
 - [greydoubt/xz](https://github.com/greydoubt/xz)	<img alt="forks" src="https://img.shields.io/github/forks/greydoubt/xz">	<img alt="stars" src="https://img.shields.io/github/stars/greydoubt/xz">
 - [h3raklez/CVE-2024-3094](https://github.com/h3raklez/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2024-3094">
+- [Ava-Vispilio/CVE-2024-3094](https://github.com/Ava-Vispilio/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Ava-Vispilio/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Ava-Vispilio/CVE-2024-3094">
 
 ---
 ## CVE-2024-3090 (2024-03-30T13:15:00)
@@ -7801,6 +7802,7 @@ are not yet active.
 - [shinspace92/cve-2024-26229](https://github.com/shinspace92/cve-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/shinspace92/cve-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/shinspace92/cve-2024-26229">
 - [vettrivel007/CVE-2024-26229](https://github.com/vettrivel007/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-26229">
 - [dkstar11q/CVE-2024-26229-lpe](https://github.com/dkstar11q/CVE-2024-26229-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/CVE-2024-26229-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/CVE-2024-26229-lpe">
+- [0xGunrunner/CVE-2024-26229-BOF](https://github.com/0xGunrunner/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/0xGunrunner/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/0xGunrunner/CVE-2024-26229-BOF">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
