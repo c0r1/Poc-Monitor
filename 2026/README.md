@@ -145,6 +145,7 @@
 - [0xBlackash/CVE-2026-39987](https://github.com/0xBlackash/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39987">
 - [fevar54/marimo_CVE-2026-39987_RCE_PoC](https://github.com/fevar54/marimo_CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/marimo_CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/marimo_CVE-2026-39987_RCE_PoC">
 - [mki9/CVE-2026-39987_exploit](https://github.com/mki9/CVE-2026-39987_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mki9/CVE-2026-39987_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mki9/CVE-2026-39987_exploit">
+- [keraattin/CVE-2026-39987](https://github.com/keraattin/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -305,6 +306,12 @@
 - [ercihan/CVE-2026-34621](https://github.com/ercihan/CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-34621">
 - [eduardorossi84/CVE-2026-34621-POC](https://github.com/eduardorossi84/CVE-2026-34621-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-34621-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-34621-POC">
 - [KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621](https://github.com/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621">
+
+---
+## CVE-2026-34486 ()
+> 
+- [AirSkye/CVE-2026-34486-poc](https://github.com/AirSkye/CVE-2026-34486-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AirSkye/CVE-2026-34486-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AirSkye/CVE-2026-34486-poc">
+- [punitdarji/tomcat-cve-2026-34486](https://github.com/punitdarji/tomcat-cve-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/tomcat-cve-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/tomcat-cve-2026-34486">
 
 ---
 ## CVE-2026-34444 ()
