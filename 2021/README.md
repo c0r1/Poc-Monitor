@@ -8450,6 +8450,7 @@
 - [huydung26/CVE-2021-22986](https://github.com/huydung26/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/huydung26/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/huydung26/CVE-2021-22986">
 - [kiri-48/CVE-2021-22986](https://github.com/kiri-48/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/kiri-48/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/kiri-48/CVE-2021-22986">
 - [microvorld/CVE-2021-22986](https://github.com/microvorld/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/microvorld/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/microvorld/CVE-2021-22986">
+- [whatheheckisthis/Canonical-Extension-CVE-2021-22986](https://github.com/whatheheckisthis/Canonical-Extension-CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/whatheheckisthis/Canonical-Extension-CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/whatheheckisthis/Canonical-Extension-CVE-2021-22986">
 
 ---
 ## CVE-2021-22954 (2022-02-09T23:15:00)
