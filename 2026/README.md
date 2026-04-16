@@ -257,6 +257,11 @@
 - [snapdowgg/CVE-2026-3786](https://github.com/snapdowgg/CVE-2026-3786)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2026-3786">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2026-3786">
 
 ---
+## CVE-2026-37750 ()
+> 
+- [menevarad007/CVE-2026-37750](https://github.com/menevarad007/CVE-2026-37750)	<img alt="forks" src="https://img.shields.io/github/forks/menevarad007/CVE-2026-37750">	<img alt="stars" src="https://img.shields.io/github/stars/menevarad007/CVE-2026-37750">
+
+---
 ## CVE-2026-37749 ()
 > 
 - [menevarad007/CVE-2026-37749](https://github.com/menevarad007/CVE-2026-37749)	<img alt="forks" src="https://img.shields.io/github/forks/menevarad007/CVE-2026-37749">	<img alt="stars" src="https://img.shields.io/github/stars/menevarad007/CVE-2026-37749">
@@ -466,6 +471,11 @@
 > 
 - [fevar54/CVE-2026-33634-Scanner](https://github.com/fevar54/CVE-2026-33634-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-33634-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-33634-Scanner">
 - [ugurrates/teampcp-supply-chain-attack](https://github.com/ugurrates/teampcp-supply-chain-attack)	<img alt="forks" src="https://img.shields.io/github/forks/ugurrates/teampcp-supply-chain-attack">	<img alt="stars" src="https://img.shields.io/github/stars/ugurrates/teampcp-supply-chain-attack">
+
+---
+## CVE-2026-33555 ()
+> 
+- [r3verii/CVE-2026-33555](https://github.com/r3verii/CVE-2026-33555)	<img alt="forks" src="https://img.shields.io/github/forks/r3verii/CVE-2026-33555">	<img alt="stars" src="https://img.shields.io/github/stars/r3verii/CVE-2026-33555">
 
 ---
 ## CVE-2026-33532 ()
