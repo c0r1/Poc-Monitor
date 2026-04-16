@@ -432,6 +432,11 @@
 - [O99099O/By-Poloss..-..CVE-2026-33868](https://github.com/O99099O/By-Poloss..-..CVE-2026-33868)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-33868">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-33868">
 
 ---
+## CVE-2026-33824 ()
+> 
+- [z3r0h3ro/CVE-2026-33824](https://github.com/z3r0h3ro/CVE-2026-33824)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-33824">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-33824">
+
+---
 ## CVE-2026-33752 ()
 > 
 - [redyank/CVE-2026-33752](https://github.com/redyank/CVE-2026-33752)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33752">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33752">
@@ -1371,6 +1376,8 @@
 - [Ckokoski/moatbot-security](https://github.com/Ckokoski/moatbot-security)	<img alt="forks" src="https://img.shields.io/github/forks/Ckokoski/moatbot-security">	<img alt="stars" src="https://img.shields.io/github/stars/Ckokoski/moatbot-security">
 - [Joseph19820124/openclaw-vuln-report](https://github.com/Joseph19820124/openclaw-vuln-report)	<img alt="forks" src="https://img.shields.io/github/forks/Joseph19820124/openclaw-vuln-report">	<img alt="stars" src="https://img.shields.io/github/stars/Joseph19820124/openclaw-vuln-report">
 - [ethiack/moltbot-1click-rce](https://github.com/ethiack/moltbot-1click-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/moltbot-1click-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/moltbot-1click-rce">
+- [msaleme/start-here](https://github.com/msaleme/start-here)	<img alt="forks" src="https://img.shields.io/github/forks/msaleme/start-here">	<img alt="stars" src="https://img.shields.io/github/stars/msaleme/start-here">
+- [ZhaoymOvO/openclaw-1click-rce-env](https://github.com/ZhaoymOvO/openclaw-1click-rce-env)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoymOvO/openclaw-1click-rce-env">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoymOvO/openclaw-1click-rce-env">
 
 ---
 ## CVE-2026-25242 ()
@@ -1921,6 +1928,11 @@
 ## CVE-2026-2268 ()
 > 
 - [moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC](https://github.com/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC">
+
+---
+## CVE-2026-22679 ()
+> 
+- [keraattin/CVE-2026-22679](https://github.com/keraattin/CVE-2026-22679)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-22679">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-22679">
 
 ---
 ## CVE-2026-22666 ()

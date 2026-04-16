@@ -9671,6 +9671,11 @@
 - [maximo896/CVE-2025-1562](https://github.com/maximo896/CVE-2025-1562)	<img alt="forks" src="https://img.shields.io/github/forks/maximo896/CVE-2025-1562">	<img alt="stars" src="https://img.shields.io/github/stars/maximo896/CVE-2025-1562">
 
 ---
+## CVE-2025-15602 ()
+> 
+- [Nxvh1337/CVE-2025-15602-PoC](https://github.com/Nxvh1337/CVE-2025-15602-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxvh1337/CVE-2025-15602-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxvh1337/CVE-2025-15602-PoC">
+
+---
 ## CVE-2025-15545 ()
 > 
 - [Xernary/CVE-2025-15545](https://github.com/Xernary/CVE-2025-15545)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2025-15545">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2025-15545">
