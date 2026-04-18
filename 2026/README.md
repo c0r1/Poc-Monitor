@@ -550,6 +550,7 @@
 > 
 - [Twinson333/cve-2026-33032-scanner](https://github.com/Twinson333/cve-2026-33032-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Twinson333/cve-2026-33032-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Twinson333/cve-2026-33032-scanner">
 - [Shreda/CVE-2026-33032-nginx-ui-vuln-lab](https://github.com/Shreda/CVE-2026-33032-nginx-ui-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">
+- [keraattin/CVE-2026-33032](https://github.com/keraattin/CVE-2026-33032)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-33032">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-33032">
 
 ---
 ## CVE-2026-33017 ()
@@ -1434,6 +1435,7 @@
 - [ethiack/moltbot-1click-rce](https://github.com/ethiack/moltbot-1click-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/moltbot-1click-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/moltbot-1click-rce">
 - [msaleme/start-here](https://github.com/msaleme/start-here)	<img alt="forks" src="https://img.shields.io/github/forks/msaleme/start-here">	<img alt="stars" src="https://img.shields.io/github/stars/msaleme/start-here">
 - [ZhaoymOvO/openclaw-1click-rce-env](https://github.com/ZhaoymOvO/openclaw-1click-rce-env)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoymOvO/openclaw-1click-rce-env">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoymOvO/openclaw-1click-rce-env">
+- [KajzingerAkos/CVE-2026-25253](https://github.com/KajzingerAkos/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/KajzingerAkos/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/KajzingerAkos/CVE-2026-25253">
 - [KajzingerAkos/CVE-2026-25253](https://github.com/KajzingerAkos/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/KajzingerAkos/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/KajzingerAkos/CVE-2026-25253">
 
 ---
