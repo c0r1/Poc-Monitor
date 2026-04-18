@@ -8487,6 +8487,7 @@
 > 
 - [ubaydev/CVE-2025-2563](https://github.com/ubaydev/CVE-2025-2563)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2025-2563">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2025-2563">
 - [0axz-tools/CVE-2025-2563-POC](https://github.com/0axz-tools/CVE-2025-2563-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2025-2563-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2025-2563-POC">
+- [Nxploited/CVE-2025-2563](https://github.com/Nxploited/CVE-2025-2563)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2563">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2563">
 
 ---
 ## CVE-2025-25621 ()
