@@ -8000,7 +8000,7 @@
 ---
 ## CVE-2025-29009 ()
 > 
-- [joshs-code/CVE-2025-29009-POC](https://github.com/joshs-code/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/joshs-code/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/joshs-code/CVE-2025-29009-POC">
+- [jsecx88/CVE-2025-29009-POC](https://github.com/jsecx88/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jsecx88/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jsecx88/CVE-2025-29009-POC">
 - [Nxploited/CVE-2025-29009](https://github.com/Nxploited/CVE-2025-29009)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-29009">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-29009">
 
 ---
