@@ -2823,6 +2823,7 @@
 - [kartik2005221/CVE-2025-58434-AND-59528-POC](https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-AND-59528-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-AND-59528-POC">
 - [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
 - [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
+- [SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise](https://github.com/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">
 
 ---
 ## CVE-2025-5840 ()
