@@ -5664,6 +5664,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [CyprianAtsyor/letsdefend-cve2024-3400-case-study](https://github.com/CyprianAtsyor/letsdefend-cve2024-3400-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/letsdefend-cve2024-3400-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/letsdefend-cve2024-3400-case-study">
 - [Yafiah-Darwesh/cs50-cyber-paloalto-oauth](https://github.com/Yafiah-Darwesh/cs50-cyber-paloalto-oauth)	<img alt="forks" src="https://img.shields.io/github/forks/Yafiah-Darwesh/cs50-cyber-paloalto-oauth">	<img alt="stars" src="https://img.shields.io/github/stars/Yafiah-Darwesh/cs50-cyber-paloalto-oauth">
 - [Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation](https://github.com/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation">
+- [wa6n3r/CVE-2024-3400](https://github.com/wa6n3r/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2024-3400">
 
 ---
 ## CVE-2024-340 ()
