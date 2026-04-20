@@ -400,6 +400,11 @@
 - [NULL200OK/cve_2026_34621_advanced](https://github.com/NULL200OK/cve_2026_34621_advanced)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve_2026_34621_advanced">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve_2026_34621_advanced">
 
 ---
+## CVE-2026-3462 ()
+> 
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-3462">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-3462">
+
+---
 ## CVE-2026-34486 ()
 > 
 - [AirSkye/CVE-2026-34486-poc](https://github.com/AirSkye/CVE-2026-34486-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AirSkye/CVE-2026-34486-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AirSkye/CVE-2026-34486-poc">
