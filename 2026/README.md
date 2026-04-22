@@ -1350,6 +1350,11 @@
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
 
 ---
+## CVE-2026-26026 ()
+> 
+- [CEAarab/CVE-2026-26026-PoC](https://github.com/CEAarab/CVE-2026-26026-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2026-26026-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2026-26026-PoC">
+
+---
 ## CVE-2026-26012 ()
 > 
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
@@ -2180,6 +2185,7 @@
 ## CVE-2026-21877 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21877](https://github.com/Ashwesker/Ashwesker-CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21877">
+- [CVEs-Labs/CVE-2026-21877](https://github.com/CVEs-Labs/CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-21877">
 
 ---
 ## CVE-2026-21876 ()
@@ -2189,6 +2195,7 @@
 - [daytriftnewgen/CVE-2026-21876-backstory](https://github.com/daytriftnewgen/CVE-2026-21876-backstory)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876-backstory">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876-backstory">
 - [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876">
 - [Mefhika120/CVE-2026-21876](https://github.com/Mefhika120/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/Mefhika120/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/Mefhika120/CVE-2026-21876">
+- [CVEs-Labs/CVE-2026-21876](https://github.com/CVEs-Labs/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-21876">
 
 ---
 ## CVE-2026-21858 ()
