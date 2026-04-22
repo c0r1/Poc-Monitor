@@ -1206,6 +1206,11 @@
 - [dinosn/ghost-cve-2026-26980](https://github.com/dinosn/ghost-cve-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/ghost-cve-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/ghost-cve-2026-26980">
 
 ---
+## CVE-2026-26903 ()
+> 
+- [John-Jung/CVE-2026-26903-PoC](https://github.com/John-Jung/CVE-2026-26903-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-26903-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-26903-PoC">
+
+---
 ## CVE-2026-26833 ()
 > 
 - [zebbernCVE/CVE-2026-26833](https://github.com/zebbernCVE/CVE-2026-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26833">
