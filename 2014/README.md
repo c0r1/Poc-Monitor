@@ -135,8 +135,12 @@
 - [NamiKaze02/Shellshock](https://github.com/NamiKaze02/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/NamiKaze02/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/NamiKaze02/Shellshock">
 - [mtaha-sec/bash-apocalypse](https://github.com/mtaha-sec/bash-apocalypse)	<img alt="forks" src="https://img.shields.io/github/forks/mtaha-sec/bash-apocalypse">	<img alt="stars" src="https://img.shields.io/github/stars/mtaha-sec/bash-apocalypse">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">
-- [0xAshwesker/CVE-2014-6271](https://github.com/0xAshwesker/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2014-6271">
+- [0xBlackash/CVE-2014-6271](https://github.com/0xBlackash/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2014-6271">
 - [kaleth4/CVE-2014-6271](https://github.com/kaleth4/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2014-6271">
+- [im2nerd/CVE-2014-6271](https://github.com/im2nerd/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/im2nerd/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/im2nerd/CVE-2014-6271">
+- [V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection](https://github.com/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">
+- [kaleth4/-CVE-2014-6271](https://github.com/kaleth4/-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/-CVE-2014-6271">
+- [ambjlou/it355-lab4-enterprise-lan-security](https://github.com/ambjlou/it355-lab4-enterprise-lan-security)	<img alt="forks" src="https://img.shields.io/github/forks/ambjlou/it355-lab4-enterprise-lan-security">	<img alt="stars" src="https://img.shields.io/github/stars/ambjlou/it355-lab4-enterprise-lan-security">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)

@@ -2172,6 +2172,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [madhusudhan-in/CVE_2023_44487-Rapid_Reset](https://github.com/madhusudhan-in/CVE_2023_44487-Rapid_Reset)	<img alt="forks" src="https://img.shields.io/github/forks/madhusudhan-in/CVE_2023_44487-Rapid_Reset">	<img alt="stars" src="https://img.shields.io/github/stars/madhusudhan-in/CVE_2023_44487-Rapid_Reset">
 - [gmh5225/CVE_2023_44487-Rapid_Reset](https://github.com/gmh5225/CVE_2023_44487-Rapid_Reset)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE_2023_44487-Rapid_Reset">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE_2023_44487-Rapid_Reset">
 - [tpirate/cve-2023-44487-POC](https://github.com/tpirate/cve-2023-44487-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tpirate/cve-2023-44487-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tpirate/cve-2023-44487-POC">
+- [galletitaconpate/CVE-2023-44487](https://github.com/galletitaconpate/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/galletitaconpate/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/galletitaconpate/CVE-2023-44487">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
