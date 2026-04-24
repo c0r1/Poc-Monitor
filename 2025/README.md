@@ -783,6 +783,7 @@
 - [MaxMnMl/zimbramail-CVE-2025-68645-poc](https://github.com/MaxMnMl/zimbramail-CVE-2025-68645-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/zimbramail-CVE-2025-68645-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/zimbramail-CVE-2025-68645-poc">
 - [CMEGh0stX47/CVE-2025-68645](https://github.com/CMEGh0stX47/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/CMEGh0stX47/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/CMEGh0stX47/CVE-2025-68645">
 - [faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability](https://github.com/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">
+- [0xBlackash/CVE-2025-68645](https://github.com/0xBlackash/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-68645">
 
 ---
 ## CVE-2025-68615 ()
