@@ -8245,6 +8245,7 @@
 ## CVE-2025-27407 ()
 > 
 - [IDAOlly/PoC_CVE-2025-27407](https://github.com/IDAOlly/PoC_CVE-2025-27407)	<img alt="forks" src="https://img.shields.io/github/forks/IDAOlly/PoC_CVE-2025-27407">	<img alt="stars" src="https://img.shields.io/github/stars/IDAOlly/PoC_CVE-2025-27407">
+- [LoGGGG2402/CVE-2025-27407](https://github.com/LoGGGG2402/CVE-2025-27407)	<img alt="forks" src="https://img.shields.io/github/forks/LoGGGG2402/CVE-2025-27407">	<img alt="stars" src="https://img.shields.io/github/stars/LoGGGG2402/CVE-2025-27407">
 
 ---
 ## CVE-2025-27363 ()
