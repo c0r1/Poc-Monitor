@@ -2293,6 +2293,11 @@
 - [atiilla/CVE-2026-21852-PoC](https://github.com/atiilla/CVE-2026-21852-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-21852-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-21852-PoC">
 
 ---
+## CVE-2026-21847 ()
+> 
+- [blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal](https://github.com/blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal)	<img alt="forks" src="https://img.shields.io/github/forks/blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal">	<img alt="stars" src="https://img.shields.io/github/stars/blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal">
+
+---
 ## CVE-2026-21721 ()
 > 
 - [Leonideath/Exploit-LPE-CVE-2026-21721](https://github.com/Leonideath/Exploit-LPE-CVE-2026-21721)	<img alt="forks" src="https://img.shields.io/github/forks/Leonideath/Exploit-LPE-CVE-2026-21721">	<img alt="stars" src="https://img.shields.io/github/stars/Leonideath/Exploit-LPE-CVE-2026-21721">
