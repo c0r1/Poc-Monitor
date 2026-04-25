@@ -178,6 +178,7 @@
 - [CipherCloak/CVE-2026-41651](https://github.com/CipherCloak/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/CipherCloak/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/CipherCloak/CVE-2026-41651">
 - [0xBlackash/CVE-2026-41651](https://github.com/0xBlackash/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41651">
 - [baph00met/CVE-2026-41651](https://github.com/baph00met/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/baph00met/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/baph00met/CVE-2026-41651">
+- [dinosn/pack2theroot-lab](https://github.com/dinosn/pack2theroot-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/pack2theroot-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/pack2theroot-lab">
 
 ---
 ## CVE-2026-41575 ()
