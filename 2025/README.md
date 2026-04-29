@@ -1035,6 +1035,11 @@
 - [YongYe-Security/CVE-2025-67254](https://github.com/YongYe-Security/CVE-2025-67254)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2025-67254">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2025-67254">
 
 ---
+## CVE-2025-67223 ()
+> 
+- [brandonperezlara/CVE-2025-67223](https://github.com/brandonperezlara/CVE-2025-67223)	<img alt="forks" src="https://img.shields.io/github/forks/brandonperezlara/CVE-2025-67223">	<img alt="stars" src="https://img.shields.io/github/stars/brandonperezlara/CVE-2025-67223">
+
+---
 ## CVE-2025-67160 ()
 > 
 - [Remenis/CVE-2025-67160](https://github.com/Remenis/CVE-2025-67160)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-67160">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-67160">
