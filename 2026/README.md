@@ -629,6 +629,11 @@
 - [helGayhub233/CVE-2026-34486-Tribes](https://github.com/helGayhub233/CVE-2026-34486-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/helGayhub233/CVE-2026-34486-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/helGayhub233/CVE-2026-34486-Tribes">
 
 ---
+## CVE-2026-34475 ()
+> 
+- [bitbcybr/way2poc_cve-2026-34475](https://github.com/bitbcybr/way2poc_cve-2026-34475)	<img alt="forks" src="https://img.shields.io/github/forks/bitbcybr/way2poc_cve-2026-34475">	<img alt="stars" src="https://img.shields.io/github/stars/bitbcybr/way2poc_cve-2026-34475">
+
+---
 ## CVE-2026-34444 ()
 > 
 - [redyank/CVE-2026-34444](https://github.com/redyank/CVE-2026-34444)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-34444">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-34444">
@@ -1098,6 +1103,20 @@
 - [yandex-cloud-examples/yc-mk8s-copy-fail-mitigation](https://github.com/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation">
 - [mgmlme/cve_2026_31431_live-mitigation](https://github.com/mgmlme/cve_2026_31431_live-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mgmlme/cve_2026_31431_live-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mgmlme/cve_2026_31431_live-mitigation">
 - [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC">
+- [leelong2020/cve-2026-31431](https://github.com/leelong2020/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/leelong2020/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/leelong2020/cve-2026-31431">
+- [scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431](https://github.com/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">
+- [SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian](https://github.com/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian)	<img alt="forks" src="https://img.shields.io/github/forks/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian">	<img alt="stars" src="https://img.shields.io/github/stars/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian">
+- [wesmar/CVE-2026-31431](https://github.com/wesmar/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/wesmar/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/wesmar/CVE-2026-31431">
+- [grishinpv/CVE-2026-31431-old-python](https://github.com/grishinpv/CVE-2026-31431-old-python)	<img alt="forks" src="https://img.shields.io/github/forks/grishinpv/CVE-2026-31431-old-python">	<img alt="stars" src="https://img.shields.io/github/stars/grishinpv/CVE-2026-31431-old-python">
+- [yxdm02/CVE-2026-31431](https://github.com/yxdm02/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/yxdm02/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/yxdm02/CVE-2026-31431">
+- [rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch">
+- [XsanFlip/CVE-2026-31431-Patch](https://github.com/XsanFlip/CVE-2026-31431-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-31431-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-31431-Patch">
+- [cozystack/copy-fail-blocker](https://github.com/cozystack/copy-fail-blocker)	<img alt="forks" src="https://img.shields.io/github/forks/cozystack/copy-fail-blocker">	<img alt="stars" src="https://img.shields.io/github/stars/cozystack/copy-fail-blocker">
+- [rfxn/copyfail](https://github.com/rfxn/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/copyfail">
+- [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
+- [wgnet/wg.copyfail.patch](https://github.com/wgnet/wg.copyfail.patch)	<img alt="forks" src="https://img.shields.io/github/forks/wgnet/wg.copyfail.patch">	<img alt="stars" src="https://img.shields.io/github/stars/wgnet/wg.copyfail.patch">
+- [sammwyy/copyfail-rs](https://github.com/sammwyy/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/sammwyy/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/sammwyy/copyfail-rs">
+- [cs8425/copy-fail-go](https://github.com/cs8425/copy-fail-go)	<img alt="forks" src="https://img.shields.io/github/forks/cs8425/copy-fail-go">	<img alt="stars" src="https://img.shields.io/github/stars/cs8425/copy-fail-go">
 
 ---
 ## CVE-2026-31413 ()
