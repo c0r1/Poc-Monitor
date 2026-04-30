@@ -231,6 +231,7 @@
 - [adriyansyah-mf/cve-2026-41940-poc](https://github.com/adriyansyah-mf/cve-2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-41940-poc">
 - [debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker](https://github.com/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">
 - [realawaisakbar/CVE-2026-41940-Exploit-PoC](https://github.com/realawaisakbar/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realawaisakbar/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realawaisakbar/CVE-2026-41940-Exploit-PoC">
+- [ilmndwntr/CVE-2026-41940-MASS-EXPLOIT](https://github.com/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">
 
 ---
 ## CVE-2026-41679 ()
@@ -636,6 +637,11 @@
 ## CVE-2026-3442 ()
 > 
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
+
+---
+## CVE-2026-34308 ()
+> 
+- [JoakimBulow/CVE-2026-34308](https://github.com/JoakimBulow/CVE-2026-34308)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-34308">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-34308">
 
 ---
 ## CVE-2026-34227 ()
@@ -1080,6 +1086,18 @@
 - [nisec-eric/cve-2026-31431](https://github.com/nisec-eric/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/nisec-eric/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/nisec-eric/cve-2026-31431">
 - [pascal-gujer/CVE-2026-31431](https://github.com/pascal-gujer/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pascal-gujer/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pascal-gujer/CVE-2026-31431">
 - [mrowkoob/copy-fail-mitigate-no-reboot](https://github.com/mrowkoob/copy-fail-mitigate-no-reboot)	<img alt="forks" src="https://img.shields.io/github/forks/mrowkoob/copy-fail-mitigate-no-reboot">	<img alt="stars" src="https://img.shields.io/github/stars/mrowkoob/copy-fail-mitigate-no-reboot">
+- [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
+- [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
+- [dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix](https://github.com/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix)	<img alt="forks" src="https://img.shields.io/github/forks/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">	<img alt="stars" src="https://img.shields.io/github/stars/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">
+- [attaattaatta/CVE-2026-31431](https://github.com/attaattaatta/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-31431">
+- [Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431](https://github.com/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">
+- [gmeghnag/TEST-CVE-2026-31431](https://github.com/gmeghnag/TEST-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gmeghnag/TEST-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gmeghnag/TEST-CVE-2026-31431">
+- [mfloresdacunha/CVE-2026-31431](https://github.com/mfloresdacunha/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mfloresdacunha/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mfloresdacunha/CVE-2026-31431">
+- [Boos4721/copyfail-rs](https://github.com/Boos4721/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Boos4721/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Boos4721/copyfail-rs">
+- [jmac774/CVE-2026-31431-mitigation-rhel](https://github.com/jmac774/CVE-2026-31431-mitigation-rhel)	<img alt="forks" src="https://img.shields.io/github/forks/jmac774/CVE-2026-31431-mitigation-rhel">	<img alt="stars" src="https://img.shields.io/github/stars/jmac774/CVE-2026-31431-mitigation-rhel">
+- [yandex-cloud-examples/yc-mk8s-copy-fail-mitigation](https://github.com/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation">
+- [mgmlme/cve_2026_31431_live-mitigation](https://github.com/mgmlme/cve_2026_31431_live-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mgmlme/cve_2026_31431_live-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mgmlme/cve_2026_31431_live-mitigation">
+- [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC">
 
 ---
 ## CVE-2026-31413 ()
