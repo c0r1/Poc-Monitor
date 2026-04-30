@@ -641,6 +641,11 @@
 - [Cr0wld3r/CVE-2025-69612](https://github.com/Cr0wld3r/CVE-2025-69612)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0wld3r/CVE-2025-69612">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0wld3r/CVE-2025-69612">
 
 ---
+## CVE-2025-69606 ()
+> 
+- [Razielx64/CVE-2025-69606-GSVoIP-XSS](https://github.com/Razielx64/CVE-2025-69606-GSVoIP-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Razielx64/CVE-2025-69606-GSVoIP-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Razielx64/CVE-2025-69606-GSVoIP-XSS">
+
+---
 ## CVE-2025-69600 ()
 > 
 - [Wise-Security/CVE-2025-69600](https://github.com/Wise-Security/CVE-2025-69600)	<img alt="forks" src="https://img.shields.io/github/forks/Wise-Security/CVE-2025-69600">	<img alt="stars" src="https://img.shields.io/github/stars/Wise-Security/CVE-2025-69600">

@@ -238,6 +238,7 @@
 - [Wesuiliye/CVE-2026-41940](https://github.com/Wesuiliye/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Wesuiliye/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Wesuiliye/CVE-2026-41940">
 - [Kagantua/cPanelWHM-AuthBypass](https://github.com/Kagantua/cPanelWHM-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kagantua/cPanelWHM-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kagantua/cPanelWHM-AuthBypass">
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
+- [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
 
 ---
 ## CVE-2026-41679 ()
@@ -1147,6 +1148,7 @@
 - [selectel/mks-copy-fail-mitigation](https://github.com/selectel/mks-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/selectel/mks-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/selectel/mks-copy-fail-mitigation">
 - [diemoeve/copyfail-rs](https://github.com/diemoeve/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/diemoeve/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/diemoeve/copyfail-rs">
 - [Koke-Seas/COPY-FAIL-CVE](https://github.com/Koke-Seas/COPY-FAIL-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/COPY-FAIL-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/COPY-FAIL-CVE">
+- [yuspring/cve-2026-31431-poc](https://github.com/yuspring/cve-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuspring/cve-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuspring/cve-2026-31431-poc">
 
 ---
 ## CVE-2026-31413 ()
