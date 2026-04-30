@@ -239,6 +239,7 @@
 - [Kagantua/cPanelWHM-AuthBypass](https://github.com/Kagantua/cPanelWHM-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kagantua/cPanelWHM-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kagantua/cPanelWHM-AuthBypass">
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
 - [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
+- [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
 
 ---
 ## CVE-2026-41679 ()
@@ -1149,6 +1150,14 @@
 - [diemoeve/copyfail-rs](https://github.com/diemoeve/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/diemoeve/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/diemoeve/copyfail-rs">
 - [Koke-Seas/COPY-FAIL-CVE](https://github.com/Koke-Seas/COPY-FAIL-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/COPY-FAIL-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/COPY-FAIL-CVE">
 - [yuspring/cve-2026-31431-poc](https://github.com/yuspring/cve-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuspring/cve-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuspring/cve-2026-31431-poc">
+- [DENNISDGR/CVE-2026-31431-poc](https://github.com/DENNISDGR/CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-31431-poc">
+- [B1gN0Se/copy-fail-CVE-2026-31431](https://github.com/B1gN0Se/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/copy-fail-CVE-2026-31431">
+- [liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script](https://github.com/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">
+
+---
+## CVE-2026-3143 ()
+> 
+- [maniakh/CVE-2026-3143---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-3143---Copy-Fail-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maniakh/CVE-2026-3143---Copy-Fail-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maniakh/CVE-2026-3143---Copy-Fail-PoC">
 
 ---
 ## CVE-2026-31413 ()
