@@ -998,6 +998,8 @@
 - [painoob/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/painoob/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/Copy-Fail-Exploit-CVE-2026-31431">
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/copy-fail-CVE-2026-31431">
 - [rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/rootsecdev/cve_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/rootsecdev/cve_2026_31431">
+- [Crihexe/copy-fail-tiny-elf-CVE-2026-31431](https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Crihexe/copy-fail-tiny-elf-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Crihexe/copy-fail-tiny-elf-CVE-2026-31431">
+- [ZephrFish/CopyFail-CVE-2026-31431](https://github.com/ZephrFish/CopyFail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CopyFail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CopyFail-CVE-2026-31431">
 
 ---
 ## CVE-2026-31413 ()
