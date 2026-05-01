@@ -221,6 +221,7 @@
 > 
 - [ZeroPathAI/proftpd-CVE-2026-42167-poc](https://github.com/ZeroPathAI/proftpd-CVE-2026-42167-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/proftpd-CVE-2026-42167-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/proftpd-CVE-2026-42167-poc">
 - [dinosn/proftpd-CVE-2026-42167-analysis](https://github.com/dinosn/proftpd-CVE-2026-42167-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/proftpd-CVE-2026-42167-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/proftpd-CVE-2026-42167-analysis">
+- [Sl4cK0TH/CVE-2026-42167-PoC](https://github.com/Sl4cK0TH/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-42167-PoC">
 
 ---
 ## CVE-2026-42141 ()
@@ -1207,6 +1208,8 @@
 - [MarioHY/cve_2026_31431_audit](https://github.com/MarioHY/cve_2026_31431_audit)	<img alt="forks" src="https://img.shields.io/github/forks/MarioHY/cve_2026_31431_audit">	<img alt="stars" src="https://img.shields.io/github/stars/MarioHY/cve_2026_31431_audit">
 - [toxy4ny/copy-fail-exploit-on-c-redteam](https://github.com/toxy4ny/copy-fail-exploit-on-c-redteam)	<img alt="forks" src="https://img.shields.io/github/forks/toxy4ny/copy-fail-exploit-on-c-redteam">	<img alt="stars" src="https://img.shields.io/github/stars/toxy4ny/copy-fail-exploit-on-c-redteam">
 - [Koke-Seas/CVE-2026-31431-CopyFail](https://github.com/Koke-Seas/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/CVE-2026-31431-CopyFail">
+- [bedros-p/kopy-fail-CVE-2026-31431](https://github.com/bedros-p/kopy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/bedros-p/kopy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/bedros-p/kopy-fail-CVE-2026-31431">
+- [Silent0x0/Copy-Fail---CVE-2026-31431](https://github.com/Silent0x0/Copy-Fail---CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent0x0/Copy-Fail---CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent0x0/Copy-Fail---CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
