@@ -249,6 +249,9 @@
 - [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
 - [mahfuzreham/cpanel-cve-2026-41940](https://github.com/mahfuzreham/cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/cpanel-cve-2026-41940">
 - [merdw/cPanel-CVE-2026-41940-Scanner](https://github.com/merdw/cPanel-CVE-2026-41940-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/merdw/cPanel-CVE-2026-41940-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/merdw/cPanel-CVE-2026-41940-Scanner">
+- [Lutfifakee-Project/CVE-2026-41940](https://github.com/Lutfifakee-Project/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41940">
+- [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
+- [NULL200OK/cve-2026-41940-tool](https://github.com/NULL200OK/cve-2026-41940-tool)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve-2026-41940-tool">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve-2026-41940-tool">
 
 ---
 ## CVE-2026-41679 ()
@@ -824,6 +827,7 @@
 > 
 - [shreyas-malhotra/CVE-2026-33439-OpenAM](https://github.com/shreyas-malhotra/CVE-2026-33439-OpenAM)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2026-33439-OpenAM">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2026-33439-OpenAM">
 - [Ibonok/CVE-2026-33439-PoC](https://github.com/Ibonok/CVE-2026-33439-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2026-33439-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2026-33439-PoC">
+- [TheMalwareGuardian/CVE-2026-33439](https://github.com/TheMalwareGuardian/CVE-2026-33439)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-33439">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-33439">
 
 ---
 ## CVE-2026-33340 ()
@@ -1189,6 +1193,12 @@
 - [OmerAti/almalinux-fix-cve-2026-31431](https://github.com/OmerAti/almalinux-fix-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/OmerAti/almalinux-fix-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/OmerAti/almalinux-fix-cve-2026-31431">
 - [Nu1i/exploit_cve_2026_31431_py36](https://github.com/Nu1i/exploit_cve_2026_31431_py36)	<img alt="forks" src="https://img.shields.io/github/forks/Nu1i/exploit_cve_2026_31431_py36">	<img alt="stars" src="https://img.shields.io/github/stars/Nu1i/exploit_cve_2026_31431_py36">
 - [mahradbt/copyfail-mitigation](https://github.com/mahradbt/copyfail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mahradbt/copyfail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mahradbt/copyfail-mitigation">
+- [AliHzSec/CVE-2026-31431](https://github.com/AliHzSec/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2026-31431">
+- [Fulucky0-yuri/CVE-2026-31431-PocC](https://github.com/Fulucky0-yuri/CVE-2026-31431-PocC)	<img alt="forks" src="https://img.shields.io/github/forks/Fulucky0-yuri/CVE-2026-31431-PocC">	<img alt="stars" src="https://img.shields.io/github/stars/Fulucky0-yuri/CVE-2026-31431-PocC">
+- [kvakirsanov/CVE-2026-31431-live-process-code-injection](https://github.com/kvakirsanov/CVE-2026-31431-live-process-code-injection)	<img alt="forks" src="https://img.shields.io/github/forks/kvakirsanov/CVE-2026-31431-live-process-code-injection">	<img alt="stars" src="https://img.shields.io/github/stars/kvakirsanov/CVE-2026-31431-live-process-code-injection">
+- [abhishekhargan/CVE-2026-31431](https://github.com/abhishekhargan/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekhargan/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekhargan/CVE-2026-31431">
+- [RecoFu/CVE-2026-31431-Copy-Fail](https://github.com/RecoFu/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/RecoFu/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/RecoFu/CVE-2026-31431-Copy-Fail">
+- [FrosterDL/CVE-2026-31431](https://github.com/FrosterDL/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/FrosterDL/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/FrosterDL/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
