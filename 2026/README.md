@@ -245,6 +245,8 @@
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
 - [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
 - [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
+- [senyx122/CVE-2026-41940](https://github.com/senyx122/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/senyx122/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/senyx122/CVE-2026-41940">
+- [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
 
 ---
 ## CVE-2026-41679 ()
@@ -1165,6 +1167,11 @@
 - [devstuff/harden-docker-seccomp](https://github.com/devstuff/harden-docker-seccomp)	<img alt="forks" src="https://img.shields.io/github/forks/devstuff/harden-docker-seccomp">	<img alt="stars" src="https://img.shields.io/github/stars/devstuff/harden-docker-seccomp">
 - [offsecguy/CVE-2026-31431](https://github.com/offsecguy/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/offsecguy/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/offsecguy/CVE-2026-31431">
 - [maniakh/CVE-2026-31431---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-31431---Copy-Fail-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maniakh/CVE-2026-31431---Copy-Fail-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maniakh/CVE-2026-31431---Copy-Fail-PoC">
+- [boliu83/cve-2026-31431-algif-aead-remediator](https://github.com/boliu83/cve-2026-31431-algif-aead-remediator)	<img alt="forks" src="https://img.shields.io/github/forks/boliu83/cve-2026-31431-algif-aead-remediator">	<img alt="stars" src="https://img.shields.io/github/stars/boliu83/cve-2026-31431-algif-aead-remediator">
+- [poyea/CVE-2026-31431.c](https://github.com/poyea/CVE-2026-31431.c)	<img alt="forks" src="https://img.shields.io/github/forks/poyea/CVE-2026-31431.c">	<img alt="stars" src="https://img.shields.io/github/stars/poyea/CVE-2026-31431.c">
+- [karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner](https://github.com/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner)	<img alt="forks" src="https://img.shields.io/github/forks/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner">	<img alt="stars" src="https://img.shields.io/github/stars/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner">
+- [wvverez/CVE-2026-31431-Copy-Fail](https://github.com/wvverez/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2026-31431-Copy-Fail">
+- [sngrotesque/CVE-2026-31431](https://github.com/sngrotesque/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sngrotesque/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sngrotesque/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
