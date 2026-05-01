@@ -1235,6 +1235,9 @@
 - [Lyutoon/CopyFail-Experiment](https://github.com/Lyutoon/CopyFail-Experiment)	<img alt="forks" src="https://img.shields.io/github/forks/Lyutoon/CopyFail-Experiment">	<img alt="stars" src="https://img.shields.io/github/stars/Lyutoon/CopyFail-Experiment">
 - [ledlight33/copyfail-dfir](https://github.com/ledlight33/copyfail-dfir)	<img alt="forks" src="https://img.shields.io/github/forks/ledlight33/copyfail-dfir">	<img alt="stars" src="https://img.shields.io/github/stars/ledlight33/copyfail-dfir">
 - [Smarttfoxx/copyfail](https://github.com/Smarttfoxx/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/copyfail">
+- [Shotafry/CopyFail-Exploits-CVE-2026-31431](https://github.com/Shotafry/CopyFail-Exploits-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Shotafry/CopyFail-Exploits-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Shotafry/CopyFail-Exploits-CVE-2026-31431">
+- [parmstro/copy-fail-detect](https://github.com/parmstro/copy-fail-detect)	<img alt="forks" src="https://img.shields.io/github/forks/parmstro/copy-fail-detect">	<img alt="stars" src="https://img.shields.io/github/stars/parmstro/copy-fail-detect">
+- [RoflSecurity/copy_fail](https://github.com/RoflSecurity/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/RoflSecurity/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/RoflSecurity/copy_fail">
 
 ---
 ## CVE-2026-3143 ()
