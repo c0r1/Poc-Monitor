@@ -206,6 +206,11 @@
 - [stuartMoorhouse/CVE-2026-4342](https://github.com/stuartMoorhouse/CVE-2026-4342)	<img alt="forks" src="https://img.shields.io/github/forks/stuartMoorhouse/CVE-2026-4342">	<img alt="stars" src="https://img.shields.io/github/stars/stuartMoorhouse/CVE-2026-4342">
 
 ---
+## CVE-2026-42779 ()
+> 
+- [dinosn/CVE-2026-42779](https://github.com/dinosn/CVE-2026-42779)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-42779">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-42779">
+
+---
 ## CVE-2026-4257 ()
 > 
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
@@ -227,6 +232,7 @@
 - [ZeroPathAI/proftpd-CVE-2026-42167-poc](https://github.com/ZeroPathAI/proftpd-CVE-2026-42167-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/proftpd-CVE-2026-42167-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/proftpd-CVE-2026-42167-poc">
 - [dinosn/proftpd-CVE-2026-42167-analysis](https://github.com/dinosn/proftpd-CVE-2026-42167-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/proftpd-CVE-2026-42167-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/proftpd-CVE-2026-42167-analysis">
 - [Sl4cK0TH/CVE-2026-42167-PoC](https://github.com/Sl4cK0TH/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-42167-PoC">
+- [efeanilarslan/CVE-2026-42167-Exploit](https://github.com/efeanilarslan/CVE-2026-42167-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/efeanilarslan/CVE-2026-42167-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/efeanilarslan/CVE-2026-42167-Exploit">
 
 ---
 ## CVE-2026-42141 ()
