@@ -266,6 +266,8 @@
 - [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
 - [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
 - [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
+- [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
+- [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 
 ---
 ## CVE-2026-41679 ()
@@ -409,6 +411,11 @@
 - [samu-delucas/CVE-2026-39808](https://github.com/samu-delucas/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/samu-delucas/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/samu-delucas/CVE-2026-39808">
 - [0xBlackash/CVE-2026-39808](https://github.com/0xBlackash/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39808">
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
+
+---
+## CVE-2026-39387 ()
+> 
+- [xp1tr/CVE-2026-39387](https://github.com/xp1tr/CVE-2026-39387)	<img alt="forks" src="https://img.shields.io/github/forks/xp1tr/CVE-2026-39387">	<img alt="stars" src="https://img.shields.io/github/stars/xp1tr/CVE-2026-39387">
 
 ---
 ## CVE-2026-39376 ()
@@ -1244,6 +1251,12 @@
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [Emmmmllll/copy-fail-zig](https://github.com/Emmmmllll/copy-fail-zig)	<img alt="forks" src="https://img.shields.io/github/forks/Emmmmllll/copy-fail-zig">	<img alt="stars" src="https://img.shields.io/github/stars/Emmmmllll/copy-fail-zig">
 - [monobrau/copyfailscan](https://github.com/monobrau/copyfailscan)	<img alt="forks" src="https://img.shields.io/github/forks/monobrau/copyfailscan">	<img alt="stars" src="https://img.shields.io/github/stars/monobrau/copyfailscan">
+- [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
+- [0xac1dc0de/CVE-2026-31431](https://github.com/0xac1dc0de/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/0xac1dc0de/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/0xac1dc0de/CVE-2026-31431">
+- [qi4L/CVE-2026-31431-Container-Escape](https://github.com/qi4L/CVE-2026-31431-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/qi4L/CVE-2026-31431-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/qi4L/CVE-2026-31431-Container-Escape">
+- [TheMursalin/CVE-2026-31431](https://github.com/TheMursalin/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMursalin/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMursalin/CVE-2026-31431">
+- [euriconicacio/copy-fail-CVE-2026-31431-poc](https://github.com/euriconicacio/copy-fail-CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/euriconicacio/copy-fail-CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/euriconicacio/copy-fail-CVE-2026-31431-poc">
+- [ROSNLR5/modrosnlr5](https://github.com/ROSNLR5/modrosnlr5)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/modrosnlr5">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/modrosnlr5">
 
 ---
 ## CVE-2026-3143 ()
