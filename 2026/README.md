@@ -268,6 +268,7 @@
 - [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
 - [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
+- [3tternp/CVE-2026-41940---cPanel-WHM-check](https://github.com/3tternp/CVE-2026-41940---cPanel-WHM-check)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2026-41940---cPanel-WHM-check">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2026-41940---cPanel-WHM-check">
 
 ---
 ## CVE-2026-41679 ()
@@ -307,6 +308,11 @@
 ## CVE-2026-41242 ()
 > 
 - [4chech/CVE-2026-41242](https://github.com/4chech/CVE-2026-41242)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2026-41242">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2026-41242">
+
+---
+## CVE-2026-41200 ()
+> 
+- [Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss](https://github.com/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss">
 
 ---
 ## CVE-2026-41177 ()
@@ -795,6 +801,7 @@
 - [kaleth4/CVE-2026-33825](https://github.com/kaleth4/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33825">
 - [Letlaka/redsun-bluehammer-undefend-detection-pack](https://github.com/Letlaka/redsun-bluehammer-undefend-detection-pack)	<img alt="forks" src="https://img.shields.io/github/forks/Letlaka/redsun-bluehammer-undefend-detection-pack">	<img alt="stars" src="https://img.shields.io/github/stars/Letlaka/redsun-bluehammer-undefend-detection-pack">
 - [Bilal3755/Detecting_blue_hammer_vuln](https://github.com/Bilal3755/Detecting_blue_hammer_vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Bilal3755/Detecting_blue_hammer_vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Bilal3755/Detecting_blue_hammer_vuln">
+- [Joe1sn/CVE-2026-33825](https://github.com/Joe1sn/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/Joe1sn/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/Joe1sn/CVE-2026-33825">
 
 ---
 ## CVE-2026-33824 ()
@@ -1257,6 +1264,10 @@
 - [TheMursalin/CVE-2026-31431](https://github.com/TheMursalin/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMursalin/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMursalin/CVE-2026-31431">
 - [euriconicacio/copy-fail-CVE-2026-31431-poc](https://github.com/euriconicacio/copy-fail-CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/euriconicacio/copy-fail-CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/euriconicacio/copy-fail-CVE-2026-31431-poc">
 - [ROSNLR5/modrosnlr5](https://github.com/ROSNLR5/modrosnlr5)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/modrosnlr5">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/modrosnlr5">
+- [MartinPham/copy-fail-CVE-2026-31431-php](https://github.com/MartinPham/copy-fail-CVE-2026-31431-php)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPham/copy-fail-CVE-2026-31431-php">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPham/copy-fail-CVE-2026-31431-php">
+- [malwarekid/CVE-2026-31431](https://github.com/malwarekid/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/malwarekid/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/malwarekid/CVE-2026-31431">
+- [xd20111/CVE-2026-31431](https://github.com/xd20111/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-31431">
+- [moaaz-mostafa123/CVE-2026-31431](https://github.com/moaaz-mostafa123/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/moaaz-mostafa123/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/moaaz-mostafa123/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
