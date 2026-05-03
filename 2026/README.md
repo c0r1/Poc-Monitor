@@ -298,6 +298,7 @@
 - [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
 - [MrOplus/CVE-2026-41940](https://github.com/MrOplus/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/MrOplus/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/MrOplus/CVE-2026-41940">
 - [imbas007/POC_CVE-2026-41940](https://github.com/imbas007/POC_CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC_CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC_CVE-2026-41940">
+- [tfawnies/CVE-2026-41940-next](https://github.com/tfawnies/CVE-2026-41940-next)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-41940-next">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-41940-next">
 
 ---
 ## CVE-2026-41679 ()
@@ -1342,6 +1343,9 @@
 - [sibersan/cve-2026-31431-checker](https://github.com/sibersan/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-31431-checker">
 - [jamal-soc21/Weekly-Breach-Investigation--006](https://github.com/jamal-soc21/Weekly-Breach-Investigation--006)	<img alt="forks" src="https://img.shields.io/github/forks/jamal-soc21/Weekly-Breach-Investigation--006">	<img alt="stars" src="https://img.shields.io/github/stars/jamal-soc21/Weekly-Breach-Investigation--006">
 - [ncmprbll/copy-fail-rs](https://github.com/ncmprbll/copy-fail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/ncmprbll/copy-fail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/ncmprbll/copy-fail-rs">
+- [ravindercodes/copy-fail-CVE-2026-31431](https://github.com/ravindercodes/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ravindercodes/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ravindercodes/copy-fail-CVE-2026-31431">
+- [tfawnies/CVE-2026-31431](https://github.com/tfawnies/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-31431">
+- [ChernStepanov/CopyFail-for-dummies](https://github.com/ChernStepanov/CopyFail-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/CopyFail-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/CopyFail-for-dummies">
 
 ---
 ## CVE-2026-3143 ()
