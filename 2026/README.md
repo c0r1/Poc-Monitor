@@ -1317,6 +1317,8 @@
 - [rippsec/cve-2026-31431](https://github.com/rippsec/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/cve-2026-31431">
 - [AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing](https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing)	<img alt="forks" src="https://img.shields.io/github/forks/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">	<img alt="stars" src="https://img.shields.io/github/stars/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">
 - [pedromizz/copy-fail](https://github.com/pedromizz/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/pedromizz/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/pedromizz/copy-fail">
+- [YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP](https://github.com/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP">
+- [aexdyhaxor/CVE-2026-31431-copy-fail](https://github.com/aexdyhaxor/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-31431-copy-fail">
 
 ---
 ## CVE-2026-3143 ()
