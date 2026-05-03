@@ -1355,6 +1355,7 @@
 - [mCub3/CVE-2026-31431](https://github.com/mCub3/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mCub3/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mCub3/CVE-2026-31431">
 - [kaleth4/CVE-2026-31431](https://github.com/kaleth4/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-31431">
 - [juliosuas/copyfail-guard](https://github.com/juliosuas/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/juliosuas/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/juliosuas/copyfail-guard">
+- [jdarkcaos-kai/cve-2026-31431-medium-unpriv-t](https://github.com/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t)	<img alt="forks" src="https://img.shields.io/github/forks/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">	<img alt="stars" src="https://img.shields.io/github/stars/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">
 
 ---
 ## CVE-2026-3143 ()
