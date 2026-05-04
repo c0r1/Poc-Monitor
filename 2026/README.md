@@ -1413,6 +1413,8 @@
 - [xeloxa/copyfail-exploit](https://github.com/xeloxa/copyfail-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/copyfail-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/copyfail-exploit">
 - [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
 - [net0bsd/Mitigaciones](https://github.com/net0bsd/Mitigaciones)	<img alt="forks" src="https://img.shields.io/github/forks/net0bsd/Mitigaciones">	<img alt="stars" src="https://img.shields.io/github/stars/net0bsd/Mitigaciones">
+- [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
+- [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -3067,6 +3069,11 @@
 > 
 - [unionnx/CVE-2026-21385](https://github.com/unionnx/CVE-2026-21385)	<img alt="forks" src="https://img.shields.io/github/forks/unionnx/CVE-2026-21385">	<img alt="stars" src="https://img.shields.io/github/stars/unionnx/CVE-2026-21385">
 - [automate-it0/qualcomm-vulnerability-scanner](https://github.com/automate-it0/qualcomm-vulnerability-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/automate-it0/qualcomm-vulnerability-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/automate-it0/qualcomm-vulnerability-scanner">
+
+---
+## CVE-2026-21250 ()
+> 
+- [kaleth4/CVE-2026-21250](https://github.com/kaleth4/CVE-2026-21250)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-21250">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-21250">
 
 ---
 ## CVE-2026-2113 ()
