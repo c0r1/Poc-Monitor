@@ -2093,6 +2093,12 @@
 - [sergicortesabadia/CVE-2026-26198-analysis](https://github.com/sergicortesabadia/CVE-2026-26198-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sergicortesabadia/CVE-2026-26198-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sergicortesabadia/CVE-2026-26198-analysis">
 
 ---
+## CVE-2026-26128 ()
+> 
+- [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128)	<img alt="forks" src="https://img.shields.io/github/forks/jarnovandenbrink/CVE-2026-26128">	<img alt="stars" src="https://img.shields.io/github/stars/jarnovandenbrink/CVE-2026-26128">
+- [jonaslejon/ad-autopwn](https://github.com/jonaslejon/ad-autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/jonaslejon/ad-autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/jonaslejon/ad-autopwn">
+
+---
 ## CVE-2026-26030 ()
 > 
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
