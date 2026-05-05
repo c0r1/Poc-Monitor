@@ -21,6 +21,11 @@
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
 
 ---
+## CVE-2026-7482 ()
+> 
+- [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
+
+---
 ## CVE-2026-7401 ()
 > 
 - [Xmyronn/CVE-2026-7401-XSS](https://github.com/Xmyronn/CVE-2026-7401-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7401-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7401-XSS">
@@ -1457,6 +1462,9 @@
 - [zhanghangorg/cve-2026-31431](https://github.com/zhanghangorg/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangorg/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangorg/cve-2026-31431">
 - [itsystem/afalg-check](https://github.com/itsystem/afalg-check)	<img alt="forks" src="https://img.shields.io/github/forks/itsystem/afalg-check">	<img alt="stars" src="https://img.shields.io/github/stars/itsystem/afalg-check">
 - [Raptoratack/CopyFail-Scanner-CVE-2026-31431](https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Raptoratack/CopyFail-Scanner-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Raptoratack/CopyFail-Scanner-CVE-2026-31431">
+- [mrmtwoj/ubuntu-cve-2026-31431-mitigation](https://github.com/mrmtwoj/ubuntu-cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/ubuntu-cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/ubuntu-cve-2026-31431-mitigation">
+- [RazvanDuda/GhostShell](https://github.com/RazvanDuda/GhostShell)	<img alt="forks" src="https://img.shields.io/github/forks/RazvanDuda/GhostShell">	<img alt="stars" src="https://img.shields.io/github/stars/RazvanDuda/GhostShell">
+- [devtint/CVE-2026-31431](https://github.com/devtint/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -2454,6 +2462,11 @@
 ## CVE-2026-24126 ()
 > 
 - [alexb616/Weblate-CVE-2026-24126](https://github.com/alexb616/Weblate-CVE-2026-24126)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/Weblate-CVE-2026-24126">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/Weblate-CVE-2026-24126">
+
+---
+## CVE-2026-24072 ()
+> 
+- [EricRHancock-coder/CVE-2026-24072-Analysis](https://github.com/EricRHancock-coder/CVE-2026-24072-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/EricRHancock-coder/CVE-2026-24072-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/EricRHancock-coder/CVE-2026-24072-Analysis">
 
 ---
 ## CVE-2026-24061 ()
