@@ -1436,6 +1436,9 @@
 - [ShahaB108/CVE-2026-31431_Kernel_Checker](https://github.com/ShahaB108/CVE-2026-31431_Kernel_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/ShahaB108/CVE-2026-31431_Kernel_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/ShahaB108/CVE-2026-31431_Kernel_Checker">
 - [deadRabbit92/mitigate-copy-fail.yml](https://github.com/deadRabbit92/mitigate-copy-fail.yml)	<img alt="forks" src="https://img.shields.io/github/forks/deadRabbit92/mitigate-copy-fail.yml">	<img alt="stars" src="https://img.shields.io/github/stars/deadRabbit92/mitigate-copy-fail.yml">
 - [luca-aurel/vuln-check](https://github.com/luca-aurel/vuln-check)	<img alt="forks" src="https://img.shields.io/github/forks/luca-aurel/vuln-check">	<img alt="stars" src="https://img.shields.io/github/stars/luca-aurel/vuln-check">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">
+- [MrMixies/Copy-Fail---CVE-2026-31431](https://github.com/MrMixies/Copy-Fail---CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MrMixies/Copy-Fail---CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MrMixies/Copy-Fail---CVE-2026-31431">
+- [TheMalwareGuardian/CVE-2026-31431](https://github.com/TheMalwareGuardian/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -2602,6 +2605,11 @@
 ## CVE-2026-23947 ()
 > 
 - [boroeurnprach/CVE-2026-23947-PoC](https://github.com/boroeurnprach/CVE-2026-23947-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23947-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23947-PoC">
+
+---
+## CVE-2026-23918 ()
+> 
+- [qassam-315/CVE-2026-23918-Elite-Auditor](https://github.com/qassam-315/CVE-2026-23918-Elite-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/CVE-2026-23918-Elite-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/CVE-2026-23918-Elite-Auditor">
 
 ---
 ## CVE-2026-23885 ()
