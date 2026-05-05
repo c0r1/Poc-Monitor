@@ -1441,6 +1441,7 @@
 - [MrMixies/Copy-Fail---CVE-2026-31431](https://github.com/MrMixies/Copy-Fail---CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MrMixies/Copy-Fail---CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MrMixies/Copy-Fail---CVE-2026-31431">
 - [TheMalwareGuardian/CVE-2026-31431](https://github.com/TheMalwareGuardian/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-31431">
 - [Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC](https://github.com/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">
+- [sudoytang/copyfail-arm64](https://github.com/sudoytang/copyfail-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/sudoytang/copyfail-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/sudoytang/copyfail-arm64">
 
 ---
 ## CVE-2026-3143 ()
