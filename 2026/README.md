@@ -1515,6 +1515,7 @@
 - [hans362/CVE-2026-31431-Copy-Fail-Container-Escape](https://github.com/hans362/CVE-2026-31431-Copy-Fail-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">
 - [philfry/cve-2026-31431-ftrace](https://github.com/philfry/cve-2026-31431-ftrace)	<img alt="forks" src="https://img.shields.io/github/forks/philfry/cve-2026-31431-ftrace">	<img alt="stars" src="https://img.shields.io/github/stars/philfry/cve-2026-31431-ftrace">
 - [Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs">
+- [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -3674,6 +3675,7 @@
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
 - [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
 - [CryptReaper12/CVE-2026-0073](https://github.com/CryptReaper12/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-0073">
+- [devtint/CVE-2026-0073](https://github.com/devtint/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
