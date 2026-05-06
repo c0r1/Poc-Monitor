@@ -443,7 +443,7 @@
 ---
 ## CVE-2026-40776 ()
 > 
-- [lorenzofradeani/cve-2026-40776-eventin](https://github.com/lorenzofradeani/cve-2026-40776-eventin)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/cve-2026-40776-eventin">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/cve-2026-40776-eventin">
+- [lorenzofradeani/CVE-2026-40776](https://github.com/lorenzofradeani/CVE-2026-40776)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/CVE-2026-40776">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/CVE-2026-40776">
 
 ---
 ## CVE-2026-40579 ()
@@ -1522,6 +1522,7 @@
 - [philfry/cve-2026-31431-ftrace](https://github.com/philfry/cve-2026-31431-ftrace)	<img alt="forks" src="https://img.shields.io/github/forks/philfry/cve-2026-31431-ftrace">	<img alt="stars" src="https://img.shields.io/github/stars/philfry/cve-2026-31431-ftrace">
 - [Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs">
 - [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
+- [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
 
 ---
 ## CVE-2026-3143 ()
@@ -2113,6 +2114,11 @@
 - [uname1able/CVE-2026-2636](https://github.com/uname1able/CVE-2026-2636)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2026-2636">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2026-2636">
 
 ---
+## CVE-2026-26336 ()
+> 
+- [CEAarab/CVE-2026-26336-PoC](https://github.com/CEAarab/CVE-2026-26336-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2026-26336-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2026-26336-PoC">
+
+---
 ## CVE-2026-26335 ()
 > 
 - [mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE](https://github.com/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">
@@ -2486,6 +2492,7 @@
 - [lukasz-rybak/CVE-2026-24418](https://github.com/lukasz-rybak/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24418">
 - [lukasz-rybak/CVE-2026-24417](https://github.com/lukasz-rybak/CVE-2026-24417)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24417">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24417">
 - [lukasz-rybak/CVE-2026-24416](https://github.com/lukasz-rybak/CVE-2026-24416)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24416">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24416">
+- [MartinaStarone/CVE-2026-2441](https://github.com/MartinaStarone/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/MartinaStarone/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/MartinaStarone/CVE-2026-2441">
 
 ---
 ## CVE-2026-24306 ()
