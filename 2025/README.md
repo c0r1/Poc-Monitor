@@ -575,6 +575,11 @@
 - [mewb12/CVE-2025-70311-JEEWMS](https://github.com/mewb12/CVE-2025-70311-JEEWMS)	<img alt="forks" src="https://img.shields.io/github/forks/mewb12/CVE-2025-70311-JEEWMS">	<img alt="stars" src="https://img.shields.io/github/stars/mewb12/CVE-2025-70311-JEEWMS">
 
 ---
+## CVE-2025-70149 ()
+> 
+- [Anusha-Khan29/CVE-2025-70149-SQL-Injection](https://github.com/Anusha-Khan29/CVE-2025-70149-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/Anusha-Khan29/CVE-2025-70149-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/Anusha-Khan29/CVE-2025-70149-SQL-Injection">
+
+---
 ## CVE-2025-69993 ()
 > 
 - [PierfrancescoConti/leaflet-cve-2025-69993](https://github.com/PierfrancescoConti/leaflet-cve-2025-69993)	<img alt="forks" src="https://img.shields.io/github/forks/PierfrancescoConti/leaflet-cve-2025-69993">	<img alt="stars" src="https://img.shields.io/github/stars/PierfrancescoConti/leaflet-cve-2025-69993">

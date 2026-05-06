@@ -332,7 +332,7 @@
 - [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [3tternp/CVE-2026-41940---cPanel-WHM-check](https://github.com/3tternp/CVE-2026-41940---cPanel-WHM-check)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2026-41940---cPanel-WHM-check">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2026-41940---cPanel-WHM-check">
-- [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
+- [Ap0dexMe0/CVE-2026-41940](https://github.com/Ap0dexMe0/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2026-41940">
 - [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
 - [YudaSamuel/cpanel-vuln-scanner](https://github.com/YudaSamuel/cpanel-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/YudaSamuel/cpanel-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/YudaSamuel/cpanel-vuln-scanner">
 - [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
@@ -351,6 +351,9 @@
 - [itsismarcos/CVE-2026-41940](https://github.com/itsismarcos/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/CVE-2026-41940">
 - [ZildanZ/CVE-2026-41940](https://github.com/ZildanZ/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ZildanZ/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ZildanZ/CVE-2026-41940">
 - [OhmGun/whmxploit---CVE-2026-41940](https://github.com/OhmGun/whmxploit---CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/OhmGun/whmxploit---CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/OhmGun/whmxploit---CVE-2026-41940">
+- [bughunt4me/cpanelCVE](https://github.com/bughunt4me/cpanelCVE)	<img alt="forks" src="https://img.shields.io/github/forks/bughunt4me/cpanelCVE">	<img alt="stars" src="https://img.shields.io/github/stars/bughunt4me/cpanelCVE">
+- [Richflexpix/cpanel-pwn](https://github.com/Richflexpix/cpanel-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Richflexpix/cpanel-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Richflexpix/cpanel-pwn">
+- [Unfold-Security/CVE-2026-41940-Detection](https://github.com/Unfold-Security/CVE-2026-41940-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Unfold-Security/CVE-2026-41940-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Unfold-Security/CVE-2026-41940-Detection">
 
 ---
 ## CVE-2026-41679 ()
@@ -1102,6 +1105,11 @@
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
 
 ---
+## CVE-2026-32710 ()
+> 
+- [dinosn/CVE-2026-32710](https://github.com/dinosn/CVE-2026-32710)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-32710">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-32710">
+
+---
 ## CVE-2026-32699 ()
 > 
 - [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
@@ -1501,6 +1509,7 @@
 - [ECHO6789/CVE-2026-31431-fix](https://github.com/ECHO6789/CVE-2026-31431-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2026-31431-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2026-31431-fix">
 - [reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail">
 - [darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail">
+- [Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail](https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail">
 
 ---
 ## CVE-2026-3143 ()
@@ -2692,6 +2701,7 @@
 - [rshosting/Apache-CVE-2026-23918-fix](https://github.com/rshosting/Apache-CVE-2026-23918-fix)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/Apache-CVE-2026-23918-fix">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/Apache-CVE-2026-23918-fix">
 - [rhasan-com/CVE-2026-23918](https://github.com/rhasan-com/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/rhasan-com/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/rhasan-com/CVE-2026-23918">
 - [aa022/CVE-2026-23918-Passive-Audit](https://github.com/aa022/CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/CVE-2026-23918-Passive-Audit">
+- [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
@@ -3640,6 +3650,8 @@
 > 
 - [mr-r3b00t/CVE-2026-0300](https://github.com/mr-r3b00t/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2026-0300">
 - [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
+- [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
+- [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
 
 ---
 ## CVE-2026-0227 ()
