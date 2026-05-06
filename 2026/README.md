@@ -1494,6 +1494,13 @@
 - [devtint/CVE-2026-31431](https://github.com/devtint/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-31431">
 - [OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10](https://github.com/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10)	<img alt="forks" src="https://img.shields.io/github/forks/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10">	<img alt="stars" src="https://img.shields.io/github/stars/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10">
 - [zenzue/CVE-2026-31431-Checker-Mitigator](https://github.com/zenzue/CVE-2026-31431-Checker-Mitigator)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2026-31431-Checker-Mitigator">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2026-31431-Checker-Mitigator">
+- [0xN7y/CVE-2026-31431](https://github.com/0xN7y/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2026-31431">
+- [tangjie1/CVE-2026-31431-Check](https://github.com/tangjie1/CVE-2026-31431-Check)	<img alt="forks" src="https://img.shields.io/github/forks/tangjie1/CVE-2026-31431-Check">	<img alt="stars" src="https://img.shields.io/github/stars/tangjie1/CVE-2026-31431-Check">
+- [luoqianlin/copyfail-c](https://github.com/luoqianlin/copyfail-c)	<img alt="forks" src="https://img.shields.io/github/forks/luoqianlin/copyfail-c">	<img alt="stars" src="https://img.shields.io/github/stars/luoqianlin/copyfail-c">
+- [voxcia-io/copy-fail](https://github.com/voxcia-io/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/voxcia-io/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/voxcia-io/copy-fail">
+- [ECHO6789/CVE-2026-31431-fix](https://github.com/ECHO6789/CVE-2026-31431-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2026-31431-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2026-31431-fix">
+- [reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail">
+- [darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail">
 
 ---
 ## CVE-2026-3143 ()
