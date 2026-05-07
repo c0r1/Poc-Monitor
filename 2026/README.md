@@ -221,6 +221,11 @@
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
 
 ---
+## CVE-2026-44262 ()
+> 
+- [joshuavanderpoll/CVE-2026-44262](https://github.com/joshuavanderpoll/CVE-2026-44262)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-44262">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-44262">
+
+---
 ## CVE-2026-4406 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
