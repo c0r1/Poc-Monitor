@@ -1547,6 +1547,7 @@
 - [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
 - [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
 - [gagaltotal/cve-2026-31431-copy-fail](https://github.com/gagaltotal/cve-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/cve-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/cve-2026-31431-copy-fail">
+- [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
 
 ---
 ## CVE-2026-3143 ()
@@ -2754,6 +2755,7 @@
 - [xeloxa/CVE-2026-23918-Apache-H2-PoC](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2026-23918-Apache-H2-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2026-23918-Apache-H2-PoC">
 - [hackervlogofficial/CVE-2026-23918](https://github.com/hackervlogofficial/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/hackervlogofficial/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/hackervlogofficial/CVE-2026-23918">
 - [CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC](https://github.com/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">
+- [alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
@@ -3724,6 +3726,7 @@
 - [devtint/CVE-2026-0073](https://github.com/devtint/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-0073">
 - [adityatelange/poc-CVE-2026-0073](https://github.com/adityatelange/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/adityatelange/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/adityatelange/poc-CVE-2026-0073">
 - [MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">
+- [u33pk/CVE-2026-0073-poc](https://github.com/u33pk/CVE-2026-0073-poc)	<img alt="forks" src="https://img.shields.io/github/forks/u33pk/CVE-2026-0073-poc">	<img alt="stars" src="https://img.shields.io/github/stars/u33pk/CVE-2026-0073-poc">
 
 ---
 ## CVE-2026-0047 ()
