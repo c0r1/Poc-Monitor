@@ -452,6 +452,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-40897 ()
+> 
+- [EQSTLab/CVE-2026-40897](https://github.com/EQSTLab/CVE-2026-40897)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-40897">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-40897">
+
+---
 ## CVE-2026-40776 ()
 > 
 - [lorenzofradeani/CVE-2026-40776](https://github.com/lorenzofradeani/CVE-2026-40776)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/CVE-2026-40776">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/CVE-2026-40776">
@@ -1541,6 +1546,7 @@
 - [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
 - [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
 - [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
+- [gagaltotal/cve-2026-31431-copy-fail](https://github.com/gagaltotal/cve-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/cve-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/cve-2026-31431-copy-fail">
 
 ---
 ## CVE-2026-3143 ()
@@ -2556,6 +2562,11 @@
 ## CVE-2026-24126 ()
 > 
 - [alexb616/Weblate-CVE-2026-24126](https://github.com/alexb616/Weblate-CVE-2026-24126)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/Weblate-CVE-2026-24126">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/Weblate-CVE-2026-24126">
+
+---
+## CVE-2026-24118 ()
+> 
+- [HORKimhab/CVE-2026-24118](https://github.com/HORKimhab/CVE-2026-24118)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-24118">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-24118">
 
 ---
 ## CVE-2026-24072 ()
