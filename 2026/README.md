@@ -128,6 +128,11 @@
 - [tibrn/CVE-2026-5724](https://github.com/tibrn/CVE-2026-5724)	<img alt="forks" src="https://img.shields.io/github/forks/tibrn/CVE-2026-5724">	<img alt="stars" src="https://img.shields.io/github/stars/tibrn/CVE-2026-5724">
 
 ---
+## CVE-2026-5718 ()
+> 
+- [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
+
+---
 ## CVE-2026-5615 ()
 > 
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
@@ -1179,6 +1184,11 @@
 - [SnailSploit/CVE-2026-32809](https://github.com/SnailSploit/CVE-2026-32809)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32809">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32809">
 
 ---
+## CVE-2026-32794 ()
+> 
+- [SnailSploit/CVE-2026-32794](https://github.com/SnailSploit/CVE-2026-32794)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32794">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32794">
+
+---
 ## CVE-2026-32746 ()
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
@@ -1390,7 +1400,7 @@
 - [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
 - [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
 - [dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix](https://github.com/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix)	<img alt="forks" src="https://img.shields.io/github/forks/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">	<img alt="stars" src="https://img.shields.io/github/stars/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">
-- [attaattaatta/CVE-2026-31431](https://github.com/attaattaatta/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-31431">
+- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
 - [Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431](https://github.com/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">
 - [gmeghnag/TEST-CVE-2026-31431](https://github.com/gmeghnag/TEST-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gmeghnag/TEST-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gmeghnag/TEST-CVE-2026-31431">
 - [mfloresdacunha/CVE-2026-31431](https://github.com/mfloresdacunha/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mfloresdacunha/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mfloresdacunha/CVE-2026-31431">
@@ -1631,6 +1641,7 @@
 - [p401a-ops/Copy-Fail](https://github.com/p401a-ops/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/p401a-ops/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/p401a-ops/Copy-Fail">
 - [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
 - [ROSNLR5/MitigationToolkit-ROSN-LR5-Full](https://github.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">
+- [hori0729/CVE-2026-31431-Verificador-Exploit](https://github.com/hori0729/CVE-2026-31431-Verificador-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hori0729/CVE-2026-31431-Verificador-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hori0729/CVE-2026-31431-Verificador-Exploit">
 
 ---
 ## CVE-2026-3143 ()
