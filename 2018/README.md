@@ -2046,6 +2046,8 @@
 ## CVE-2018-1058 ()
 > 
 - [ccchme/CVE-2018-1058](https://github.com/ccchme/CVE-2018-1058)	<img alt="forks" src="https://img.shields.io/github/forks/ccchme/CVE-2018-1058">	<img alt="stars" src="https://img.shields.io/github/stars/ccchme/CVE-2018-1058">
+- [octodi/CVE-2018-10583](https://github.com/octodi/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/octodi/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/octodi/CVE-2018-10583">
+- [MrTaherAmine/CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/MrTaherAmine/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/MrTaherAmine/CVE-2018-10583">
 
 ---
 ## CVE-2018-1057 (2018-03-13T16:29:00)
