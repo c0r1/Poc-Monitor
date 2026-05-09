@@ -1231,6 +1231,7 @@
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
 - [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/danindiana/cve-2026-32746-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/danindiana/cve-2026-32746-mitigation">
 - [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/chosenonehacks/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/chosenonehacks/CVE-2026-32746">
+- [kaleth4/CVE-2026-32746](https://github.com/kaleth4/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-32746">
 
 ---
 ## CVE-2026-32743 ()
