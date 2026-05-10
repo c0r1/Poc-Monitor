@@ -6229,6 +6229,7 @@
 ## CVE-2025-4396 ()
 > 
 - [Nefhara/CVE-2025-4396](https://github.com/Nefhara/CVE-2025-4396)	<img alt="forks" src="https://img.shields.io/github/forks/Nefhara/CVE-2025-4396">	<img alt="stars" src="https://img.shields.io/github/stars/Nefhara/CVE-2025-4396">
+- [sup3rDav3/CVE-2025-4396](https://github.com/sup3rDav3/CVE-2025-4396)	<img alt="forks" src="https://img.shields.io/github/forks/sup3rDav3/CVE-2025-4396">	<img alt="stars" src="https://img.shields.io/github/stars/sup3rDav3/CVE-2025-4396">
 
 ---
 ## CVE-2025-43929 ()
