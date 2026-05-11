@@ -311,6 +311,7 @@
 - [haydenjames/dirty-frag-check](https://github.com/haydenjames/dirty-frag-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/dirty-frag-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/dirty-frag-check">
 - [ryan2929/CVE-2026-43284-](https://github.com/ryan2929/CVE-2026-43284-)	<img alt="forks" src="https://img.shields.io/github/forks/ryan2929/CVE-2026-43284-">	<img alt="stars" src="https://img.shields.io/github/stars/ryan2929/CVE-2026-43284-">
 - [linnemanlabs/dirtyfrag-arm64](https://github.com/linnemanlabs/dirtyfrag-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/linnemanlabs/dirtyfrag-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/linnemanlabs/dirtyfrag-arm64">
+- [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
 
 ---
 ## CVE-2026-42940 ()
@@ -342,6 +343,7 @@
 > 
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
+- [shootcannon/CVE-2026-4257](https://github.com/shootcannon/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/shootcannon/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/shootcannon/CVE-2026-4257">
 
 ---
 ## CVE-2026-42281 ()

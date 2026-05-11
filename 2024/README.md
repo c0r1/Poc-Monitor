@@ -10077,6 +10077,11 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12471">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12471">
 
 ---
+## CVE-2024-12381 ()
+> 
+- [FatfishIO/CVE-2024-12381-PoC](https://github.com/FatfishIO/CVE-2024-12381-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FatfishIO/CVE-2024-12381-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FatfishIO/CVE-2024-12381-PoC">
+
+---
 ## CVE-2024-12356 ()
 > 
 - [cloudefence/CVE-2024-12356](https://github.com/cloudefence/CVE-2024-12356)	<img alt="forks" src="https://img.shields.io/github/forks/cloudefence/CVE-2024-12356">	<img alt="stars" src="https://img.shields.io/github/stars/cloudefence/CVE-2024-12356">
