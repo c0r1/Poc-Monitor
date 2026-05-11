@@ -1140,6 +1140,11 @@
 - [SnailSploit/CVE-2026-33693](https://github.com/SnailSploit/CVE-2026-33693)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-33693">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-33693">
 
 ---
+## CVE-2026-33657 ()
+> 
+- [EntroVyx/CVE-2026-33657](https://github.com/EntroVyx/CVE-2026-33657)	<img alt="forks" src="https://img.shields.io/github/forks/EntroVyx/CVE-2026-33657">	<img alt="stars" src="https://img.shields.io/github/stars/EntroVyx/CVE-2026-33657">
+
+---
 ## CVE-2026-33634 ()
 > 
 - [fevar54/CVE-2026-33634-Scanner](https://github.com/fevar54/CVE-2026-33634-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-33634-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-33634-Scanner">
@@ -2039,6 +2044,11 @@
 - [jake-young-dev/CVE-2026-29000](https://github.com/jake-young-dev/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-29000">
 - [cipher1x1/CVE-2026-29000](https://github.com/cipher1x1/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/cipher1x1/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/cipher1x1/CVE-2026-29000">
 - [strikoder/CVE-2026-29000-pac4j-jwt](https://github.com/strikoder/CVE-2026-29000-pac4j-jwt)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/CVE-2026-29000-pac4j-jwt">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/CVE-2026-29000-pac4j-jwt">
+
+---
+## CVE-2026-28992 ()
+> 
+- [zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions](https://github.com/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions">
 
 ---
 ## CVE-2026-2898 ()
@@ -3980,6 +3990,7 @@
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 - [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
+- [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
 
 ---
 ## CVE-2026-0227 ()
