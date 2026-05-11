@@ -982,6 +982,7 @@
 - [404-src/CVE-2026-34486](https://github.com/404-src/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/404-src/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/404-src/CVE-2026-34486">
 - [404-src/CVE-2026-34486](https://github.com/404-src/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/404-src/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/404-src/CVE-2026-34486">
 - [helGayhub233/CVE-2026-34486-Tribes](https://github.com/helGayhub233/CVE-2026-34486-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/helGayhub233/CVE-2026-34486-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/helGayhub233/CVE-2026-34486-Tribes">
+- [striga-ai/CVE-2026-34486](https://github.com/striga-ai/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-34486">
 
 ---
 ## CVE-2026-34475 ()
@@ -1741,6 +1742,7 @@
 - [Karim33z/CVE-2026-31431](https://github.com/Karim33z/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Karim33z/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Karim33z/CVE-2026-31431">
 - [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 - [adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431">
+- [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
 
 ---
 ## CVE-2026-3143 ()
@@ -2985,6 +2987,7 @@
 - [CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC](https://github.com/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">
 - [alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-23918">
 - [insomnisec/Detections-CVE-2026-23918](https://github.com/insomnisec/Detections-CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/insomnisec/Detections-CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/insomnisec/Detections-CVE-2026-23918">
+- [striga-ai/CVE-2026-23918](https://github.com/striga-ai/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
