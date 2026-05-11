@@ -459,6 +459,7 @@
 - [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
 - [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
 - [anach-ai/CVE-2026-41940](https://github.com/anach-ai/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/anach-ai/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/anach-ai/CVE-2026-41940">
+- [zycoder0day/CVE-2026-41940](https://github.com/zycoder0day/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-41940">
 
 ---
 ## CVE-2026-41900 ()
@@ -1743,6 +1744,7 @@
 - [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 - [adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431">
 - [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
+- [dgrobinson0/CopyFile_CVE-2026-31431](https://github.com/dgrobinson0/CopyFile_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dgrobinson0/CopyFile_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dgrobinson0/CopyFile_CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
