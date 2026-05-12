@@ -1227,6 +1227,11 @@
 - [FilipeGaudard/CVE-2026-33149-PoC](https://github.com/FilipeGaudard/CVE-2026-33149-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-33149-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-33149-PoC">
 
 ---
+## CVE-2026-33067 ()
+> 
+- [Lopseg/cve-2026-33067](https://github.com/Lopseg/cve-2026-33067)	<img alt="forks" src="https://img.shields.io/github/forks/Lopseg/cve-2026-33067">	<img alt="stars" src="https://img.shields.io/github/stars/Lopseg/cve-2026-33067">
+
+---
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
