@@ -7383,6 +7383,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [L1337Xi/CVE-2024-28397-Exploit-Automation](https://github.com/L1337Xi/CVE-2024-28397-Exploit-Automation)	<img alt="forks" src="https://img.shields.io/github/forks/L1337Xi/CVE-2024-28397-Exploit-Automation">	<img alt="stars" src="https://img.shields.io/github/stars/L1337Xi/CVE-2024-28397-Exploit-Automation">
 - [3z-p0wn/CVE-2024-28397-exploit](https://github.com/3z-p0wn/CVE-2024-28397-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/3z-p0wn/CVE-2024-28397-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/3z-p0wn/CVE-2024-28397-exploit">
 - [xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit">
+- [y0naldez/CVE-2024-28397-Js2Py-RCE](https://github.com/y0naldez/CVE-2024-28397-Js2Py-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/y0naldez/CVE-2024-28397-Js2Py-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/y0naldez/CVE-2024-28397-Js2Py-RCE">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)
