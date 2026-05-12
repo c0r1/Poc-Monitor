@@ -1074,6 +1074,7 @@
 - [davindersingh74569-lang/HTB-Unified-Writeup](https://github.com/davindersingh74569-lang/HTB-Unified-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/davindersingh74569-lang/HTB-Unified-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/davindersingh74569-lang/HTB-Unified-Writeup">
 - [jdormannn/SecureOps-Lab](https://github.com/jdormannn/SecureOps-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/jdormannn/SecureOps-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/jdormannn/SecureOps-Lab">
 - [vutiendat323/log4Shell-CVE-2021-44228](https://github.com/vutiendat323/log4Shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/vutiendat323/log4Shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/vutiendat323/log4Shell-CVE-2021-44228">
+- [vutiendat323/log4Shell-CVE-2021-44228](https://github.com/vutiendat323/log4Shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/vutiendat323/log4Shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/vutiendat323/log4Shell-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
