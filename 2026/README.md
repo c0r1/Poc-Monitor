@@ -596,6 +596,11 @@
 - [Astaruf/CVE-2026-40487](https://github.com/Astaruf/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-40487">
 
 ---
+## CVE-2026-40369 ()
+> 
+- [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
+
+---
 ## CVE-2026-40281 ()
 > 
 - [ByteWraith1/CVE-2026-40281](https://github.com/ByteWraith1/CVE-2026-40281)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-40281">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-40281">
