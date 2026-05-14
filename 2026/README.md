@@ -370,6 +370,9 @@
 - [RyosukeDTomita/CVE-2026-42945](https://github.com/RyosukeDTomita/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/RyosukeDTomita/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/RyosukeDTomita/CVE-2026-42945">
 - [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/DepthFirstDisclosures/Nginx-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/DepthFirstDisclosures/Nginx-Rift">
 - [0xBlackash/CVE-2026-42945](https://github.com/0xBlackash/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42945">
+- [ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945](https://github.com/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">
+- [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
+- [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
