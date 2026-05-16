@@ -411,6 +411,8 @@
 - [iammerrida-source/nginx-rift-detect](https://github.com/iammerrida-source/nginx-rift-detect)	<img alt="forks" src="https://img.shields.io/github/forks/iammerrida-source/nginx-rift-detect">	<img alt="stars" src="https://img.shields.io/github/stars/iammerrida-source/nginx-rift-detect">
 - [byezero/nginx-cve-2026-42945-check](https://github.com/byezero/nginx-cve-2026-42945-check)	<img alt="forks" src="https://img.shields.io/github/forks/byezero/nginx-cve-2026-42945-check">	<img alt="stars" src="https://img.shields.io/github/stars/byezero/nginx-cve-2026-42945-check">
 - [soksofos/wazuh-nginx-cve-2026-42945-sca-lab](https://github.com/soksofos/wazuh-nginx-cve-2026-42945-sca-lab)	<img alt="forks" src="https://img.shields.io/github/forks/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">	<img alt="stars" src="https://img.shields.io/github/stars/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">
+- [sibersan/web-server-audit_CVE-2026-42945](https://github.com/sibersan/web-server-audit_CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/web-server-audit_CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/web-server-audit_CVE-2026-42945">
+- [dinosn/cve-2026-42945-nginx32-lab](https://github.com/dinosn/cve-2026-42945-nginx32-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-42945-nginx32-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-42945-nginx32-lab">
 
 ---
 ## CVE-2026-42940 ()
@@ -1914,6 +1916,7 @@
 - [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
 - [dotPY-hax/CopyFail](https://github.com/dotPY-hax/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/CopyFail">
 - [whosfault/cve-2026-31431](https://github.com/whosfault/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/cve-2026-31431">
+- [zKaaanon/ProyectoFinalSO](https://github.com/zKaaanon/ProyectoFinalSO)	<img alt="forks" src="https://img.shields.io/github/forks/zKaaanon/ProyectoFinalSO">	<img alt="stars" src="https://img.shields.io/github/stars/zKaaanon/ProyectoFinalSO">
 
 ---
 ## CVE-2026-3143 ()
