@@ -4234,6 +4234,11 @@
 - [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
 
 ---
+## CVE-2026-0265 ()
+> 
+- [tstephens1080/palo-alto-cve-2026-0265-checker](https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker)	<img alt="forks" src="https://img.shields.io/github/forks/tstephens1080/palo-alto-cve-2026-0265-checker">	<img alt="stars" src="https://img.shields.io/github/stars/tstephens1080/palo-alto-cve-2026-0265-checker">
+
+---
 ## CVE-2026-0227 ()
 > 
 - [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
