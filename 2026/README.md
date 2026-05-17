@@ -1954,6 +1954,7 @@
 - [CharBay/Linux-CVE-2026-31431_Public](https://github.com/CharBay/Linux-CVE-2026-31431_Public)	<img alt="forks" src="https://img.shields.io/github/forks/CharBay/Linux-CVE-2026-31431_Public">	<img alt="stars" src="https://img.shields.io/github/stars/CharBay/Linux-CVE-2026-31431_Public">
 - [adityasingh108/CVE-2026-31431-Metasploit-exploit](https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/adityasingh108/CVE-2026-31431-Metasploit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/adityasingh108/CVE-2026-31431-Metasploit-exploit">
 - [Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention](https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">
+- [Aurillium/public-passwd](https://github.com/Aurillium/public-passwd)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/public-passwd">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/public-passwd">
 
 ---
 ## CVE-2026-3143 ()
@@ -3234,6 +3235,7 @@
 - [striga-ai/CVE-2026-23918](https://github.com/striga-ai/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-23918">
 - [Bencodin/CVE-2026-23918-poc](https://github.com/Bencodin/CVE-2026-23918-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Bencodin/CVE-2026-23918-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Bencodin/CVE-2026-23918-poc">
 - [sibersan/apache_audit_cve-2026-23918](https://github.com/sibersan/apache_audit_cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/apache_audit_cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/apache_audit_cve-2026-23918">
+- [Bencodin/CVE-2026-23918-poc](https://github.com/Bencodin/CVE-2026-23918-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Bencodin/CVE-2026-23918-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Bencodin/CVE-2026-23918-poc">
 
 ---
 ## CVE-2026-23885 ()
