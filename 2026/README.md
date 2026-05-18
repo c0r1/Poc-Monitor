@@ -674,6 +674,7 @@
 ## CVE-2026-41096 ()
 > 
 - [mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive](https://github.com/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">
+- [CryptReaper12/CVE-2026-41096](https://github.com/CryptReaper12/CVE-2026-41096)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-41096">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-41096">
 
 ---
 ## CVE-2026-4106 ()
@@ -988,6 +989,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36438 ()
+> 
+- [kensh1k/CVE-2026-36438](https://github.com/kensh1k/CVE-2026-36438)	<img alt="forks" src="https://img.shields.io/github/forks/kensh1k/CVE-2026-36438">	<img alt="stars" src="https://img.shields.io/github/stars/kensh1k/CVE-2026-36438">
 
 ---
 ## CVE-2026-36436 ()
@@ -1509,6 +1515,11 @@
 ## CVE-2026-32699 ()
 > 
 - [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
+
+---
+## CVE-2026-32683 ()
+> 
+- [ByteWraith1/CVE-2026-32683](https://github.com/ByteWraith1/CVE-2026-32683)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-32683">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-32683">
 
 ---
 ## CVE-2026-32662 ()
