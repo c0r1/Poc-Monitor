@@ -4180,6 +4180,8 @@
 - [Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process](https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">
 - [fevra-dev/GitExpose](https://github.com/fevra-dev/GitExpose)	<img alt="forks" src="https://img.shields.io/github/forks/fevra-dev/GitExpose">	<img alt="stars" src="https://img.shields.io/github/stars/fevra-dev/GitExpose">
 - [MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182">
+- [ycseo-git/CVE-2025-55182](https://github.com/ycseo-git/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ycseo-git/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ycseo-git/CVE-2025-55182">
+- [yannisduvignau/react2shell-exploit](https://github.com/yannisduvignau/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yannisduvignau/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yannisduvignau/react2shell-exploit">
 
 ---
 ## CVE-2025-55130 ()
