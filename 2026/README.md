@@ -26,6 +26,11 @@
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
 
 ---
+## CVE-2026-8053 ()
+> 
+- [mgiay/CVE-2026-8053-MongoDB](https://github.com/mgiay/CVE-2026-8053-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-8053-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-8053-MongoDB">
+
+---
 ## CVE-2026-7731 ()
 > 
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
@@ -1980,7 +1985,7 @@
 - [adityasingh108/CVE-2026-31431-Metasploit-exploit](https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/adityasingh108/CVE-2026-31431-Metasploit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/adityasingh108/CVE-2026-31431-Metasploit-exploit">
 - [Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention](https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">
 - [Aurillium/public-passwd](https://github.com/Aurillium/public-passwd)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/public-passwd">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/public-passwd">
-- [4xura/CVE-2026-31431-CopyFail](https://github.com/4xura/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-31431-CopyFail">
+- [4xura/CVE-2026-31431-Copy-Fail](https://github.com/4xura/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-31431-Copy-Fail">
 
 ---
 ## CVE-2026-3143 ()

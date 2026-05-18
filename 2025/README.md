@@ -10114,6 +10114,11 @@
 - [fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221)	<img alt="forks" src="https://img.shields.io/github/forks/fatmatrabelsi17/CVE-2025-14221">	<img alt="stars" src="https://img.shields.io/github/stars/fatmatrabelsi17/CVE-2025-14221">
 
 ---
+## CVE-2025-14177 ()
+> 
+- [34zY/CVE-2025-14177](https://github.com/34zY/CVE-2025-14177)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2025-14177">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2025-14177">
+
+---
 ## CVE-2025-14175 ()
 > 
 - [CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175](https://github.com/CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175)	<img alt="forks" src="https://img.shields.io/github/forks/CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175">	<img alt="stars" src="https://img.shields.io/github/stars/CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175">
