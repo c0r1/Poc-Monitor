@@ -442,6 +442,7 @@
 - [DXC-0/linux-lpe-sigma](https://github.com/DXC-0/linux-lpe-sigma)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-0/linux-lpe-sigma">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-0/linux-lpe-sigma">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
+- [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
 
 ---
 ## CVE-2026-42945 ()
@@ -2022,6 +2023,7 @@
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [royayub/CVE-2026-31431](https://github.com/royayub/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/royayub/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/royayub/CVE-2026-31431">
 - [Pithase/asm-copyfail](https://github.com/Pithase/asm-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/Pithase/asm-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/Pithase/asm-copyfail">
+- [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 
 ---
 ## CVE-2026-3143 ()
@@ -4299,6 +4301,11 @@
 ## CVE-2026-0603 ()
 > 
 - [EQSTLab/CVE-2026-0603](https://github.com/EQSTLab/CVE-2026-0603)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-0603">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-0603">
+
+---
+## CVE-2026-0596 ()
+> 
+- [SparshBiswas-AI/CVE-2026-0596-Reproduction](https://github.com/SparshBiswas-AI/CVE-2026-0596-Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/SparshBiswas-AI/CVE-2026-0596-Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/SparshBiswas-AI/CVE-2026-0596-Reproduction">
 
 ---
 ## CVE-2026-0594 ()
