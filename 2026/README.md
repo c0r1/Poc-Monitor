@@ -6,6 +6,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-8838 ()
+> 
+- [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
+
+---
 ## CVE-2026-8196 ()
 > 
 - [HORKimhab/CVE-2026-8196](https://github.com/HORKimhab/CVE-2026-8196)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8196">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8196">
@@ -472,6 +477,8 @@
 - [Renison-Gohel/CVE-2026-42945-NGINX-Rift](https://github.com/Renison-Gohel/CVE-2026-42945-NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/Renison-Gohel/CVE-2026-42945-NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/Renison-Gohel/CVE-2026-42945-NGINX-Rift">
 - [hnytgl/cve-2026-42945](https://github.com/hnytgl/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-42945">
 - [imSre9/CVE-2026-42945](https://github.com/imSre9/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/imSre9/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/imSre9/CVE-2026-42945">
+- [RedCrazyGhost/CVE-2026-42945](https://github.com/RedCrazyGhost/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/RedCrazyGhost/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/RedCrazyGhost/CVE-2026-42945">
+- [BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix)	<img alt="forks" src="https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix">	<img alt="stars" src="https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix">
 
 ---
 ## CVE-2026-42940 ()
@@ -758,6 +765,11 @@
 ## CVE-2026-40261 ()
 > 
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
+
+---
+## CVE-2026-40217 ()
+> 
+- [learner202649/CVE-2026-40217-PoC](https://github.com/learner202649/CVE-2026-40217-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-40217-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-40217-PoC">
 
 ---
 ## CVE-2026-40176 ()
@@ -1142,6 +1154,7 @@
 ---
 ## CVE-2026-35029 ()
 > 
+- [learner202649/CVE-2026-35029-PoC](https://github.com/learner202649/CVE-2026-35029-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-35029-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-35029-PoC">
 - [learner202649/CVE-2026-35029-PoC](https://github.com/learner202649/CVE-2026-35029-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-35029-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-35029-PoC">
 
 ---
