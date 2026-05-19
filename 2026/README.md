@@ -438,6 +438,10 @@
 - [grabesec/XCP_ng_CVE-2026-43284_tester](https://github.com/grabesec/XCP_ng_CVE-2026-43284_tester)	<img alt="forks" src="https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-43284_tester">	<img alt="stars" src="https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-43284_tester">
 - [xd20111/CVE-2026-43284](https://github.com/xd20111/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-43284">
 - [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
+- [LucasPDiniz/CVE-2026-43284](https://github.com/LucasPDiniz/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-43284">
+- [DXC-0/linux-lpe-sigma](https://github.com/DXC-0/linux-lpe-sigma)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-0/linux-lpe-sigma">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-0/linux-lpe-sigma">
+- [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
 
 ---
 ## CVE-2026-42945 ()
@@ -466,6 +470,7 @@
 - [MateusVerass/nGixshell](https://github.com/MateusVerass/nGixshell)	<img alt="forks" src="https://img.shields.io/github/forks/MateusVerass/nGixshell">	<img alt="stars" src="https://img.shields.io/github/stars/MateusVerass/nGixshell">
 - [Renison-Gohel/CVE-2026-42945-NGINX-Rift](https://github.com/Renison-Gohel/CVE-2026-42945-NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/Renison-Gohel/CVE-2026-42945-NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/Renison-Gohel/CVE-2026-42945-NGINX-Rift">
 - [hnytgl/cve-2026-42945](https://github.com/hnytgl/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-42945">
+- [imSre9/CVE-2026-42945](https://github.com/imSre9/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/imSre9/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/imSre9/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
