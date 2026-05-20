@@ -897,6 +897,11 @@
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
 
 ---
+## CVE-2026-39107 ()
+> 
+- [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
+
+---
 ## CVE-2026-3910 ()
 > 
 - [5o1z/CVE-2026-3910](https://github.com/5o1z/CVE-2026-3910)	<img alt="forks" src="https://img.shields.io/github/forks/5o1z/CVE-2026-3910">	<img alt="stars" src="https://img.shields.io/github/stars/5o1z/CVE-2026-3910">
@@ -2846,6 +2851,11 @@
 ## CVE-2026-25890 ()
 > 
 - [mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass](https://github.com/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass">
+
+---
+## CVE-2026-2587 ()
+> 
+- [Bhanunamikaze/CVE-2026-2587-Exploit-POC](https://github.com/Bhanunamikaze/CVE-2026-2587-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/CVE-2026-2587-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/CVE-2026-2587-Exploit-POC">
 
 ---
 ## CVE-2026-25857 ()
