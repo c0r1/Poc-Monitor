@@ -3754,6 +3754,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf](https://github.com/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">
 - [John-Popovici/CVE-2022-0543-redis-sandbox-escape](https://github.com/John-Popovici/CVE-2022-0543-redis-sandbox-escape)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2022-0543-redis-sandbox-escape">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2022-0543-redis-sandbox-escape">
 - [ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework](https://github.com/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">
+- [xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss](https://github.com/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">
 
 ---
 ## CVE-2024-43639 ()
