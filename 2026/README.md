@@ -9,6 +9,9 @@
 ## CVE-2026-9082 ()
 > 
 - [0xBlackash/CVE-2026-9082](https://github.com/0xBlackash/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-9082">
+- [7h30th3r0n3/CVE-2026-9082-Drupal-PoC](https://github.com/7h30th3r0n3/CVE-2026-9082-Drupal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-9082-Drupal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-9082-Drupal-PoC">
+- [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
+- [HORKimhab/CVE-2026-9082](https://github.com/HORKimhab/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9082">
 
 ---
 ## CVE-2026-8838 ()
@@ -264,6 +267,11 @@
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 
 ---
+## CVE-2026-4885 ()
+> 
+- [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
+
+---
 ## CVE-2026-4882 ()
 > 
 - [xShadow-Here/CVE-2026-4882](https://github.com/xShadow-Here/CVE-2026-4882)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4882">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4882">
@@ -324,6 +332,7 @@
 ## CVE-2026-45829 ()
 > 
 - [fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-](https://github.com/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">
+- [0xBlackash/CVE-2026-45829](https://github.com/0xBlackash/CVE-2026-45829)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45829">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45829">
 
 ---
 ## CVE-2026-45185 ()
@@ -585,6 +594,11 @@
 ## CVE-2026-42141 ()
 > 
 - [H4zaz/CVE-2026-42141-xibo-ssrf](https://github.com/H4zaz/CVE-2026-42141-xibo-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-42141-xibo-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-42141-xibo-ssrf">
+
+---
+## CVE-2026-42048 ()
+> 
+- [EQSTLab/CVE-2026-42048](https://github.com/EQSTLab/CVE-2026-42048)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-42048">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-42048">
 
 ---
 ## CVE-2026-41940 ()
