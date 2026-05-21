@@ -2123,6 +2123,7 @@
 - [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 - [sgkdev/ptrace_may_dream](https://github.com/sgkdev/ptrace_may_dream)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/ptrace_may_dream">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/ptrace_may_dream">
 - [yangh-beep/CVE-2026-31431-C](https://github.com/yangh-beep/CVE-2026-31431-C)	<img alt="forks" src="https://img.shields.io/github/forks/yangh-beep/CVE-2026-31431-C">	<img alt="stars" src="https://img.shields.io/github/stars/yangh-beep/CVE-2026-31431-C">
+- [JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">
 
 ---
 ## CVE-2026-3143 ()
@@ -3301,7 +3302,7 @@
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
 - [ekomsSavior/telnet_scan](https://github.com/ekomsSavior/telnet_scan)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/telnet_scan">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/telnet_scan">
 - [athack-ctf/chall2026-telneted](https://github.com/athack-ctf/chall2026-telneted)	<img alt="forks" src="https://img.shields.io/github/forks/athack-ctf/chall2026-telneted">	<img alt="stars" src="https://img.shields.io/github/stars/athack-ctf/chall2026-telneted">
-- [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
+- [Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 - [RStephanH/vuln-deb](https://github.com/RStephanH/vuln-deb)	<img alt="forks" src="https://img.shields.io/github/forks/RStephanH/vuln-deb">	<img alt="stars" src="https://img.shields.io/github/stars/RStephanH/vuln-deb">
 
 ---
@@ -4438,6 +4439,7 @@
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 - [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
 - [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
+- [lu4m575/CVE-2026-0300](https://github.com/lu4m575/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/lu4m575/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/lu4m575/CVE-2026-0300">
 
 ---
 ## CVE-2026-0265 ()
