@@ -13,6 +13,7 @@
 - [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
 - [HORKimhab/CVE-2026-9082](https://github.com/HORKimhab/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9082">
 - [ywh-jfellus/CVE-2026-9082](https://github.com/ywh-jfellus/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9082">
+- [ridhinva/CVE-2026-9082](https://github.com/ridhinva/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-9082">
 
 ---
 ## CVE-2026-8838 ()
@@ -453,6 +454,11 @@
 ## CVE-2026-4350 ()
 > 
 - [whyiamsobusy/CVE-2026-4350](https://github.com/whyiamsobusy/CVE-2026-4350)	<img alt="forks" src="https://img.shields.io/github/forks/whyiamsobusy/CVE-2026-4350">	<img alt="stars" src="https://img.shields.io/github/stars/whyiamsobusy/CVE-2026-4350">
+
+---
+## CVE-2026-43494 ()
+> 
+- [0xBlackash/CVE-2026-43494](https://github.com/0xBlackash/CVE-2026-43494)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43494">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43494">
 
 ---
 ## CVE-2026-4342 ()
@@ -2161,6 +2167,7 @@
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
 - [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
+- [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
 
 ---
 ## CVE-2026-3143 ()
@@ -2583,6 +2590,11 @@
 > 
 - [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
 - [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
+
+---
+## CVE-2026-27886 ()
+> 
+- [BishopFox/CVE-2026-27886-check](https://github.com/BishopFox/CVE-2026-27886-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-27886-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-27886-check">
 
 ---
 ## CVE-2026-27884 ()
@@ -4487,6 +4499,7 @@
 ## CVE-2026-0265 ()
 > 
 - [tstephens1080/palo-alto-cve-2026-0265-checker](https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker)	<img alt="forks" src="https://img.shields.io/github/forks/tstephens1080/palo-alto-cve-2026-0265-checker">	<img alt="stars" src="https://img.shields.io/github/stars/tstephens1080/palo-alto-cve-2026-0265-checker">
+- [BishopFox/CVE-2026-0265-check](https://github.com/BishopFox/CVE-2026-0265-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-0265-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-0265-check">
 
 ---
 ## CVE-2026-0227 ()
