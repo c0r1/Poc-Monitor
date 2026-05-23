@@ -705,6 +705,11 @@
 - [tc4dy/CVE-2026-41940-POC-Exploit](https://github.com/tc4dy/CVE-2026-41940-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41940-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41940-POC-Exploit">
 
 ---
+## CVE-2026-41901 ()
+> 
+- [HORKimhab/CVE-2026-41901](https://github.com/HORKimhab/CVE-2026-41901)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-41901">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-41901">
+
+---
 ## CVE-2026-41900 ()
 > 
 - [Christbowel/CVE-2026-41900-POC](https://github.com/Christbowel/CVE-2026-41900-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-41900-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-41900-POC">
@@ -1801,6 +1806,7 @@
 > 
 - [Jvr2022/CVE-2026-31802](https://github.com/Jvr2022/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-31802">
 - [Recorded-texteditor120/CVE-2026-31802](https://github.com/Recorded-texteditor120/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Recorded-texteditor120/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Recorded-texteditor120/CVE-2026-31802">
+- [ridhinva/npm-tar-traversal-scanner](https://github.com/ridhinva/npm-tar-traversal-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/npm-tar-traversal-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/npm-tar-traversal-scanner">
 
 ---
 ## CVE-2026-31717 ()
