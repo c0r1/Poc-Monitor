@@ -102,6 +102,8 @@
 - [tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution](https://github.com/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution">
 - [Mirza-22144/Vulnerability-Assessment-Exploitation-Lab](https://github.com/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab">
 - [KlyneZyro/Metasploitable2-VAPT-Report](https://github.com/KlyneZyro/Metasploitable2-VAPT-Report)	<img alt="forks" src="https://img.shields.io/github/forks/KlyneZyro/Metasploitable2-VAPT-Report">	<img alt="stars" src="https://img.shields.io/github/stars/KlyneZyro/Metasploitable2-VAPT-Report">
+- [Chathura123git/ethical-hacking-CVE-2011-2523](https://github.com/Chathura123git/ethical-hacking-CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Chathura123git/ethical-hacking-CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Chathura123git/ethical-hacking-CVE-2011-2523">
+- [Jhatchi/NexaCorp-DFIR-INC-2026-001](https://github.com/Jhatchi/NexaCorp-DFIR-INC-2026-001)	<img alt="forks" src="https://img.shields.io/github/forks/Jhatchi/NexaCorp-DFIR-INC-2026-001">	<img alt="stars" src="https://img.shields.io/github/stars/Jhatchi/NexaCorp-DFIR-INC-2026-001">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
