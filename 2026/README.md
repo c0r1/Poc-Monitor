@@ -3517,6 +3517,11 @@
 - [SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-](https://github.com/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-">
 
 ---
+## CVE-2026-23813 ()
+> 
+- [offseckit/CVE-2026-23813](https://github.com/offseckit/CVE-2026-23813)	<img alt="forks" src="https://img.shields.io/github/forks/offseckit/CVE-2026-23813">	<img alt="stars" src="https://img.shields.io/github/stars/offseckit/CVE-2026-23813">
+
+---
 ## CVE-2026-23760 ()
 > 
 - [MaxMnMl/smartermail-CVE-2026-23760-poc](https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/smartermail-CVE-2026-23760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/smartermail-CVE-2026-23760-poc">
