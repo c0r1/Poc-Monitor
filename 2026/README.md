@@ -2222,6 +2222,7 @@
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 - [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
 - [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
+- [Iamliuxiaozhen/copy_fail](https://github.com/Iamliuxiaozhen/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/Iamliuxiaozhen/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/Iamliuxiaozhen/copy_fail">
 
 ---
 ## CVE-2026-3143 ()
