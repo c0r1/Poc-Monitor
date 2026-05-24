@@ -3407,6 +3407,7 @@
 - [Abbykito/KERNELexploits](https://github.com/Abbykito/KERNELexploits)	<img alt="forks" src="https://img.shields.io/github/forks/Abbykito/KERNELexploits">	<img alt="stars" src="https://img.shields.io/github/stars/Abbykito/KERNELexploits">
 - [Murguii/DEV-CVE-2021-4034](https://github.com/Murguii/DEV-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Murguii/DEV-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Murguii/DEV-CVE-2021-4034">
 - [B1gN0Se/PwnKit_CVE-2021-4034](https://github.com/B1gN0Se/PwnKit_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/PwnKit_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/PwnKit_CVE-2021-4034">
+- [Leemyunglyul/cve-2021-4034-mock](https://github.com/Leemyunglyul/cve-2021-4034-mock)	<img alt="forks" src="https://img.shields.io/github/forks/Leemyunglyul/cve-2021-4034-mock">	<img alt="stars" src="https://img.shields.io/github/stars/Leemyunglyul/cve-2021-4034-mock">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
