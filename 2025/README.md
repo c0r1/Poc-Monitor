@@ -5754,7 +5754,7 @@
 - [r0otk3r/CVE-2025-47812](https://github.com/r0otk3r/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-47812">
 - [CTY-Research-1/CVE-2025-47812_Lab_environment](https://github.com/CTY-Research-1/CVE-2025-47812_Lab_environment)	<img alt="forks" src="https://img.shields.io/github/forks/CTY-Research-1/CVE-2025-47812_Lab_environment">	<img alt="stars" src="https://img.shields.io/github/stars/CTY-Research-1/CVE-2025-47812_Lab_environment">
 - [shadowgit30/CVE-2025-47812](https://github.com/shadowgit30/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/shadowgit30/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/shadowgit30/CVE-2025-47812">
-- [Nara-sakurai/CVE-2025-47812-PoC](https://github.com/Nara-sakurai/CVE-2025-47812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nara-sakurai/CVE-2025-47812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nara-sakurai/CVE-2025-47812-PoC">
+- [havbay/CVE-2025-47812-PoC](https://github.com/havbay/CVE-2025-47812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/havbay/CVE-2025-47812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/havbay/CVE-2025-47812-PoC">
 - [matesz44/CVE-2025-47812](https://github.com/matesz44/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-47812">
 - [dkstar11q/Blackash-CVE-2025-47812](https://github.com/dkstar11q/Blackash-CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/Blackash-CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/Blackash-CVE-2025-47812">
 - [estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC](https://github.com/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC">
@@ -5762,6 +5762,8 @@
 - [0xjuarez/CVE-2025-47812](https://github.com/0xjuarez/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xjuarez/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xjuarez/CVE-2025-47812">
 - [Majdae/CVE-2025-47812-Research](https://github.com/Majdae/CVE-2025-47812-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Majdae/CVE-2025-47812-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Majdae/CVE-2025-47812-Research">
 - [H3XploR/Exploit_CVE-2025-47812](https://github.com/H3XploR/Exploit_CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/H3XploR/Exploit_CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/H3XploR/Exploit_CVE-2025-47812">
+- [0xS4N4TG/CVE-2025-47812](https://github.com/0xS4N4TG/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xS4N4TG/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xS4N4TG/CVE-2025-47812">
+- [AmogelangMongwaketse/cs50-final-project](https://github.com/AmogelangMongwaketse/cs50-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/AmogelangMongwaketse/cs50-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/AmogelangMongwaketse/cs50-final-project">
 
 ---
 ## CVE-2025-47810 ()
@@ -10200,6 +10202,11 @@
 - [meenakshisl/PoC-CVE-2025-13780](https://github.com/meenakshisl/PoC-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/meenakshisl/PoC-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/meenakshisl/PoC-CVE-2025-13780">
 - [Ashwesker/Blackash-CVE-2025-13780](https://github.com/Ashwesker/Blackash-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13780">
 - [ThemeHackers/CVE-2025-13780](https://github.com/ThemeHackers/CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-13780">
+
+---
+## CVE-2025-13673 ()
+> 
+- [dinosn/CVE-2025-13673](https://github.com/dinosn/CVE-2025-13673)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2025-13673">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2025-13673">
 
 ---
 ## CVE-2025-13615 ()
