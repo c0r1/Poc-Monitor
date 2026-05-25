@@ -344,6 +344,11 @@
 - [threalwinky/CVE-2026-4800-POC](https://github.com/threalwinky/CVE-2026-4800-POC)	<img alt="forks" src="https://img.shields.io/github/forks/threalwinky/CVE-2026-4800-POC">	<img alt="stars" src="https://img.shields.io/github/stars/threalwinky/CVE-2026-4800-POC">
 
 ---
+## CVE-2026-47102 ()
+> 
+- [learner202649/CVE-2026-47102-PoC](https://github.com/learner202649/CVE-2026-47102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-47102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-47102-PoC">
+
+---
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
@@ -575,11 +580,18 @@
 - [webdev75950-ux/nginx-rce-cve-2026-42945](https://github.com/webdev75950-ux/nginx-rce-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/webdev75950-ux/nginx-rce-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/webdev75950-ux/nginx-rce-cve-2026-42945">
 - [Ahmed-Soli/ingress-nginx-cve-2026-42945-backport](https://github.com/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport">
 - [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
+- [bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR](https://github.com/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">
+- [nu0l/NGINX-Rift](https://github.com/nu0l/NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/nu0l/NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/nu0l/NGINX-Rift">
 
 ---
 ## CVE-2026-42940 ()
 > 
 - [ndhet/bot-CVE-2026-42940](https://github.com/ndhet/bot-CVE-2026-42940)	<img alt="forks" src="https://img.shields.io/github/forks/ndhet/bot-CVE-2026-42940">	<img alt="stars" src="https://img.shields.io/github/stars/ndhet/bot-CVE-2026-42940">
+
+---
+## CVE-2026-42880 ()
+> 
+- [HAERIN-L/POC_CVE-2026-42880](https://github.com/HAERIN-L/POC_CVE-2026-42880)	<img alt="forks" src="https://img.shields.io/github/forks/HAERIN-L/POC_CVE-2026-42880">	<img alt="stars" src="https://img.shields.io/github/stars/HAERIN-L/POC_CVE-2026-42880">
 
 ---
 ## CVE-2026-42879 ()
