@@ -194,6 +194,11 @@
 - [xxconi/CVE-2026-6279](https://github.com/xxconi/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6279">
 
 ---
+## CVE-2026-6271 ()
+> 
+- [xxconi/CVE-2026-6271](https://github.com/xxconi/CVE-2026-6271)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6271">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6271">
+
+---
 ## CVE-2026-6145 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-6145](https://github.com/Hann1bl3L3ct3r/CVE-2026-6145)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-6145">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-6145">
@@ -2535,6 +2540,11 @@
 ## CVE-2026-29597 ()
 > 
 - [padayali-JD/CVE-2026-29597](https://github.com/padayali-JD/CVE-2026-29597)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29597">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29597">
+
+---
+## CVE-2026-2942 ()
+> 
+- [xxconi/CVE-2026-2942](https://github.com/xxconi/CVE-2026-2942)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-2942">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-2942">
 
 ---
 ## CVE-2026-29204 ()
