@@ -408,6 +408,11 @@
 - [0xBlackash/CVE-2026-45829](https://github.com/0xBlackash/CVE-2026-45829)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45829">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45829">
 
 ---
+## CVE-2026-45659 ()
+> 
+- [HORKimhab/CVE-2026-45659](https://github.com/HORKimhab/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45659">
+
+---
 ## CVE-2026-45584 ()
 > 
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
@@ -780,6 +785,7 @@
 - [tc4dy/CVE-2026-41940-POC-Exploit](https://github.com/tc4dy/CVE-2026-41940-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41940-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41940-POC-Exploit">
 - [xxconi/CVE-2026-41940](https://github.com/xxconi/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-41940">
 - [sardine-web/Automated-scanner-CVE-2026-41940](https://github.com/sardine-web/Automated-scanner-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/Automated-scanner-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/Automated-scanner-CVE-2026-41940">
+- [willygailo/CVE-2026-41940-Linux](https://github.com/willygailo/CVE-2026-41940-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-41940-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-41940-Linux">
 
 ---
 ## CVE-2026-41901 ()
