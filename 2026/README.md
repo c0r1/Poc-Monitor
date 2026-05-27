@@ -4574,8 +4574,13 @@
 ---
 ## CVE-2026-0828 ()
 > 
-- [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
+- [DeathShotXD/0xKern3lCrush](https://github.com/DeathShotXD/0xKern3lCrush)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush">
 - [KOSEC-LLC/BYOVD-Research](https://github.com/KOSEC-LLC/BYOVD-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KOSEC-LLC/BYOVD-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KOSEC-LLC/BYOVD-Research">
+- [mein-0/cve-2026-0828](https://github.com/mein-0/cve-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/mein-0/cve-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/mein-0/cve-2026-0828">
+- [wutang700/STProcessMonitorBYOVD](https://github.com/wutang700/STProcessMonitorBYOVD)	<img alt="forks" src="https://img.shields.io/github/forks/wutang700/STProcessMonitorBYOVD">	<img alt="stars" src="https://img.shields.io/github/stars/wutang700/STProcessMonitorBYOVD">
+- [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
+- [oxfemale/KillChain](https://github.com/oxfemale/KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/KillChain">
+- [ANYLNK/STProcessMonitorBYOVD](https://github.com/ANYLNK/STProcessMonitorBYOVD)	<img alt="forks" src="https://img.shields.io/github/forks/ANYLNK/STProcessMonitorBYOVD">	<img alt="stars" src="https://img.shields.io/github/stars/ANYLNK/STProcessMonitorBYOVD">
 
 ---
 ## CVE-2026-0827 ()
