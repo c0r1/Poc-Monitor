@@ -14,6 +14,7 @@
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
+- [W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256](https://github.com/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">
 
 ---
 ## CVE-2026-9082 ()
@@ -348,6 +349,11 @@
 > 
 - [HORKimhab/CVE-2026-48172](https://github.com/HORKimhab/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48172">
 - [retmakarunia/CVE-2026-48172](https://github.com/retmakarunia/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/retmakarunia/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/retmakarunia/CVE-2026-48172">
+
+---
+## CVE-2026-48030 ()
+> 
+- [mus1imbek/CVE-2026-48030](https://github.com/mus1imbek/CVE-2026-48030)	<img alt="forks" src="https://img.shields.io/github/forks/mus1imbek/CVE-2026-48030">	<img alt="stars" src="https://img.shields.io/github/stars/mus1imbek/CVE-2026-48030">
 
 ---
 ## CVE-2026-4800 ()
@@ -1303,6 +1309,7 @@
 - [keraattin/CVE-2026-35616](https://github.com/keraattin/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35616">
 - [Alaatk/CVE-2026-35616](https://github.com/Alaatk/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2026-35616">
 - [wa6n3r/CVE-2026-35616](https://github.com/wa6n3r/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2026-35616">
+- [HORKimhab/CVE-2026-35616](https://github.com/HORKimhab/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-35616">
 
 ---
 ## CVE-2026-35585 ()
