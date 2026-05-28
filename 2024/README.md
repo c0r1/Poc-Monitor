@@ -3912,6 +3912,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090](https://github.com/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090">
 
 ---
+## CVE-2024-4309 ()
+> 
+- [Winslowe/CVE-2024-4309-Analysis](https://github.com/Winslowe/CVE-2024-4309-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Winslowe/CVE-2024-4309-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Winslowe/CVE-2024-4309-Analysis">
+
+---
 ## CVE-2024-43088 ()
 > 
 - [nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088](https://github.com/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088">
