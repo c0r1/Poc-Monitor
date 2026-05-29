@@ -345,6 +345,13 @@
 - [xShadow-Here/CVE-2026-4882](https://github.com/xShadow-Here/CVE-2026-4882)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4882">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4882">
 
 ---
+## CVE-2026-48710 ()
+> 
+- [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
+- [eris-ths/supply-chain-guard](https://github.com/eris-ths/supply-chain-guard)	<img alt="forks" src="https://img.shields.io/github/forks/eris-ths/supply-chain-guard">	<img alt="stars" src="https://img.shields.io/github/stars/eris-ths/supply-chain-guard">
+- [xtremebeing/starlette-host-header-lab](https://github.com/xtremebeing/starlette-host-header-lab)	<img alt="forks" src="https://img.shields.io/github/forks/xtremebeing/starlette-host-header-lab">	<img alt="stars" src="https://img.shields.io/github/stars/xtremebeing/starlette-host-header-lab">
+
+---
 ## CVE-2026-4821 ()
 > 
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
@@ -399,6 +406,11 @@
 ## CVE-2026-46391 ()
 > 
 - [bradyjmcl/cve-2026-46391](https://github.com/bradyjmcl/cve-2026-46391)	<img alt="forks" src="https://img.shields.io/github/forks/bradyjmcl/cve-2026-46391">	<img alt="stars" src="https://img.shields.io/github/stars/bradyjmcl/cve-2026-46391">
+
+---
+## CVE-2026-46376 ()
+> 
+- [portbuster1337/CVE-2026-46376](https://github.com/portbuster1337/CVE-2026-46376)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-46376">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-46376">
 
 ---
 ## CVE-2026-46333 ()
