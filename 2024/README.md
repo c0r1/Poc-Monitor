@@ -902,7 +902,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [k4t3pr0/CVE-2024-6387-Check](https://github.com/k4t3pr0/CVE-2024-6387-Check)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-Check">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-Check">
 - [liqhtnd/sshd-logingracetime](https://github.com/liqhtnd/sshd-logingracetime)	<img alt="forks" src="https://img.shields.io/github/forks/liqhtnd/sshd-logingracetime">	<img alt="stars" src="https://img.shields.io/github/stars/liqhtnd/sshd-logingracetime">
 - [dream434/CVE-2024-6387](https://github.com/dream434/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-6387">
-- [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-6387">
+- [Ap0dexMe0/CVE-2024-6387](https://github.com/Ap0dexMe0/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2024-6387">
 - [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
 - [prelearn-code/CVE-2024-6387](https://github.com/prelearn-code/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/prelearn-code/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/prelearn-code/CVE-2024-6387">
 - [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387">
@@ -932,6 +932,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Doux-x/CVE-2024-6387-analysis](https://github.com/Doux-x/CVE-2024-6387-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Doux-x/CVE-2024-6387-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Doux-x/CVE-2024-6387-analysis">
 - [OHHDamnBRO/Noregressh](https://github.com/OHHDamnBRO/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OHHDamnBRO/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OHHDamnBRO/Noregressh">
 - [kaleth4/CVE-2024-6387](https://github.com/kaleth4/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2024-6387">
+- [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -6374,6 +6375,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [rifting/Zygotroller](https://github.com/rifting/Zygotroller)	<img alt="forks" src="https://img.shields.io/github/forks/rifting/Zygotroller">	<img alt="stars" src="https://img.shields.io/github/stars/rifting/Zygotroller">
 - [kalibb/CVE-2024-31317-Deployer](https://github.com/kalibb/CVE-2024-31317-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2024-31317-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2024-31317-Deployer">
 - [chengfeng30121/CVE-2024-31317-PoC](https://github.com/chengfeng30121/CVE-2024-31317-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chengfeng30121/CVE-2024-31317-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chengfeng30121/CVE-2024-31317-PoC">
+- [vnescape/zygote-CVE-2024-31317](https://github.com/vnescape/zygote-CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/vnescape/zygote-CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/vnescape/zygote-CVE-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
