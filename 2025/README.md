@@ -10542,6 +10542,11 @@
 - [hyunchiya/CVE-2025-11877](https://github.com/hyunchiya/CVE-2025-11877)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-11877">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-11877">
 
 ---
+## CVE-2025-11844 ()
+> 
+- [SparshBiswas-AI/CVE-2025-11844-smolagents](https://github.com/SparshBiswas-AI/CVE-2025-11844-smolagents)	<img alt="forks" src="https://img.shields.io/github/forks/SparshBiswas-AI/CVE-2025-11844-smolagents">	<img alt="stars" src="https://img.shields.io/github/stars/SparshBiswas-AI/CVE-2025-11844-smolagents">
+
+---
 ## CVE-2025-11833 ()
 > 
 - [modhopmarrow1973/CVE-2025-11833-LAB](https://github.com/modhopmarrow1973/CVE-2025-11833-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/modhopmarrow1973/CVE-2025-11833-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/modhopmarrow1973/CVE-2025-11833-LAB">
