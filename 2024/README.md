@@ -5236,6 +5236,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">
 - [azurejelly/cve-2024-36401-win](https://github.com/azurejelly/cve-2024-36401-win)	<img alt="forks" src="https://img.shields.io/github/forks/azurejelly/cve-2024-36401-win">	<img alt="stars" src="https://img.shields.io/github/stars/azurejelly/cve-2024-36401-win">
 - [mantanhacker/CVE-2024-36401-MASS](https://github.com/mantanhacker/CVE-2024-36401-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/mantanhacker/CVE-2024-36401-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/mantanhacker/CVE-2024-36401-MASS">
+- [Delt-A/CVE-2024-36401-poc](https://github.com/Delt-A/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Delt-A/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Delt-A/CVE-2024-36401-poc">
 
 ---
 ## CVE-2024-3640 ()
