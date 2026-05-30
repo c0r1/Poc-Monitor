@@ -393,6 +393,11 @@
 - [learner202649/CVE-2026-47102-PoC](https://github.com/learner202649/CVE-2026-47102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-47102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-47102-PoC">
 
 ---
+## CVE-2026-46716 ()
+> 
+- [HAERIN-L/POC_CVE-2026-46716](https://github.com/HAERIN-L/POC_CVE-2026-46716)	<img alt="forks" src="https://img.shields.io/github/forks/HAERIN-L/POC_CVE-2026-46716">	<img alt="stars" src="https://img.shields.io/github/stars/HAERIN-L/POC_CVE-2026-46716">
+
+---
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
