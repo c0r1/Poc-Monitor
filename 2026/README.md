@@ -58,6 +58,11 @@
 - [funixone/EXPLOIT-CVE-2026-8832-](https://github.com/funixone/EXPLOIT-CVE-2026-8832-)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/EXPLOIT-CVE-2026-8832-">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/EXPLOIT-CVE-2026-8832-">
 
 ---
+## CVE-2026-8732 ()
+> 
+- [Jenderal92/CVE-2026-8732](https://github.com/Jenderal92/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8732">
+
+---
 ## CVE-2026-8697 ()
 > 
 - [itzmetanjim/cve-2026-8697](https://github.com/itzmetanjim/cve-2026-8697)	<img alt="forks" src="https://img.shields.io/github/forks/itzmetanjim/cve-2026-8697">	<img alt="stars" src="https://img.shields.io/github/stars/itzmetanjim/cve-2026-8697">
@@ -584,6 +589,7 @@
 ## CVE-2026-43494 ()
 > 
 - [0xBlackash/CVE-2026-43494](https://github.com/0xBlackash/CVE-2026-43494)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43494">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43494">
+- [letsr00t/CVE-2026-43494-PinTheft-PoC](https://github.com/letsr00t/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2026-43494-PinTheft-PoC">
 
 ---
 ## CVE-2026-4342 ()
