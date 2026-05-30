@@ -617,6 +617,7 @@
 - [Koshmare-Blossom/DirtyFrag-go](https://github.com/Koshmare-Blossom/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/DirtyFrag-go">
 - [Aiyakami/rust_dirtyfrag](https://github.com/Aiyakami/rust_dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/rust_dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/rust_dirtyfrag">
 - [jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC](https://github.com/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">
+- [DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag](https://github.com/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">
 
 ---
 ## CVE-2026-42945 ()
@@ -734,6 +735,8 @@
 - [0xBlackash/CVE-2026-42208](https://github.com/0xBlackash/CVE-2026-42208)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42208">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42208">
 - [rootdirective-sec/cve-2026-42208-Lab](https://github.com/rootdirective-sec/cve-2026-42208-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-42208-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-42208-Lab">
 - [Zeltoc/threat-intel-brief-cve-2026-42208-litellm](https://github.com/Zeltoc/threat-intel-brief-cve-2026-42208-litellm)	<img alt="forks" src="https://img.shields.io/github/forks/Zeltoc/threat-intel-brief-cve-2026-42208-litellm">	<img alt="stars" src="https://img.shields.io/github/stars/Zeltoc/threat-intel-brief-cve-2026-42208-litellm">
+- [HAERIN-L/poc_cve-2026-42208](https://github.com/HAERIN-L/poc_cve-2026-42208)	<img alt="forks" src="https://img.shields.io/github/forks/HAERIN-L/poc_cve-2026-42208">	<img alt="stars" src="https://img.shields.io/github/stars/HAERIN-L/poc_cve-2026-42208">
+- [ridhinva/litellm-scanner](https://github.com/ridhinva/litellm-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/litellm-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/litellm-scanner">
 
 ---
 ## CVE-2026-42203 ()
@@ -3292,6 +3295,11 @@
 ## CVE-2026-25177 ()
 > 
 - [danaug23/detect_CVE-2026-25177](https://github.com/danaug23/detect_CVE-2026-25177)	<img alt="forks" src="https://img.shields.io/github/forks/danaug23/detect_CVE-2026-25177">	<img alt="stars" src="https://img.shields.io/github/stars/danaug23/detect_CVE-2026-25177">
+
+---
+## CVE-2026-25172 ()
+> 
+- [Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111](https://github.com/Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111">
 
 ---
 ## CVE-2026-25130 ()
