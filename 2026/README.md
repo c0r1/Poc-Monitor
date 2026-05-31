@@ -52,6 +52,11 @@
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
 
 ---
+## CVE-2026-8836 ()
+> 
+- [Hunt-Benito/lwip-snmpv3-stack-overflow-cve-2026-8836-critical-embedded-rce](https://github.com/Hunt-Benito/lwip-snmpv3-stack-overflow-cve-2026-8836-critical-embedded-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/lwip-snmpv3-stack-overflow-cve-2026-8836-critical-embedded-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/lwip-snmpv3-stack-overflow-cve-2026-8836-critical-embedded-rce">
+
+---
 ## CVE-2026-8832 ()
 > 
 - [funixone/EXPLOIT-CVE-2026-8832](https://github.com/funixone/EXPLOIT-CVE-2026-8832)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/EXPLOIT-CVE-2026-8832">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/EXPLOIT-CVE-2026-8832">
