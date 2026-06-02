@@ -500,6 +500,7 @@
 - [Maxime288/Fragnesia-CVE-2026-46300](https://github.com/Maxime288/Fragnesia-CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/Fragnesia-CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/Fragnesia-CVE-2026-46300">
 - [AzDevops143/fragnesia-cve-2026-46300](https://github.com/AzDevops143/fragnesia-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/fragnesia-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/fragnesia-cve-2026-46300">
 - [Koshmare-Blossom/Fragnesia-go](https://github.com/Koshmare-Blossom/Fragnesia-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Fragnesia-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Fragnesia-go">
+- [AzDevops143/FRAGNESIA-Charan-cve-2026-46300](https://github.com/AzDevops143/FRAGNESIA-Charan-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/FRAGNESIA-Charan-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/FRAGNESIA-Charan-cve-2026-46300">
 
 ---
 ## CVE-2026-46275 ()
@@ -1006,6 +1007,7 @@
 ## CVE-2026-41089 ()
 > 
 - [0xBlackash/CVE-2026-41089](https://github.com/0xBlackash/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41089">
+- [sananpa/CVE-2026-41089](https://github.com/sananpa/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/sananpa/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/sananpa/CVE-2026-41089">
 
 ---
 ## CVE-2026-4106 ()
