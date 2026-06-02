@@ -496,6 +496,7 @@
 - [HORKimhab/CVE-2026-46300](https://github.com/HORKimhab/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46300">
 - [ExploitEoom/CVE-2026-46300](https://github.com/ExploitEoom/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-46300">
 - [Maxime288/Fragnesia-CVE-2026-46300](https://github.com/Maxime288/Fragnesia-CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/Fragnesia-CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/Fragnesia-CVE-2026-46300">
+- [AzDevops143/fragnesia-cve-2026-46300](https://github.com/AzDevops143/fragnesia-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/fragnesia-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/fragnesia-cve-2026-46300">
 
 ---
 ## CVE-2026-46275 ()
@@ -3819,6 +3820,9 @@
 - [p1ctur3p3rf3ct/CVE-2026-23744](https://github.com/p1ctur3p3rf3ct/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2026-23744">
 - [SuriyaBoon/DevHub-HackTheBox-ss11](https://github.com/SuriyaBoon/DevHub-HackTheBox-ss11)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/DevHub-HackTheBox-ss11">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/DevHub-HackTheBox-ss11">
 - [Least-Significant-Bit/CVE-2026-23744](https://github.com/Least-Significant-Bit/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2026-23744">
+- [m2sousa/CVE-2026-23744](https://github.com/m2sousa/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2026-23744">
+- [alisster00/CVE-2026-23744-RCE](https://github.com/alisster00/CVE-2026-23744-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alisster00/CVE-2026-23744-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alisster00/CVE-2026-23744-RCE">
+- [afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744](https://github.com/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
