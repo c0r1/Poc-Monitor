@@ -5227,6 +5227,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [dev0558/CVE-2023-32784-EXPLOIT-REPORT](https://github.com/dev0558/CVE-2023-32784-EXPLOIT-REPORT)	<img alt="forks" src="https://img.shields.io/github/forks/dev0558/CVE-2023-32784-EXPLOIT-REPORT">	<img alt="stars" src="https://img.shields.io/github/stars/dev0558/CVE-2023-32784-EXPLOIT-REPORT">
 - [SarahZimmermann-Schmutzler/exploit_keepass](https://github.com/SarahZimmermann-Schmutzler/exploit_keepass)	<img alt="forks" src="https://img.shields.io/github/forks/SarahZimmermann-Schmutzler/exploit_keepass">	<img alt="stars" src="https://img.shields.io/github/stars/SarahZimmermann-Schmutzler/exploit_keepass">
 - [G4sp4rCS/CVE-2023-32784-password-combinator-fixer](https://github.com/G4sp4rCS/CVE-2023-32784-password-combinator-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2023-32784-password-combinator-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2023-32784-password-combinator-fixer">
+- [areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense](https://github.com/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense)	<img alt="forks" src="https://img.shields.io/github/forks/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense">	<img alt="stars" src="https://img.shields.io/github/stars/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense">
+- [super-oof/keepass2-password-finder](https://github.com/super-oof/keepass2-password-finder)	<img alt="forks" src="https://img.shields.io/github/forks/super-oof/keepass2-password-finder">	<img alt="stars" src="https://img.shields.io/github/stars/super-oof/keepass2-password-finder">
 
 ---
 ## CVE-2023-32749 (2023-06-08T20:15:00)
