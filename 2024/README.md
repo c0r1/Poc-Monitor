@@ -2668,6 +2668,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [Mitchellzhou1/CVE-2024-48910-PoC](https://github.com/Mitchellzhou1/CVE-2024-48910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mitchellzhou1/CVE-2024-48910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mitchellzhou1/CVE-2024-48910-PoC">
 - [Alex-Acero-Security/CVE-2024-48910-POC](https://github.com/Alex-Acero-Security/CVE-2024-48910-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alex-Acero-Security/CVE-2024-48910-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alex-Acero-Security/CVE-2024-48910-POC">
+- [Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector](https://github.com/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector">
 
 ---
 ## CVE-2024-48904 (2024-10-22T19:15:00)
@@ -5237,6 +5238,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [azurejelly/cve-2024-36401-win](https://github.com/azurejelly/cve-2024-36401-win)	<img alt="forks" src="https://img.shields.io/github/forks/azurejelly/cve-2024-36401-win">	<img alt="stars" src="https://img.shields.io/github/stars/azurejelly/cve-2024-36401-win">
 - [mantanhacker/CVE-2024-36401-MASS](https://github.com/mantanhacker/CVE-2024-36401-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/mantanhacker/CVE-2024-36401-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/mantanhacker/CVE-2024-36401-MASS">
 - [Delt-A/CVE-2024-36401-poc](https://github.com/Delt-A/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Delt-A/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Delt-A/CVE-2024-36401-poc">
+- [DanieleGiovanardi2408/cve-2024-36401-geoserver-rce](https://github.com/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce)	<img alt="forks" src="https://img.shields.io/github/forks/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">	<img alt="stars" src="https://img.shields.io/github/stars/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">
 
 ---
 ## CVE-2024-3640 ()
