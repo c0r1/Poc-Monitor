@@ -1543,6 +1543,11 @@
 - [Rivek619/CVE-2025-65669](https://github.com/Rivek619/CVE-2025-65669)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65669">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65669">
 
 ---
+## CVE-2025-65640 ()
+> 
+- [vincenzo-emanuele/CVE-2025-65640](https://github.com/vincenzo-emanuele/CVE-2025-65640)	<img alt="forks" src="https://img.shields.io/github/forks/vincenzo-emanuele/CVE-2025-65640">	<img alt="stars" src="https://img.shields.io/github/stars/vincenzo-emanuele/CVE-2025-65640">
+
+---
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
