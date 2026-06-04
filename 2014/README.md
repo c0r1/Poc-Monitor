@@ -141,6 +141,7 @@
 - [V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection](https://github.com/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">
 - [kaleth4/-CVE-2014-6271](https://github.com/kaleth4/-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/-CVE-2014-6271">
 - [ambjlou/it355-lab4-enterprise-lan-security](https://github.com/ambjlou/it355-lab4-enterprise-lan-security)	<img alt="forks" src="https://img.shields.io/github/forks/ambjlou/it355-lab4-enterprise-lan-security">	<img alt="stars" src="https://img.shields.io/github/stars/ambjlou/it355-lab4-enterprise-lan-security">
+- [Reflyzal106/Cve-2014-Error-What-Is-The-Cve-2014-6271-Bash-Vulnerability](https://github.com/Reflyzal106/Cve-2014-Error-What-Is-The-Cve-2014-6271-Bash-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Reflyzal106/Cve-2014-Error-What-Is-The-Cve-2014-6271-Bash-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Reflyzal106/Cve-2014-Error-What-Is-The-Cve-2014-6271-Bash-Vulnerability">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
