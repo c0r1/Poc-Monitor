@@ -3254,6 +3254,11 @@
 - [sergicortesabadia/CVE-2026-26198-analysis](https://github.com/sergicortesabadia/CVE-2026-26198-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sergicortesabadia/CVE-2026-26198-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sergicortesabadia/CVE-2026-26198-analysis">
 
 ---
+## CVE-2026-26179 ()
+> 
+- [nikosecurity/CVE-2026-26179](https://github.com/nikosecurity/CVE-2026-26179)	<img alt="forks" src="https://img.shields.io/github/forks/nikosecurity/CVE-2026-26179">	<img alt="stars" src="https://img.shields.io/github/stars/nikosecurity/CVE-2026-26179">
+
+---
 ## CVE-2026-26128 ()
 > 
 - [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128)	<img alt="forks" src="https://img.shields.io/github/forks/jarnovandenbrink/CVE-2026-26128">	<img alt="stars" src="https://img.shields.io/github/stars/jarnovandenbrink/CVE-2026-26128">
@@ -3931,6 +3936,7 @@
 - [jf-gondim/mcp-pwn](https://github.com/jf-gondim/mcp-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/mcp-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/mcp-pwn">
 - [TYehan/CVE-2026-23744](https://github.com/TYehan/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2026-23744">
 - [avivyap/CVE-2026-23744](https://github.com/avivyap/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/avivyap/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/avivyap/CVE-2026-23744">
+- [Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit](https://github.com/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">
 
 ---
 ## CVE-2026-23723 ()
