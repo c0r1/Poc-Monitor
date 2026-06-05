@@ -4217,6 +4217,7 @@
 - [hakkuri01/r2rs](https://github.com/hakkuri01/r2rs)	<img alt="forks" src="https://img.shields.io/github/forks/hakkuri01/r2rs">	<img alt="stars" src="https://img.shields.io/github/stars/hakkuri01/r2rs">
 - [yurahshell/CVE-2025-55182](https://github.com/yurahshell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-55182">
 - [yurahshell/CVE-2025-55182](https://github.com/yurahshell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-55182">
+- [tanvirahmedcs/CVE-2025-55182](https://github.com/tanvirahmedcs/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tanvirahmedcs/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tanvirahmedcs/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
