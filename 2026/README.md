@@ -405,6 +405,11 @@
 - [INTELEON404/CVE-2026-49009](https://github.com/INTELEON404/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/INTELEON404/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/INTELEON404/CVE-2026-49009">
 
 ---
+## CVE-2026-48866 ()
+> 
+- [0xABCD01/CVE-2026-48866](https://github.com/0xABCD01/CVE-2026-48866)	<img alt="forks" src="https://img.shields.io/github/forks/0xABCD01/CVE-2026-48866">	<img alt="stars" src="https://img.shields.io/github/stars/0xABCD01/CVE-2026-48866">
+
+---
 ## CVE-2026-4885 ()
 > 
 - [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
@@ -958,6 +963,7 @@
 - [willygailo/CVE-2026-41940-Linux](https://github.com/willygailo/CVE-2026-41940-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-41940-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-41940-Linux">
 - [zwanski2019/cPanelSniper](https://github.com/zwanski2019/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/zwanski2019/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/zwanski2019/cPanelSniper">
 - [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
+- [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/olofsatte/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/olofsatte/CVE-2026-41940-PoC">
 
 ---
 ## CVE-2026-41901 ()
@@ -1768,6 +1774,7 @@
 - [rahultb-sec/CVE-2026-33829-Writeup](https://github.com/rahultb-sec/CVE-2026-33829-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/rahultb-sec/CVE-2026-33829-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/rahultb-sec/CVE-2026-33829-Writeup">
 - [ByteWraith1/CVE-2026-33829](https://github.com/ByteWraith1/CVE-2026-33829)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-33829">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-33829">
 - [tiffanykarihi23/CVE-2026-33829](https://github.com/tiffanykarihi23/CVE-2026-33829)	<img alt="forks" src="https://img.shields.io/github/forks/tiffanykarihi23/CVE-2026-33829">	<img alt="stars" src="https://img.shields.io/github/stars/tiffanykarihi23/CVE-2026-33829">
+- [seguridadentrerios/CVE-2026-33829](https://github.com/seguridadentrerios/CVE-2026-33829)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-33829">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-33829">
 
 ---
 ## CVE-2026-33827 ()
@@ -1932,6 +1939,11 @@
 - [0xBlackash/CVE-2026-33017](https://github.com/0xBlackash/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-33017">
 - [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Jorrit-VM/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Jorrit-VM/CVE-2026-33017">
 - [r3nsi15/CVE-2026-33017-langflow-rce](https://github.com/r3nsi15/CVE-2026-33017-langflow-rce)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/CVE-2026-33017-langflow-rce">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/CVE-2026-33017-langflow-rce">
+
+---
+## CVE-2026-3300 ()
+> 
+- [adamshaikhma/CVE-2026-3300](https://github.com/adamshaikhma/CVE-2026-3300)	<img alt="forks" src="https://img.shields.io/github/forks/adamshaikhma/CVE-2026-3300">	<img alt="stars" src="https://img.shields.io/github/stars/adamshaikhma/CVE-2026-3300">
 
 ---
 ## CVE-2026-32945 ()
@@ -2574,6 +2586,11 @@
 ## CVE-2026-31280 ()
 > 
 - [CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom](https://github.com/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom">
+
+---
+## CVE-2026-31266 ()
+> 
+- [0xrixet/Craftcms-PoC-CVE-2026-31266](https://github.com/0xrixet/Craftcms-PoC-CVE-2026-31266)	<img alt="forks" src="https://img.shields.io/github/forks/0xrixet/Craftcms-PoC-CVE-2026-31266">	<img alt="stars" src="https://img.shields.io/github/stars/0xrixet/Craftcms-PoC-CVE-2026-31266">
 
 ---
 ## CVE-2026-31156 ()
@@ -4764,6 +4781,11 @@
 - [Ashwesker/Ashwesker-CVE-2026-1281](https://github.com/Ashwesker/Ashwesker-CVE-2026-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1281">
 - [MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE](https://github.com/MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE">
 - [YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE](https://github.com/YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE">
+
+---
+## CVE-2026-1238 ()
+> 
+- [mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-](https://github.com/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">
 
 ---
 ## CVE-2026-1232 ()
