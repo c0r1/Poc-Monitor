@@ -1090,6 +1090,12 @@
 - [UploadOperativeWind/CVE-2026-41089-543](https://github.com/UploadOperativeWind/CVE-2026-41089-543)	<img alt="forks" src="https://img.shields.io/github/forks/UploadOperativeWind/CVE-2026-41089-543">	<img alt="stars" src="https://img.shields.io/github/stars/UploadOperativeWind/CVE-2026-41089-543">
 - [sectiondukestring25/CVE-2026-41089-971](https://github.com/sectiondukestring25/CVE-2026-41089-971)	<img alt="forks" src="https://img.shields.io/github/forks/sectiondukestring25/CVE-2026-41089-971">	<img alt="stars" src="https://img.shields.io/github/stars/sectiondukestring25/CVE-2026-41089-971">
 - [Mapclaregister/CVE-2026-41089-191](https://github.com/Mapclaregister/CVE-2026-41089-191)	<img alt="forks" src="https://img.shields.io/github/forks/Mapclaregister/CVE-2026-41089-191">	<img alt="stars" src="https://img.shields.io/github/stars/Mapclaregister/CVE-2026-41089-191">
+- [StampDreamFitting/CVE-2026-41089-986](https://github.com/StampDreamFitting/CVE-2026-41089-986)	<img alt="forks" src="https://img.shields.io/github/forks/StampDreamFitting/CVE-2026-41089-986">	<img alt="stars" src="https://img.shields.io/github/stars/StampDreamFitting/CVE-2026-41089-986">
+- [NodeRetrieve/CVE-2026-41089-637](https://github.com/NodeRetrieve/CVE-2026-41089-637)	<img alt="forks" src="https://img.shields.io/github/forks/NodeRetrieve/CVE-2026-41089-637">	<img alt="stars" src="https://img.shields.io/github/stars/NodeRetrieve/CVE-2026-41089-637">
+- [segmentjoninsecret/CVE-2026-41089-334](https://github.com/segmentjoninsecret/CVE-2026-41089-334)	<img alt="forks" src="https://img.shields.io/github/forks/segmentjoninsecret/CVE-2026-41089-334">	<img alt="stars" src="https://img.shields.io/github/stars/segmentjoninsecret/CVE-2026-41089-334">
+- [raingatorrouter/CVE-2026-41089-224](https://github.com/raingatorrouter/CVE-2026-41089-224)	<img alt="forks" src="https://img.shields.io/github/forks/raingatorrouter/CVE-2026-41089-224">	<img alt="stars" src="https://img.shields.io/github/stars/raingatorrouter/CVE-2026-41089-224">
+- [raingatorrouter/CVE-2026-41089-953](https://github.com/raingatorrouter/CVE-2026-41089-953)	<img alt="forks" src="https://img.shields.io/github/forks/raingatorrouter/CVE-2026-41089-953">	<img alt="stars" src="https://img.shields.io/github/stars/raingatorrouter/CVE-2026-41089-953">
+- [SightFinchFall/CVE-2026-41089-238](https://github.com/SightFinchFall/CVE-2026-41089-238)	<img alt="forks" src="https://img.shields.io/github/forks/SightFinchFall/CVE-2026-41089-238">	<img alt="stars" src="https://img.shields.io/github/stars/SightFinchFall/CVE-2026-41089-238">
 
 ---
 ## CVE-2026-4106 ()
@@ -2669,6 +2675,11 @@
 ## CVE-2026-30862 ()
 > 
 - [drkim-dev/CVE-2026-30862](https://github.com/drkim-dev/CVE-2026-30862)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-30862">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-30862">
+
+---
+## CVE-2026-30849 ()
+> 
+- [Gumbraise/CVE-2026-30849-PoC](https://github.com/Gumbraise/CVE-2026-30849-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Gumbraise/CVE-2026-30849-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Gumbraise/CVE-2026-30849-PoC">
 
 ---
 ## CVE-2026-30824 ()
