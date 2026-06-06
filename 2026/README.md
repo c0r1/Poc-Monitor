@@ -976,6 +976,7 @@
 - [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
 - [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/olofsatte/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/olofsatte/CVE-2026-41940-PoC">
 - [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
+- [asdasddqwdq29-a11y/CVE-2026-41940](https://github.com/asdasddqwdq29-a11y/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/asdasddqwdq29-a11y/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/asdasddqwdq29-a11y/CVE-2026-41940">
 
 ---
 ## CVE-2026-41901 ()
@@ -1086,6 +1087,9 @@
 - [Planetpliexpose/CVE-2026-41089-277](https://github.com/Planetpliexpose/CVE-2026-41089-277)	<img alt="forks" src="https://img.shields.io/github/forks/Planetpliexpose/CVE-2026-41089-277">	<img alt="stars" src="https://img.shields.io/github/stars/Planetpliexpose/CVE-2026-41089-277">
 - [sidechairmanblast/CVE-2026-41089-984](https://github.com/sidechairmanblast/CVE-2026-41089-984)	<img alt="forks" src="https://img.shields.io/github/forks/sidechairmanblast/CVE-2026-41089-984">	<img alt="stars" src="https://img.shields.io/github/stars/sidechairmanblast/CVE-2026-41089-984">
 - [System32manager/CVE-2026-41089-699](https://github.com/System32manager/CVE-2026-41089-699)	<img alt="forks" src="https://img.shields.io/github/forks/System32manager/CVE-2026-41089-699">	<img alt="stars" src="https://img.shields.io/github/stars/System32manager/CVE-2026-41089-699">
+- [UploadOperativeWind/CVE-2026-41089-543](https://github.com/UploadOperativeWind/CVE-2026-41089-543)	<img alt="forks" src="https://img.shields.io/github/forks/UploadOperativeWind/CVE-2026-41089-543">	<img alt="stars" src="https://img.shields.io/github/stars/UploadOperativeWind/CVE-2026-41089-543">
+- [sectiondukestring25/CVE-2026-41089-971](https://github.com/sectiondukestring25/CVE-2026-41089-971)	<img alt="forks" src="https://img.shields.io/github/forks/sectiondukestring25/CVE-2026-41089-971">	<img alt="stars" src="https://img.shields.io/github/stars/sectiondukestring25/CVE-2026-41089-971">
+- [Mapclaregister/CVE-2026-41089-191](https://github.com/Mapclaregister/CVE-2026-41089-191)	<img alt="forks" src="https://img.shields.io/github/forks/Mapclaregister/CVE-2026-41089-191">	<img alt="stars" src="https://img.shields.io/github/stars/Mapclaregister/CVE-2026-41089-191">
 
 ---
 ## CVE-2026-4106 ()
@@ -1731,6 +1735,7 @@
 - [xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-](https://github.com/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-)	<img alt="forks" src="https://img.shields.io/github/forks/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-">	<img alt="stars" src="https://img.shields.io/github/stars/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-">
 - [hnytgl/cve-2026-34197](https://github.com/hnytgl/cve-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-34197">
 - [LAT-06/CVE-2026-34197](https://github.com/LAT-06/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/LAT-06/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/LAT-06/CVE-2026-34197">
+- [asdasddqwdq29-a11y/CVE-2026-34197](https://github.com/asdasddqwdq29-a11y/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/asdasddqwdq29-a11y/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/asdasddqwdq29-a11y/CVE-2026-34197">
 
 ---
 ## CVE-2026-34160 ()
@@ -3802,6 +3807,7 @@
 - [RStephanH/vuln-deb](https://github.com/RStephanH/vuln-deb)	<img alt="forks" src="https://img.shields.io/github/forks/RStephanH/vuln-deb">	<img alt="stars" src="https://img.shields.io/github/stars/RStephanH/vuln-deb">
 - [ahmadsadeeq/TelnetdBypass-](https://github.com/ahmadsadeeq/TelnetdBypass-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmadsadeeq/TelnetdBypass-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmadsadeeq/TelnetdBypass-">
 - [jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/jacubes/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/jacubes/CVE-2026-24061">
+- [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
 
 ---
 ## CVE-2026-2406 ()
