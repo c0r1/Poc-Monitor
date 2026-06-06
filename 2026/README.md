@@ -766,7 +766,7 @@
 - [tal7aouy/nginx-cve-2026-42945](https://github.com/tal7aouy/nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/tal7aouy/nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/tal7aouy/nginx-cve-2026-42945">
 - [MateusVerass/nGixshell](https://github.com/MateusVerass/nGixshell)	<img alt="forks" src="https://img.shields.io/github/forks/MateusVerass/nGixshell">	<img alt="stars" src="https://img.shields.io/github/stars/MateusVerass/nGixshell">
 - [Renison-Gohel/CVE-2026-42945-NGINX-Rift](https://github.com/Renison-Gohel/CVE-2026-42945-NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/Renison-Gohel/CVE-2026-42945-NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/Renison-Gohel/CVE-2026-42945-NGINX-Rift">
-- [hnytgl/cve-2026-42945](https://github.com/hnytgl/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-42945">
+- [hnytgl/CVE-2026-42945](https://github.com/hnytgl/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2026-42945">
 - [imSre9/CVE-2026-42945](https://github.com/imSre9/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/imSre9/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/imSre9/CVE-2026-42945">
 - [RedCrazyGhost/CVE-2026-42945](https://github.com/RedCrazyGhost/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/RedCrazyGhost/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/RedCrazyGhost/CVE-2026-42945">
 - [BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix)	<img alt="forks" src="https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix">	<img alt="stars" src="https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix">
@@ -782,6 +782,12 @@
 - [nu0l/NGINX-Rift](https://github.com/nu0l/NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/nu0l/NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/nu0l/NGINX-Rift">
 - [niekaicheng/CVE-2026-42945_NGINX_Rift](https://github.com/niekaicheng/CVE-2026-42945_NGINX_Rift)	<img alt="forks" src="https://img.shields.io/github/forks/niekaicheng/CVE-2026-42945_NGINX_Rift">	<img alt="stars" src="https://img.shields.io/github/stars/niekaicheng/CVE-2026-42945_NGINX_Rift">
 - [strivepan/Nginx_cve-2026-42945-scanner-gui](https://github.com/strivepan/Nginx_cve-2026-42945-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/Nginx_cve-2026-42945-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/Nginx_cve-2026-42945-scanner-gui">
+- [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip)	<img alt="forks" src="https://img.shields.io/github/forks/y198nt/Nginx-chain-Rift-Poolslip">	<img alt="stars" src="https://img.shields.io/github/stars/y198nt/Nginx-chain-Rift-Poolslip">
+- [simota/nginx-rift-scanner](https://github.com/simota/nginx-rift-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/simota/nginx-rift-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/simota/nginx-rift-scanner">
+- [lowilol/CVE-2026-42945-NGINX-Rift-Check-Script](https://github.com/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script)	<img alt="forks" src="https://img.shields.io/github/forks/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">	<img alt="stars" src="https://img.shields.io/github/stars/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">
+- [edgecases-PurpleHax/cve-images](https://github.com/edgecases-PurpleHax/cve-images)	<img alt="forks" src="https://img.shields.io/github/forks/edgecases-PurpleHax/cve-images">	<img alt="stars" src="https://img.shields.io/github/stars/edgecases-PurpleHax/cve-images">
+- [quantumworld-dpdns-io/CVE-2026-42945](https://github.com/quantumworld-dpdns-io/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/quantumworld-dpdns-io/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/quantumworld-dpdns-io/CVE-2026-42945">
+- [josephfelix/CVE-2026-42945-nginx-rift](https://github.com/josephfelix/CVE-2026-42945-nginx-rift)	<img alt="forks" src="https://img.shields.io/github/forks/josephfelix/CVE-2026-42945-nginx-rift">	<img alt="stars" src="https://img.shields.io/github/stars/josephfelix/CVE-2026-42945-nginx-rift">
 
 ---
 ## CVE-2026-42940 ()
@@ -1096,6 +1102,9 @@
 - [raingatorrouter/CVE-2026-41089-224](https://github.com/raingatorrouter/CVE-2026-41089-224)	<img alt="forks" src="https://img.shields.io/github/forks/raingatorrouter/CVE-2026-41089-224">	<img alt="stars" src="https://img.shields.io/github/stars/raingatorrouter/CVE-2026-41089-224">
 - [raingatorrouter/CVE-2026-41089-953](https://github.com/raingatorrouter/CVE-2026-41089-953)	<img alt="forks" src="https://img.shields.io/github/forks/raingatorrouter/CVE-2026-41089-953">	<img alt="stars" src="https://img.shields.io/github/stars/raingatorrouter/CVE-2026-41089-953">
 - [SightFinchFall/CVE-2026-41089-238](https://github.com/SightFinchFall/CVE-2026-41089-238)	<img alt="forks" src="https://img.shields.io/github/forks/SightFinchFall/CVE-2026-41089-238">	<img alt="stars" src="https://img.shields.io/github/stars/SightFinchFall/CVE-2026-41089-238">
+- [RoyalViceroyBear/CVE-2026-41089-706](https://github.com/RoyalViceroyBear/CVE-2026-41089-706)	<img alt="forks" src="https://img.shields.io/github/forks/RoyalViceroyBear/CVE-2026-41089-706">	<img alt="stars" src="https://img.shields.io/github/stars/RoyalViceroyBear/CVE-2026-41089-706">
+- [CrimsonKingfisher/CVE-2026-41089-245](https://github.com/CrimsonKingfisher/CVE-2026-41089-245)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonKingfisher/CVE-2026-41089-245">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonKingfisher/CVE-2026-41089-245">
+- [Powderbatpatch/CVE-2026-41089-397](https://github.com/Powderbatpatch/CVE-2026-41089-397)	<img alt="forks" src="https://img.shields.io/github/forks/Powderbatpatch/CVE-2026-41089-397">	<img alt="stars" src="https://img.shields.io/github/stars/Powderbatpatch/CVE-2026-41089-397">
 
 ---
 ## CVE-2026-4106 ()
