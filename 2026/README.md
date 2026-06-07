@@ -1782,6 +1782,11 @@
 - [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">
 
 ---
+## CVE-2026-34040 ()
+> 
+- [m0nk3ygod/CVE-2026-34040-PoC](https://github.com/m0nk3ygod/CVE-2026-34040-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/m0nk3ygod/CVE-2026-34040-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/m0nk3ygod/CVE-2026-34040-PoC">
+
+---
 ## CVE-2026-34036 ()
 > 
 - [cnf409/CVE-2026-34036](https://github.com/cnf409/CVE-2026-34036)	<img alt="forks" src="https://img.shields.io/github/forks/cnf409/CVE-2026-34036">	<img alt="stars" src="https://img.shields.io/github/stars/cnf409/CVE-2026-34036">
