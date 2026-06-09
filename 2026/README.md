@@ -334,6 +334,11 @@
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
 
 ---
+## CVE-2026-52885 ()
+> 
+- [v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52885">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52885">
+
+---
 ## CVE-2026-5281 ()
 > 
 - [umair-aziz025/CVE-2026-5281-Research-Toolkit](https://github.com/umair-aziz025/CVE-2026-5281-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281-Research-Toolkit">
@@ -531,6 +536,16 @@
 ## CVE-2026-46529 ()
 > 
 - [N1et/CVE-2026-46529](https://github.com/N1et/CVE-2026-46529)	<img alt="forks" src="https://img.shields.io/github/forks/N1et/CVE-2026-46529">	<img alt="stars" src="https://img.shields.io/github/stars/N1et/CVE-2026-46529">
+
+---
+## CVE-2026-46395 ()
+> 
+- [shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">
+
+---
+## CVE-2026-46394 ()
+> 
+- [shreyas-challa/CVE-2026-46394-haxcms-git-command-injection](https://github.com/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection">
 
 ---
 ## CVE-2026-46391 ()
