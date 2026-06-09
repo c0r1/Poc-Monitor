@@ -6374,6 +6374,9 @@
 - [SgtBattenHA/Analysis](https://github.com/SgtBattenHA/Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SgtBattenHA/Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SgtBattenHA/Analysis">
 - [bjrjk/CVE-2025-43529](https://github.com/bjrjk/CVE-2025-43529)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-43529">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-43529">
 - [SimoesCTT/CTT-Apple-Silicon-Refraction](https://github.com/SimoesCTT/CTT-Apple-Silicon-Refraction)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Apple-Silicon-Refraction">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Apple-Silicon-Refraction">
+- [junfuture1103/CVE-2025-43529-no-forked](https://github.com/junfuture1103/CVE-2025-43529-no-forked)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2025-43529-no-forked">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2025-43529-no-forked">
+- [stationedK-06/DarkSword_analysis](https://github.com/stationedK-06/DarkSword_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/stationedK-06/DarkSword_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/stationedK-06/DarkSword_analysis">
+- [kmeps4/bugtest](https://github.com/kmeps4/bugtest)	<img alt="forks" src="https://img.shields.io/github/forks/kmeps4/bugtest">	<img alt="stars" src="https://img.shields.io/github/stars/kmeps4/bugtest">
 
 ---
 ## CVE-2025-43504 ()

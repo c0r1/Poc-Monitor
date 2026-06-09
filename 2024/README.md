@@ -1994,6 +1994,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-52301">
 
 ---
+## CVE-2024-52011 ()
+> 
+- [HORKimhab/CVE-2024-52011](https://github.com/HORKimhab/CVE-2024-52011)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-52011">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-52011">
+
+---
 ## CVE-2024-52005 ()
 > 
 - [andrewd-cg/cve-2024-52005-poc](https://github.com/andrewd-cg/cve-2024-52005-poc)	<img alt="forks" src="https://img.shields.io/github/forks/andrewd-cg/cve-2024-52005-poc">	<img alt="stars" src="https://img.shields.io/github/stars/andrewd-cg/cve-2024-52005-poc">
