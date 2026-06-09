@@ -4233,6 +4233,7 @@
 - [tanvirahmedcs/CVE-2025-55182](https://github.com/tanvirahmedcs/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tanvirahmedcs/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tanvirahmedcs/CVE-2025-55182">
 - [rvzsec/react2shell](https://github.com/rvzsec/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/react2shell">
 - [TechWithOrgito/CVE-2025-55182-Researching-process](https://github.com/TechWithOrgito/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/TechWithOrgito/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/TechWithOrgito/CVE-2025-55182-Researching-process">
+- [AkhmadKholmurodov/React2Shell_Exploit](https://github.com/AkhmadKholmurodov/React2Shell_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AkhmadKholmurodov/React2Shell_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AkhmadKholmurodov/React2Shell_Exploit">
 
 ---
 ## CVE-2025-55130 ()
@@ -10668,6 +10669,11 @@
 - [callinston/CVE-2025-11371](https://github.com/callinston/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-11371">
 - [NetVanguard-cmd/CVE-2025-11371](https://github.com/NetVanguard-cmd/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-11371">
 - [lap1nou/CVE-2025-11371](https://github.com/lap1nou/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/lap1nou/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/lap1nou/CVE-2025-11371">
+
+---
+## CVE-2025-11262 ()
+> 
+- [rootdirective-sec/CVE-2025-11262-Lab](https://github.com/rootdirective-sec/CVE-2025-11262-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2025-11262-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2025-11262-Lab">
 
 ---
 ## CVE-2025-11203 ()
