@@ -5381,7 +5381,7 @@
 ---
 ## CVE-2020-10567 ()
 > 
-- [PierreAdams/POC-CVE-2020-10567](https://github.com/PierreAdams/POC-CVE-2020-10567)	<img alt="forks" src="https://img.shields.io/github/forks/PierreAdams/POC-CVE-2020-10567">	<img alt="stars" src="https://img.shields.io/github/stars/PierreAdams/POC-CVE-2020-10567">
+- [PierreAdams/CVE-2020-10567](https://github.com/PierreAdams/CVE-2020-10567)	<img alt="forks" src="https://img.shields.io/github/forks/PierreAdams/CVE-2020-10567">	<img alt="stars" src="https://img.shields.io/github/stars/PierreAdams/CVE-2020-10567">
 
 ---
 ## CVE-2020-10560 (2020-03-30T13:15:00)

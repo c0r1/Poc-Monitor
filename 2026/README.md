@@ -890,6 +890,7 @@
 ## CVE-2026-42271 ()
 > 
 - [learner202649/CVE-2026-42271-PoC](https://github.com/learner202649/CVE-2026-42271-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-42271-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-42271-PoC">
+- [HORKimhab/CVE-2026-42271](https://github.com/HORKimhab/CVE-2026-42271)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42271">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42271">
 
 ---
 ## CVE-2026-42231 ()
@@ -1327,6 +1328,11 @@
 ## CVE-2026-3909 ()
 > 
 - [anansi2safe/CVE-2026-3909-PoC](https://github.com/anansi2safe/CVE-2026-3909-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-3909-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-3909-PoC">
+
+---
+## CVE-2026-39023 ()
+> 
+- [PierreAdams/CVE-2026-39023](https://github.com/PierreAdams/CVE-2026-39023)	<img alt="forks" src="https://img.shields.io/github/forks/PierreAdams/CVE-2026-39023">	<img alt="stars" src="https://img.shields.io/github/stars/PierreAdams/CVE-2026-39023">
 
 ---
 ## CVE-2026-38945 ()
