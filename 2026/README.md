@@ -536,6 +536,11 @@
 - [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
 
 ---
+## CVE-2026-47291 ()
+> 
+- [ManagerEmpty/CVE-2026-47291-httpsys](https://github.com/ManagerEmpty/CVE-2026-47291-httpsys)	<img alt="forks" src="https://img.shields.io/github/forks/ManagerEmpty/CVE-2026-47291-httpsys">	<img alt="stars" src="https://img.shields.io/github/stars/ManagerEmpty/CVE-2026-47291-httpsys">
+
+---
 ## CVE-2026-47102 ()
 > 
 - [learner202649/CVE-2026-47102-PoC](https://github.com/learner202649/CVE-2026-47102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-47102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-47102-PoC">
