@@ -414,6 +414,7 @@
 - [min8282/CVE-2026-5027](https://github.com/min8282/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2026-5027">
 - [EQSTLab/CVE-2026-5027](https://github.com/EQSTLab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-5027">
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
+- [Layer-6/CVE-2026-5027-Langflow](https://github.com/Layer-6/CVE-2026-5027-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Layer-6/CVE-2026-5027-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Layer-6/CVE-2026-5027-Langflow">
 
 ---
 ## CVE-2026-50142 ()
@@ -874,6 +875,7 @@
 - [josephfelix/CVE-2026-42945-nginx-rift](https://github.com/josephfelix/CVE-2026-42945-nginx-rift)	<img alt="forks" src="https://img.shields.io/github/forks/josephfelix/CVE-2026-42945-nginx-rift">	<img alt="stars" src="https://img.shields.io/github/stars/josephfelix/CVE-2026-42945-nginx-rift">
 - [jenniferreire26/CVE-2026-42945](https://github.com/jenniferreire26/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-42945">
 - [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
+- [LiaoZiqi-GZFLS/CVE-2026-42945](https://github.com/LiaoZiqi-GZFLS/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
