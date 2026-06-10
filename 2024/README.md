@@ -9858,6 +9858,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 
 ---
+## CVE-2024-20154 ()
+> 
+- [sneakid/CVE-2024-20154](https://github.com/sneakid/CVE-2024-20154)	<img alt="forks" src="https://img.shields.io/github/forks/sneakid/CVE-2024-20154">	<img alt="stars" src="https://img.shields.io/github/stars/sneakid/CVE-2024-20154">
+
+---
 ## CVE-2024-20137 ()
 > 
 - [takistmr/CVE-2024-20137](https://github.com/takistmr/CVE-2024-20137)	<img alt="forks" src="https://img.shields.io/github/forks/takistmr/CVE-2024-20137">	<img alt="stars" src="https://img.shields.io/github/stars/takistmr/CVE-2024-20137">
