@@ -4234,6 +4234,7 @@
 - [rvzsec/react2shell](https://github.com/rvzsec/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/react2shell">
 - [TechWithOrgito/CVE-2025-55182-Researching-process](https://github.com/TechWithOrgito/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/TechWithOrgito/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/TechWithOrgito/CVE-2025-55182-Researching-process">
 - [AkhmadKholmurodov/React2Shell_Exploit](https://github.com/AkhmadKholmurodov/React2Shell_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AkhmadKholmurodov/React2Shell_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AkhmadKholmurodov/React2Shell_Exploit">
+- [Alejandro609x/JEFAZO-CVE-2025-55182-Checker](https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">
 
 ---
 ## CVE-2025-55130 ()
@@ -6383,6 +6384,7 @@
 - [junfuture1103/CVE-2025-43529-no-forked](https://github.com/junfuture1103/CVE-2025-43529-no-forked)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2025-43529-no-forked">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2025-43529-no-forked">
 - [stationedK-06/DarkSword_analysis](https://github.com/stationedK-06/DarkSword_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/stationedK-06/DarkSword_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/stationedK-06/DarkSword_analysis">
 - [kmeps4/bugtest](https://github.com/kmeps4/bugtest)	<img alt="forks" src="https://img.shields.io/github/forks/kmeps4/bugtest">	<img alt="stars" src="https://img.shields.io/github/stars/kmeps4/bugtest">
+- [GenericCoding/cve-2025-43529-arbitrary-ref](https://github.com/GenericCoding/cve-2025-43529-arbitrary-ref)	<img alt="forks" src="https://img.shields.io/github/forks/GenericCoding/cve-2025-43529-arbitrary-ref">	<img alt="stars" src="https://img.shields.io/github/stars/GenericCoding/cve-2025-43529-arbitrary-ref">
 
 ---
 ## CVE-2025-43504 ()
