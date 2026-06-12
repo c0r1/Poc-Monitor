@@ -3016,6 +3016,7 @@
 - [Jeanback1/CVE-2025-57819-exploit](https://github.com/Jeanback1/CVE-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2025-57819-exploit">
 - [jf-gondim/freepbx-endpoint-sqli-rce](https://github.com/jf-gondim/freepbx-endpoint-sqli-rce)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/freepbx-endpoint-sqli-rce">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/freepbx-endpoint-sqli-rce">
 - [YuvrajSHAD/FreePBX-CVE-2025-57819](https://github.com/YuvrajSHAD/FreePBX-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/YuvrajSHAD/FreePBX-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/YuvrajSHAD/FreePBX-CVE-2025-57819">
+- [0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678](https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678)	<img alt="forks" src="https://img.shields.io/github/forks/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">	<img alt="stars" src="https://img.shields.io/github/stars/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">
 
 ---
 ## CVE-2025-57773 ()
