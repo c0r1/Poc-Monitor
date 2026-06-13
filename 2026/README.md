@@ -962,6 +962,11 @@
 - [Akinfue/CVE-2026-42778-POC](https://github.com/Akinfue/CVE-2026-42778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Akinfue/CVE-2026-42778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Akinfue/CVE-2026-42778-POC">
 
 ---
+## CVE-2026-42647 ()
+> 
+- [rootdirective-sec/CVE-2026-42647-Lab](https://github.com/rootdirective-sec/CVE-2026-42647-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-42647-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-42647-Lab">
+
+---
 ## CVE-2026-42589 ()
 > 
 - [fineman999/POC_CVE-2026-42589](https://github.com/fineman999/POC_CVE-2026-42589)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2026-42589">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2026-42589">
