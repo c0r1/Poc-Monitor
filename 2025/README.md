@@ -8378,6 +8378,7 @@
 - [byteReaper77/CVE-2025-2783](https://github.com/byteReaper77/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-2783">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 - [aronfour/CVE-2025-2783](https://github.com/aronfour/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/aronfour/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/aronfour/CVE-2025-2783">
+- [ElianGonzi00/CVE-2025-2783](https://github.com/ElianGonzi00/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/ElianGonzi00/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/ElianGonzi00/CVE-2025-2783">
 
 ---
 ## CVE-2025-27817 ()
