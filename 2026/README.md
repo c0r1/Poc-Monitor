@@ -358,6 +358,11 @@
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
 
 ---
+## CVE-2026-53519 ()
+> 
+- [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
+
+---
 ## CVE-2026-53435 ()
 > 
 - [AmesianX/CVE-2026-53435](https://github.com/AmesianX/CVE-2026-53435)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2026-53435">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2026-53435">
@@ -475,6 +480,11 @@
 ## CVE-2026-49413 ()
 > 
 - [ii4gsp/CVE-2026-49413](https://github.com/ii4gsp/CVE-2026-49413)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-49413">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-49413">
+
+---
+## CVE-2026-49160 ()
+> 
+- [dhmosfunk/CVE-2026-49160-HTTP.sys](https://github.com/dhmosfunk/CVE-2026-49160-HTTP.sys)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2026-49160-HTTP.sys">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2026-49160-HTTP.sys">
 
 ---
 ## CVE-2026-49009 ()
