@@ -1710,6 +1710,11 @@
 - [Gabriel-Lacorte/CVE-2026-36670](https://github.com/Gabriel-Lacorte/CVE-2026-36670)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2026-36670">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2026-36670">
 
 ---
+## CVE-2026-36522 ()
+> 
+- [deepwoodssec/CVE-2026-36522](https://github.com/deepwoodssec/CVE-2026-36522)	<img alt="forks" src="https://img.shields.io/github/forks/deepwoodssec/CVE-2026-36522">	<img alt="stars" src="https://img.shields.io/github/stars/deepwoodssec/CVE-2026-36522">
+
+---
 ## CVE-2026-36438 ()
 > 
 - [kensh1k/CVE-2026-36438](https://github.com/kensh1k/CVE-2026-36438)	<img alt="forks" src="https://img.shields.io/github/forks/kensh1k/CVE-2026-36438">	<img alt="stars" src="https://img.shields.io/github/stars/kensh1k/CVE-2026-36438">
