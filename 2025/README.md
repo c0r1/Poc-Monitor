@@ -5463,6 +5463,7 @@
 - [karimelsheikh1/HTB-Pterodactyl-Writeup](https://github.com/karimelsheikh1/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Pterodactyl-Writeup">
 - [V0idW1re/HTB-Pterodactyl-Writeup](https://github.com/V0idW1re/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/V0idW1re/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/V0idW1re/HTB-Pterodactyl-Writeup">
 - [symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132](https://github.com/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132">
+- [vimmwy/CVE-2025-49132](https://github.com/vimmwy/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/vimmwy/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/vimmwy/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
@@ -7906,6 +7907,7 @@
 - [Lusensec/CVE-2025-30208](https://github.com/Lusensec/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Lusensec/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Lusensec/CVE-2025-30208">
 - [layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers](https://github.com/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers)	<img alt="forks" src="https://img.shields.io/github/forks/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">	<img alt="stars" src="https://img.shields.io/github/stars/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">
 - [HazaVVIP/CVE-2025-30208](https://github.com/HazaVVIP/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HazaVVIP/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HazaVVIP/CVE-2025-30208">
+- [cc3305/CVE-2025-30208](https://github.com/cc3305/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
