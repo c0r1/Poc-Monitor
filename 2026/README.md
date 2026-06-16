@@ -368,6 +368,12 @@
 - [iltosec/CVE-2026-54596](https://github.com/iltosec/CVE-2026-54596)	<img alt="forks" src="https://img.shields.io/github/forks/iltosec/CVE-2026-54596">	<img alt="stars" src="https://img.shields.io/github/stars/iltosec/CVE-2026-54596">
 
 ---
+## CVE-2026-54420 ()
+> 
+- [mahfuzreham/litespeed-cpanel-cve-2026-54420-fix](https://github.com/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">
+- [Resellnom/litespeed-cpanel-cve-2026-54420-fix](https://github.com/Resellnom/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/Resellnom/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/Resellnom/litespeed-cpanel-cve-2026-54420-fix">
+
+---
 ## CVE-2026-53519 ()
 > 
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
