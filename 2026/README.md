@@ -374,6 +374,11 @@
 - [Resellnom/litespeed-cpanel-cve-2026-54420-fix](https://github.com/Resellnom/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/Resellnom/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/Resellnom/litespeed-cpanel-cve-2026-54420-fix">
 
 ---
+## CVE-2026-53582 ()
+> 
+- [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
+
+---
 ## CVE-2026-53519 ()
 > 
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
@@ -447,6 +452,7 @@
 - [fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit](https://github.com/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit">
 - [hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass](https://github.com/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass">
 - [watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751](https://github.com/watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751">
+- [bolubey/CVE-2026-50751](https://github.com/bolubey/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/bolubey/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/bolubey/CVE-2026-50751">
 
 ---
 ## CVE-2026-5059 ()
@@ -2363,6 +2369,11 @@
 - [MichaelAdamGroberman/CVE-2026-32646](https://github.com/MichaelAdamGroberman/CVE-2026-32646)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-32646">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-32646">
 - [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 - [MichaelAdamGroberman/CVE-2026-32646](https://github.com/MichaelAdamGroberman/CVE-2026-32646)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-32646">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-32646">
+
+---
+## CVE-2026-32488 ()
+> 
+- [webshellseo8/CVE-2026-32488-POC](https://github.com/webshellseo8/CVE-2026-32488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-32488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-32488-POC">
 
 ---
 ## CVE-2026-32321 ()
