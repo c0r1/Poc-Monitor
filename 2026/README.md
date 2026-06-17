@@ -577,6 +577,11 @@
 - [izxci/CVE-2026-49079](https://github.com/izxci/CVE-2026-49079)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49079">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49079">
 
 ---
+## CVE-2026-49060 ()
+> 
+- [rootdirective-sec/CVE-2026-49060-Lab](https://github.com/rootdirective-sec/CVE-2026-49060-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-49060-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-49060-Lab">
+
+---
 ## CVE-2026-49009 ()
 > 
 - [j0xh-sec/CVE-2026-49009](https://github.com/j0xh-sec/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/j0xh-sec/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/j0xh-sec/CVE-2026-49009">
@@ -2456,6 +2461,7 @@
 ## CVE-2026-32488 ()
 > 
 - [webshellseo8/CVE-2026-32488-POC](https://github.com/webshellseo8/CVE-2026-32488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-32488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-32488-POC">
+- [izxci/CVE-2026-32488](https://github.com/izxci/CVE-2026-32488)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-32488">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-32488">
 
 ---
 ## CVE-2026-32321 ()
