@@ -570,6 +570,7 @@
 ## CVE-2026-49083 ()
 > 
 - [izxci/CVE-2026-49083](https://github.com/izxci/CVE-2026-49083)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49083">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49083">
+- [87achrafg-stack/CVE-2026-49083](https://github.com/87achrafg-stack/CVE-2026-49083)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-49083">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-49083">
 
 ---
 ## CVE-2026-49079 ()
@@ -599,6 +600,7 @@
 - [ywh-jfellus/CVE-2026-48907](https://github.com/ywh-jfellus/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-48907">
 - [0xBlackash/CVE-2026-48907](https://github.com/0xBlackash/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-48907">
 - [HORKimhab/CVE-2026-48907](https://github.com/HORKimhab/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48907">
+- [wearehackers160/CVE-2026-48907](https://github.com/wearehackers160/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/wearehackers160/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/wearehackers160/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -1063,6 +1065,7 @@
 - [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
 - [LiaoZiqi-GZFLS/CVE-2026-42945](https://github.com/LiaoZiqi-GZFLS/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-42945">
 - [sec-sys/CVE-2026-42945-Reverse-Shell-POC](https://github.com/sec-sys/CVE-2026-42945-Reverse-Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sec-sys/CVE-2026-42945-Reverse-Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sec-sys/CVE-2026-42945-Reverse-Shell-POC">
+- [hulina9900-boop/DIY-CVE-2026-42945-POC](https://github.com/hulina9900-boop/DIY-CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hulina9900-boop/DIY-CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hulina9900-boop/DIY-CVE-2026-42945-POC">
 
 ---
 ## CVE-2026-42940 ()
@@ -1822,6 +1825,11 @@
 ## CVE-2026-36436 ()
 > 
 - [vtrmK/CVE-2026-36436-Public-Reference-Pack](https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack)	<img alt="forks" src="https://img.shields.io/github/forks/vtrmK/CVE-2026-36436-Public-Reference-Pack">	<img alt="stars" src="https://img.shields.io/github/stars/vtrmK/CVE-2026-36436-Public-Reference-Pack">
+
+---
+## CVE-2026-36425 ()
+> 
+- [redteamfortress/CVE-2026-36425](https://github.com/redteamfortress/CVE-2026-36425)	<img alt="forks" src="https://img.shields.io/github/forks/redteamfortress/CVE-2026-36425">	<img alt="stars" src="https://img.shields.io/github/stars/redteamfortress/CVE-2026-36425">
 
 ---
 ## CVE-2026-36358 ()
@@ -5031,6 +5039,11 @@
 ## CVE-2026-20404 ()
 > 
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
+
+---
+## CVE-2026-20262 ()
+> 
+- [fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-](https://github.com/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-">
 
 ---
 ## CVE-2026-20245 ()

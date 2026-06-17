@@ -3625,6 +3625,7 @@
 ## CVE-2021-3975 (2022-08-23T20:15:00)
 > A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
 - [Live-Hack-CVE/CVE-2021-3975](https://github.com/Live-Hack-CVE/CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3975">
+- [yan5ui/ENV-CVE-2021-3975](https://github.com/yan5ui/ENV-CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/yan5ui/ENV-CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/yan5ui/ENV-CVE-2021-3975">
 
 ---
 ## CVE-2021-3974 (2021-11-19T11:15:00)
