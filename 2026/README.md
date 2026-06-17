@@ -4261,6 +4261,7 @@
 - [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
 - [K3ysTr0K3R/CVE-2026-24061](https://github.com/K3ysTr0K3R/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-24061">
 - [achnouri/CVE-2026-24061-GNU-InetUtils-telnetd](https://github.com/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">
+- [akpmarcelin/CVE-2026-24061-lab](https://github.com/akpmarcelin/CVE-2026-24061-lab)	<img alt="forks" src="https://img.shields.io/github/forks/akpmarcelin/CVE-2026-24061-lab">	<img alt="stars" src="https://img.shields.io/github/stars/akpmarcelin/CVE-2026-24061-lab">
 
 ---
 ## CVE-2026-2406 ()
@@ -5065,6 +5066,7 @@
 ## CVE-2026-20262 ()
 > 
 - [fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-](https://github.com/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-">
+- [HORKimhab/CVE-2026-20262](https://github.com/HORKimhab/CVE-2026-20262)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20262">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20262">
 
 ---
 ## CVE-2026-20245 ()
