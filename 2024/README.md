@@ -9910,6 +9910,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874)	<img alt="forks" src="https://img.shields.io/github/forks/Tgcohce/CVE-2024-1874">	<img alt="stars" src="https://img.shields.io/github/stars/Tgcohce/CVE-2024-1874">
 
 ---
+## CVE-2024-1813 ()
+> 
+- [MobetaSec/CVE-2024-1813-POC](https://github.com/MobetaSec/CVE-2024-1813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MobetaSec/CVE-2024-1813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MobetaSec/CVE-2024-1813-POC">
+
+---
 ## CVE-2024-1728 ()
 > 
 - [yuanmeng-MINGI/CVE-2024-1728](https://github.com/yuanmeng-MINGI/CVE-2024-1728)	<img alt="forks" src="https://img.shields.io/github/forks/yuanmeng-MINGI/CVE-2024-1728">	<img alt="stars" src="https://img.shields.io/github/stars/yuanmeng-MINGI/CVE-2024-1728">
