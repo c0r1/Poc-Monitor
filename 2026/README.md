@@ -175,6 +175,11 @@
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
 
 ---
+## CVE-2026-7515 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-7515-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-7515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-7515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-7515-PoC">
+
+---
 ## CVE-2026-7482 ()
 > 
 - [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
@@ -766,6 +771,11 @@
 ## CVE-2026-46376 ()
 > 
 - [portbuster1337/CVE-2026-46376](https://github.com/portbuster1337/CVE-2026-46376)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-46376">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-46376">
+
+---
+## CVE-2026-46368 ()
+> 
+- [iwallplace/CVE-2026-46368-OpenWrt-Exploit](https://github.com/iwallplace/CVE-2026-46368-OpenWrt-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iwallplace/CVE-2026-46368-OpenWrt-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iwallplace/CVE-2026-46368-OpenWrt-Exploit">
 
 ---
 ## CVE-2026-46333 ()
@@ -2319,6 +2329,11 @@
 ## CVE-2026-33626 ()
 > 
 - [rootdirective-sec/CVE-2026-33626-Lab](https://github.com/rootdirective-sec/CVE-2026-33626-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33626-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33626-Lab">
+
+---
+## CVE-2026-3359 ()
+> 
+- [itsthalisman/cve-2026-3359-exp](https://github.com/itsthalisman/cve-2026-3359-exp)	<img alt="forks" src="https://img.shields.io/github/forks/itsthalisman/cve-2026-3359-exp">	<img alt="stars" src="https://img.shields.io/github/stars/itsthalisman/cve-2026-3359-exp">
 
 ---
 ## CVE-2026-33555 ()
