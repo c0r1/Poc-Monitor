@@ -9486,6 +9486,7 @@
 - [karimelsheikh1/HTB-Facts-Writeup](https://github.com/karimelsheikh1/HTB-Facts-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Facts-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Facts-Writeup">
 - [Jeanback1/CVE-2025-2304-exploit](https://github.com/Jeanback1/CVE-2025-2304-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2025-2304-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2025-2304-exploit">
 - [askiesec/CVE-2025-2304-POC](https://github.com/askiesec/CVE-2025-2304-POC)	<img alt="forks" src="https://img.shields.io/github/forks/askiesec/CVE-2025-2304-POC">	<img alt="stars" src="https://img.shields.io/github/stars/askiesec/CVE-2025-2304-POC">
+- [0xk4rth1/CVE-2025-2304](https://github.com/0xk4rth1/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/0xk4rth1/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/0xk4rth1/CVE-2025-2304">
 
 ---
 ## CVE-2025-2301 ()
