@@ -638,6 +638,11 @@
 - [JoakimBulow/CVE-2026-48962](https://github.com/JoakimBulow/CVE-2026-48962)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-48962">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-48962">
 
 ---
+## CVE-2026-48909 ()
+> 
+- [Is4yev/CVE-2026-48909](https://github.com/Is4yev/CVE-2026-48909)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-48909">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-48909">
+
+---
 ## CVE-2026-48908 ()
 > 
 - [webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48908-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48908-POC">
@@ -1025,6 +1030,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43655 ()
+> 
+- [Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF](https://github.com/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">
 
 ---
 ## CVE-2026-43515 ()
@@ -1695,6 +1705,11 @@
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
 - [HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808">
 - [error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-39808">
+
+---
+## CVE-2026-39676 ()
+> 
+- [OkamiSpade/Cve-2026-39676](https://github.com/OkamiSpade/Cve-2026-39676)	<img alt="forks" src="https://img.shields.io/github/forks/OkamiSpade/Cve-2026-39676">	<img alt="stars" src="https://img.shields.io/github/stars/OkamiSpade/Cve-2026-39676">
 
 ---
 ## CVE-2026-39440 ()
