@@ -2641,6 +2641,7 @@
 > 
 - [solarlynxsqueeze/CVE-2026-32202](https://github.com/solarlynxsqueeze/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/solarlynxsqueeze/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/solarlynxsqueeze/CVE-2026-32202">
 - [virus-or-not/CVE-2026-32202](https://github.com/virus-or-not/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/virus-or-not/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/virus-or-not/CVE-2026-32202">
+- [alexlanum/CVE-2026-32202](https://github.com/alexlanum/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/alexlanum/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/alexlanum/CVE-2026-32202">
 
 ---
 ## CVE-2026-32201 ()
