@@ -4264,6 +4264,7 @@
 - [olezhaku/react2shell-toolkit](https://github.com/olezhaku/react2shell-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/olezhaku/react2shell-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/olezhaku/react2shell-toolkit">
 - [SentinelXofficial/CVE-2025-55182](https://github.com/SentinelXofficial/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/CVE-2025-55182">
 - [TYehan/CVE-2025-55182-React2Shell-RCE-Exploit](https://github.com/TYehan/CVE-2025-55182-React2Shell-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-55182-React2Shell-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-55182-React2Shell-RCE-Exploit">
+- [Fomovet/cve-2025-55182](https://github.com/Fomovet/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -5757,6 +5758,7 @@
 - [anthonyc53/cve-2025-48384](https://github.com/anthonyc53/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/anthonyc53/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/anthonyc53/cve-2025-48384">
 - [DayDayDayDreaming/backup-exec-cve-48384](https://github.com/DayDayDayDreaming/backup-exec-cve-48384)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-cve-48384">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-cve-48384">
 - [sathish46-lab/CVE-2025-48384-submodule](https://github.com/sathish46-lab/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/sathish46-lab/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/sathish46-lab/CVE-2025-48384-submodule">
+- [Fomovet/cve-2025-48384](https://github.com/Fomovet/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
@@ -7382,6 +7384,7 @@
 - [yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab](https://github.com/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">
 - [0xzap/CVE-2025-32463](https://github.com/0xzap/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2025-32463">
 - [v3rycl0p3r/CVE-2025-32463](https://github.com/v3rycl0p3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/v3rycl0p3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/v3rycl0p3r/CVE-2025-32463">
+- [Fomovet/cve-2025-32463](https://github.com/Fomovet/cve-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -8125,6 +8128,7 @@
 - [shahin-shadow/nextjs-auth-bypass](https://github.com/shahin-shadow/nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/shahin-shadow/nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/shahin-shadow/nextjs-auth-bypass">
 - [hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js">
 - [s11s11/CVE-2025-29927](https://github.com/s11s11/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/s11s11/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/s11s11/CVE-2025-29927">
+- [Fomovet/cve-2025-29927](https://github.com/Fomovet/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
@@ -8228,6 +8232,7 @@
 ## CVE-2025-29384 ()
 > 
 - [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/cve-2025-29384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/cve-2025-29384-poc">
+- [Fomovet/cve-2025-29384](https://github.com/Fomovet/cve-2025-29384)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-29384">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-29384">
 
 ---
 ## CVE-2025-29338 ()
@@ -9079,6 +9084,7 @@
 - [vasilysaint/CVE-2025-24893](https://github.com/vasilysaint/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/vasilysaint/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/vasilysaint/CVE-2025-24893">
 - [hasecto/CVE-2025-24893](https://github.com/hasecto/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/hasecto/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/hasecto/CVE-2025-24893">
 - [rippsec/CVE-2025-24893-XWiki-SSTI-RCE](https://github.com/rippsec/CVE-2025-24893-XWiki-SSTI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">
+- [Fomovet/cve-2025-24893](https://github.com/Fomovet/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
@@ -9336,6 +9342,11 @@
 - [WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">
 - [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 - [fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">
+- [Fomovet/cve-2025-24071](https://github.com/Fomovet/cve-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24071">
+- [hyperchk/CVE-2025-24071-POC](https://github.com/hyperchk/CVE-2025-24071-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hyperchk/CVE-2025-24071-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hyperchk/CVE-2025-24071-POC">
+- [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
+- [zbs54/Blackash-CVE-2025-24071](https://github.com/zbs54/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/zbs54/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/zbs54/Blackash-CVE-2025-24071">
+- [ephunter/CVE-2025-24071-Exploit](https://github.com/ephunter/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ephunter/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ephunter/CVE-2025-24071-Exploit">
 
 ---
 ## CVE-2025-24054 ()
@@ -9355,6 +9366,7 @@
 - [WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">
 - [DukeSec97/CVE-2025-24054](https://github.com/DukeSec97/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/DukeSec97/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/DukeSec97/CVE-2025-24054">
 - [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
+- [Fomovet/cve-2025-24054](https://github.com/Fomovet/cve-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24054">
 
 ---
 ## CVE-2025-2404 ()
