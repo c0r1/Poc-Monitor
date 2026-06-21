@@ -5316,6 +5316,7 @@
 - [Cilectiy/CVE-2025-49844](https://github.com/Cilectiy/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Cilectiy/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Cilectiy/CVE-2025-49844">
 - [zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">
 - [open-flaw/CVE-2025-49844](https://github.com/open-flaw/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2025-49844">
+- [cc3305/CVE-2025-49844](https://github.com/cc3305/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-49844">
 
 ---
 ## CVE-2025-49752 ()
