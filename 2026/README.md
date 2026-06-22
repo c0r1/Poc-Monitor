@@ -3923,6 +3923,7 @@
 ## CVE-2026-26030 ()
 > 
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
+- [InertFluid/sk-cve-2026-26030-lab](https://github.com/InertFluid/sk-cve-2026-26030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/InertFluid/sk-cve-2026-26030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/InertFluid/sk-cve-2026-26030-lab">
 
 ---
 ## CVE-2026-26026 ()
@@ -5319,6 +5320,11 @@
 - [Ashwesker/Ashwesker-CVE-2026-20045](https://github.com/Ashwesker/Ashwesker-CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-20045">
 - [zaryouhashraf/CVE-2026-20045](https://github.com/zaryouhashraf/CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2026-20045">
 - [dkstar11q/Ashwesker-CVE-2026-20045](https://github.com/dkstar11q/Ashwesker-CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/Ashwesker-CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/Ashwesker-CVE-2026-20045">
+
+---
+## CVE-2026-2002 ()
+> 
+- [typedefabcd1234ntd/CVE-2026-2002-poc](https://github.com/typedefabcd1234ntd/CVE-2026-2002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-2002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-2002-poc">
 
 ---
 ## CVE-2026-1953 ()
