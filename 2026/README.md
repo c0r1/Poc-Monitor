@@ -1774,6 +1774,11 @@
 - [yousif-IQ/CVE-2026-39259](https://github.com/yousif-IQ/CVE-2026-39259)	<img alt="forks" src="https://img.shields.io/github/forks/yousif-IQ/CVE-2026-39259">	<img alt="stars" src="https://img.shields.io/github/stars/yousif-IQ/CVE-2026-39259">
 
 ---
+## CVE-2026-39253 ()
+> 
+- [timtimxs/CVE-2026-39253-Advisory](https://github.com/timtimxs/CVE-2026-39253-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/timtimxs/CVE-2026-39253-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/timtimxs/CVE-2026-39253-Advisory">
+
+---
 ## CVE-2026-39107 ()
 > 
 - [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
@@ -5552,6 +5557,11 @@
 ## CVE-2026-11912 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-11912](https://github.com/Polosss/By-Poloss..-..CVE-2026-11912)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11912">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11912">
+
+---
+## CVE-2026-11837 ()
+> 
+- [M8seven/cve-2026-11837-ansible-posix-authorized-key](https://github.com/M8seven/cve-2026-11837-ansible-posix-authorized-key)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-11837-ansible-posix-authorized-key">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-11837-ansible-posix-authorized-key">
 
 ---
 ## CVE-2026-11784 ()
