@@ -103,6 +103,8 @@
 ## CVE-2026-8461 ()
 > 
 - [anyanything/CVE-2026-8461-PoC](https://github.com/anyanything/CVE-2026-8461-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anyanything/CVE-2026-8461-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anyanything/CVE-2026-8461-PoC">
+- [HORKimhab/CVE-2026-8461](https://github.com/HORKimhab/CVE-2026-8461)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8461">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8461">
+- [Y5neKO/CVE-2026-8461-EXP](https://github.com/Y5neKO/CVE-2026-8461-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Y5neKO/CVE-2026-8461-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Y5neKO/CVE-2026-8461-EXP">
 
 ---
 ## CVE-2026-8389 ()
@@ -663,6 +665,7 @@
 > 
 - [webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48908-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48908-POC">
 - [papageo75/CVE-2026-48908-PoC](https://github.com/papageo75/CVE-2026-48908-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/papageo75/CVE-2026-48908-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/papageo75/CVE-2026-48908-PoC">
+- [gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla](https://github.com/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla">
 
 ---
 ## CVE-2026-48907 ()
