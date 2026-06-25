@@ -180,6 +180,11 @@
 - [izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7654">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7654">
 
 ---
+## CVE-2026-7574 ()
+> 
+- [0xBlackash/CVE-2026-7574](https://github.com/0xBlackash/CVE-2026-7574)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-7574">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-7574">
+
+---
 ## CVE-2026-7567 ()
 > 
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
@@ -962,6 +967,18 @@
 > 
 - [renewablehacking/CVE-2026-45321-Tanstack](https://github.com/renewablehacking/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/renewablehacking/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/renewablehacking/CVE-2026-45321-Tanstack">
 - [adriannurrr/CVE-2026-45321-Tanstack](https://github.com/adriannurrr/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/adriannurrr/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/adriannurrr/CVE-2026-45321-Tanstack">
+- [7whyex/CVE-2026-45321-Tanstack](https://github.com/7whyex/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/7whyex/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/7whyex/CVE-2026-45321-Tanstack">
+- [nkopylov/tanscript-exploit-check](https://github.com/nkopylov/tanscript-exploit-check)	<img alt="forks" src="https://img.shields.io/github/forks/nkopylov/tanscript-exploit-check">	<img alt="stars" src="https://img.shields.io/github/stars/nkopylov/tanscript-exploit-check">
+- [fabriziosalmi/tanstack-compromise-checker](https://github.com/fabriziosalmi/tanstack-compromise-checker)	<img alt="forks" src="https://img.shields.io/github/forks/fabriziosalmi/tanstack-compromise-checker">	<img alt="stars" src="https://img.shields.io/github/stars/fabriziosalmi/tanstack-compromise-checker">
+- [ry-allan/tanstack-compromise-checker](https://github.com/ry-allan/tanstack-compromise-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ry-allan/tanstack-compromise-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ry-allan/tanstack-compromise-checker">
+- [prashanthnataraj/mini-shai-hulud-detector](https://github.com/prashanthnataraj/mini-shai-hulud-detector)	<img alt="forks" src="https://img.shields.io/github/forks/prashanthnataraj/mini-shai-hulud-detector">	<img alt="stars" src="https://img.shields.io/github/stars/prashanthnataraj/mini-shai-hulud-detector">
+- [digi4care/shai-scan](https://github.com/digi4care/shai-scan)	<img alt="forks" src="https://img.shields.io/github/forks/digi4care/shai-scan">	<img alt="stars" src="https://img.shields.io/github/stars/digi4care/shai-scan">
+- [Intrudify/mini-shai-hulud-scanner](https://github.com/Intrudify/mini-shai-hulud-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Intrudify/mini-shai-hulud-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Intrudify/mini-shai-hulud-scanner">
+- [Breakingcircuitsllc/teampcp_shai_hulud.yar](https://github.com/Breakingcircuitsllc/teampcp_shai_hulud.yar)	<img alt="forks" src="https://img.shields.io/github/forks/Breakingcircuitsllc/teampcp_shai_hulud.yar">	<img alt="stars" src="https://img.shields.io/github/stars/Breakingcircuitsllc/teampcp_shai_hulud.yar">
+- [Yomisana/are-you-get-tanstack-attack](https://github.com/Yomisana/are-you-get-tanstack-attack)	<img alt="forks" src="https://img.shields.io/github/forks/Yomisana/are-you-get-tanstack-attack">	<img alt="stars" src="https://img.shields.io/github/stars/Yomisana/are-you-get-tanstack-attack">
+- [shayr1/shai-hulud-scan](https://github.com/shayr1/shai-hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/shayr1/shai-hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/shayr1/shai-hulud-scan">
+- [qi-scape/scan-shai-hulud](https://github.com/qi-scape/scan-shai-hulud)	<img alt="forks" src="https://img.shields.io/github/forks/qi-scape/scan-shai-hulud">	<img alt="stars" src="https://img.shields.io/github/stars/qi-scape/scan-shai-hulud">
+- [Caixa-git/tanstack-shield](https://github.com/Caixa-git/tanstack-shield)	<img alt="forks" src="https://img.shields.io/github/forks/Caixa-git/tanstack-shield">	<img alt="stars" src="https://img.shields.io/github/stars/Caixa-git/tanstack-shield">
 
 ---
 ## CVE-2026-45247 ()
@@ -5332,6 +5349,7 @@
 > 
 - [HORKimhab/CVE-2026-20230](https://github.com/HORKimhab/CVE-2026-20230)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20230">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20230">
 - [HalilDeniz/CVE-2026-20230-Scanner](https://github.com/HalilDeniz/CVE-2026-20230-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/HalilDeniz/CVE-2026-20230-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/HalilDeniz/CVE-2026-20230-Scanner">
+- [W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230](https://github.com/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230)	<img alt="forks" src="https://img.shields.io/github/forks/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230">	<img alt="stars" src="https://img.shields.io/github/stars/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230">
 
 ---
 ## CVE-2026-20224 ()

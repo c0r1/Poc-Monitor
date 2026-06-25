@@ -3775,6 +3775,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework](https://github.com/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">
 - [xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss](https://github.com/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">
 - [J1nKsC/CVE-2024-4367_test](https://github.com/J1nKsC/CVE-2024-4367_test)	<img alt="forks" src="https://img.shields.io/github/forks/J1nKsC/CVE-2024-4367_test">	<img alt="stars" src="https://img.shields.io/github/stars/J1nKsC/CVE-2024-4367_test">
+- [veronimo669/pdf.js-CVE-2024-4367](https://github.com/veronimo669/pdf.js-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/veronimo669/pdf.js-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/veronimo669/pdf.js-CVE-2024-4367">
 
 ---
 ## CVE-2024-43639 ()
