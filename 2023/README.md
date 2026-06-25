@@ -8482,6 +8482,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [djayaGit/cve-2023-20198-poc-cisco](https://github.com/djayaGit/cve-2023-20198-poc-cisco)	<img alt="forks" src="https://img.shields.io/github/forks/djayaGit/cve-2023-20198-poc-cisco">	<img alt="stars" src="https://img.shields.io/github/stars/djayaGit/cve-2023-20198-poc-cisco">
 - [gustavorobertux/cisco-cve-2023-20198-checker](https://github.com/gustavorobertux/cisco-cve-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/cisco-cve-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/cisco-cve-2023-20198-checker">
 - [Gill-Singh-A/CVE-2023-20198-Exploit](https://github.com/Gill-Singh-A/CVE-2023-20198-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Gill-Singh-A/CVE-2023-20198-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Gill-Singh-A/CVE-2023-20198-Exploit">
+- [charlesjson/CVE-2023-20198](https://github.com/charlesjson/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/charlesjson/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/charlesjson/CVE-2023-20198">
+- [telly251/forwardnetworksdemo](https://github.com/telly251/forwardnetworksdemo)	<img alt="forks" src="https://img.shields.io/github/forks/telly251/forwardnetworksdemo">	<img alt="stars" src="https://img.shields.io/github/stars/telly251/forwardnetworksdemo">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

@@ -477,6 +477,11 @@
 - [AmesianX/CVE-2026-53435](https://github.com/AmesianX/CVE-2026-53435)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2026-53435">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2026-53435">
 
 ---
+## CVE-2026-53075 ()
+> 
+- [lottiedeyan/CVE-2026-53075poc](https://github.com/lottiedeyan/CVE-2026-53075poc)	<img alt="forks" src="https://img.shields.io/github/forks/lottiedeyan/CVE-2026-53075poc">	<img alt="stars" src="https://img.shields.io/github/stars/lottiedeyan/CVE-2026-53075poc">
+
+---
 ## CVE-2026-52885 ()
 > 
 - [v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52885">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52885">
