@@ -2959,6 +2959,7 @@
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 - [mananispiwpiw/CVE-2025-58434-PoC](https://github.com/mananispiwpiw/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-58434-PoC">
 - [vincent-vbg/CVE-2025-58434-PoC](https://github.com/vincent-vbg/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vincent-vbg/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vincent-vbg/CVE-2025-58434-PoC">
+- [00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC](https://github.com/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">
 
 ---
 ## CVE-2025-5840 ()
