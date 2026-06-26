@@ -1049,6 +1049,11 @@
 - [Vusal777/CVE-2026-4480-exploit-poc](https://github.com/Vusal777/CVE-2026-4480-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Vusal777/CVE-2026-4480-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Vusal777/CVE-2026-4480-exploit-poc">
 
 ---
+## CVE-2026-44788 ()
+> 
+- [e-corp-demo/CVE-2026-44788](https://github.com/e-corp-demo/CVE-2026-44788)	<img alt="forks" src="https://img.shields.io/github/forks/e-corp-demo/CVE-2026-44788">	<img alt="stars" src="https://img.shields.io/github/stars/e-corp-demo/CVE-2026-44788">
+
+---
 ## CVE-2026-44706 ()
 > 
 - [hakaioffsec/CVE-2026-44706](https://github.com/hakaioffsec/CVE-2026-44706)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-44706">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-44706">
@@ -1131,6 +1136,7 @@
 > 
 - [0xBlackash/CVE-2026-43503](https://github.com/0xBlackash/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43503">
 - [mooder1/dirtyclone-CVE-2026-43503](https://github.com/mooder1/dirtyclone-CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/dirtyclone-CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/dirtyclone-CVE-2026-43503">
+- [aexdyhaxor/CVE-2026-43503-DirtyClone](https://github.com/aexdyhaxor/CVE-2026-43503-DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-43503-DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-43503-DirtyClone">
 
 ---
 ## CVE-2026-43500 ()
