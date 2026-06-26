@@ -105,6 +105,7 @@
 - [anyanything/CVE-2026-8461-PoC](https://github.com/anyanything/CVE-2026-8461-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anyanything/CVE-2026-8461-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anyanything/CVE-2026-8461-PoC">
 - [HORKimhab/CVE-2026-8461](https://github.com/HORKimhab/CVE-2026-8461)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8461">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8461">
 - [Y5neKO/CVE-2026-8461-EXP](https://github.com/Y5neKO/CVE-2026-8461-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Y5neKO/CVE-2026-8461-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Y5neKO/CVE-2026-8461-EXP">
+- [0xBlackash/CVE-2026-8461](https://github.com/0xBlackash/CVE-2026-8461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8461">
 
 ---
 ## CVE-2026-8389 ()
@@ -2234,6 +2235,7 @@
 > 
 - [0xBlackash/CVE-2026-35273](https://github.com/0xBlackash/CVE-2026-35273)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-35273">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-35273">
 - [HORKimhab/CVE-2026-35273](https://github.com/HORKimhab/CVE-2026-35273)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-35273">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-35273">
+- [12hrformat/CVE-2026-35273-POC](https://github.com/12hrformat/CVE-2026-35273-POC)	<img alt="forks" src="https://img.shields.io/github/forks/12hrformat/CVE-2026-35273-POC">	<img alt="stars" src="https://img.shields.io/github/stars/12hrformat/CVE-2026-35273-POC">
 
 ---
 ## CVE-2026-35250 ()
@@ -3874,6 +3876,7 @@
 - [Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980](https://github.com/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980">
 - [EQSTLab/CVE-2026-26980](https://github.com/EQSTLab/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-26980">
 - [ByteWraith1/CVE-2026-26980](https://github.com/ByteWraith1/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-26980">
+- [gagaltotal/CVE-2026-26980-Ghost-CMS-Api](https://github.com/gagaltotal/CVE-2026-26980-Ghost-CMS-Api)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-26980-Ghost-CMS-Api">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-26980-Ghost-CMS-Api">
 
 ---
 ## CVE-2026-26903 ()
@@ -4425,6 +4428,11 @@
 - [LennertDefauw1/CVE-2026-24291](https://github.com/LennertDefauw1/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/LennertDefauw1/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/LennertDefauw1/CVE-2026-24291">
 - [n0isegat3/RegPwnBRc4BOF](https://github.com/n0isegat3/RegPwnBRc4BOF)	<img alt="forks" src="https://img.shields.io/github/forks/n0isegat3/RegPwnBRc4BOF">	<img alt="stars" src="https://img.shields.io/github/stars/n0isegat3/RegPwnBRc4BOF">
 - [uname1able/CVE-2026-24291](https://github.com/uname1able/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2026-24291">
+
+---
+## CVE-2026-24207 ()
+> 
+- [offseckit/CVE-2026-24207](https://github.com/offseckit/CVE-2026-24207)	<img alt="forks" src="https://img.shields.io/github/forks/offseckit/CVE-2026-24207">	<img alt="stars" src="https://img.shields.io/github/stars/offseckit/CVE-2026-24207">
 
 ---
 ## CVE-2026-24136 ()
