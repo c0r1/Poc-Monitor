@@ -799,6 +799,11 @@
 - [mus1imbek/CVE-2026-48030](https://github.com/mus1imbek/CVE-2026-48030)	<img alt="forks" src="https://img.shields.io/github/forks/mus1imbek/CVE-2026-48030">	<img alt="stars" src="https://img.shields.io/github/stars/mus1imbek/CVE-2026-48030">
 
 ---
+## CVE-2026-48020 ()
+> 
+- [Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization](https://github.com/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization">
+
+---
 ## CVE-2026-48017 ()
 > 
 - [romain-deperne/CVE-2026-48017](https://github.com/romain-deperne/CVE-2026-48017)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-48017">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-48017">
@@ -2123,6 +2128,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36834 ()
+> 
+- [kpatsakis/CVE-2026-36834](https://github.com/kpatsakis/CVE-2026-36834)	<img alt="forks" src="https://img.shields.io/github/forks/kpatsakis/CVE-2026-36834">	<img alt="stars" src="https://img.shields.io/github/stars/kpatsakis/CVE-2026-36834">
 
 ---
 ## CVE-2026-36826 ()
