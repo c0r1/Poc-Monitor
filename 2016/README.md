@@ -544,6 +544,7 @@
 - [FrancoisCapon/TurtwigRidesDirtyCOW](https://github.com/FrancoisCapon/TurtwigRidesDirtyCOW)	<img alt="forks" src="https://img.shields.io/github/forks/FrancoisCapon/TurtwigRidesDirtyCOW">	<img alt="stars" src="https://img.shields.io/github/stars/FrancoisCapon/TurtwigRidesDirtyCOW">
 - [mohammadamin382/dirtycow-lab](https://github.com/mohammadamin382/dirtycow-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mohammadamin382/dirtycow-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mohammadamin382/dirtycow-lab">
 - [Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">
+- [gogooma125732/CVE-2016-5195](https://github.com/gogooma125732/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/gogooma125732/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/gogooma125732/CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
