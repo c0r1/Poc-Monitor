@@ -485,6 +485,12 @@
 - [izxci/CVE-2026-5411](https://github.com/izxci/CVE-2026-5411)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5411">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5411">
 
 ---
+## CVE-2026-5366 ()
+> 
+- [renat0z3r0/prefect-cve-2026-5366](https://github.com/renat0z3r0/prefect-cve-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/prefect-cve-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/prefect-cve-2026-5366">
+- [renat0z3r0/CVE-2026-5366](https://github.com/renat0z3r0/CVE-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/CVE-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/CVE-2026-5366">
+
+---
 ## CVE-2026-53582 ()
 > 
 - [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
