@@ -4284,6 +4284,7 @@
 - [Fomovet/cve-2025-55182](https://github.com/Fomovet/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-55182">
 - [avoidme12/CVE-2025-55182-POC](https://github.com/avoidme12/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/avoidme12/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/avoidme12/CVE-2025-55182-POC">
 - [litndat/React2Shell-PoC-CVE-2025-55182](https://github.com/litndat/React2Shell-PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/React2Shell-PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/React2Shell-PoC-CVE-2025-55182">
+- [k1llmelira/react2shell-exploit](https://github.com/k1llmelira/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/k1llmelira/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/k1llmelira/react2shell-exploit">
 
 ---
 ## CVE-2025-55130 ()
@@ -8455,7 +8456,7 @@
 ## CVE-2025-27591 ()
 > 
 - [obamalaolu/CVE-2025-27591](https://github.com/obamalaolu/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/obamalaolu/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/obamalaolu/CVE-2025-27591">
-- [rvizx/CVE-2025-27591](https://github.com/rvizx/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-27591">
+- [rvzsec/CVE-2025-27591](https://github.com/rvzsec/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2025-27591">
 - [BridgerAlderson/CVE-2025-27591-PoC](https://github.com/BridgerAlderson/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-27591-PoC">
 - [DarksBlackSk/CVE-2025-27591](https://github.com/DarksBlackSk/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/DarksBlackSk/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/DarksBlackSk/CVE-2025-27591">
 - [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
