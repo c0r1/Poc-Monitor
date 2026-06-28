@@ -437,6 +437,11 @@
 - [Saku0512/CVE-2026-54761-poc](https://github.com/Saku0512/CVE-2026-54761-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54761-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54761-poc">
 
 ---
+## CVE-2026-54686 ()
+> 
+- [Saku0512/CVE-2026-54686-poc](https://github.com/Saku0512/CVE-2026-54686-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54686-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54686-poc">
+
+---
 ## CVE-2026-5465 ()
 > 
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
@@ -483,6 +488,11 @@
 ## CVE-2026-5411 ()
 > 
 - [izxci/CVE-2026-5411](https://github.com/izxci/CVE-2026-5411)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5411">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5411">
+
+---
+## CVE-2026-54088 ()
+> 
+- [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
 
 ---
 ## CVE-2026-5366 ()
@@ -760,6 +770,11 @@
 - [kavin-jindal/CVE-2026-48778-PoC](https://github.com/kavin-jindal/CVE-2026-48778-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kavin-jindal/CVE-2026-48778-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kavin-jindal/CVE-2026-48778-PoC">
 - [atiilla/Notepad-8.9.6-PoC](https://github.com/atiilla/Notepad-8.9.6-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/Notepad-8.9.6-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/Notepad-8.9.6-PoC">
 - [XK3NF4/CVE-2026-48778](https://github.com/XK3NF4/CVE-2026-48778)	<img alt="forks" src="https://img.shields.io/github/forks/XK3NF4/CVE-2026-48778">	<img alt="stars" src="https://img.shields.io/github/stars/XK3NF4/CVE-2026-48778">
+
+---
+## CVE-2026-48732 ()
+> 
+- [Saku0512/CVE-2026-48732-poc](https://github.com/Saku0512/CVE-2026-48732-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-48732-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-48732-poc">
 
 ---
 ## CVE-2026-48710 ()
