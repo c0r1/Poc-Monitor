@@ -4799,6 +4799,7 @@
 - [Bencodin/CVE-2026-23918-poc](https://github.com/Bencodin/CVE-2026-23918-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Bencodin/CVE-2026-23918-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Bencodin/CVE-2026-23918-poc">
 - [sibersan/apache_audit_cve-2026-23918](https://github.com/sibersan/apache_audit_cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/apache_audit_cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/apache_audit_cve-2026-23918">
 - [Bencodin/CVE-2026-23918-poc](https://github.com/Bencodin/CVE-2026-23918-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Bencodin/CVE-2026-23918-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Bencodin/CVE-2026-23918-poc">
+- [gagaltotal/CVE-2026-23918-Double-free-Apache-httpd-mod_http2](https://github.com/gagaltotal/CVE-2026-23918-Double-free-Apache-httpd-mod_http2)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-23918-Double-free-Apache-httpd-mod_http2">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-23918-Double-free-Apache-httpd-mod_http2">
 
 ---
 ## CVE-2026-23885 ()
