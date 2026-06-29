@@ -7762,6 +7762,9 @@
 - [Drelinss/Blackash-CVE-2025-31161](https://github.com/Drelinss/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Drelinss/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Drelinss/Blackash-CVE-2025-31161">
 - [eserror/CVE-2025-31161](https://github.com/eserror/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/eserror/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/eserror/CVE-2025-31161">
 - [0xBlackash/CVE-2025-31161](https://github.com/0xBlackash/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-31161">
+- [rufflabs/ludus_crushftp_cve-2025-31161_sim](https://github.com/rufflabs/ludus_crushftp_cve-2025-31161_sim)	<img alt="forks" src="https://img.shields.io/github/forks/rufflabs/ludus_crushftp_cve-2025-31161_sim">	<img alt="stars" src="https://img.shields.io/github/stars/rufflabs/ludus_crushftp_cve-2025-31161_sim">
+- [rufflabs/ludus_crushftp_cve-2025-31161](https://github.com/rufflabs/ludus_crushftp_cve-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/rufflabs/ludus_crushftp_cve-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/rufflabs/ludus_crushftp_cve-2025-31161">
+- [rufflabs/crushftp_cve-2025-31161](https://github.com/rufflabs/crushftp_cve-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/rufflabs/crushftp_cve-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/rufflabs/crushftp_cve-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
