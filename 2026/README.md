@@ -424,6 +424,7 @@
 ## CVE-2026-55200 ()
 > 
 - [0xBlackash/CVE-2026-55200](https://github.com/0xBlackash/CVE-2026-55200)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-55200">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-55200">
+- [xd20111/CVE-2026-55200](https://github.com/xd20111/CVE-2026-55200)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-55200">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-55200">
 
 ---
 ## CVE-2026-55168 ()
@@ -723,6 +724,11 @@
 ## CVE-2026-48962 ()
 > 
 - [JoakimBulow/CVE-2026-48962](https://github.com/JoakimBulow/CVE-2026-48962)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-48962">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-48962">
+
+---
+## CVE-2026-48939 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-48939](https://github.com/Polosss/By-Poloss..-..CVE-2026-48939)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-48939">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-48939">
 
 ---
 ## CVE-2026-48909 ()
@@ -5142,6 +5148,11 @@
 - [CVEs-Labs/CVE-2026-22241](https://github.com/CVEs-Labs/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-22241">
 - [Ashifcoder/CVE-2026-22241](https://github.com/Ashifcoder/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/Ashifcoder/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/Ashifcoder/CVE-2026-22241">
 - [0xBlackash/CVE-2026-22241](https://github.com/0xBlackash/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22241">
+
+---
+## CVE-2026-22226 ()
+> 
+- [LucasVanHaaren/CVE-2026-22226](https://github.com/LucasVanHaaren/CVE-2026-22226)	<img alt="forks" src="https://img.shields.io/github/forks/LucasVanHaaren/CVE-2026-22226">	<img alt="stars" src="https://img.shields.io/github/stars/LucasVanHaaren/CVE-2026-22226">
 
 ---
 ## CVE-2026-22200 ()
