@@ -397,6 +397,11 @@
 - [xxconi/CVE-2026-5718-PR-V-EXPLO-T](https://github.com/xxconi/CVE-2026-5718-PR-V-EXPLO-T)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5718-PR-V-EXPLO-T">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5718-PR-V-EXPLO-T">
 
 ---
+## CVE-2026-56782 ()
+> 
+- [BiiTts/CVE-2026-56782-Gorse-Auth-Bypass](https://github.com/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">
+
+---
 ## CVE-2026-5615 ()
 > 
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
@@ -6239,6 +6244,11 @@
 ## CVE-2026-00000 ()
 > 
 - [4ybrick/CVE-2026-00000](https://github.com/4ybrick/CVE-2026-00000)	<img alt="forks" src="https://img.shields.io/github/forks/4ybrick/CVE-2026-00000">	<img alt="stars" src="https://img.shields.io/github/stars/4ybrick/CVE-2026-00000">
+
+---
+## CVE-2026-0000 ()
+> 
+- [lucidsearch/cve-2026-0000-reference](https://github.com/lucidsearch/cve-2026-0000-reference)	<img alt="forks" src="https://img.shields.io/github/forks/lucidsearch/cve-2026-0000-reference">	<img alt="stars" src="https://img.shields.io/github/stars/lucidsearch/cve-2026-0000-reference">
 
 ---
 ## CVE-2026-000 ()
