@@ -406,6 +406,11 @@
 - [Christbowel/CVE-2026-56111](https://github.com/Christbowel/CVE-2026-56111)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-56111">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-56111">
 
 ---
+## CVE-2026-5562 ()
+> 
+- [HutTwoThreeFour/CVE-2026-5562-Exploit](https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HutTwoThreeFour/CVE-2026-5562-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HutTwoThreeFour/CVE-2026-5562-Exploit">
+
+---
 ## CVE-2026-55584 ()
 > 
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
@@ -747,6 +752,7 @@
 - [0xgh057r3c0n/CVE-2026-48907](https://github.com/0xgh057r3c0n/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-48907">
 - [gh1mau/masta-cve-2026-48907](https://github.com/gh1mau/masta-cve-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/gh1mau/masta-cve-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/gh1mau/masta-cve-2026-48907">
 - [grayxploit/CVE-2026-48907](https://github.com/grayxploit/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/grayxploit/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/grayxploit/CVE-2026-48907">
+- [xitexploiter96-dot/CVE-2026-48907-](https://github.com/xitexploiter96-dot/CVE-2026-48907-)	<img alt="forks" src="https://img.shields.io/github/forks/xitexploiter96-dot/CVE-2026-48907-">	<img alt="stars" src="https://img.shields.io/github/stars/xitexploiter96-dot/CVE-2026-48907-">
 
 ---
 ## CVE-2026-48866 ()
@@ -4541,6 +4547,7 @@
 - [lukasz-rybak/CVE-2026-24417](https://github.com/lukasz-rybak/CVE-2026-24417)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24417">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24417">
 - [lukasz-rybak/CVE-2026-24416](https://github.com/lukasz-rybak/CVE-2026-24416)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24416">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24416">
 - [MartinaStarone/CVE-2026-2441](https://github.com/MartinaStarone/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/MartinaStarone/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/MartinaStarone/CVE-2026-2441">
+- [BridgerAlderson/CVE-2026-24418](https://github.com/BridgerAlderson/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-24418">
 
 ---
 ## CVE-2026-24306 ()
