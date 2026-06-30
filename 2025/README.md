@@ -6763,6 +6763,7 @@
 ## CVE-2025-40271 ()
 > 
 - [kaleth4/CVE-2025-40271](https://github.com/kaleth4/CVE-2025-40271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-40271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-40271">
+- [MadExploits/CVE-2025-40271](https://github.com/MadExploits/CVE-2025-40271)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/CVE-2025-40271">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/CVE-2025-40271">
 
 ---
 ## CVE-2025-40214 ()
