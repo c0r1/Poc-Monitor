@@ -7452,6 +7452,7 @@
 - [B1tBit/CVE-2025-32434-exploit](https://github.com/B1tBit/CVE-2025-32434-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBit/CVE-2025-32434-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBit/CVE-2025-32434-exploit">
 - [Cheval-Paresseux/cve_2025_32434](https://github.com/Cheval-Paresseux/cve_2025_32434)	<img alt="forks" src="https://img.shields.io/github/forks/Cheval-Paresseux/cve_2025_32434">	<img alt="stars" src="https://img.shields.io/github/stars/Cheval-Paresseux/cve_2025_32434">
 - [Soildworks/Agentic-CLIP-Benchmark](https://github.com/Soildworks/Agentic-CLIP-Benchmark)	<img alt="forks" src="https://img.shields.io/github/forks/Soildworks/Agentic-CLIP-Benchmark">	<img alt="stars" src="https://img.shields.io/github/stars/Soildworks/Agentic-CLIP-Benchmark">
+- [AlexanderGumeniuk/CVE-2025-32434](https://github.com/AlexanderGumeniuk/CVE-2025-32434)	<img alt="forks" src="https://img.shields.io/github/forks/AlexanderGumeniuk/CVE-2025-32434">	<img alt="stars" src="https://img.shields.io/github/stars/AlexanderGumeniuk/CVE-2025-32434">
 
 ---
 ## CVE-2025-32433 ()
