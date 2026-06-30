@@ -797,6 +797,7 @@
 - [xitexploiter96-dot/CVE-2026-48907-](https://github.com/xitexploiter96-dot/CVE-2026-48907-)	<img alt="forks" src="https://img.shields.io/github/forks/xitexploiter96-dot/CVE-2026-48907-">	<img alt="stars" src="https://img.shields.io/github/stars/xitexploiter96-dot/CVE-2026-48907-">
 - [K3ysTr0K3R/CVE-2026-48907](https://github.com/K3ysTr0K3R/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-48907">
 - [Almavj/Joomla_CVE_2026_48907](https://github.com/Almavj/Joomla_CVE_2026_48907)	<img alt="forks" src="https://img.shields.io/github/forks/Almavj/Joomla_CVE_2026_48907">	<img alt="stars" src="https://img.shields.io/github/stars/Almavj/Joomla_CVE_2026_48907">
+- [pssec-io/CVE-2026-48907](https://github.com/pssec-io/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -5196,6 +5197,7 @@
 - [0xBlackash/CVE-2026-22557](https://github.com/0xBlackash/CVE-2026-22557)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22557">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22557">
 - [ThePotatoOfDoom/CVE-2026-22557-PoC](https://github.com/ThePotatoOfDoom/CVE-2026-22557-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ThePotatoOfDoom/CVE-2026-22557-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ThePotatoOfDoom/CVE-2026-22557-PoC">
 - [BishopFox/CVE-2026-22557-check](https://github.com/BishopFox/CVE-2026-22557-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-22557-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-22557-check">
+- [gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi](https://github.com/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi">
 
 ---
 ## CVE-2026-22553 ()
@@ -5428,6 +5430,8 @@
 - [planetoid/cve-2026-21509-mitigation](https://github.com/planetoid/cve-2026-21509-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/planetoid/cve-2026-21509-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/planetoid/cve-2026-21509-mitigation">
 - [suuhm/CVE-2026-21509-handler](https://github.com/suuhm/CVE-2026-21509-handler)	<img alt="forks" src="https://img.shields.io/github/forks/suuhm/CVE-2026-21509-handler">	<img alt="stars" src="https://img.shields.io/github/stars/suuhm/CVE-2026-21509-handler">
 - [DameDode/CVE-2026-21509-POC](https://github.com/DameDode/CVE-2026-21509-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DameDode/CVE-2026-21509-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DameDode/CVE-2026-21509-POC">
+- [sentinel-aidefense/CVE-2026-21509](https://github.com/sentinel-aidefense/CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-21509">
+- [YoussefMami/CVE2026_21509](https://github.com/YoussefMami/CVE2026_21509)	<img alt="forks" src="https://img.shields.io/github/forks/YoussefMami/CVE2026_21509">	<img alt="stars" src="https://img.shields.io/github/stars/YoussefMami/CVE2026_21509">
 
 ---
 ## CVE-2026-21508 ()
