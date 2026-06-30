@@ -437,6 +437,11 @@
 - [davidrxchester/CVE-2026-5530](https://github.com/davidrxchester/CVE-2026-5530)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-5530">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-5530">
 
 ---
+## CVE-2026-55255 ()
+> 
+- [rootdirective-sec/CVE-2026-55255-Lab](https://github.com/rootdirective-sec/CVE-2026-55255-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-55255-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-55255-Lab">
+
+---
 ## CVE-2026-55200 ()
 > 
 - [0xBlackash/CVE-2026-55200](https://github.com/0xBlackash/CVE-2026-55200)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-55200">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-55200">
@@ -672,6 +677,11 @@
 ## CVE-2026-49952 ()
 > 
 - [passwa11/CVE-2026-49952](https://github.com/passwa11/CVE-2026-49952)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-49952">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-49952">
+
+---
+## CVE-2026-49869 ()
+> 
+- [Ap0dexMe0/CVE-2026-49869](https://github.com/Ap0dexMe0/CVE-2026-49869)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2026-49869">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2026-49869">
 
 ---
 ## CVE-2026-49777 ()
@@ -926,6 +936,7 @@
 > 
 - [0xBlackash/CVE-2026-46817](https://github.com/0xBlackash/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46817">
 - [HORKimhab/CVE-2026-46817](https://github.com/HORKimhab/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46817">
+- [CIA911/cve-2026-46817_PoC](https://github.com/CIA911/cve-2026-46817_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CIA911/cve-2026-46817_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CIA911/cve-2026-46817_PoC">
 
 ---
 ## CVE-2026-46716 ()

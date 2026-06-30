@@ -750,6 +750,7 @@
 - [xorandd/CVE-2025-69212-PoC](https://github.com/xorandd/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xorandd/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xorandd/CVE-2025-69212-PoC">
 - [w3nch/CVE-2025-69212](https://github.com/w3nch/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/w3nch/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/w3nch/CVE-2025-69212">
 - [jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC](https://github.com/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC">
+- [BridgerAlderson/CVE-2025-69212-PoC](https://github.com/BridgerAlderson/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-69212-PoC">
 
 ---
 ## CVE-2025-69194 ()
