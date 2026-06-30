@@ -543,6 +543,11 @@
 - [lottiedeyan/CVE-2026-53075poc](https://github.com/lottiedeyan/CVE-2026-53075poc)	<img alt="forks" src="https://img.shields.io/github/forks/lottiedeyan/CVE-2026-53075poc">	<img alt="stars" src="https://img.shields.io/github/stars/lottiedeyan/CVE-2026-53075poc">
 
 ---
+## CVE-2026-52943 ()
+> 
+- [vn-lazyming/CVE-2026-52943](https://github.com/vn-lazyming/CVE-2026-52943)	<img alt="forks" src="https://img.shields.io/github/forks/vn-lazyming/CVE-2026-52943">	<img alt="stars" src="https://img.shields.io/github/stars/vn-lazyming/CVE-2026-52943">
+
+---
 ## CVE-2026-52885 ()
 > 
 - [v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52885">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52885">
