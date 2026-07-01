@@ -1272,6 +1272,11 @@
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
 
 ---
+## CVE-2026-43735 ()
+> 
+- [dem0ns/CVE-2026-43735](https://github.com/dem0ns/CVE-2026-43735)	<img alt="forks" src="https://img.shields.io/github/forks/dem0ns/CVE-2026-43735">	<img alt="stars" src="https://img.shields.io/github/stars/dem0ns/CVE-2026-43735">
+
+---
 ## CVE-2026-43700 ()
 > 
 - [dem0ns/CVE-2026-43700](https://github.com/dem0ns/CVE-2026-43700)	<img alt="forks" src="https://img.shields.io/github/forks/dem0ns/CVE-2026-43700">	<img alt="stars" src="https://img.shields.io/github/stars/dem0ns/CVE-2026-43700">
@@ -5101,6 +5106,7 @@
 - [criann/check-cve-2026-23111](https://github.com/criann/check-cve-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/criann/check-cve-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/criann/check-cve-2026-23111">
 - [ishankaru/CVE-2026-23111-nftables-lab](https://github.com/ishankaru/CVE-2026-23111-nftables-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ishankaru/CVE-2026-23111-nftables-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ishankaru/CVE-2026-23111-nftables-lab">
 - [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
+- [bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bakano98/cve-2026-23111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bakano98/cve-2026-23111-poc">
 
 ---
 ## CVE-2026-22862 ()
