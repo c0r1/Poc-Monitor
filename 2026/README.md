@@ -261,6 +261,11 @@
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
 
 ---
+## CVE-2026-71384 ()
+> 
+- [Scorpion-Security-Labs/CVE-2026-71384](https://github.com/Scorpion-Security-Labs/CVE-2026-71384)	<img alt="forks" src="https://img.shields.io/github/forks/Scorpion-Security-Labs/CVE-2026-71384">	<img alt="stars" src="https://img.shields.io/github/stars/Scorpion-Security-Labs/CVE-2026-71384">
+
+---
 ## CVE-2026-7020 ()
 > 
 - [davidrxchester/CVE-2026-7020](https://github.com/davidrxchester/CVE-2026-7020)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7020">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7020">
@@ -2139,6 +2144,7 @@
 > 
 - [b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751](https://github.com/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751">
 - [Why-Shell/CVE-2026-38751](https://github.com/Why-Shell/CVE-2026-38751)	<img alt="forks" src="https://img.shields.io/github/forks/Why-Shell/CVE-2026-38751">	<img alt="stars" src="https://img.shields.io/github/stars/Why-Shell/CVE-2026-38751">
+- [hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-](https://github.com/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-)	<img alt="forks" src="https://img.shields.io/github/forks/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-">	<img alt="stars" src="https://img.shields.io/github/stars/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-">
 
 ---
 ## CVE-2026-38698 ()
