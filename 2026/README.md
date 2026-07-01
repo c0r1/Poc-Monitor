@@ -345,6 +345,7 @@
 ## CVE-2026-6307 ()
 > 
 - [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/CVE-2026-6307">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/CVE-2026-6307">
+- [J4ck3LSyN-Gen2/CVE-2026-6307-Longinus](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus">
 
 ---
 ## CVE-2026-6279 ()
@@ -530,6 +531,11 @@
 ## CVE-2026-5426 ()
 > 
 - [HORKimhab/CVE-2026-5426](https://github.com/HORKimhab/CVE-2026-5426)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-5426">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-5426">
+
+---
+## CVE-2026-54161 ()
+> 
+- [ja-errorpro/CVE-2026-54161](https://github.com/ja-errorpro/CVE-2026-54161)	<img alt="forks" src="https://img.shields.io/github/forks/ja-errorpro/CVE-2026-54161">	<img alt="stars" src="https://img.shields.io/github/stars/ja-errorpro/CVE-2026-54161">
 
 ---
 ## CVE-2026-5415 ()
