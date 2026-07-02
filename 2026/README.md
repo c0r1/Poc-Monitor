@@ -635,6 +635,11 @@
 - [aydin5245/CVE-2026-5252-CVE-POC-ivanti](https://github.com/aydin5245/CVE-2026-5252-CVE-POC-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2026-5252-CVE-POC-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2026-5252-CVE-POC-ivanti">
 
 ---
+## CVE-2026-52217 ()
+> 
+- [teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR](https://github.com/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">
+
+---
 ## CVE-2026-5203 ()
 > 
 - [CaginKyr/CVE-2026-5203](https://github.com/CaginKyr/CVE-2026-5203)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-5203">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-5203">
@@ -2169,6 +2174,7 @@
 - [b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751](https://github.com/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751">
 - [Why-Shell/CVE-2026-38751](https://github.com/Why-Shell/CVE-2026-38751)	<img alt="forks" src="https://img.shields.io/github/forks/Why-Shell/CVE-2026-38751">	<img alt="stars" src="https://img.shields.io/github/stars/Why-Shell/CVE-2026-38751">
 - [hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-](https://github.com/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-)	<img alt="forks" src="https://img.shields.io/github/forks/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-">	<img alt="stars" src="https://img.shields.io/github/stars/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-">
+- [Mkps/CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC](https://github.com/Mkps/CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mkps/CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mkps/CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC">
 
 ---
 ## CVE-2026-38698 ()
