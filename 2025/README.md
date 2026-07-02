@@ -753,6 +753,7 @@
 - [BridgerAlderson/CVE-2025-69212-PoC](https://github.com/BridgerAlderson/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-69212-PoC">
 - [alaeddine03/CVE-2025-69212-PoC](https://github.com/alaeddine03/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alaeddine03/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alaeddine03/CVE-2025-69212-PoC">
 - [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
+- [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
 ## CVE-2025-69194 ()
@@ -3103,6 +3104,7 @@
 - [rashedhasan090/CVE-2025-5777](https://github.com/rashedhasan090/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/CVE-2025-5777">
 - [0xBlackash/CVE-2025-5777](https://github.com/0xBlackash/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-5777">
 - [Anshika2709/Citrixbleed2-CVE-2025-5777](https://github.com/Anshika2709/Citrixbleed2-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Anshika2709/Citrixbleed2-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Anshika2709/Citrixbleed2-CVE-2025-5777">
+- [sentinel-aidefense/CVE-2025-5777](https://github.com/sentinel-aidefense/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
