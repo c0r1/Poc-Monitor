@@ -46,6 +46,11 @@
 - [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip)	<img alt="forks" src="https://img.shields.io/github/forks/y198nt/Nginx-chain-Rift-Poolslip">	<img alt="stars" src="https://img.shields.io/github/stars/y198nt/Nginx-chain-Rift-Poolslip">
 
 ---
+## CVE-2026-9090 ()
+> 
+- [biosGit/CVE-2026-9090](https://github.com/biosGit/CVE-2026-9090)	<img alt="forks" src="https://img.shields.io/github/forks/biosGit/CVE-2026-9090">	<img alt="stars" src="https://img.shields.io/github/stars/biosGit/CVE-2026-9090">
+
+---
 ## CVE-2026-9082 ()
 > 
 - [0xBlackash/CVE-2026-9082](https://github.com/0xBlackash/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-9082">
@@ -519,6 +524,11 @@
 > 
 - [87achrafg-stack/CVE-2026-5513](https://github.com/87achrafg-stack/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-5513">
 - [Xaanziu/CVE-2026-5513](https://github.com/Xaanziu/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/Xaanziu/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/Xaanziu/CVE-2026-5513">
+
+---
+## CVE-2026-54998 ()
+> 
+- [sentinel-aidefense/CVE-2026-54998-exp](https://github.com/sentinel-aidefense/CVE-2026-54998-exp)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-54998-exp">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-54998-exp">
 
 ---
 ## CVE-2026-54807 ()
