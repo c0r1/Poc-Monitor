@@ -5735,6 +5735,7 @@
 > 
 - [kaleth4/CVE-2026-20896](https://github.com/kaleth4/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20896">
 - [rz1027/CVE-2026-20896](https://github.com/rz1027/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/rz1027/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/rz1027/CVE-2026-20896">
+- [rz1027/CVE-2026-20896](https://github.com/rz1027/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/rz1027/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/rz1027/CVE-2026-20896">
 
 ---
 ## CVE-2026-20856 ()
