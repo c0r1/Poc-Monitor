@@ -2212,6 +2212,7 @@
 ## CVE-2026-39047 ()
 > 
 - [J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-39047">
+- [AzhariRamadhan/CVE-2026-39047](https://github.com/AzhariRamadhan/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/AzhariRamadhan/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/AzhariRamadhan/CVE-2026-39047">
 
 ---
 ## CVE-2026-39031 ()
@@ -5220,6 +5221,7 @@
 - [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
 - [dzmind2312/Mass-CVE-2026-23550-Exploit](https://github.com/dzmind2312/Mass-CVE-2026-23550-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/Mass-CVE-2026-23550-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/Mass-CVE-2026-23550-Exploit">
 - [Cyber-DarkNay/CVE-2026-23550](https://github.com/Cyber-DarkNay/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-23550">
+- [1beelze/CVE-2026-23550](https://github.com/1beelze/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-23550">
 
 ---
 ## CVE-2026-23524 ()
