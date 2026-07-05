@@ -4127,6 +4127,8 @@
 - [NULL200OK/-nginxui_discover](https://github.com/NULL200OK/-nginxui_discover)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/-nginxui_discover">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/-nginxui_discover">
 - [Goultarde/CVE-2026-27944-poc](https://github.com/Goultarde/CVE-2026-27944-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2026-27944-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2026-27944-poc">
 - [jake-young-dev/CVE-2026-27944](https://github.com/jake-young-dev/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-27944">
+- [BimaBalance/Cve-2026-27944-Tools-Exploit](https://github.com/BimaBalance/Cve-2026-27944-Tools-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BimaBalance/Cve-2026-27944-Tools-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BimaBalance/Cve-2026-27944-Tools-Exploit">
+- [karimelsheikh1/HTB-Snapped-Writeup](https://github.com/karimelsheikh1/HTB-Snapped-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Snapped-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Snapped-Writeup">
 
 ---
 ## CVE-2026-27940 ()
@@ -4963,7 +4965,7 @@
 - [ridpath/Terrminus-CVE-2026-2406](https://github.com/ridpath/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-2406">
 - [ibrahmsql/CVE-2026-24061-PoC](https://github.com/ibrahmsql/CVE-2026-24061-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-24061-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-24061-PoC">
 - [SeptembersEND/CVE--2026-24061](https://github.com/SeptembersEND/CVE--2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SeptembersEND/CVE--2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SeptembersEND/CVE--2026-24061">
-- [franckferman/CVE_2026_24061](https://github.com/franckferman/CVE_2026_24061)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE_2026_24061">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE_2026_24061">
+- [franckferman/CVE-2026-24061](https://github.com/franckferman/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE-2026-24061">
 - [Good123321-bot/CVE-2026-24061-POC](https://github.com/Good123321-bot/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/CVE-2026-24061-POC">
 - [Moxxic1/moxxic1.github.io](https://github.com/Moxxic1/moxxic1.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Moxxic1/moxxic1.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Moxxic1/moxxic1.github.io">
 - [Moxxic1/Tell-Me-Root](https://github.com/Moxxic1/Tell-Me-Root)	<img alt="forks" src="https://img.shields.io/github/forks/Moxxic1/Tell-Me-Root">	<img alt="stars" src="https://img.shields.io/github/stars/Moxxic1/Tell-Me-Root">
