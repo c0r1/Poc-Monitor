@@ -909,6 +909,7 @@
 - [ogenich/CVE-2026-48908](https://github.com/ogenich/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/ogenich/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/ogenich/CVE-2026-48908">
 - [0xBlackash/CVE-2026-48908](https://github.com/0xBlackash/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-48908">
 - [bayu06802/CVE-2026-48908](https://github.com/bayu06802/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/bayu06802/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/bayu06802/CVE-2026-48908">
+- [ayiezola/CVE-2026-48908](https://github.com/ayiezola/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/ayiezola/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/ayiezola/CVE-2026-48908">
 
 ---
 ## CVE-2026-48907 ()
@@ -5303,6 +5304,7 @@
 ## CVE-2026-22874 ()
 > 
 - [M8seven/cve-2026-22874-gitea-ssrf-allowlist](https://github.com/M8seven/cve-2026-22874-gitea-ssrf-allowlist)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-22874-gitea-ssrf-allowlist">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-22874-gitea-ssrf-allowlist">
+- [Eliot-code/CVE-2026-22874-PoC](https://github.com/Eliot-code/CVE-2026-22874-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-22874-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-22874-PoC">
 
 ---
 ## CVE-2026-22862 ()
