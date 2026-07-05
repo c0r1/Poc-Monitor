@@ -3692,6 +3692,11 @@
 - [Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker](https://github.com/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">
 
 ---
+## CVE-2026-31309 ()
+> 
+- [Sch8ill/CVE-2026-31309](https://github.com/Sch8ill/CVE-2026-31309)	<img alt="forks" src="https://img.shields.io/github/forks/Sch8ill/CVE-2026-31309">	<img alt="stars" src="https://img.shields.io/github/stars/Sch8ill/CVE-2026-31309">
+
+---
 ## CVE-2026-31283 ()
 > 
 - [saykino/CVE-2026-31283](https://github.com/saykino/CVE-2026-31283)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2026-31283">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2026-31283">
