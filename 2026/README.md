@@ -31,6 +31,11 @@
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
 
 ---
+## CVE-2026-9290 ()
+> 
+- [shinthink/CVE-2026-9290](https://github.com/shinthink/CVE-2026-9290)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-9290">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-9290">
+
+---
 ## CVE-2026-9277 ()
 > 
 - [DylanZahedi/CVE-2026-9277](https://github.com/DylanZahedi/CVE-2026-9277)	<img alt="forks" src="https://img.shields.io/github/forks/DylanZahedi/CVE-2026-9277">	<img alt="stars" src="https://img.shields.io/github/stars/DylanZahedi/CVE-2026-9277">
@@ -4938,7 +4943,7 @@
 - [m3ngx1ng/cve_2026_24061_cli](https://github.com/m3ngx1ng/cve_2026_24061_cli)	<img alt="forks" src="https://img.shields.io/github/forks/m3ngx1ng/cve_2026_24061_cli">	<img alt="stars" src="https://img.shields.io/github/stars/m3ngx1ng/cve_2026_24061_cli">
 - [r00tuser111/CVE-2026-24061](https://github.com/r00tuser111/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/r00tuser111/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/r00tuser111/CVE-2026-24061">
 - [balgan/CVE-2026-24061](https://github.com/balgan/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/balgan/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/balgan/CVE-2026-24061">
-- [SystemVll/CVE-2026-24061](https://github.com/SystemVll/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-24061">
+- [sh4den/CVE-2026-24061](https://github.com/sh4den/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/sh4den/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/sh4den/CVE-2026-24061">
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
 - [z3n70/CVE-2026-24061](https://github.com/z3n70/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2026-24061">
 - [Mr-Zapi/CVE-2026-24061](https://github.com/Mr-Zapi/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Zapi/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Zapi/CVE-2026-24061">
