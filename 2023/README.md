@@ -7765,6 +7765,11 @@ For more details, please review the linked advisory on this CVE.
 - [dkq-k/CVE-2023-22515](https://github.com/dkq-k/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/dkq-k/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/dkq-k/CVE-2023-22515">
 
 ---
+## CVE-2023-22496 ()
+> 
+- [jstjep00/CVE-2023-22496-PoC](https://github.com/jstjep00/CVE-2023-22496-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jstjep00/CVE-2023-22496-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jstjep00/CVE-2023-22496-PoC">
+
+---
 ## CVE-2023-22493 ()
 > 
 - [buitanhung144/SSRF-CVE-2023-22493](https://github.com/buitanhung144/SSRF-CVE-2023-22493)	<img alt="forks" src="https://img.shields.io/github/forks/buitanhung144/SSRF-CVE-2023-22493">	<img alt="stars" src="https://img.shields.io/github/stars/buitanhung144/SSRF-CVE-2023-22493">
