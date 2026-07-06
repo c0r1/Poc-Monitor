@@ -4614,6 +4614,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031)	<img alt="forks" src="https://img.shields.io/github/forks/toneemarqus/CVE-2024-39031">	<img alt="stars" src="https://img.shields.io/github/stars/toneemarqus/CVE-2024-39031">
 
 ---
+## CVE-2024-39024 ()
+> 
+- [ly1g3/packetfence-CVE-2024-39024](https://github.com/ly1g3/packetfence-CVE-2024-39024)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/packetfence-CVE-2024-39024">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/packetfence-CVE-2024-39024">
+
+---
 ## CVE-2024-38998 ()
 > 
 - [z3ldr1/PP_CVE-2024-38998](https://github.com/z3ldr1/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/z3ldr1/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/z3ldr1/PP_CVE-2024-38998">
