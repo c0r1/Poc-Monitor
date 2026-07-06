@@ -694,6 +694,11 @@
 - [anansi2safe/CVE-2026-5281](https://github.com/anansi2safe/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-5281">
 
 ---
+## CVE-2026-52806 ()
+> 
+- [portbuster1337/CVE-2026-52806](https://github.com/portbuster1337/CVE-2026-52806)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-52806">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-52806">
+
+---
 ## CVE-2026-5252 ()
 > 
 - [aydin5245/CVE-2026-5252-CVE-POC-ivanti](https://github.com/aydin5245/CVE-2026-5252-CVE-POC-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2026-5252-CVE-POC-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2026-5252-CVE-POC-ivanti">
@@ -6437,7 +6442,7 @@
 ---
 ## CVE-2026-0776 ()
 > 
-- [0x18F/CVE-2026-0776](https://github.com/0x18F/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/0x18F/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/0x18F/CVE-2026-0776">
+- [0x8EF/CVE-2026-0776](https://github.com/0x8EF/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/0x8EF/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/0x8EF/CVE-2026-0776">
 
 ---
 ## CVE-2026-0770 ()
