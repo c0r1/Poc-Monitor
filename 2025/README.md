@@ -1769,6 +1769,7 @@
 - [alxsourin/Helpdesk-Telecom-CVE-2025-64459](https://github.com/alxsourin/Helpdesk-Telecom-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/alxsourin/Helpdesk-Telecom-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/alxsourin/Helpdesk-Telecom-CVE-2025-64459">
 - [purehate/CVE-2025-64459-hunter](https://github.com/purehate/CVE-2025-64459-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/purehate/CVE-2025-64459-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/purehate/CVE-2025-64459-hunter">
 - [joshualent/django-cve-2025-64459](https://github.com/joshualent/django-cve-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/joshualent/django-cve-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/joshualent/django-cve-2025-64459">
+- [rafaelchriss/RedTeamBrasil-CVE-2025-64459](https://github.com/rafaelchriss/RedTeamBrasil-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelchriss/RedTeamBrasil-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelchriss/RedTeamBrasil-CVE-2025-64459">
 
 ---
 ## CVE-2025-64458 ()
@@ -8187,6 +8188,7 @@
 - [hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js">
 - [s11s11/CVE-2025-29927](https://github.com/s11s11/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/s11s11/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/s11s11/CVE-2025-29927">
 - [Fomovet/cve-2025-29927](https://github.com/Fomovet/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-29927">
+- [surajpandeyp/CVE-2025-29927](https://github.com/surajpandeyp/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()

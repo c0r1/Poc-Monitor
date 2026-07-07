@@ -1015,6 +1015,7 @@
 > 
 - [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
 - [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
+- [wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)	<img alt="forks" src="https://img.shields.io/github/forks/wanmywan/CVE-2026-48611-phpBB">	<img alt="stars" src="https://img.shields.io/github/stars/wanmywan/CVE-2026-48611-phpBB">
 
 ---
 ## CVE-2026-48595 ()
@@ -5303,6 +5304,16 @@
 ## CVE-2026-23723 ()
 > 
 - [Ch35h1r3c47/CVE-2026-23723-POC](https://github.com/Ch35h1r3c47/CVE-2026-23723-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ch35h1r3c47/CVE-2026-23723-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ch35h1r3c47/CVE-2026-23723-POC">
+
+---
+## CVE-2026-23698 ()
+> 
+- [JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698](https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698)	<img alt="forks" src="https://img.shields.io/github/forks/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698">	<img alt="stars" src="https://img.shields.io/github/stars/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698">
+
+---
+## CVE-2026-23697 ()
+> 
+- [JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697](https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697)	<img alt="forks" src="https://img.shields.io/github/forks/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697">	<img alt="stars" src="https://img.shields.io/github/stars/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697">
 
 ---
 ## CVE-2026-23550 ()
