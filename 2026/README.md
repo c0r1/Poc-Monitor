@@ -2203,6 +2203,11 @@
 - [OkamiSpade/Cve-2026-39676](https://github.com/OkamiSpade/Cve-2026-39676)	<img alt="forks" src="https://img.shields.io/github/forks/OkamiSpade/Cve-2026-39676">	<img alt="stars" src="https://img.shields.io/github/stars/OkamiSpade/Cve-2026-39676">
 
 ---
+## CVE-2026-39492 ()
+> 
+- [shinthink/CVE-2026-39492](https://github.com/shinthink/CVE-2026-39492)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-39492">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-39492">
+
+---
 ## CVE-2026-39440 ()
 > 
 - [3ele-projects/cve-2026-39440-funnelforms-fix](https://github.com/3ele-projects/cve-2026-39440-funnelforms-fix)	<img alt="forks" src="https://img.shields.io/github/forks/3ele-projects/cve-2026-39440-funnelforms-fix">	<img alt="stars" src="https://img.shields.io/github/stars/3ele-projects/cve-2026-39440-funnelforms-fix">
@@ -6130,6 +6135,11 @@
 ## CVE-2026-1490 ()
 > 
 - [comthompson30/CVE-2026-1490](https://github.com/comthompson30/CVE-2026-1490)	<img alt="forks" src="https://img.shields.io/github/forks/comthompson30/CVE-2026-1490">	<img alt="stars" src="https://img.shields.io/github/stars/comthompson30/CVE-2026-1490">
+
+---
+## CVE-2026-14762 ()
+> 
+- [tc4dy/CVE-2026-14762-PoC-Exploit](https://github.com/tc4dy/CVE-2026-14762-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-14762-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-14762-PoC-Exploit">
 
 ---
 ## CVE-2026-1470 ()
