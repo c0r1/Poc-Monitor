@@ -135,6 +135,7 @@
 - [derekpreston81/CVE_ADC_IOC_2026](https://github.com/derekpreston81/CVE_ADC_IOC_2026)	<img alt="forks" src="https://img.shields.io/github/forks/derekpreston81/CVE_ADC_IOC_2026">	<img alt="stars" src="https://img.shields.io/github/stars/derekpreston81/CVE_ADC_IOC_2026">
 - [watchtowrlabs/watchTowr-vs-Netscaler-CVE-2026-8451](https://github.com/watchtowrlabs/watchTowr-vs-Netscaler-CVE-2026-8451)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Netscaler-CVE-2026-8451">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Netscaler-CVE-2026-8451">
 - [0xBlackash/CVE-2026-8451](https://github.com/0xBlackash/CVE-2026-8451)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8451">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8451">
+- [amnsecurity/CVE-2026-8451-CitrixBleed](https://github.com/amnsecurity/CVE-2026-8451-CitrixBleed)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-8451-CitrixBleed">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-8451-CitrixBleed">
 
 ---
 ## CVE-2026-8389 ()
@@ -148,6 +149,7 @@
 - [Jenderal92/CVE-2026-8206](https://github.com/Jenderal92/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8206">
 - [rootdirective-sec/CVE-2026-8206-Lab](https://github.com/rootdirective-sec/CVE-2026-8206-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8206-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8206-Lab">
 - [izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8206">
+- [amnsecurity/CVE-2026-8206-Kirki-WP](https://github.com/amnsecurity/CVE-2026-8206-Kirki-WP)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-8206-Kirki-WP">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-8206-Kirki-WP">
 
 ---
 ## CVE-2026-8196 ()
@@ -840,6 +842,7 @@
 > 
 - [xxconi/CVE-2026-49777-CVE-2026-10735](https://github.com/xxconi/CVE-2026-49777-CVE-2026-10735)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-49777-CVE-2026-10735">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-49777-CVE-2026-10735">
 - [izxci/CVE-2026-49777](https://github.com/izxci/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49777">
+- [amnsecurity/CVE-2026-49777-WooCommerce-RCE](https://github.com/amnsecurity/CVE-2026-49777-WooCommerce-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-49777-WooCommerce-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-49777-WooCommerce-RCE">
 
 ---
 ## CVE-2026-49772 ()
@@ -1271,6 +1274,7 @@
 - [HORKimhab/CVE-2026-45659](https://github.com/HORKimhab/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45659">
 - [mistbarbarianspot/CVE-2026-45659-SharePoint-RCE](https://github.com/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE">
 - [jenniferreire26/CVE-2026-45659](https://github.com/jenniferreire26/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-45659">
+- [amnsecurity/CVE-2026-45659-SharePoint-RCE](https://github.com/amnsecurity/CVE-2026-45659-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-45659-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-45659-SharePoint-RCE">
 
 ---
 ## CVE-2026-45585 ()
@@ -1727,6 +1731,7 @@
 > 
 - [learner202649/CVE-2026-42271-PoC](https://github.com/learner202649/CVE-2026-42271-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-42271-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-42271-PoC">
 - [HORKimhab/CVE-2026-42271](https://github.com/HORKimhab/CVE-2026-42271)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42271">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42271">
+- [amnsecurity/CVE-2026-42271-LiteLLM-RCE](https://github.com/amnsecurity/CVE-2026-42271-LiteLLM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-42271-LiteLLM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-42271-LiteLLM-RCE">
 
 ---
 ## CVE-2026-42231 ()
@@ -6641,6 +6646,7 @@
 - [jenniferreire26/CVE-2026-0257](https://github.com/jenniferreire26/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-0257">
 - [grayxploit/CVE-2026-0257](https://github.com/grayxploit/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/grayxploit/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/grayxploit/CVE-2026-0257">
 - [Ez4rd1x1/CVE-2026-0257](https://github.com/Ez4rd1x1/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-0257">
+- [amnsecurity/CVE-2026-0257-GlobalProtect-Bypass](https://github.com/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass">
 
 ---
 ## CVE-2026-0227 ()
