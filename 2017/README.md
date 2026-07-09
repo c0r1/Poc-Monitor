@@ -1152,6 +1152,12 @@
 - [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
 
 ---
+## CVE-2017-15715 ()
+> 
+- [ehsehs5652/CVE-2017-15715-httpd](https://github.com/ehsehs5652/CVE-2017-15715-httpd)	<img alt="forks" src="https://img.shields.io/github/forks/ehsehs5652/CVE-2017-15715-httpd">	<img alt="stars" src="https://img.shields.io/github/stars/ehsehs5652/CVE-2017-15715-httpd">
+- [whisp1830/CVE-2017-15715](https://github.com/whisp1830/CVE-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/whisp1830/CVE-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/whisp1830/CVE-2017-15715">
+
+---
 ## CVE-2017-15700 ()
 > 
 - [andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable](https://github.com/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable">
