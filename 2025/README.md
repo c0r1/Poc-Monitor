@@ -6454,6 +6454,11 @@
 - [r0otk3r/CVE-2025-4380](https://github.com/r0otk3r/CVE-2025-4380)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-4380">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-4380">
 
 ---
+## CVE-2025-43782 ()
+> 
+- [Stickxx00/CVE-2025-43782](https://github.com/Stickxx00/CVE-2025-43782)	<img alt="forks" src="https://img.shields.io/github/forks/Stickxx00/CVE-2025-43782">	<img alt="stars" src="https://img.shields.io/github/stars/Stickxx00/CVE-2025-43782">
+
+---
 ## CVE-2025-43541 ()
 > 
 - [crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0bit/CVE-2025-43541">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0bit/CVE-2025-43541">
@@ -9129,7 +9134,7 @@
 - [ibrahmsql/CVE-2025-24893](https://github.com/ibrahmsql/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-24893">
 - [Yukik4z3/CVE-2025-24893](https://github.com/Yukik4z3/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Yukik4z3/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Yukik4z3/CVE-2025-24893">
 - [rvzsec/CVE-2025-24893](https://github.com/rvzsec/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2025-24893">
-- [achnouri/Editor-CTF-writre-up](https://github.com/achnouri/Editor-CTF-writre-up)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/Editor-CTF-writre-up">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/Editor-CTF-writre-up">
+- [anxs3c/editor_machine_writeup](https://github.com/anxs3c/editor_machine_writeup)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/editor_machine_writeup">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/editor_machine_writeup">
 - [Y2F05p2w/CVE-2025-24893](https://github.com/Y2F05p2w/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Y2F05p2w/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Y2F05p2w/CVE-2025-24893">
 - [80Ottanta80/CVE-2025-24893-PoC](https://github.com/80Ottanta80/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2025-24893-PoC">
 - [kimtangker/CVE-2025-24893](https://github.com/kimtangker/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/kimtangker/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/kimtangker/CVE-2025-24893">
