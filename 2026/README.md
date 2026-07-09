@@ -1751,6 +1751,7 @@
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
 - [shootcannon/CVE-2026-4257](https://github.com/shootcannon/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/shootcannon/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/shootcannon/CVE-2026-4257">
+- [dann3xplo1t/CVE-2026-4257](https://github.com/dann3xplo1t/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/dann3xplo1t/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/dann3xplo1t/CVE-2026-4257">
 
 ---
 ## CVE-2026-42569 ()
@@ -2132,6 +2133,12 @@
 ## CVE-2026-40487 ()
 > 
 - [Astaruf/CVE-2026-40487](https://github.com/Astaruf/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-40487">
+
+---
+## CVE-2026-40473 ()
+> 
+- [oscerd/CVE-2026-40473](https://github.com/oscerd/CVE-2026-40473)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40473">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40473">
+- [dinosn/CVE-2026-33453](https://github.com/dinosn/CVE-2026-33453)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-33453">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-33453">
 
 ---
 ## CVE-2026-40453 ()
