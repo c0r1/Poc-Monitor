@@ -1543,6 +1543,7 @@
 > 
 - [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusM/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusM/CVE-2026-43499">
 - [HORKimhab/CVE-2026-43499](https://github.com/HORKimhab/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-43499">
+- [0xBlackash/CVE-2026-43499](https://github.com/0xBlackash/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
