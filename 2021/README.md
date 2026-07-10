@@ -3444,6 +3444,7 @@
 - [vorkampfer/pwnkit_safety_check](https://github.com/vorkampfer/pwnkit_safety_check)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/pwnkit_safety_check">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/pwnkit_safety_check">
 - [usmansec/-CVE-2021-4034](https://github.com/usmansec/-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/usmansec/-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/usmansec/-CVE-2021-4034">
 - [vaibhavkrishna12004/ubuntu-privesc-lab](https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/vaibhavkrishna12004/ubuntu-privesc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/vaibhavkrishna12004/ubuntu-privesc-lab">
+- [mac3d0/CVE-2021-4034-pwnkit](https://github.com/mac3d0/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/mac3d0/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/mac3d0/CVE-2021-4034-pwnkit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -7274,6 +7275,11 @@
 ## CVE-2021-28378 ()
 > 
 - [pandatix/CVE-2021-28378](https://github.com/pandatix/CVE-2021-28378)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2021-28378">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2021-28378">
+
+---
+## CVE-2021-28235 ()
+> 
+- [h3ck13r/CVE-2021-28235](https://github.com/h3ck13r/CVE-2021-28235)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2021-28235">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2021-28235">
 
 ---
 ## CVE-2021-28169 (2021-06-09T02:15:00)
