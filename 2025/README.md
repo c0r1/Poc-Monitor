@@ -9860,6 +9860,11 @@
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
 
 ---
+## CVE-2025-20720 ()
+> 
+- [shinthink/CVE-2025-20720](https://github.com/shinthink/CVE-2025-20720)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2025-20720">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2025-20720">
+
+---
 ## CVE-2025-20393 ()
 > 
 - [thesystemowner/CVE-2025-20393-POC](https://github.com/thesystemowner/CVE-2025-20393-POC)	<img alt="forks" src="https://img.shields.io/github/forks/thesystemowner/CVE-2025-20393-POC">	<img alt="stars" src="https://img.shields.io/github/stars/thesystemowner/CVE-2025-20393-POC">

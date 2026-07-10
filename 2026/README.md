@@ -810,6 +810,16 @@
 - [A17-ba/CVE-2026-51119](https://github.com/A17-ba/CVE-2026-51119)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2026-51119">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2026-51119">
 
 ---
+## CVE-2026-50980 ()
+> 
+- [bugresearch/CVE-2026-50980](https://github.com/bugresearch/CVE-2026-50980)	<img alt="forks" src="https://img.shields.io/github/forks/bugresearch/CVE-2026-50980">	<img alt="stars" src="https://img.shields.io/github/stars/bugresearch/CVE-2026-50980">
+
+---
+## CVE-2026-50979 ()
+> 
+- [bugresearch/CVE-2026-50979](https://github.com/bugresearch/CVE-2026-50979)	<img alt="forks" src="https://img.shields.io/github/forks/bugresearch/CVE-2026-50979">	<img alt="stars" src="https://img.shields.io/github/stars/bugresearch/CVE-2026-50979">
+
+---
 ## CVE-2026-5076 ()
 > 
 - [zycoder0day/CVE-2026-5076](https://github.com/zycoder0day/CVE-2026-5076)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5076">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5076">
@@ -977,6 +987,7 @@
 ## CVE-2026-49049 ()
 > 
 - [shinthink/CVE-2026-49049](https://github.com/shinthink/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-49049">
+- [Dr-D25/CVE-2026-49049](https://github.com/Dr-D25/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/Dr-D25/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/Dr-D25/CVE-2026-49049">
 
 ---
 ## CVE-2026-49048 ()
@@ -2129,6 +2140,11 @@
 ## CVE-2026-40864 ()
 > 
 - [romain-deperne/CVE-2026-40864](https://github.com/romain-deperne/CVE-2026-40864)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-40864">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-40864">
+
+---
+## CVE-2026-40858 ()
+> 
+- [oscerd/CVE-2026-40858](https://github.com/oscerd/CVE-2026-40858)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40858">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40858">
 
 ---
 ## CVE-2026-40791 ()
@@ -5442,6 +5458,7 @@
 - [daemoncibsec/mcpExec](https://github.com/daemoncibsec/mcpExec)	<img alt="forks" src="https://img.shields.io/github/forks/daemoncibsec/mcpExec">	<img alt="stars" src="https://img.shields.io/github/stars/daemoncibsec/mcpExec">
 - [diamorphine666/CVE-2026-23744-exploit](https://github.com/diamorphine666/CVE-2026-23744-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-23744-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-23744-exploit">
 - [timgad794/DevHub-HTB-Walkthrough](https://github.com/timgad794/DevHub-HTB-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/DevHub-HTB-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/DevHub-HTB-Walkthrough">
+- [0x77FSec/CVE-2026-23744](https://github.com/0x77FSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/0x77FSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/0x77FSec/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
