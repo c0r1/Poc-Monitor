@@ -619,6 +619,11 @@
 - [abdugafforov-bobur/CVE-2026-54415-PoC](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-54415-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-54415-PoC">
 
 ---
+## CVE-2026-54390 ()
+> 
+- [shinthink/CVE-2026-54390](https://github.com/shinthink/CVE-2026-54390)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-54390">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-54390">
+
+---
 ## CVE-2026-54350 ()
 > 
 - [BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection](https://github.com/BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection">
