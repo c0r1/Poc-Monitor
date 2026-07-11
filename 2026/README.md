@@ -77,6 +77,7 @@
 - [sourcecode347/CVE-2026-9082-Mass_Scanner](https://github.com/sourcecode347/CVE-2026-9082-Mass_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sourcecode347/CVE-2026-9082-Mass_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sourcecode347/CVE-2026-9082-Mass_Scanner">
 - [eliHiHo/portfolio-drupal-cve-2026-9082](https://github.com/eliHiHo/portfolio-drupal-cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/eliHiHo/portfolio-drupal-cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/eliHiHo/portfolio-drupal-cve-2026-9082">
 - [evidencebasedvulnerability/cve-2026-9082-drupal](https://github.com/evidencebasedvulnerability/cve-2026-9082-drupal)	<img alt="forks" src="https://img.shields.io/github/forks/evidencebasedvulnerability/cve-2026-9082-drupal">	<img alt="stars" src="https://img.shields.io/github/stars/evidencebasedvulnerability/cve-2026-9082-drupal">
+- [MW-HF/Drupal-CVE-2026-9082](https://github.com/MW-HF/Drupal-CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/MW-HF/Drupal-CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/MW-HF/Drupal-CVE-2026-9082">
 
 ---
 ## CVE-2026-9067 ()
@@ -1294,6 +1295,7 @@
 - [g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection">
 - [V0IDNETWORK/CVE-2026-46331](https://github.com/V0IDNETWORK/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/V0IDNETWORK/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/V0IDNETWORK/CVE-2026-46331">
 - [aexdyhaxor/CVE-2026-46331](https://github.com/aexdyhaxor/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-46331">
+- [yanxinwu946/CVE-2026-46331](https://github.com/yanxinwu946/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-46331">
 
 ---
 ## CVE-2026-4631 ()
@@ -4211,6 +4213,21 @@
 > 
 - [gregk4sec/cve-2026-29145](https://github.com/gregk4sec/cve-2026-29145)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-29145">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-29145">
 - [sancliffe/CVE-2026-29145-Tester](https://github.com/sancliffe/CVE-2026-29145-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/sancliffe/CVE-2026-29145-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/sancliffe/CVE-2026-29145-Tester">
+
+---
+## CVE-2026-29116 ()
+> 
+- [CrimsonfiedOfficial/CVE-2026-29116](https://github.com/CrimsonfiedOfficial/CVE-2026-29116)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonfiedOfficial/CVE-2026-29116">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonfiedOfficial/CVE-2026-29116">
+
+---
+## CVE-2026-29115 ()
+> 
+- [CrimsonfiedOfficial/CVE-2026-29115](https://github.com/CrimsonfiedOfficial/CVE-2026-29115)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonfiedOfficial/CVE-2026-29115">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonfiedOfficial/CVE-2026-29115">
+
+---
+## CVE-2026-29114 ()
+> 
+- [CrimsonfiedOfficial/CVE-2026-29114](https://github.com/CrimsonfiedOfficial/CVE-2026-29114)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonfiedOfficial/CVE-2026-29114">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonfiedOfficial/CVE-2026-29114">
 
 ---
 ## CVE-2026-29053 ()

@@ -10051,6 +10051,11 @@ authentication.   
 - [lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop)	<img alt="forks" src="https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop">	<img alt="stars" src="https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop">
 
 ---
+## CVE-2024-13985 ()
+> 
+- [CrimsonfiedOfficial/CVE-2024-13985](https://github.com/CrimsonfiedOfficial/CVE-2024-13985)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonfiedOfficial/CVE-2024-13985">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonfiedOfficial/CVE-2024-13985">
+
+---
 ## CVE-2024-13869 ()
 > 
 - [d0n601/CVE-2024-13869](https://github.com/d0n601/CVE-2024-13869)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2024-13869">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2024-13869">
