@@ -1370,7 +1370,7 @@
 - [0xf3d0rq/CVE-2021-43798](https://github.com/0xf3d0rq/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0xf3d0rq/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0xf3d0rq/CVE-2021-43798">
 - [strikoder/Grafana-CVE-2021-43798-Python](https://github.com/strikoder/Grafana-CVE-2021-43798-Python)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-CVE-2021-43798-Python">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-CVE-2021-43798-Python">
 - [baktistr/cve-2021-43798-enum](https://github.com/baktistr/cve-2021-43798-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43798-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43798-enum">
-- [STK-Security/Grafana-Password-Decryptor](https://github.com/STK-Security/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/STK-Security/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/STK-Security/Grafana-Password-Decryptor">
+- [Strikoder-Premium/Grafana-Password-Decryptor](https://github.com/Strikoder-Premium/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/Strikoder-Premium/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/Strikoder-Premium/Grafana-Password-Decryptor">
 - [notbside/CVE-2021-43798-PoC](https://github.com/notbside/CVE-2021-43798-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/notbside/CVE-2021-43798-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/notbside/CVE-2021-43798-PoC">
 - [Shoxake17/CVE-2021-43798](https://github.com/Shoxake17/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Shoxake17/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Shoxake17/CVE-2021-43798">
 - [kikechans/-Grafana-LFI-CVE-2021-43798](https://github.com/kikechans/-Grafana-LFI-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-Grafana-LFI-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-Grafana-LFI-CVE-2021-43798">
@@ -2612,6 +2612,7 @@
 - [a24ac1/CVE-2021-41773-PoC](https://github.com/a24ac1/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2021-41773-PoC">
 - [Park123r/CVE-2021-41773](https://github.com/Park123r/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Park123r/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Park123r/CVE-2021-41773">
 - [johnwickakash12/CVE-2021-41773](https://github.com/johnwickakash12/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/johnwickakash12/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/johnwickakash12/CVE-2021-41773">
+- [lheeeesoo/Apache-CVE-2021-41773](https://github.com/lheeeesoo/Apache-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/lheeeesoo/Apache-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/lheeeesoo/Apache-CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
