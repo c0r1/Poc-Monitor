@@ -147,6 +147,7 @@
 - [FacundoMfernandez/pentesting-obioba](https://github.com/FacundoMfernandez/pentesting-obioba)	<img alt="forks" src="https://img.shields.io/github/forks/FacundoMfernandez/pentesting-obioba">	<img alt="stars" src="https://img.shields.io/github/stars/FacundoMfernandez/pentesting-obioba">
 - [HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor](https://github.com/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor)	<img alt="forks" src="https://img.shields.io/github/forks/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">	<img alt="stars" src="https://img.shields.io/github/stars/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">
 - [caverm/Shellshock_CVE-2014-6271](https://github.com/caverm/Shellshock_CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/caverm/Shellshock_CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/caverm/Shellshock_CVE-2014-6271">
+- [cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report](https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report)	<img alt="forks" src="https://img.shields.io/github/forks/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report">	<img alt="stars" src="https://img.shields.io/github/stars/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
