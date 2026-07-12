@@ -9230,6 +9230,7 @@
 - [JTMH37/Apache-Tomcat-CVE-2025-24813-Lab](https://github.com/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">
 - [Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-](https://github.com/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
+- [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
