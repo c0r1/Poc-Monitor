@@ -1565,6 +1565,11 @@
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
 
 ---
+## CVE-2026-43865 ()
+> 
+- [oscerd/CVE-2026-43865](https://github.com/oscerd/CVE-2026-43865)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-43865">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-43865">
+
+---
 ## CVE-2026-43735 ()
 > 
 - [dem0ns/CVE-2026-43735](https://github.com/dem0ns/CVE-2026-43735)	<img alt="forks" src="https://img.shields.io/github/forks/dem0ns/CVE-2026-43735">	<img alt="stars" src="https://img.shields.io/github/stars/dem0ns/CVE-2026-43735">
@@ -1636,6 +1641,7 @@
 - [inforcqb/CVE-2026-43499-pja110](https://github.com/inforcqb/CVE-2026-43499-pja110)	<img alt="forks" src="https://img.shields.io/github/forks/inforcqb/CVE-2026-43499-pja110">	<img alt="stars" src="https://img.shields.io/github/stars/inforcqb/CVE-2026-43499-pja110">
 - [caspy123/CVE-2026-43499](https://github.com/caspy123/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/caspy123/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/caspy123/CVE-2026-43499">
 - [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/pubglite55/oppo-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/pubglite55/oppo-ghostlock">
+- [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/x-spy/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/x-spy/CVE-2026-43499-popsicle">
 
 ---
 ## CVE-2026-43494 ()
