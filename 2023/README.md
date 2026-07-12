@@ -3674,7 +3674,7 @@ URL that curl has been told to operate with.
 ## CVE-2023-38146 (2023-09-12T17:15:00)
 > Windows Themes Remote Code Execution Vulnerability
 - [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Jnnshschl/CVE-2023-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Jnnshschl/CVE-2023-38146">
-- [gabe-k/themebleed](https://github.com/gabe-k/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/gabe-k/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/gabe-k/themebleed">
+- [exploits-forsale/themebleed](https://github.com/exploits-forsale/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/themebleed">
 - [Durge5/ThemeBleedPy](https://github.com/Durge5/ThemeBleedPy)	<img alt="forks" src="https://img.shields.io/github/forks/Durge5/ThemeBleedPy">	<img alt="stars" src="https://img.shields.io/github/stars/Durge5/ThemeBleedPy">
 - [CH0ico/CVE-2023-38146-Poc](https://github.com/CH0ico/CVE-2023-38146-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/CH0ico/CVE-2023-38146-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/CH0ico/CVE-2023-38146-Poc">
 
