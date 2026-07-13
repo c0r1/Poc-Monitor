@@ -3813,7 +3813,7 @@
 - [RuoJi6/CVE-2025-55182-RCE-shell](https://github.com/RuoJi6/CVE-2025-55182-RCE-shell)	<img alt="forks" src="https://img.shields.io/github/forks/RuoJi6/CVE-2025-55182-RCE-shell">	<img alt="stars" src="https://img.shields.io/github/stars/RuoJi6/CVE-2025-55182-RCE-shell">
 - [hualy13/CVE-2025-55182](https://github.com/hualy13/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hualy13/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hualy13/CVE-2025-55182">
 - [l8BL/CVE-2025-55182](https://github.com/l8BL/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2025-55182">
-- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
+- [Saturate/CVE-2025-55182-react2shell](https://github.com/Saturate/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-react2shell">
 - [hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hoosin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hoosin/CVE-2025-55182">
 - [RuoJi6/CVE-2025-55182-RCE-shell](https://github.com/RuoJi6/CVE-2025-55182-RCE-shell)	<img alt="forks" src="https://img.shields.io/github/forks/RuoJi6/CVE-2025-55182-RCE-shell">	<img alt="stars" src="https://img.shields.io/github/stars/RuoJi6/CVE-2025-55182-RCE-shell">
 - [sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner">
@@ -7200,6 +7200,7 @@
 - [pol4ir/CVE-2025-33073](https://github.com/pol4ir/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/pol4ir/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/pol4ir/CVE-2025-33073">
 - [IyarGross/SMB-CVE-2025-33073](https://github.com/IyarGross/SMB-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/IyarGross/SMB-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/IyarGross/SMB-CVE-2025-33073">
 - [EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-](https://github.com/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-)	<img alt="forks" src="https://img.shields.io/github/forks/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">	<img alt="stars" src="https://img.shields.io/github/stars/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">
+- [sentinel-aidefense/CVE-2025-33073](https://github.com/sentinel-aidefense/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()

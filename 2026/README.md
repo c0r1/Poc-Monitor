@@ -458,6 +458,11 @@
 - [sn0x-sharma/CVE-2026-57850](https://github.com/sn0x-sharma/CVE-2026-57850)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-57850">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-57850">
 
 ---
+## CVE-2026-57830 ()
+> 
+- [Is4yev/CVE-2026-57830](https://github.com/Is4yev/CVE-2026-57830)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-57830">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-57830">
+
+---
 ## CVE-2026-57517 ()
 > 
 - [shinthink/CVE-2026-57517](https://github.com/shinthink/CVE-2026-57517)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57517">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57517">
@@ -1276,6 +1281,16 @@
 - [BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection](https://github.com/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">
 
 ---
+## CVE-2026-46454 ()
+> 
+- [oscerd/CVE-2026-46454](https://github.com/oscerd/CVE-2026-46454)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46454">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46454">
+
+---
+## CVE-2026-46453 ()
+> 
+- [oscerd/CVE-2026-46453](https://github.com/oscerd/CVE-2026-46453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46453">
+
+---
 ## CVE-2026-46395 ()
 > 
 - [shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">
@@ -1668,6 +1683,7 @@
 - [Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">
 - [joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
+- [Yakayna/SpringPeace](https://github.com/Yakayna/SpringPeace)	<img alt="forks" src="https://img.shields.io/github/forks/Yakayna/SpringPeace">	<img alt="stars" src="https://img.shields.io/github/stars/Yakayna/SpringPeace">
 
 ---
 ## CVE-2026-43494 ()
@@ -5638,6 +5654,11 @@
 ## CVE-2026-23416 ()
 > 
 - [bluedragonsecurity/CVE-2026-23416-POC](https://github.com/bluedragonsecurity/CVE-2026-23416-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-23416-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-23416-POC">
+
+---
+## CVE-2026-23415 ()
+> 
+- [addman2/uaf-exploit-cve-2026-23415](https://github.com/addman2/uaf-exploit-cve-2026-23415)	<img alt="forks" src="https://img.shields.io/github/forks/addman2/uaf-exploit-cve-2026-23415">	<img alt="stars" src="https://img.shields.io/github/stars/addman2/uaf-exploit-cve-2026-23415">
 
 ---
 ## CVE-2026-23398 ()
