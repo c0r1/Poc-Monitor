@@ -1167,6 +1167,11 @@
 - [fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor](https://github.com/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor">
 
 ---
+## CVE-2026-48095 ()
+> 
+- [HORKimhab/CVE-2026-48095](https://github.com/HORKimhab/CVE-2026-48095)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48095">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48095">
+
+---
 ## CVE-2026-48030 ()
 > 
 - [mus1imbek/CVE-2026-48030](https://github.com/mus1imbek/CVE-2026-48030)	<img alt="forks" src="https://img.shields.io/github/forks/mus1imbek/CVE-2026-48030">	<img alt="stars" src="https://img.shields.io/github/stars/mus1imbek/CVE-2026-48030">
