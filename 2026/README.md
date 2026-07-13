@@ -2917,6 +2917,7 @@
 > 
 - [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
 - [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
+- [amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal](https://github.com/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal">
 
 ---
 ## CVE-2026-3516 ()
