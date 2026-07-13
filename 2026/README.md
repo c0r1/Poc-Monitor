@@ -497,6 +497,11 @@
 - [thecodeb0ss/CVE-2026-56782](https://github.com/thecodeb0ss/CVE-2026-56782)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-56782">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-56782">
 
 ---
+## CVE-2026-56291 ()
+> 
+- [rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-56291.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-56291.yaml">
+
+---
 ## CVE-2026-56290 ()
 > 
 - [sagsooz/PageBuilderCK-CVE-2026-56290-Exploit](https://github.com/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit">
@@ -1281,6 +1286,11 @@
 - [BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection](https://github.com/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">
 
 ---
+## CVE-2026-46455 ()
+> 
+- [oscerd/CVE-2026-46455](https://github.com/oscerd/CVE-2026-46455)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46455">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46455">
+
+---
 ## CVE-2026-46454 ()
 > 
 - [oscerd/CVE-2026-46454](https://github.com/oscerd/CVE-2026-46454)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46454">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46454">
@@ -1684,6 +1694,7 @@
 - [joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
 - [Yakayna/SpringPeace](https://github.com/Yakayna/SpringPeace)	<img alt="forks" src="https://img.shields.io/github/forks/Yakayna/SpringPeace">	<img alt="stars" src="https://img.shields.io/github/stars/Yakayna/SpringPeace">
+- [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CakesTwix/Android-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CakesTwix/Android-CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
