@@ -500,6 +500,7 @@
 ## CVE-2026-56291 ()
 > 
 - [rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-56291.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-56291.yaml">
+- [shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-56291">
 
 ---
 ## CVE-2026-56290 ()
