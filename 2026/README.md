@@ -5619,6 +5619,7 @@
 - [timgad794/DevHub-HTB-Walkthrough](https://github.com/timgad794/DevHub-HTB-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/DevHub-HTB-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/DevHub-HTB-Walkthrough">
 - [0x77FSec/CVE-2026-23744](https://github.com/0x77FSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/0x77FSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/0x77FSec/CVE-2026-23744">
 - [ozcanpng/CVE-2026-23744](https://github.com/ozcanpng/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-23744">
+- [CerberusMrXi/CVE-2026-23744-MCPJam-Exploit](https://github.com/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">
 
 ---
 ## CVE-2026-23723 ()

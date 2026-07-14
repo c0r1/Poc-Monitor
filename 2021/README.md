@@ -1174,6 +1174,7 @@
 - [DAADAISMYLIFE/log4shell-lab](https://github.com/DAADAISMYLIFE/log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DAADAISMYLIFE/log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DAADAISMYLIFE/log4shell-lab">
 - [limxuan/ehir-vuln-enterprise-login](https://github.com/limxuan/ehir-vuln-enterprise-login)	<img alt="forks" src="https://img.shields.io/github/forks/limxuan/ehir-vuln-enterprise-login">	<img alt="stars" src="https://img.shields.io/github/stars/limxuan/ehir-vuln-enterprise-login">
 - [hmxh123/Log4Shell-Vulnerability-Replication](https://github.com/hmxh123/Log4Shell-Vulnerability-Replication)	<img alt="forks" src="https://img.shields.io/github/forks/hmxh123/Log4Shell-Vulnerability-Replication">	<img alt="stars" src="https://img.shields.io/github/stars/hmxh123/Log4Shell-Vulnerability-Replication">
+- [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
