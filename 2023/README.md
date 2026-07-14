@@ -3549,6 +3549,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [nuclide-research/metabase-cve-2023-38646](https://github.com/nuclide-research/metabase-cve-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/nuclide-research/metabase-cve-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/nuclide-research/metabase-cve-2023-38646">
 - [NosrevytsNg/Metabase-Pre-Auth-RCE-POC](https://github.com/NosrevytsNg/Metabase-Pre-Auth-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NosrevytsNg/Metabase-Pre-Auth-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NosrevytsNg/Metabase-Pre-Auth-RCE-POC">
 - [cleanmgr112/cve-2023-38646-poc](https://github.com/cleanmgr112/cve-2023-38646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cleanmgr112/cve-2023-38646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cleanmgr112/cve-2023-38646-poc">
+- [Kushiro45/metabase-cve-2023-38646](https://github.com/Kushiro45/metabase-cve-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Kushiro45/metabase-cve-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Kushiro45/metabase-cve-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

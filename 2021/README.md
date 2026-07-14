@@ -1170,6 +1170,10 @@
 - [neilc1964techned/craready-test-java-vulns](https://github.com/neilc1964techned/craready-test-java-vulns)	<img alt="forks" src="https://img.shields.io/github/forks/neilc1964techned/craready-test-java-vulns">	<img alt="stars" src="https://img.shields.io/github/stars/neilc1964techned/craready-test-java-vulns">
 - [sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-)	<img alt="forks" src="https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-">	<img alt="stars" src="https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-">
 - [tieupham267/log4shell-coraza](https://github.com/tieupham267/log4shell-coraza)	<img alt="forks" src="https://img.shields.io/github/forks/tieupham267/log4shell-coraza">	<img alt="stars" src="https://img.shields.io/github/stars/tieupham267/log4shell-coraza">
+- [Ricardo354/homelab-CVE-2021-44228](https://github.com/Ricardo354/homelab-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Ricardo354/homelab-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Ricardo354/homelab-CVE-2021-44228">
+- [DAADAISMYLIFE/log4shell-lab](https://github.com/DAADAISMYLIFE/log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DAADAISMYLIFE/log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DAADAISMYLIFE/log4shell-lab">
+- [limxuan/ehir-vuln-enterprise-login](https://github.com/limxuan/ehir-vuln-enterprise-login)	<img alt="forks" src="https://img.shields.io/github/forks/limxuan/ehir-vuln-enterprise-login">	<img alt="stars" src="https://img.shields.io/github/stars/limxuan/ehir-vuln-enterprise-login">
+- [hmxh123/Log4Shell-Vulnerability-Replication](https://github.com/hmxh123/Log4Shell-Vulnerability-Replication)	<img alt="forks" src="https://img.shields.io/github/forks/hmxh123/Log4Shell-Vulnerability-Replication">	<img alt="stars" src="https://img.shields.io/github/stars/hmxh123/Log4Shell-Vulnerability-Replication">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
