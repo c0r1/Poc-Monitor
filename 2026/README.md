@@ -449,6 +449,11 @@
 - [Crihexe/v8-poc-CVE-2026-5865](https://github.com/Crihexe/v8-poc-CVE-2026-5865)	<img alt="forks" src="https://img.shields.io/github/forks/Crihexe/v8-poc-CVE-2026-5865">	<img alt="stars" src="https://img.shields.io/github/stars/Crihexe/v8-poc-CVE-2026-5865">
 
 ---
+## CVE-2026-58635 ()
+> 
+- [DavidCarliez/CVE-2026-58635-PoC](https://github.com/DavidCarliez/CVE-2026-58635-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-58635-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-58635-PoC">
+
+---
 ## CVE-2026-58138 ()
 > 
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
@@ -825,6 +830,11 @@
 ## CVE-2026-52217 ()
 > 
 - [teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR](https://github.com/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">
+
+---
+## CVE-2026-52199 ()
+> 
+- [lamaper/CVE-2026-52199](https://github.com/lamaper/CVE-2026-52199)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2026-52199">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2026-52199">
 
 ---
 ## CVE-2026-5203 ()
@@ -1308,6 +1318,16 @@
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
 
 ---
+## CVE-2026-46590 ()
+> 
+- [oscerd/CVE-2026-46590](https://github.com/oscerd/CVE-2026-46590)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46590">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46590">
+
+---
+## CVE-2026-46588 ()
+> 
+- [oscerd/CVE-2026-46588](https://github.com/oscerd/CVE-2026-46588)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46588">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46588">
+
+---
 ## CVE-2026-46587 ()
 > 
 - [oscerd/CVE-2026-46587](https://github.com/oscerd/CVE-2026-46587)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46587">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46587">
@@ -1738,7 +1758,15 @@
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
 - [metalx1993/dirtyfrag-patches](https://github.com/metalx1993/dirtyfrag-patches)	<img alt="forks" src="https://img.shields.io/github/forks/metalx1993/dirtyfrag-patches">	<img alt="stars" src="https://img.shields.io/github/stars/metalx1993/dirtyfrag-patches">
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
-- [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/cve_2026_frag_family_fix">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/cve_2026_frag_family_fix">
+- [armircetaj/tetragon-dirtyfrag](https://github.com/armircetaj/tetragon-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/armircetaj/tetragon-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/armircetaj/tetragon-dirtyfrag">
+- [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
+- [lukeslp/redtail-ioc](https://github.com/lukeslp/redtail-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/lukeslp/redtail-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/lukeslp/redtail-ioc">
+- [MadExploits/CVE-2026-46300](https://github.com/MadExploits/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/CVE-2026-46300">
+- [1neptune/DirtyFrag](https://github.com/1neptune/DirtyFrag)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/DirtyFrag">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/DirtyFrag">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
+- [Koshmare-Blossom/DirtyFrag-go](https://github.com/Koshmare-Blossom/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/DirtyFrag-go">
+- [DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag](https://github.com/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">
 
 ---
 ## CVE-2026-4350 ()
