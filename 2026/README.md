@@ -772,6 +772,7 @@
 - [0xBlackash/CVE-2026-53359](https://github.com/0xBlackash/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53359">
 - [chuzhongyun/CVE-2026-53359-Kernel-Fix](https://github.com/chuzhongyun/CVE-2026-53359-Kernel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/chuzhongyun/CVE-2026-53359-Kernel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/chuzhongyun/CVE-2026-53359-Kernel-Fix">
 - [Aoripus-LTD/Januscape-Hotfix](https://github.com/Aoripus-LTD/Januscape-Hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Aoripus-LTD/Januscape-Hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Aoripus-LTD/Januscape-Hotfix">
+- [ndouglas-cloudsmith/CVE-2026-53359](https://github.com/ndouglas-cloudsmith/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/ndouglas-cloudsmith/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/ndouglas-cloudsmith/CVE-2026-53359">
 
 ---
 ## CVE-2026-53075 ()
