@@ -60,6 +60,11 @@
 - [drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis](https://github.com/drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis">
 
 ---
+## CVE-2015-8550 ()
+> 
+- [WhatsWrongAndWhy/CVE-2015-8550](https://github.com/WhatsWrongAndWhy/CVE-2015-8550)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2015-8550">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2015-8550">
+
+---
 ## CVE-2015-8522 ()
 > 
 - [damariion/CVE-2015-8522.RCE](https://github.com/damariion/CVE-2015-8522.RCE)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-8522.RCE">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-8522.RCE">
