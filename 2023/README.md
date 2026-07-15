@@ -1944,6 +1944,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [xG3nesis/RustyInjector](https://github.com/xG3nesis/RustyInjector)	<img alt="forks" src="https://img.shields.io/github/forks/xG3nesis/RustyInjector">	<img alt="stars" src="https://img.shields.io/github/stars/xG3nesis/RustyInjector">
 - [Danyw24/blueXploit](https://github.com/Danyw24/blueXploit)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/blueXploit">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/blueXploit">
 - [tech-mainak/CVE-2023-45866---Blue-exploit](https://github.com/tech-mainak/CVE-2023-45866---Blue-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tech-mainak/CVE-2023-45866---Blue-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tech-mainak/CVE-2023-45866---Blue-exploit">
+- [0xBADACTOR/CVE-2023-45866](https://github.com/0xBADACTOR/CVE-2023-45866)	<img alt="forks" src="https://img.shields.io/github/forks/0xBADACTOR/CVE-2023-45866">	<img alt="stars" src="https://img.shields.io/github/stars/0xBADACTOR/CVE-2023-45866">
 
 ---
 ## CVE-2023-45857 (2023-11-08T21:15:00)
