@@ -6625,6 +6625,11 @@
 - [1beelze/CVE-2026-14894](https://github.com/1beelze/CVE-2026-14894)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-14894">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-14894">
 
 ---
+## CVE-2026-14871 ()
+> 
+- [JFOZ1010/CVE-2026-14871](https://github.com/JFOZ1010/CVE-2026-14871)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/CVE-2026-14871">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/CVE-2026-14871">
+
+---
 ## CVE-2026-14762 ()
 > 
 - [tc4dy/CVE-2026-14762-PoC-Exploit](https://github.com/tc4dy/CVE-2026-14762-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-14762-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-14762-PoC-Exploit">
