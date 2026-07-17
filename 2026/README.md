@@ -46,6 +46,11 @@
 - [DylanZahedi/CVE-2026-9277](https://github.com/DylanZahedi/CVE-2026-9277)	<img alt="forks" src="https://img.shields.io/github/forks/DylanZahedi/CVE-2026-9277">	<img alt="stars" src="https://img.shields.io/github/stars/DylanZahedi/CVE-2026-9277">
 
 ---
+## CVE-2026-9271 ()
+> 
+- [CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit](https://github.com/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit">
+
+---
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
