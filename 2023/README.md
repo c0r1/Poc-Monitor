@@ -7345,6 +7345,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [0xVoodoo/CVE-2023-23752](https://github.com/0xVoodoo/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xVoodoo/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xVoodoo/CVE-2023-23752">
 - [m4nInTh3mIdDle/joomla-CVE-2023](https://github.com/m4nInTh3mIdDle/joomla-CVE-2023)	<img alt="forks" src="https://img.shields.io/github/forks/m4nInTh3mIdDle/joomla-CVE-2023">	<img alt="stars" src="https://img.shields.io/github/stars/m4nInTh3mIdDle/joomla-CVE-2023">
 - [Marwan651/Joomla-CMS-Full-Lifecycle-Pentest](https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">
+- [BardLaudian/CVE-2023-23752](https://github.com/BardLaudian/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2023-23752">
 
 ---
 ## CVE-2023-2375 (2023-04-28T15:15:00)
