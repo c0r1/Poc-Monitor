@@ -1498,6 +1498,11 @@
 - [oscerd/CVE-2026-46453](https://github.com/oscerd/CVE-2026-46453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46453">
 
 ---
+## CVE-2026-46442 ()
+> 
+- [codeb0ssx/CVE-2026-46442-PoC](https://github.com/codeb0ssx/CVE-2026-46442-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-46442-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-46442-PoC">
+
+---
 ## CVE-2026-46395 ()
 > 
 - [shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">
@@ -6690,6 +6695,11 @@
 ## CVE-2026-1560 ()
 > 
 - [Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0](https://github.com/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0)	<img alt="forks" src="https://img.shields.io/github/forks/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">	<img alt="stars" src="https://img.shields.io/github/stars/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">
+
+---
+## CVE-2026-15583 ()
+> 
+- [codeb0ssx/CVE-2026-15583-PoC](https://github.com/codeb0ssx/CVE-2026-15583-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-15583-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-15583-PoC">
 
 ---
 ## CVE-2026-1555 ()
