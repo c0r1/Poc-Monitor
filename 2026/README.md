@@ -1282,6 +1282,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
+## CVE-2026-48203 ()
+> 
+- [oscerd/CVE-2026-48203](https://github.com/oscerd/CVE-2026-48203)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48203">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48203">
+
+---
 ## CVE-2026-48172 ()
 > 
 - [HORKimhab/CVE-2026-48172](https://github.com/HORKimhab/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48172">
@@ -1881,6 +1886,7 @@
 - [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko)	<img alt="forks" src="https://img.shields.io/github/forks/SlightNeko/ghostlock-rothko">	<img alt="stars" src="https://img.shields.io/github/stars/SlightNeko/ghostlock-rothko">
 - [ayyy7128/CVE-2026-43499-jinghu](https://github.com/ayyy7128/CVE-2026-43499-jinghu)	<img alt="forks" src="https://img.shields.io/github/forks/ayyy7128/CVE-2026-43499-jinghu">	<img alt="stars" src="https://img.shields.io/github/stars/ayyy7128/CVE-2026-43499-jinghu">
 - [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
+- [Wtrwx/cve_2026_43499_sm-t878u](https://github.com/Wtrwx/cve_2026_43499_sm-t878u)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/cve_2026_43499_sm-t878u">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/cve_2026_43499_sm-t878u">
 
 ---
 ## CVE-2026-43494 ()
