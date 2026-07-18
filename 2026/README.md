@@ -419,6 +419,8 @@
 - [attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)	<img alt="forks" src="https://img.shields.io/github/forks/attackercan/wp2shell-poc2">	<img alt="stars" src="https://img.shields.io/github/stars/attackercan/wp2shell-poc2">
 - [4minx/CVE-2026-63030](https://github.com/4minx/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-63030">
 - [0xsha/wp2shell](https://github.com/0xsha/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/wp2shell">
+- [mverschu/CVE-2026-63030](https://github.com/mverschu/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2026-63030">
+- [0xsha/wp2shell](https://github.com/0xsha/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -934,6 +936,11 @@
 ## CVE-2026-5147 ()
 > 
 - [lan1oc/cve-2026-5147-exp](https://github.com/lan1oc/cve-2026-5147-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lan1oc/cve-2026-5147-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lan1oc/cve-2026-5147-exp">
+
+---
+## CVE-2026-51385 ()
+> 
+- [Arturo0x90/CVE-2026-51385](https://github.com/Arturo0x90/CVE-2026-51385)	<img alt="forks" src="https://img.shields.io/github/forks/Arturo0x90/CVE-2026-51385">	<img alt="stars" src="https://img.shields.io/github/stars/Arturo0x90/CVE-2026-51385">
 
 ---
 ## CVE-2026-5118 ()
@@ -1951,6 +1958,7 @@
 - [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/BuSung-dev/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/BuSung-dev/Root-My-Galaxy">
 - [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/smt878u-ionstack-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/smt878u-ionstack-poc">
 - [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
+- [Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall](https://github.com/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall)	<img alt="forks" src="https://img.shields.io/github/forks/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">	<img alt="stars" src="https://img.shields.io/github/stars/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">
 
 ---
 ## CVE-2026-43494 ()
