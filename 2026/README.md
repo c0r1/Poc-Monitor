@@ -407,6 +407,7 @@
 > 
 - [zeroc00I/CVE-2026-63030](https://github.com/zeroc00I/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2026-63030">
 - [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
+- [tcyph3r/wp2shell-cve-2026-63030-root-cause](https://github.com/tcyph3r/wp2shell-cve-2026-63030-root-cause)	<img alt="forks" src="https://img.shields.io/github/forks/tcyph3r/wp2shell-cve-2026-63030-root-cause">	<img alt="stars" src="https://img.shields.io/github/stars/tcyph3r/wp2shell-cve-2026-63030-root-cause">
 
 ---
 ## CVE-2026-6279 ()
@@ -851,7 +852,7 @@
 > 
 - [umair-aziz025/CVE-2026-5281-Research-Toolkit](https://github.com/umair-aziz025/CVE-2026-5281-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281-Research-Toolkit">
 - [TheMalwareGuardian/CVE-2026-5281](https://github.com/TheMalwareGuardian/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-5281">
-- [anansi2safe/CVE-2026-5281](https://github.com/anansi2safe/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-5281">
+- [jaf0rk/CVE-2026-5281](https://github.com/jaf0rk/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-5281">
 
 ---
 ## CVE-2026-52806 ()
@@ -1798,6 +1799,7 @@
 ## CVE-2026-44262 ()
 > 
 - [joshuavanderpoll/CVE-2026-44262](https://github.com/joshuavanderpoll/CVE-2026-44262)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-44262">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-44262">
+- [akash-osmsec/CVE-2026-44262-](https://github.com/akash-osmsec/CVE-2026-44262-)	<img alt="forks" src="https://img.shields.io/github/forks/akash-osmsec/CVE-2026-44262-">	<img alt="stars" src="https://img.shields.io/github/stars/akash-osmsec/CVE-2026-44262-">
 
 ---
 ## CVE-2026-4406 ()
