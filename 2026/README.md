@@ -417,6 +417,7 @@
 - [47Cid/wp2shell-lab](https://github.com/47Cid/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/wp2shell-lab">
 - [ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/wp2shell-scanner">
 - [attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)	<img alt="forks" src="https://img.shields.io/github/forks/attackercan/wp2shell-poc2">	<img alt="stars" src="https://img.shields.io/github/stars/attackercan/wp2shell-poc2">
+- [4minx/CVE-2026-63030](https://github.com/4minx/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
