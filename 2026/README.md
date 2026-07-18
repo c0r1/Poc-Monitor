@@ -434,6 +434,11 @@
 - [fullhunt/wp2shell-scan](https://github.com/fullhunt/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/wp2shell-scan">
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
+- [mhtsec/CVE-2026-63030](https://github.com/mhtsec/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-63030">
+- [ChiefYoru/CVE-2026-63030_PoC](https://github.com/ChiefYoru/CVE-2026-63030_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-63030_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-63030_PoC">
+- [own2pwn-fr/wp2shell-detect](https://github.com/own2pwn-fr/wp2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn-fr/wp2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn-fr/wp2shell-detect">
+- [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
+- [JohenLastGen-JLG/wp2shell](https://github.com/JohenLastGen-JLG/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
