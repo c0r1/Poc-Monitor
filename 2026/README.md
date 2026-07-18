@@ -421,6 +421,7 @@
 - [0xsha/wp2shell](https://github.com/0xsha/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/wp2shell">
 - [mverschu/CVE-2026-63030](https://github.com/mverschu/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2026-63030">
 - [0xsha/wp2shell](https://github.com/0xsha/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/wp2shell">
+- [J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t](https://github.com/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t">
 
 ---
 ## CVE-2026-6279 ()
