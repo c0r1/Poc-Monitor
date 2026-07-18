@@ -403,6 +403,12 @@
 - [amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape](https://github.com/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape">
 
 ---
+## CVE-2026-63030 ()
+> 
+- [zeroc00I/CVE-2026-63030](https://github.com/zeroc00I/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2026-63030">
+- [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
+
+---
 ## CVE-2026-6279 ()
 > 
 - [zycoder0day/CVE-2026-6279](https://github.com/zycoder0day/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-6279">
@@ -1925,6 +1931,7 @@
 - [MiaPatsune/cve-2026-43499](https://github.com/MiaPatsune/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/MiaPatsune/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/MiaPatsune/cve-2026-43499">
 - [sorrow404Null/CVE-2026-43499-RMX5200](https://github.com/sorrow404Null/CVE-2026-43499-RMX5200)	<img alt="forks" src="https://img.shields.io/github/forks/sorrow404Null/CVE-2026-43499-RMX5200">	<img alt="stars" src="https://img.shields.io/github/stars/sorrow404Null/CVE-2026-43499-RMX5200">
 - [justsoman/CyberMeowfia-ace3](https://github.com/justsoman/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/justsoman/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/justsoman/CyberMeowfia-ace3">
+- [fuukliam/vivo-x-fold6-ghostlock](https://github.com/fuukliam/vivo-x-fold6-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/fuukliam/vivo-x-fold6-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/fuukliam/vivo-x-fold6-ghostlock">
 
 ---
 ## CVE-2026-43494 ()
