@@ -418,6 +418,7 @@
 - [ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/wp2shell-scanner">
 - [attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)	<img alt="forks" src="https://img.shields.io/github/forks/attackercan/wp2shell-poc2">	<img alt="stars" src="https://img.shields.io/github/stars/attackercan/wp2shell-poc2">
 - [4minx/CVE-2026-63030](https://github.com/4minx/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-63030">
+- [0xsha/wp2shell](https://github.com/0xsha/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -1945,6 +1946,11 @@
 - [justsoman/CyberMeowfia-ace3](https://github.com/justsoman/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/justsoman/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/justsoman/CyberMeowfia-ace3">
 - [fuukliam/vivo-x-fold6-ghostlock](https://github.com/fuukliam/vivo-x-fold6-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/fuukliam/vivo-x-fold6-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/fuukliam/vivo-x-fold6-ghostlock">
 - [Wtrwx/CVE-2026-43499](https://github.com/Wtrwx/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/CVE-2026-43499">
+- [d224407/CVE-2026-43499](https://github.com/d224407/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/d224407/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/d224407/CVE-2026-43499">
+- [PeronGH/ghostlock-selinux-disabler](https://github.com/PeronGH/ghostlock-selinux-disabler)	<img alt="forks" src="https://img.shields.io/github/forks/PeronGH/ghostlock-selinux-disabler">	<img alt="stars" src="https://img.shields.io/github/stars/PeronGH/ghostlock-selinux-disabler">
+- [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/BuSung-dev/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/BuSung-dev/Root-My-Galaxy">
+- [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/smt878u-ionstack-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/smt878u-ionstack-poc">
+- [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
 
 ---
 ## CVE-2026-43494 ()
