@@ -446,6 +446,7 @@
 - [c0gnit00/Wp2Shell](https://github.com/c0gnit00/Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/Wp2Shell">
 - [4B3R4M4-607D/CVE-2026-63030-POC](https://github.com/4B3R4M4-607D/CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/4B3R4M4-607D/CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/4B3R4M4-607D/CVE-2026-63030-POC">
 - [InstaWP/wp2shell-scan](https://github.com/InstaWP/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/InstaWP/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/InstaWP/wp2shell-scan">
+- [hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/wp2shell-scanner">
 
 ---
 ## CVE-2026-6279 ()
