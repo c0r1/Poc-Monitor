@@ -449,6 +449,9 @@
 - [hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/wp2shell-scanner">
 - [skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030](https://github.com/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030">
 - [Lukols-Dev/wp-cve-2026-63030-check](https://github.com/Lukols-Dev/wp-cve-2026-63030-check)	<img alt="forks" src="https://img.shields.io/github/forks/Lukols-Dev/wp-cve-2026-63030-check">	<img alt="stars" src="https://img.shields.io/github/stars/Lukols-Dev/wp-cve-2026-63030-check">
+- [ZenithGenius/wordpress-batch-rce-lab](https://github.com/ZenithGenius/wordpress-batch-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZenithGenius/wordpress-batch-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZenithGenius/wordpress-batch-rce-lab">
+- [ananay/wp2shell-lab](https://github.com/ananay/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ananay/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ananay/wp2shell-lab">
+- [vulnquest58/PressVector](https://github.com/vulnquest58/PressVector)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/PressVector">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/PressVector">
 
 ---
 ## CVE-2026-6279 ()
