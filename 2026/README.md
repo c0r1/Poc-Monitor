@@ -1168,6 +1168,11 @@
 - [BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass](https://github.com/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass">
 
 ---
+## CVE-2026-49176 ()
+> 
+- [DavidCarliez/CVE-2026-49176_LPE_POC](https://github.com/DavidCarliez/CVE-2026-49176_LPE_POC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-49176_LPE_POC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-49176_LPE_POC">
+
+---
 ## CVE-2026-49160 ()
 > 
 - [dhmosfunk/CVE-2026-49160-CVE-2026-47291-HTTP.sys](https://github.com/dhmosfunk/CVE-2026-49160-CVE-2026-47291-HTTP.sys)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2026-49160-CVE-2026-47291-HTTP.sys">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2026-49160-CVE-2026-47291-HTTP.sys">
@@ -7267,6 +7272,7 @@
 ## CVE-2026-0776 ()
 > 
 - [whoanx/CVE-2026-0776](https://github.com/whoanx/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/whoanx/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/whoanx/CVE-2026-0776">
+- [OverlayCS/Helix](https://github.com/OverlayCS/Helix)	<img alt="forks" src="https://img.shields.io/github/forks/OverlayCS/Helix">	<img alt="stars" src="https://img.shields.io/github/stars/OverlayCS/Helix">
 
 ---
 ## CVE-2026-0770 ()
