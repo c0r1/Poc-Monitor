@@ -3093,6 +3093,7 @@
 - [Its1Zero/cve-2025-57819-exploit](https://github.com/Its1Zero/cve-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-exploit">
 - [K3ysTr0K3R/CVE-2025-57819](https://github.com/K3ysTr0K3R/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-57819">
 - [Neobee714/CVE-2025-57819-POC](https://github.com/Neobee714/CVE-2025-57819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Neobee714/CVE-2025-57819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Neobee714/CVE-2025-57819-POC">
+- [Samik-Parajuli/htb-connected-writeup](https://github.com/Samik-Parajuli/htb-connected-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Samik-Parajuli/htb-connected-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Samik-Parajuli/htb-connected-writeup">
 
 ---
 ## CVE-2025-57773 ()
