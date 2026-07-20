@@ -462,6 +462,7 @@
 - [SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/sxwp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/sxwp2shell">
 - [ASYquan/wp2shell-cf-WAF-bypass](https://github.com/ASYquan/wp2shell-cf-WAF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ASYquan/wp2shell-cf-WAF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ASYquan/wp2shell-cf-WAF-bypass">
 - [lucifer0xf/wp2shell-Wordpress-TOWN](https://github.com/lucifer0xf/wp2shell-Wordpress-TOWN)	<img alt="forks" src="https://img.shields.io/github/forks/lucifer0xf/wp2shell-Wordpress-TOWN">	<img alt="stars" src="https://img.shields.io/github/stars/lucifer0xf/wp2shell-Wordpress-TOWN">
+- [Ch4120N/CVE-2026-63030](https://github.com/Ch4120N/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -1765,6 +1766,13 @@
 ## CVE-2026-45585 ()
 > 
 - [0xBlackash/CVE-2026-45585](https://github.com/0xBlackash/CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45585">
+- [mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585">
+- [Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Desireeontrial76/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Desireeontrial76/yellowkey-bitlocker">
+- [ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune](https://github.com/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">
+- [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
+- [andrei-majer/bitlocker-hardening](https://github.com/andrei-majer/bitlocker-hardening)	<img alt="forks" src="https://img.shields.io/github/forks/andrei-majer/bitlocker-hardening">	<img alt="stars" src="https://img.shields.io/github/stars/andrei-majer/bitlocker-hardening">
+- [everest90909/YellowKey-WinRE-Remediation](https://github.com/everest90909/YellowKey-WinRE-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/everest90909/YellowKey-WinRE-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/everest90909/YellowKey-WinRE-Remediation">
+- [bjbakker1984/Yellowkey-mitigation](https://github.com/bjbakker1984/Yellowkey-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/bjbakker1984/Yellowkey-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/bjbakker1984/Yellowkey-mitigation">
 
 ---
 ## CVE-2026-45584 ()
@@ -1882,6 +1890,11 @@
 ## CVE-2026-44706 ()
 > 
 - [hakaioffsec/CVE-2026-44706](https://github.com/hakaioffsec/CVE-2026-44706)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-44706">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-44706">
+
+---
+## CVE-2026-44680 ()
+> 
+- [CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework](https://github.com/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework">
 
 ---
 ## CVE-2026-44656 ()
