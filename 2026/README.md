@@ -1766,7 +1766,7 @@
 ## CVE-2026-45585 ()
 > 
 - [0xBlackash/CVE-2026-45585](https://github.com/0xBlackash/CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45585">
-- [mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585">
+- [yellowkeys/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">
 - [Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Desireeontrial76/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Desireeontrial76/yellowkey-bitlocker">
 - [ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune](https://github.com/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">
 - [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
@@ -7134,6 +7134,11 @@
 ## CVE-2026-12277 ()
 > 
 - [moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)	<img alt="forks" src="https://img.shields.io/github/forks/moritakaaz/CVE-2026-12277">	<img alt="stars" src="https://img.shields.io/github/stars/moritakaaz/CVE-2026-12277">
+
+---
+## CVE-2026-12191 ()
+> 
+- [hakaioffsec/CVE-2026-12191](https://github.com/hakaioffsec/CVE-2026-12191)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-12191">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-12191">
 
 ---
 ## CVE-2026-12166 ()
