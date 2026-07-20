@@ -458,6 +458,8 @@
 - [TomorrowX6/CVE-2026-63030-poc](https://github.com/TomorrowX6/CVE-2026-63030-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TomorrowX6/CVE-2026-63030-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TomorrowX6/CVE-2026-63030-poc">
 - [AkbarWiraN/holy-wp2shell](https://github.com/AkbarWiraN/holy-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/holy-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/holy-wp2shell">
 - [Crypto-Cat/wp2shell](https://github.com/Crypto-Cat/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Crypto-Cat/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Crypto-Cat/wp2shell">
+- [OffByOn3/wp2shell-poc](https://github.com/OffByOn3/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/OffByOn3/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/OffByOn3/wp2shell-poc">
+- [SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/sxwp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/sxwp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -1089,6 +1091,11 @@
 - [JohannesLks/CVE-2026-50338](https://github.com/JohannesLks/CVE-2026-50338)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-50338">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-50338">
 
 ---
+## CVE-2026-5029 ()
+> 
+- [0x00phantom-hat/CVE-2026-5029-Exploit](https://github.com/0x00phantom-hat/CVE-2026-5029-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-5029-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-5029-Exploit">
+
+---
 ## CVE-2026-5027 ()
 > 
 - [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
@@ -1210,6 +1217,11 @@
 ## CVE-2026-49104 ()
 > 
 - [izxci/CVE-2026-49104-](https://github.com/izxci/CVE-2026-49104-)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49104-">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49104-">
+
+---
+## CVE-2026-49086 ()
+> 
+- [oscerd/CVE-2026-49086](https://github.com/oscerd/CVE-2026-49086)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49086">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49086">
 
 ---
 ## CVE-2026-49085 ()
