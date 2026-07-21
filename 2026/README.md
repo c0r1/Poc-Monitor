@@ -950,6 +950,7 @@
 ## CVE-2026-52813 ()
 > 
 - [thecodeb0ss/CVE-2026-52813](https://github.com/thecodeb0ss/CVE-2026-52813)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-52813">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-52813">
+- [iqx6889/CVE-2026-52813-Gogs-RCE](https://github.com/iqx6889/CVE-2026-52813-Gogs-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/iqx6889/CVE-2026-52813-Gogs-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/iqx6889/CVE-2026-52813-Gogs-RCE">
 
 ---
 ## CVE-2026-5281 ()
