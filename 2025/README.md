@@ -10972,6 +10972,11 @@
 - [netspecters/CVE-2025-10742](https://github.com/netspecters/CVE-2025-10742)	<img alt="forks" src="https://img.shields.io/github/forks/netspecters/CVE-2025-10742">	<img alt="stars" src="https://img.shields.io/github/stars/netspecters/CVE-2025-10742">
 
 ---
+## CVE-2025-10725 ()
+> 
+- [kaiokmo/cve-2025-10725-eda-demo](https://github.com/kaiokmo/cve-2025-10725-eda-demo)	<img alt="forks" src="https://img.shields.io/github/forks/kaiokmo/cve-2025-10725-eda-demo">	<img alt="stars" src="https://img.shields.io/github/stars/kaiokmo/cve-2025-10725-eda-demo">
+
+---
 ## CVE-2025-10720 ()
 > 
 - [lorenzocamilli/CVE-2025-10720-PoC](https://github.com/lorenzocamilli/CVE-2025-10720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-10720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-10720-PoC">

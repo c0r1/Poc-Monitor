@@ -348,6 +348,7 @@
 ## CVE-2026-6875 ()
 > 
 - [HORKimhab/CVE-2026-6875](https://github.com/HORKimhab/CVE-2026-6875)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6875">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6875">
+- [tc4dy/CVE-2026-6875-PoC-Exploit](https://github.com/tc4dy/CVE-2026-6875-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-6875-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-6875-PoC-Exploit">
 
 ---
 ## CVE-2026-6857 ()
@@ -602,6 +603,11 @@
 ## CVE-2026-57821 ()
 > 
 - [tc4dy/CVE-2026-57821-PoC-Exploit](https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-57821-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-57821-PoC-Exploit">
+
+---
+## CVE-2026-57588 ()
+> 
+- [CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC](https://github.com/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC">
 
 ---
 ## CVE-2026-57517 ()
@@ -896,6 +902,11 @@
 > 
 - [renat0z3r0/prefect-cve-2026-5366](https://github.com/renat0z3r0/prefect-cve-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/prefect-cve-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/prefect-cve-2026-5366">
 - [renat0z3r0/CVE-2026-5366](https://github.com/renat0z3r0/CVE-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/CVE-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/CVE-2026-5366">
+
+---
+## CVE-2026-53595 ()
+> 
+- [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
 
 ---
 ## CVE-2026-53582 ()

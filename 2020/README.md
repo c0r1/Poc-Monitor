@@ -239,6 +239,7 @@
 - [snappyJack/Rick_write_exp_CVE-2020-8835](https://github.com/snappyJack/Rick_write_exp_CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/snappyJack/Rick_write_exp_CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/snappyJack/Rick_write_exp_CVE-2020-8835">
 - [KashaMalaga/cve2020-8835](https://github.com/KashaMalaga/cve2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/KashaMalaga/cve2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/KashaMalaga/cve2020-8835">
 - [Prabhashaka/Exploitation-CVE-2020-8835](https://github.com/Prabhashaka/Exploitation-CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/Prabhashaka/Exploitation-CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/Prabhashaka/Exploitation-CVE-2020-8835">
+- [WhatsWrongAndWhy/CVE-2020-8835](https://github.com/WhatsWrongAndWhy/CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2020-8835">
 
 ---
 ## CVE-2020-8832 (2020-04-10T00:15:00)
@@ -2547,6 +2548,13 @@
 ## CVE-2020-27199 (2020-12-17T05:15:00)
 > The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.
 - [9lyph/CVE-2020-27199](https://github.com/9lyph/CVE-2020-27199)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2020-27199">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2020-27199">
+
+---
+## CVE-2020-27194 ()
+> 
+- [WhatsWrongAndWhy/CVE-2020-27194](https://github.com/WhatsWrongAndWhy/CVE-2020-27194)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2020-27194">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2020-27194">
+- [xmzyshypnc/CVE-2020-27194](https://github.com/xmzyshypnc/CVE-2020-27194)	<img alt="forks" src="https://img.shields.io/github/forks/xmzyshypnc/CVE-2020-27194">	<img alt="stars" src="https://img.shields.io/github/stars/xmzyshypnc/CVE-2020-27194">
+- [willinin/CVE-2020-27194-exp](https://github.com/willinin/CVE-2020-27194-exp)	<img alt="forks" src="https://img.shields.io/github/forks/willinin/CVE-2020-27194-exp">	<img alt="stars" src="https://img.shields.io/github/stars/willinin/CVE-2020-27194-exp">
 
 ---
 ## CVE-2020-26991 (2021-01-12T21:15:00)
