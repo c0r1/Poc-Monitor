@@ -11,6 +11,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9973 ()
+> 
+- [jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-9973-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-9973-exploit">
+
+---
 ## CVE-2026-9789 ()
 > 
 - [ugvxb/CVE-2026-9789](https://github.com/ugvxb/CVE-2026-9789)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9789">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9789">
@@ -856,6 +861,11 @@
 ## CVE-2026-54088 ()
 > 
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
+
+---
+## CVE-2026-53913 ()
+> 
+- [oscerd/CVE-2026-53913](https://github.com/oscerd/CVE-2026-53913)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-53913">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-53913">
 
 ---
 ## CVE-2026-53805 ()
@@ -4995,6 +5005,7 @@
 > 
 - [JohannesLks/CVE-2026-27654](https://github.com/JohannesLks/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-27654">
 - [dead-lamer/CVE-2026-27654](https://github.com/dead-lamer/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/dead-lamer/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/dead-lamer/CVE-2026-27654">
+- [Debajyoti0-0/CVE-2026-27654-PoC](https://github.com/Debajyoti0-0/CVE-2026-27654-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-27654-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-27654-PoC">
 
 ---
 ## CVE-2026-27639 ()
