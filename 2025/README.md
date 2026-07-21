@@ -9944,6 +9944,7 @@
 ## CVE-2025-20352 ()
 > 
 - [scadastrangelove/CVE-2025-20352](https://github.com/scadastrangelove/CVE-2025-20352)	<img alt="forks" src="https://img.shields.io/github/forks/scadastrangelove/CVE-2025-20352">	<img alt="stars" src="https://img.shields.io/github/stars/scadastrangelove/CVE-2025-20352">
+- [sentinel-aidefense/CVE-2025-20352](https://github.com/sentinel-aidefense/CVE-2025-20352)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-20352">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-20352">
 
 ---
 ## CVE-2025-20343 ()
