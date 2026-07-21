@@ -1178,6 +1178,8 @@
 ## CVE-2018-18955 ()
 > 
 - [WhatsWrongAndWhy/CVE-2018-18955](https://github.com/WhatsWrongAndWhy/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-18955">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [scheatkode/CVE-2018-18955](https://github.com/scheatkode/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/scheatkode/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/scheatkode/CVE-2018-18955">
 
 ---
 ## CVE-2018-18912 ()

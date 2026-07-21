@@ -5900,6 +5900,7 @@
 ## CVE-2025-47928 ()
 > 
 - [pvharmo2/cve-repro-cve-2025-47928](https://github.com/pvharmo2/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/cve-repro-cve-2025-47928">
+- [ghapvharmo/cve-repro-cve-2025-47928](https://github.com/ghapvharmo/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/ghapvharmo/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/ghapvharmo/cve-repro-cve-2025-47928">
 
 ---
 ## CVE-2025-47917 ()
@@ -7599,6 +7600,7 @@
 - [cd-ratel/CVE-2025-32432](https://github.com/cd-ratel/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/cd-ratel/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/cd-ratel/CVE-2025-32432">
 - [n40y/PoC_CVE-2025-32432](https://github.com/n40y/PoC_CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/n40y/PoC_CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/n40y/PoC_CVE-2025-32432">
 - [c0gnit00/CVE-2025-32432](https://github.com/c0gnit00/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2025-32432">
+- [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
 
 ---
 ## CVE-2025-3243 ()
