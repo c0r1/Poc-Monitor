@@ -2621,6 +2621,7 @@
 - [lheeeesoo/Apache-CVE-2021-41773](https://github.com/lheeeesoo/Apache-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/lheeeesoo/Apache-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/lheeeesoo/Apache-CVE-2021-41773">
 - [ninthsgrsj-source/vulhub-apache](https://github.com/ninthsgrsj-source/vulhub-apache)	<img alt="forks" src="https://img.shields.io/github/forks/ninthsgrsj-source/vulhub-apache">	<img alt="stars" src="https://img.shields.io/github/stars/ninthsgrsj-source/vulhub-apache">
 - [0xrogg/CVE-2021-41773](https://github.com/0xrogg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xrogg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xrogg/CVE-2021-41773">
+- [DappaNISM/mass_cve-2021-41773](https://github.com/DappaNISM/mass_cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/DappaNISM/mass_cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/DappaNISM/mass_cve-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
