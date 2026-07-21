@@ -478,6 +478,7 @@
 - [ASYquan/wp2shell-cf-WAF-bypass](https://github.com/ASYquan/wp2shell-cf-WAF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ASYquan/wp2shell-cf-WAF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ASYquan/wp2shell-cf-WAF-bypass">
 - [lucifer0xf/wp2shell-Wordpress-TOWN](https://github.com/lucifer0xf/wp2shell-Wordpress-TOWN)	<img alt="forks" src="https://img.shields.io/github/forks/lucifer0xf/wp2shell-Wordpress-TOWN">	<img alt="stars" src="https://img.shields.io/github/stars/lucifer0xf/wp2shell-Wordpress-TOWN">
 - [Ch4120N/CVE-2026-63030](https://github.com/Ch4120N/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-63030">
+- [Bhanunamikaze/WP2Shell-CVE-2026-63030-POC](https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">
 
 ---
 ## CVE-2026-6279 ()
@@ -533,6 +534,7 @@
 - [ekomsSavior/wp2shell](https://github.com/ekomsSavior/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/wp2shell">
 - [47Cid/wp2shell-lab](https://github.com/47Cid/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/wp2shell-lab">
 - [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
+- [mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress](https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">
 
 ---
 ## CVE-2026-60121 ()

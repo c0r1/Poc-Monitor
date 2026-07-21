@@ -310,6 +310,7 @@
 - [AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit](https://github.com/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit">
 - [Xdezen/CVE-2025-8110](https://github.com/Xdezen/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Xdezen/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Xdezen/CVE-2025-8110">
 - [Shirouuu/CVE-2025-8110-gogs-poc](https://github.com/Shirouuu/CVE-2025-8110-gogs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Shirouuu/CVE-2025-8110-gogs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Shirouuu/CVE-2025-8110-gogs-poc">
+- [ixZODiAK/CVE-2025-8110](https://github.com/ixZODiAK/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/ixZODiAK/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/ixZODiAK/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -4345,6 +4346,7 @@
 - [amnsecurity/reactorwatch-pentest](https://github.com/amnsecurity/reactorwatch-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/reactorwatch-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/reactorwatch-pentest">
 - [se1zer/Nextjs_Exploit_Tool](https://github.com/se1zer/Nextjs_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/se1zer/Nextjs_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/se1zer/Nextjs_Exploit_Tool">
 - [PedroPLCode/CVE-2025-55182_react2shell_exploit.py](https://github.com/PedroPLCode/CVE-2025-55182_react2shell_exploit.py)	<img alt="forks" src="https://img.shields.io/github/forks/PedroPLCode/CVE-2025-55182_react2shell_exploit.py">	<img alt="stars" src="https://img.shields.io/github/stars/PedroPLCode/CVE-2025-55182_react2shell_exploit.py">
+- [6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-](https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-)	<img alt="forks" src="https://img.shields.io/github/forks/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">	<img alt="stars" src="https://img.shields.io/github/stars/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">
 
 ---
 ## CVE-2025-55130 ()
@@ -7596,6 +7598,7 @@
 - [ZzHotte/cve-2025-32432-replication-lab](https://github.com/ZzHotte/cve-2025-32432-replication-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZzHotte/cve-2025-32432-replication-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZzHotte/cve-2025-32432-replication-lab">
 - [cd-ratel/CVE-2025-32432](https://github.com/cd-ratel/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/cd-ratel/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/cd-ratel/CVE-2025-32432">
 - [n40y/PoC_CVE-2025-32432](https://github.com/n40y/PoC_CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/n40y/PoC_CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/n40y/PoC_CVE-2025-32432">
+- [c0gnit00/CVE-2025-32432](https://github.com/c0gnit00/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()
@@ -10826,6 +10829,11 @@
 ## CVE-2025-11749 ()
 > 
 - [Nxploited/CVE-2025-11749](https://github.com/Nxploited/CVE-2025-11749)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-11749">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-11749">
+
+---
+## CVE-2025-11705 ()
+> 
+- [h1dden30/cve-2025-11705-poc](https://github.com/h1dden30/cve-2025-11705-poc)	<img alt="forks" src="https://img.shields.io/github/forks/h1dden30/cve-2025-11705-poc">	<img alt="stars" src="https://img.shields.io/github/stars/h1dden30/cve-2025-11705-poc">
 
 ---
 ## CVE-2025-11627 ()
