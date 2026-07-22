@@ -7001,6 +7001,11 @@
 - [d3kc4rt1/CVE-2026-1657](https://github.com/d3kc4rt1/CVE-2026-1657)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1657">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1657">
 
 ---
+## CVE-2026-16540 ()
+> 
+- [huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments](https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments)	<img alt="forks" src="https://img.shields.io/github/forks/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">	<img alt="stars" src="https://img.shields.io/github/stars/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">
+
+---
 ## CVE-2026-16219 ()
 > 
 - [HELLBOY3110/cve-2026-16219-croogo-lab](https://github.com/HELLBOY3110/cve-2026-16219-croogo-lab)	<img alt="forks" src="https://img.shields.io/github/forks/HELLBOY3110/cve-2026-16219-croogo-lab">	<img alt="stars" src="https://img.shields.io/github/stars/HELLBOY3110/cve-2026-16219-croogo-lab">
@@ -7147,6 +7152,7 @@
 ## CVE-2026-14266 ()
 > 
 - [hg0434hongzh0/CVE-2026-14266](https://github.com/hg0434hongzh0/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-14266">
+- [4minx/CVE-2026-14266](https://github.com/4minx/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-14266">
 
 ---
 ## CVE-2026-1424 ()
