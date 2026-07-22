@@ -482,6 +482,7 @@
 - [Bhanunamikaze/WP2Shell-CVE-2026-63030-POC](https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">
 - [Colere-Sys/wp2shell-poc](https://github.com/Colere-Sys/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Colere-Sys/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Colere-Sys/wp2shell-poc">
 - [mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress](https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">
+- [gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc](https://github.com/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">
 
 ---
 ## CVE-2026-6279 ()
@@ -2721,6 +2722,7 @@
 - [SpiralSealFill/CVE-2026-41089-hub](https://github.com/SpiralSealFill/CVE-2026-41089-hub)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralSealFill/CVE-2026-41089-hub">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralSealFill/CVE-2026-41089-hub">
 - [phil-dirt/CVE-2026-41089-LongLogon](https://github.com/phil-dirt/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/phil-dirt/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/phil-dirt/CVE-2026-41089-LongLogon">
 - [HydraSoft/CVE-2026-41089-Netlogon-RCE](https://github.com/HydraSoft/CVE-2026-41089-Netlogon-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HydraSoft/CVE-2026-41089-Netlogon-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HydraSoft/CVE-2026-41089-Netlogon-RCE">
+- [opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE](https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE">
 
 ---
 ## CVE-2026-4106 ()

@@ -224,6 +224,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-](https://github.com/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-">
 - [amalpvatayam67/day05-grafana-sqlexpr-lab](https://github.com/amalpvatayam67/day05-grafana-sqlexpr-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day05-grafana-sqlexpr-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day05-grafana-sqlexpr-lab">
 - [yeonchoda/CVE-2024-9264](https://github.com/yeonchoda/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/yeonchoda/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/yeonchoda/CVE-2024-9264">
+- [ozcanpng/CVE-2024-9264](https://github.com/ozcanpng/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2024-9264">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
@@ -6609,6 +6610,9 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [0xBlackash/CVE-2024-3094](https://github.com/0xBlackash/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2024-3094">
 - [vesjolyjd/Kaspersky_CVE-2024-3094](https://github.com/vesjolyjd/Kaspersky_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vesjolyjd/Kaspersky_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vesjolyjd/Kaspersky_CVE-2024-3094">
 - [Preacher98/Report-XZ-Utils-CVE-2024-3094](https://github.com/Preacher98/Report-XZ-Utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Preacher98/Report-XZ-Utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Preacher98/Report-XZ-Utils-CVE-2024-3094">
+- [x-cmd-build/xz](https://github.com/x-cmd-build/xz)	<img alt="forks" src="https://img.shields.io/github/forks/x-cmd-build/xz">	<img alt="stars" src="https://img.shields.io/github/stars/x-cmd-build/xz">
+- [nnatsopoulos/xz-backdoor-research](https://github.com/nnatsopoulos/xz-backdoor-research)	<img alt="forks" src="https://img.shields.io/github/forks/nnatsopoulos/xz-backdoor-research">	<img alt="stars" src="https://img.shields.io/github/stars/nnatsopoulos/xz-backdoor-research">
+- [stevehenderson/lab_xz_backdoor](https://github.com/stevehenderson/lab_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/stevehenderson/lab_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/stevehenderson/lab_xz_backdoor">
 
 ---
 ## CVE-2024-3090 (2024-03-30T13:15:00)
