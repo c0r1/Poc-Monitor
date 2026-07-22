@@ -723,6 +723,11 @@
 - [jasetpen/CVE-2025-69428](https://github.com/jasetpen/CVE-2025-69428)	<img alt="forks" src="https://img.shields.io/github/forks/jasetpen/CVE-2025-69428">	<img alt="stars" src="https://img.shields.io/github/stars/jasetpen/CVE-2025-69428">
 
 ---
+## CVE-2025-69421 ()
+> 
+- [Kha-Beleh/PoC-CVE-2025-69421](https://github.com/Kha-Beleh/PoC-CVE-2025-69421)	<img alt="forks" src="https://img.shields.io/github/forks/Kha-Beleh/PoC-CVE-2025-69421">	<img alt="stars" src="https://img.shields.io/github/stars/Kha-Beleh/PoC-CVE-2025-69421">
+
+---
 ## CVE-2025-69420 ()
 > 
 - [Kha-Beleh/PoC-CVE-2025-69420](https://github.com/Kha-Beleh/PoC-CVE-2025-69420)	<img alt="forks" src="https://img.shields.io/github/forks/Kha-Beleh/PoC-CVE-2025-69420">	<img alt="stars" src="https://img.shields.io/github/stars/Kha-Beleh/PoC-CVE-2025-69420">
@@ -1767,6 +1772,7 @@
 - [BardLaudian/CVE-2025-64512](https://github.com/BardLaudian/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2025-64512">
 - [joeack123/PoC-for-CVE-2025-64512](https://github.com/joeack123/PoC-for-CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/joeack123/PoC-for-CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/joeack123/PoC-for-CVE-2025-64512">
 - [MehdiChyhab/CVE-2025-64512-exploit](https://github.com/MehdiChyhab/CVE-2025-64512-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiChyhab/CVE-2025-64512-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiChyhab/CVE-2025-64512-exploit">
+- [Cosm3No1de/Bedside.htb_solved](https://github.com/Cosm3No1de/Bedside.htb_solved)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/Bedside.htb_solved">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/Bedside.htb_solved">
 
 ---
 ## CVE-2025-64500 ()
