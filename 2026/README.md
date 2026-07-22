@@ -488,6 +488,10 @@
 - [Colere-Sys/wp2shell-poc](https://github.com/Colere-Sys/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Colere-Sys/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Colere-Sys/wp2shell-poc">
 - [mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress](https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">
 - [gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc](https://github.com/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">
+- [raphy76/wp2shell-poc-fulljs](https://github.com/raphy76/wp2shell-poc-fulljs)	<img alt="forks" src="https://img.shields.io/github/forks/raphy76/wp2shell-poc-fulljs">	<img alt="stars" src="https://img.shields.io/github/stars/raphy76/wp2shell-poc-fulljs">
+- [Adrees-Basheer/wp2shell-vulnerability-scanner](https://github.com/Adrees-Basheer/wp2shell-vulnerability-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Adrees-Basheer/wp2shell-vulnerability-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Adrees-Basheer/wp2shell-vulnerability-scanner">
+- [mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mcipekci/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mcipekci/wp2shell">
+- [wn-iqbal/wp2shell](https://github.com/wn-iqbal/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/wn-iqbal/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/wn-iqbal/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
