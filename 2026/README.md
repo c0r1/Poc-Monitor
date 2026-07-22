@@ -2166,6 +2166,8 @@
 - [mumaosong/CVE-2026-43499-cloudflare-gate](https://github.com/mumaosong/CVE-2026-43499-cloudflare-gate)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-43499-cloudflare-gate">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-43499-cloudflare-gate">
 - [Petalrain224/CVE-2026-43499-Redmi-Turbo5](https://github.com/Petalrain224/CVE-2026-43499-Redmi-Turbo5)	<img alt="forks" src="https://img.shields.io/github/forks/Petalrain224/CVE-2026-43499-Redmi-Turbo5">	<img alt="stars" src="https://img.shields.io/github/stars/Petalrain224/CVE-2026-43499-Redmi-Turbo5">
 - [geecjdj/CVE-2026-43499](https://github.com/geecjdj/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/geecjdj/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/geecjdj/CVE-2026-43499">
+- [gagaltotal/CVE-2026-43499-PoC-Scanner](https://github.com/gagaltotal/CVE-2026-43499-PoC-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43499-PoC-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43499-PoC-Scanner">
+- [DistrictBlauw/Ace3-GhostLock-Preload](https://github.com/DistrictBlauw/Ace3-GhostLock-Preload)	<img alt="forks" src="https://img.shields.io/github/forks/DistrictBlauw/Ace3-GhostLock-Preload">	<img alt="stars" src="https://img.shields.io/github/stars/DistrictBlauw/Ace3-GhostLock-Preload">
 
 ---
 ## CVE-2026-43494 ()
