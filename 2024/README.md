@@ -11201,6 +11201,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC](https://github.com/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">
 - [dcollaoa/cve-2024-0012-gui-poc](https://github.com/dcollaoa/cve-2024-0012-gui-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dcollaoa/cve-2024-0012-gui-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dcollaoa/cve-2024-0012-gui-poc">
 - [razureink/cve-2024-0012_9474-panos_authbypass_reproduction](https://github.com/razureink/cve-2024-0012_9474-panos_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-0012_9474-panos_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-0012_9474-panos_authbypass_reproduction">
+- [Regent8SH/PanOsExploitMultitool](https://github.com/Regent8SH/PanOsExploitMultitool)	<img alt="forks" src="https://img.shields.io/github/forks/Regent8SH/PanOsExploitMultitool">	<img alt="stars" src="https://img.shields.io/github/stars/Regent8SH/PanOsExploitMultitool">
+- [Gr-1m/cve-2024-0012-poc](https://github.com/Gr-1m/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/cve-2024-0012-poc">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
