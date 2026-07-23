@@ -2603,6 +2603,7 @@
 - [oguz-kagan-akar/CVE-2026-41940-analysis](https://github.com/oguz-kagan-akar/CVE-2026-41940-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/oguz-kagan-akar/CVE-2026-41940-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/oguz-kagan-akar/CVE-2026-41940-analysis">
 - [soverineg/cve-2026-41940-PoC](https://github.com/soverineg/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/soverineg/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/soverineg/cve-2026-41940-PoC">
 - [razureink/cve-2026-41940-cpanel_authbypass_reproduction](https://github.com/razureink/cve-2026-41940-cpanel_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-41940-cpanel_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-41940-cpanel_authbypass_reproduction">
+- [dann3xplo1t/Cpanel](https://github.com/dann3xplo1t/Cpanel)	<img alt="forks" src="https://img.shields.io/github/forks/dann3xplo1t/Cpanel">	<img alt="stars" src="https://img.shields.io/github/stars/dann3xplo1t/Cpanel">
 
 ---
 ## CVE-2026-41901 ()
