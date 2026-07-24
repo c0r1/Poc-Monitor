@@ -539,6 +539,12 @@
 - [jensnesten/CVE-2026-6042-PoC](https://github.com/jensnesten/CVE-2026-6042-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/CVE-2026-6042-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/CVE-2026-6042-PoC">
 
 ---
+## CVE-2026-60206 ()
+> 
+- [imbas007/POC-CVE-2026-60206](https://github.com/imbas007/POC-CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-60206">
+- [0xBlackash/CVE-2026-60206](https://github.com/0xBlackash/CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60206">
+
+---
 ## CVE-2026-6018 ()
 > 
 - [m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain](https://github.com/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">
@@ -932,6 +938,11 @@
 ## CVE-2026-5415 ()
 > 
 - [izxci/CVE-2026-5415](https://github.com/izxci/CVE-2026-5415)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5415">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5415">
+
+---
+## CVE-2026-54121 ()
+> 
+- [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/aniqfakhrul/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/aniqfakhrul/CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -2200,10 +2211,10 @@
 - [qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499](https://github.com/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499">
 - [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)	<img alt="forks" src="https://img.shields.io/github/forks/JoinChang/ghostlock-oneplus">	<img alt="stars" src="https://img.shields.io/github/stars/JoinChang/ghostlock-oneplus">
 - [HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499](https://github.com/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499">
-- [ctnBobong32/CVE-2026-43499-so-build](https://github.com/ctnBobong32/CVE-2026-43499-so-build)	<img alt="forks" src="https://img.shields.io/github/forks/ctnBobong32/CVE-2026-43499-so-build">	<img alt="stars" src="https://img.shields.io/github/stars/ctnBobong32/CVE-2026-43499-so-build">
+- [ctn-Qvo/CVE-2026-43499-so-build](https://github.com/ctn-Qvo/CVE-2026-43499-so-build)	<img alt="forks" src="https://img.shields.io/github/forks/ctn-Qvo/CVE-2026-43499-so-build">	<img alt="stars" src="https://img.shields.io/github/stars/ctn-Qvo/CVE-2026-43499-so-build">
 - [onesmiledx/CVE-2026-43499](https://github.com/onesmiledx/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/onesmiledx/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/onesmiledx/CVE-2026-43499">
 - [Cxyofficial/x200-cve-2026-43499](https://github.com/Cxyofficial/x200-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/Cxyofficial/x200-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/Cxyofficial/x200-cve-2026-43499">
-- [ctnBobong32/auto_extract_offsets](https://github.com/ctnBobong32/auto_extract_offsets)	<img alt="forks" src="https://img.shields.io/github/forks/ctnBobong32/auto_extract_offsets">	<img alt="stars" src="https://img.shields.io/github/stars/ctnBobong32/auto_extract_offsets">
+- [ctn-Qvo/auto_extract_offsets](https://github.com/ctn-Qvo/auto_extract_offsets)	<img alt="forks" src="https://img.shields.io/github/forks/ctn-Qvo/auto_extract_offsets">	<img alt="stars" src="https://img.shields.io/github/stars/ctn-Qvo/auto_extract_offsets">
 - [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Colorful-glassblock/duchamp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Colorful-glassblock/duchamp-root">
 - [qianmo-xw/CVE-2026-43499-popsicle](https://github.com/qianmo-xw/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/qianmo-xw/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/qianmo-xw/CVE-2026-43499-popsicle">
 - [BuSung-dev/CVE-2026-43499-S25U](https://github.com/BuSung-dev/CVE-2026-43499-S25U)	<img alt="forks" src="https://img.shields.io/github/forks/BuSung-dev/CVE-2026-43499-S25U">	<img alt="stars" src="https://img.shields.io/github/stars/BuSung-dev/CVE-2026-43499-S25U">
