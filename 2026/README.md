@@ -543,6 +543,11 @@
 - [NicPWNs/CVE-2026-62183](https://github.com/NicPWNs/CVE-2026-62183)	<img alt="forks" src="https://img.shields.io/github/forks/NicPWNs/CVE-2026-62183">	<img alt="stars" src="https://img.shields.io/github/stars/NicPWNs/CVE-2026-62183">
 
 ---
+## CVE-2026-61946 ()
+> 
+- [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">
+
+---
 ## CVE-2026-6145 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-6145](https://github.com/Hann1bl3L3ct3r/CVE-2026-6145)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-6145">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-6145">
@@ -4601,6 +4606,7 @@
 - [SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431">
 - [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
 - [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
+- [LeoxSoft/CVE-2026-31431](https://github.com/LeoxSoft/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/LeoxSoft/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/LeoxSoft/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
