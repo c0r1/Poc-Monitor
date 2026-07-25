@@ -6378,6 +6378,11 @@
 - [Live-Hack-CVE/CVE-2021-32626](https://github.com/Live-Hack-CVE/CVE-2021-32626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32626">
 
 ---
+## CVE-2021-3262 ()
+> 
+- [l0lsec/CVE-2021-3262](https://github.com/l0lsec/CVE-2021-3262)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2021-3262">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2021-3262">
+
+---
 ## CVE-2021-32608 (2021-05-12T15:15:00)
 > An issue was discovered in Smartstore (aka SmartStoreNET) through 4.1.1. Views/Boards/Partials/_ForumPost.cshtml does not call HtmlUtils.SanitizeHtml on certain text for a forum post.
 - [Live-Hack-CVE/CVE-2021-32608](https://github.com/Live-Hack-CVE/CVE-2021-32608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32608">
@@ -7628,6 +7633,11 @@
 - [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855">
 - [Wercd/CVE-2021-26855](https://github.com/Wercd/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/Wercd/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/Wercd/CVE-2021-26855">
 - [SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065](https://github.com/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065">
+
+---
+## CVE-2021-26837 ()
+> 
+- [l0lsec/CVE-2021-26837](https://github.com/l0lsec/CVE-2021-26837)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2021-26837">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2021-26837">
 
 ---
 ## CVE-2021-26828 ()
