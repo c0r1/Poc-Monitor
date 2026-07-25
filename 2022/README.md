@@ -16071,6 +16071,12 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 ## CVE-2022-38181 (2022-10-25T19:15:00)
 > An Arm product family through 2022-08-12 mail GPU kernel driver allows non-privileged users to make improper GPU processing operations to gain access to already freed memory.
 - [Live-Hack-CVE/CVE-2022-38181](https://github.com/Live-Hack-CVE/CVE-2022-38181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38181">
+- [soralis0912/CVE-2022-38181-aristotle-apk](https://github.com/soralis0912/CVE-2022-38181-aristotle-apk)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle-apk">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle-apk">
+- [soralis0912/CVE-2022-38181-aristotle](https://github.com/soralis0912/CVE-2022-38181-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle">
+- [Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet](https://github.com/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet)	<img alt="forks" src="https://img.shields.io/github/forks/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">	<img alt="stars" src="https://img.shields.io/github/stars/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">
+- [Pro-me3us/CVE_2022_38181_Raven](https://github.com/Pro-me3us/CVE_2022_38181_Raven)	<img alt="forks" src="https://img.shields.io/github/forks/Pro-me3us/CVE_2022_38181_Raven">	<img alt="stars" src="https://img.shields.io/github/stars/Pro-me3us/CVE_2022_38181_Raven">
+- [R0rt1z2/CVE-2022-38181](https://github.com/R0rt1z2/CVE-2022-38181)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/CVE-2022-38181">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/CVE-2022-38181">
+- [Pro-me3us/CVE_2022_38181_Gazelle](https://github.com/Pro-me3us/CVE_2022_38181_Gazelle)	<img alt="forks" src="https://img.shields.io/github/forks/Pro-me3us/CVE_2022_38181_Gazelle">	<img alt="stars" src="https://img.shields.io/github/stars/Pro-me3us/CVE_2022_38181_Gazelle">
 
 ---
 ## CVE-2022-3818 (2022-11-10T00:15:00)
