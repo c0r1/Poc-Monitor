@@ -2718,6 +2718,7 @@
 - [mawussid/CVE-2026-41651-Python](https://github.com/mawussid/CVE-2026-41651-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mawussid/CVE-2026-41651-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mawussid/CVE-2026-41651-Python">
 - [Lutfifakee-Project/CVE-2026-41651](https://github.com/Lutfifakee-Project/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41651">
 - [0xDVRK/CVE-2026-41651](https://github.com/0xDVRK/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xDVRK/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xDVRK/CVE-2026-41651">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-41575 ()
