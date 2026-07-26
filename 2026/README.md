@@ -427,6 +427,8 @@
 > 
 - [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
 - [HORKimhab/CVE-2026-64600](https://github.com/HORKimhab/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64600">
+- [Debajyoti0-0/CVE-2026-64600](https://github.com/Debajyoti0-0/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-64600">
+- [vulnquest58/VQ-RefluxCore](https://github.com/vulnquest58/VQ-RefluxCore)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/VQ-RefluxCore">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/VQ-RefluxCore">
 
 ---
 ## CVE-2026-6433 ()
@@ -624,6 +626,7 @@
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
+- [northsia/CVE-2026-60137-With-Skip-SSL](https://github.com/northsia/CVE-2026-60137-With-Skip-SSL)	<img alt="forks" src="https://img.shields.io/github/forks/northsia/CVE-2026-60137-With-Skip-SSL">	<img alt="stars" src="https://img.shields.io/github/stars/northsia/CVE-2026-60137-With-Skip-SSL">
 
 ---
 ## CVE-2026-60121 ()
