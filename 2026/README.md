@@ -627,6 +627,7 @@
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
 - [northsia/CVE-2026-60137-With-Skip-SSL](https://github.com/northsia/CVE-2026-60137-With-Skip-SSL)	<img alt="forks" src="https://img.shields.io/github/forks/northsia/CVE-2026-60137-With-Skip-SSL">	<img alt="stars" src="https://img.shields.io/github/stars/northsia/CVE-2026-60137-With-Skip-SSL">
+- [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
 
 ---
 ## CVE-2026-60121 ()
@@ -1603,6 +1604,11 @@
 - [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
 - [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
 - [wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)	<img alt="forks" src="https://img.shields.io/github/forks/wanmywan/CVE-2026-48611-phpBB">	<img alt="stars" src="https://img.shields.io/github/stars/wanmywan/CVE-2026-48611-phpBB">
+
+---
+## CVE-2026-4861 ()
+> 
+- [HORKimhab/CVE-2026-4861](https://github.com/HORKimhab/CVE-2026-4861)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-4861">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-4861">
 
 ---
 ## CVE-2026-48595 ()
@@ -2801,6 +2807,7 @@
 ## CVE-2026-41179 ()
 > 
 - [pssec-io/CVE-2026-41179](https://github.com/pssec-io/CVE-2026-41179)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-41179">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-41179">
+- [s-vx/CVE-2026-41179](https://github.com/s-vx/CVE-2026-41179)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2026-41179">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2026-41179">
 
 ---
 ## CVE-2026-41177 ()
