@@ -16,6 +16,11 @@
 - [jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-9973-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-9973-exploit">
 
 ---
+## CVE-2026-9830 ()
+> 
+- [ChPratik/CVE-2026-9830](https://github.com/ChPratik/CVE-2026-9830)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-9830">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-9830">
+
+---
 ## CVE-2026-9789 ()
 > 
 - [ugvxb/CVE-2026-9789](https://github.com/ugvxb/CVE-2026-9789)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9789">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9789">
@@ -1004,6 +1009,7 @@
 - [HORKimhab/CVE-2026-54121](https://github.com/HORKimhab/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54121">
 - [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-54121-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-54121-PoC-Exploit">
 - [GlendonNotGlen/certighost-cve-2026-54121-slides](https://github.com/GlendonNotGlen/certighost-cve-2026-54121-slides)	<img alt="forks" src="https://img.shields.io/github/forks/GlendonNotGlen/certighost-cve-2026-54121-slides">	<img alt="stars" src="https://img.shields.io/github/stars/GlendonNotGlen/certighost-cve-2026-54121-slides">
+- [marcgoam/CVE-2026-54121-CertiGhost](https://github.com/marcgoam/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/marcgoam/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/marcgoam/CVE-2026-54121-CertiGhost">
 
 ---
 ## CVE-2026-5411 ()
@@ -2249,6 +2255,11 @@
 - [SecureWithUmer/CVE-2026-43503](https://github.com/SecureWithUmer/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-43503">
 - [entra1337/DirtyClone](https://github.com/entra1337/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/entra1337/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/entra1337/DirtyClone">
 - [lieehrdiansyah12/CVE-2026-43503](https://github.com/lieehrdiansyah12/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/lieehrdiansyah12/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/lieehrdiansyah12/CVE-2026-43503">
+
+---
+## CVE-2026-43501 ()
+> 
+- [ngtuonghung/CVE-2026-43501](https://github.com/ngtuonghung/CVE-2026-43501)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-43501">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-43501">
 
 ---
 ## CVE-2026-43500 ()
