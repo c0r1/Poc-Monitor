@@ -586,6 +586,11 @@
 - [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">
 
 ---
+## CVE-2026-61511 ()
+> 
+- [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-61511">
+
+---
 ## CVE-2026-6145 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-6145](https://github.com/Hann1bl3L3ct3r/CVE-2026-6145)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-6145">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-6145">
@@ -1035,6 +1040,7 @@
 - [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-54121-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-54121-PoC-Exploit">
 - [GlendonNotGlen/certighost-cve-2026-54121-slides](https://github.com/GlendonNotGlen/certighost-cve-2026-54121-slides)	<img alt="forks" src="https://img.shields.io/github/forks/GlendonNotGlen/certighost-cve-2026-54121-slides">	<img alt="stars" src="https://img.shields.io/github/stars/GlendonNotGlen/certighost-cve-2026-54121-slides">
 - [marcgoam/CVE-2026-54121-CertiGhost](https://github.com/marcgoam/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/marcgoam/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/marcgoam/CVE-2026-54121-CertiGhost">
+- [ChPratik/CVE-2026-54121](https://github.com/ChPratik/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -5335,6 +5341,11 @@
 > 
 - [mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration](https://github.com/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">
 - [AdityaBhatt3010/CVE-2026-27579-CORS-Misconfiguration-Leading-to-Authenticated-Data-Exposure](https://github.com/AdityaBhatt3010/CVE-2026-27579-CORS-Misconfiguration-Leading-to-Authenticated-Data-Exposure)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-27579-CORS-Misconfiguration-Leading-to-Authenticated-Data-Exposure">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-27579-CORS-Misconfiguration-Leading-to-Authenticated-Data-Exposure">
+
+---
+## CVE-2026-27577 ()
+> 
+- [HORKimhab/CVE-2026-27577](https://github.com/HORKimhab/CVE-2026-27577)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-27577">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-27577">
 
 ---
 ## CVE-2026-27574 ()
