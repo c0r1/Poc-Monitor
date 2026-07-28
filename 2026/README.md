@@ -189,6 +189,7 @@
 - [rootdirective-sec/CVE-2026-8206-Lab](https://github.com/rootdirective-sec/CVE-2026-8206-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8206-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8206-Lab">
 - [izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8206">
 - [amnsecurity/CVE-2026-8206-Kirki-WP](https://github.com/amnsecurity/CVE-2026-8206-Kirki-WP)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-8206-Kirki-WP">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-8206-Kirki-WP">
+- [Dungsocool/CVE-2026-8206](https://github.com/Dungsocool/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-8206">
 
 ---
 ## CVE-2026-8196 ()

@@ -9900,6 +9900,11 @@
 - [Urbank-61/cve-2025-21497-lab](https://github.com/Urbank-61/cve-2025-21497-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Urbank-61/cve-2025-21497-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Urbank-61/cve-2025-21497-lab">
 
 ---
+## CVE-2025-21479 ()
+> 
+- [CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479](https://github.com/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479">
+
+---
 ## CVE-2025-21420 ()
 > 
 - [Network-Sec/CVE-2025-21420-PoC](https://github.com/Network-Sec/CVE-2025-21420-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-21420-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-21420-PoC">
