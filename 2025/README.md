@@ -9902,7 +9902,7 @@
 ---
 ## CVE-2025-21479 ()
 > 
-- [CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479](https://github.com/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479">
+- [CamsShaft/SELinux-Permissive-Only-CVE-2025-21479](https://github.com/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">
 
 ---
 ## CVE-2025-21420 ()
