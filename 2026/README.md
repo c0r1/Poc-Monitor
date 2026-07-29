@@ -2727,6 +2727,7 @@
 - [gagaltotal/CVE-2026-42533-nginx](https://github.com/gagaltotal/CVE-2026-42533-nginx)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42533-nginx">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42533-nginx">
 - [imbas007/CVE-2026-42533](https://github.com/imbas007/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-42533">
 - [jelasin/CVE-2026-42533](https://github.com/jelasin/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42533">
+- [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
 
 ---
 ## CVE-2026-42530 ()
