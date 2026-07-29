@@ -784,6 +784,11 @@
 - [billybaraja/cve-2026-5950-bind9-resolver-dos](https://github.com/billybaraja/cve-2026-5950-bind9-resolver-dos)	<img alt="forks" src="https://img.shields.io/github/forks/billybaraja/cve-2026-5950-bind9-resolver-dos">	<img alt="stars" src="https://img.shields.io/github/stars/billybaraja/cve-2026-5950-bind9-resolver-dos">
 
 ---
+## CVE-2026-59243 ()
+> 
+- [MalHyuk/CVE-2026-59243](https://github.com/MalHyuk/CVE-2026-59243)	<img alt="forks" src="https://img.shields.io/github/forks/MalHyuk/CVE-2026-59243">	<img alt="stars" src="https://img.shields.io/github/stars/MalHyuk/CVE-2026-59243">
+
+---
 ## CVE-2026-5865 ()
 > 
 - [Crihexe/v8-poc-CVE-2026-5865](https://github.com/Crihexe/v8-poc-CVE-2026-5865)	<img alt="forks" src="https://img.shields.io/github/forks/Crihexe/v8-poc-CVE-2026-5865">	<img alt="stars" src="https://img.shields.io/github/stars/Crihexe/v8-poc-CVE-2026-5865">
@@ -1249,7 +1254,7 @@
 ---
 ## CVE-2026-52832 ()
 > 
-- [mdvpat/CVE-2026-52832-PoC-exploit-nuclei-dashboard](https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclei-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-52832-PoC-exploit-nuclei-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-52832-PoC-exploit-nuclei-dashboard">
+- [mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard](https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">
 
 ---
 ## CVE-2026-52813 ()
@@ -7377,6 +7382,11 @@
 ## CVE-2026-16540 ()
 > 
 - [huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments](https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments)	<img alt="forks" src="https://img.shields.io/github/forks/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">	<img alt="stars" src="https://img.shields.io/github/stars/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">
+
+---
+## CVE-2026-16475 ()
+> 
+- [afertar/CVE-2026-16475-PoC](https://github.com/afertar/CVE-2026-16475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/afertar/CVE-2026-16475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/afertar/CVE-2026-16475-PoC">
 
 ---
 ## CVE-2026-16232 ()
