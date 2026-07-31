@@ -8757,6 +8757,8 @@
 > Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.
 - [Live-Hack-CVE/CVE-2021-22893](https://github.com/Live-Hack-CVE/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22893">
 - [ZephrFish/CVE-2021-22893_HoneyPoC2](https://github.com/ZephrFish/CVE-2021-22893_HoneyPoC2)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-22893_HoneyPoC2">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-22893_HoneyPoC2">
+- [orangmuda/CVE-2021-22893](https://github.com/orangmuda/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-22893">
+- [MRLEE123456/CVE-2021-22893](https://github.com/MRLEE123456/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/MRLEE123456/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/MRLEE123456/CVE-2021-22893">
 
 ---
 ## CVE-2021-22892 (2021-05-27T12:15:00)
