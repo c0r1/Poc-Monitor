@@ -186,6 +186,12 @@
 ## CVE-2026-8347 ()
 > 
 - [aj2108/CVE-2026-8347](https://github.com/aj2108/CVE-2026-8347)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8347">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8347">
+- [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
+
+---
+## CVE-2026-8337 ()
+> 
+- [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
 
 ---
 ## CVE-2026-8206 ()
