@@ -7450,6 +7450,11 @@
 - [pbrass/CVE-2026-1814](https://github.com/pbrass/CVE-2026-1814)	<img alt="forks" src="https://img.shields.io/github/forks/pbrass/CVE-2026-1814">	<img alt="stars" src="https://img.shields.io/github/stars/pbrass/CVE-2026-1814">
 
 ---
+## CVE-2026-17351 ()
+> 
+- [Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass](https://github.com/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass">
+
+---
 ## CVE-2026-1731 ()
 > 
 - [z3r0h3ro/CVE-2026-1731-exp](https://github.com/z3r0h3ro/CVE-2026-1731-exp)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-1731-exp">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-1731-exp">
