@@ -555,6 +555,11 @@
 - [litosmartin/CVE-2026-64600-Refluxfs-PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/litosmartin/CVE-2026-64600-Refluxfs-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/litosmartin/CVE-2026-64600-Refluxfs-PoC">
 
 ---
+## CVE-2026-64531 ()
+> 
+- [mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool](https://github.com/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">
+
+---
 ## CVE-2026-6433 ()
 > 
 - [murrez/CVE-2026-6433](https://github.com/murrez/CVE-2026-6433)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-6433">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-6433">
@@ -1974,6 +1979,7 @@
 ## CVE-2026-47668 ()
 > 
 - [Nxploited/CVE-2026-47668](https://github.com/Nxploited/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-47668">
+- [s-vx/CVE-2026-47668](https://github.com/s-vx/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2026-47668">
 
 ---
 ## CVE-2026-47423 ()
@@ -7469,7 +7475,7 @@
 - [EQSTLab/CVE-2026-16723](https://github.com/EQSTLab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-16723">
 - [why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/why-success/fastjson-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/why-success/fastjson-rce-lab">
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
-- [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [1xPwn/CVE-2026-16723](https://github.com/1xPwn/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/1xPwn/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/1xPwn/CVE-2026-16723">
 - [fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-16723">
 
 ---
