@@ -1288,6 +1288,11 @@
 - [renat0z3r0/CVE-2026-5366](https://github.com/renat0z3r0/CVE-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/CVE-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/CVE-2026-5366">
 
 ---
+## CVE-2026-53625 ()
+> 
+- [7h30th3r0n3/CVE-2026-53625-GLPI-PoC](https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-53625-GLPI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-53625-GLPI-PoC">
+
+---
 ## CVE-2026-53595 ()
 > 
 - [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
