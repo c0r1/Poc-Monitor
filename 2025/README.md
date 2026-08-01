@@ -11062,6 +11062,11 @@
 - [TranDongA3/POC-CVE-2025-1094](https://github.com/TranDongA3/POC-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/POC-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/POC-CVE-2025-1094">
 
 ---
+## CVE-2025-10897 ()
+> 
+- [error-inside/CVE-2025-10897](https://github.com/error-inside/CVE-2025-10897)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2025-10897">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2025-10897">
+
+---
 ## CVE-2025-10878 ()
 > 
 - [onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi](https://github.com/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">
