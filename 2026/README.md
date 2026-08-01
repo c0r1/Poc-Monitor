@@ -2325,6 +2325,7 @@
 - [tchuin2609/YellowKey-Bitlocker](https://github.com/tchuin2609/YellowKey-Bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/YellowKey-Bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/YellowKey-Bitlocker">
 - [tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/tchuin2609.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/tchuin2609.github.io">
 - [yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">
+- [Aqua1214/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -2674,6 +2675,7 @@
 - [datfooldive/ghostlock-emerald](https://github.com/datfooldive/ghostlock-emerald)	<img alt="forks" src="https://img.shields.io/github/forks/datfooldive/ghostlock-emerald">	<img alt="stars" src="https://img.shields.io/github/stars/datfooldive/ghostlock-emerald">
 - [CatXiaoShi/cve-2026-43499](https://github.com/CatXiaoShi/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CatXiaoShi/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CatXiaoShi/cve-2026-43499">
 - [fusiondrive/CVE-2026-43499-A36](https://github.com/fusiondrive/CVE-2026-43499-A36)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-A36">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-A36">
+- [1ndevelopment/CVE-2026-43499-S26](https://github.com/1ndevelopment/CVE-2026-43499-S26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/CVE-2026-43499-S26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/CVE-2026-43499-S26">
 
 ---
 ## CVE-2026-43494 ()
@@ -7584,6 +7586,11 @@
 ## CVE-2026-15981 ()
 > 
 - [Nxploited/CVE-2026-15981](https://github.com/Nxploited/CVE-2026-15981)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-15981">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-15981">
+
+---
+## CVE-2026-15964 ()
+> 
+- [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
 
 ---
 ## CVE-2026-1581 ()
