@@ -1293,6 +1293,11 @@
 - [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
 
 ---
+## CVE-2026-53576 ()
+> 
+- [TamatahYT/CVE-2026-53576](https://github.com/TamatahYT/CVE-2026-53576)	<img alt="forks" src="https://img.shields.io/github/forks/TamatahYT/CVE-2026-53576">	<img alt="stars" src="https://img.shields.io/github/stars/TamatahYT/CVE-2026-53576">
+
+---
 ## CVE-2026-53571 ()
 > 
 - [TazmiDev/CVE-2026-53571](https://github.com/TazmiDev/CVE-2026-53571)	<img alt="forks" src="https://img.shields.io/github/forks/TazmiDev/CVE-2026-53571">	<img alt="stars" src="https://img.shields.io/github/stars/TazmiDev/CVE-2026-53571">
@@ -2628,6 +2633,7 @@
 - [LuZe0y/pd2425-cve-2026-43499-config](https://github.com/LuZe0y/pd2425-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/LuZe0y/pd2425-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/LuZe0y/pd2425-cve-2026-43499-config">
 - [NothingFumo/ghostlock-aresin](https://github.com/NothingFumo/ghostlock-aresin)	<img alt="forks" src="https://img.shields.io/github/forks/NothingFumo/ghostlock-aresin">	<img alt="stars" src="https://img.shields.io/github/stars/NothingFumo/ghostlock-aresin">
 - [datfooldive/ghostlock-emerald](https://github.com/datfooldive/ghostlock-emerald)	<img alt="forks" src="https://img.shields.io/github/forks/datfooldive/ghostlock-emerald">	<img alt="stars" src="https://img.shields.io/github/stars/datfooldive/ghostlock-emerald">
+- [CatXiaoShi/cve-2026-43499](https://github.com/CatXiaoShi/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CatXiaoShi/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CatXiaoShi/cve-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
