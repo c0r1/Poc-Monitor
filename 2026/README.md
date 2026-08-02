@@ -3429,6 +3429,7 @@
 - [HORKimhab/CVE-2026-39987](https://github.com/HORKimhab/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39987">
 - [gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-39987">
 - [jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2026-39987">
+- [vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -7823,6 +7824,11 @@
 ## CVE-2026-1375 ()
 > 
 - [d3kc4rt1/CVE-2026-1375](https://github.com/d3kc4rt1/CVE-2026-1375)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1375">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1375">
+
+---
+## CVE-2026-13714 ()
+> 
+- [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
 
 ---
 ## CVE-2026-1357 ()
