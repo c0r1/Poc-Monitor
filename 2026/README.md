@@ -542,6 +542,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-66418 ()
+> 
+- [theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field](https://github.com/theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field">
+
+---
 ## CVE-2026-66066 ()
 > 
 - [0xBlackash/CVE-2026-66066](https://github.com/0xBlackash/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-66066">
