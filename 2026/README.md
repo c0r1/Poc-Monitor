@@ -3428,6 +3428,7 @@
 - [M3PH1569/CVE-2026-39987-POC](https://github.com/M3PH1569/CVE-2026-39987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/M3PH1569/CVE-2026-39987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/M3PH1569/CVE-2026-39987-POC">
 - [HORKimhab/CVE-2026-39987](https://github.com/HORKimhab/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39987">
 - [gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-39987">
+- [jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -3635,6 +3636,7 @@
 - [daniel30padd/CVE-2026-3854](https://github.com/daniel30padd/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/daniel30padd/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/daniel30padd/CVE-2026-3854">
 - [jenniferreire26/CVE-2026-3854](https://github.com/jenniferreire26/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-3854">
 - [isagoakira/ghes-cve-scanner](https://github.com/isagoakira/ghes-cve-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/isagoakira/ghes-cve-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/isagoakira/ghes-cve-scanner">
+- [royaleybovich/CVE-2026-3854-lab](https://github.com/royaleybovich/CVE-2026-3854-lab)	<img alt="forks" src="https://img.shields.io/github/forks/royaleybovich/CVE-2026-3854-lab">	<img alt="stars" src="https://img.shields.io/github/stars/royaleybovich/CVE-2026-3854-lab">
 
 ---
 ## CVE-2026-38526 ()
