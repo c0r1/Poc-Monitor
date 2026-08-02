@@ -2711,6 +2711,7 @@
 - [veygax/HORiZonstack](https://github.com/veygax/HORiZonstack)	<img alt="forks" src="https://img.shields.io/github/forks/veygax/HORiZonstack">	<img alt="stars" src="https://img.shields.io/github/stars/veygax/HORiZonstack">
 - [suominen/ghostlock](https://github.com/suominen/ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ghostlock">
 - [boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus)	<img alt="forks" src="https://img.shields.io/github/forks/boxiaolanya2008/CVE-2026-43499-Neo11Plus">	<img alt="stars" src="https://img.shields.io/github/stars/boxiaolanya2008/CVE-2026-43499-Neo11Plus">
+- [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)	<img alt="forks" src="https://img.shields.io/github/forks/alex193a/Root-My-Pixel">	<img alt="stars" src="https://img.shields.io/github/stars/alex193a/Root-My-Pixel">
 
 ---
 ## CVE-2026-43494 ()
@@ -2774,6 +2775,7 @@
 - [nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-](https://github.com/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-)	<img alt="forks" src="https://img.shields.io/github/forks/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-">	<img alt="stars" src="https://img.shields.io/github/stars/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-">
 - [nonameuserosint-hue/DirtyFrag-go](https://github.com/nonameuserosint-hue/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/nonameuserosint-hue/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/nonameuserosint-hue/DirtyFrag-go">
 - [AadityaKandel/CVE-2026-43284](https://github.com/AadityaKandel/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/AadityaKandel/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/AadityaKandel/CVE-2026-43284">
+- [RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-](https://github.com/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-)	<img alt="forks" src="https://img.shields.io/github/forks/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">	<img alt="stars" src="https://img.shields.io/github/stars/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">
 
 ---
 ## CVE-2026-42980 ()
