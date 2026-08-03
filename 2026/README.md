@@ -31,6 +31,11 @@
 - [jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-9973-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-9973-exploit">
 
 ---
+## CVE-2026-9848 ()
+> 
+- [aj2108/CVE-2026-9848](https://github.com/aj2108/CVE-2026-9848)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9848">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9848">
+
+---
 ## CVE-2026-9833 ()
 > 
 - [aj2108/CVE-2026-9833](https://github.com/aj2108/CVE-2026-9833)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9833">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9833">
@@ -648,6 +653,11 @@
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
 
 ---
+## CVE-2026-65321 ()
+> 
+- [rahulreddykarne/CVE-2026-65321-pyathena](https://github.com/rahulreddykarne/CVE-2026-65321-pyathena)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-65321-pyathena">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-65321-pyathena">
+
+---
 ## CVE-2026-65008 ()
 > 
 - [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
@@ -689,6 +699,11 @@
 ## CVE-2026-63766 ()
 > 
 - [0xdak/CVE-2026-63766_exploit](https://github.com/0xdak/CVE-2026-63766_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-63766_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-63766_exploit">
+
+---
+## CVE-2026-63720 ()
+> 
+- [rahulreddykarne/CVE-2026-63720-datamodel-code-generator](https://github.com/rahulreddykarne/CVE-2026-63720-datamodel-code-generator)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-63720-datamodel-code-generator">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-63720-datamodel-code-generator">
 
 ---
 ## CVE-2026-63563 ()
@@ -912,6 +927,17 @@
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
 - [northsia/CVE-2026-60137-With-Skip-SSL](https://github.com/northsia/CVE-2026-60137-With-Skip-SSL)	<img alt="forks" src="https://img.shields.io/github/forks/northsia/CVE-2026-60137-With-Skip-SSL">	<img alt="stars" src="https://img.shields.io/github/stars/northsia/CVE-2026-60137-With-Skip-SSL">
 - [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
+- [AdarshThakur14777-cyber/CVE-2026-60137](https://github.com/AdarshThakur14777-cyber/CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/AdarshThakur14777-cyber/CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/AdarshThakur14777-cyber/CVE-2026-60137">
+- [michael-kanda/Wp2shell-ioc-scanner](https://github.com/michael-kanda/Wp2shell-ioc-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/michael-kanda/Wp2shell-ioc-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/michael-kanda/Wp2shell-ioc-scanner">
+- [BytesPulse-OE/wp2shell-Hestia-Scanner](https://github.com/BytesPulse-OE/wp2shell-Hestia-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/BytesPulse-OE/wp2shell-Hestia-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/BytesPulse-OE/wp2shell-Hestia-Scanner">
+- [yuag/wp2shell](https://github.com/yuag/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/yuag/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/yuag/wp2shell">
+- [shinthink/CVE-2026-63030](https://github.com/shinthink/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-63030">
+- [Giangdurian/CVE-2026-63030-CVE-2026-60137](https://github.com/Giangdurian/CVE-2026-63030-CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-63030-CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-63030-CVE-2026-60137">
+- [razureink/cve-2026-63030_60137-wordpress_rce_reproduction](https://github.com/razureink/cve-2026-63030_60137-wordpress_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-63030_60137-wordpress_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-63030_60137-wordpress_rce_reproduction">
+- [gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc](https://github.com/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">
+- [Adrees-Basheer/wp2shell-vulnerability-scanner](https://github.com/Adrees-Basheer/wp2shell-vulnerability-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Adrees-Basheer/wp2shell-vulnerability-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Adrees-Basheer/wp2shell-vulnerability-scanner">
+- [mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mcipekci/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mcipekci/wp2shell">
+- [Iqbalx7/wp2shell](https://github.com/Iqbalx7/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Iqbalx7/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Iqbalx7/wp2shell">
 
 ---
 ## CVE-2026-60121 ()
@@ -2687,6 +2713,11 @@
 ## CVE-2026-43655 ()
 > 
 - [Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF](https://github.com/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">
+
+---
+## CVE-2026-43637 ()
+> 
+- [rahulreddykarne/CVE-2026-43637-cornac](https://github.com/rahulreddykarne/CVE-2026-43637-cornac)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-43637-cornac">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-43637-cornac">
 
 ---
 ## CVE-2026-43515 ()
