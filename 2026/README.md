@@ -11,6 +11,16 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9999 ()
+> 
+- [George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite](https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">
+
+---
+## CVE-2026-9998 ()
+> 
+- [George0Papasotiriou/CVE-2026-9998-Insecure-Deserialization-in-Blockchain-Oracle](https://github.com/George0Papasotiriou/CVE-2026-9998-Insecure-Deserialization-in-Blockchain-Oracle)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9998-Insecure-Deserialization-in-Blockchain-Oracle">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9998-Insecure-Deserialization-in-Blockchain-Oracle">
+
+---
 ## CVE-2026-9973 ()
 > 
 - [jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-9973-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-9973-exploit">
@@ -277,6 +287,11 @@
 - [Caster-chen/CVE-2026-8037-POC](https://github.com/Caster-chen/CVE-2026-8037-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Caster-chen/CVE-2026-8037-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Caster-chen/CVE-2026-8037-POC">
 
 ---
+## CVE-2026-7878 ()
+> 
+- [George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write](https://github.com/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write">
+
+---
 ## CVE-2026-7731 ()
 > 
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
@@ -425,6 +440,11 @@
 ## CVE-2026-6807 ()
 > 
 - [SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC](https://github.com/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">
+
+---
+## CVE-2026-6789 ()
+> 
+- [George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser](https://github.com/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">
 
 ---
 ## CVE-2026-6770 ()
@@ -1252,6 +1272,11 @@
 ## CVE-2026-54337 ()
 > 
 - [4qu4r1um/CVE-2026-54337-PoC](https://github.com/4qu4r1um/CVE-2026-54337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4qu4r1um/CVE-2026-54337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4qu4r1um/CVE-2026-54337-PoC">
+
+---
+## CVE-2026-5432 ()
+> 
+- [George0Papasotiriou/CVE-2026-5432-GraphQL-Batching-Alias-Confusion-SQL-Injection](https://github.com/George0Papasotiriou/CVE-2026-5432-GraphQL-Batching-Alias-Confusion-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-5432-GraphQL-Batching-Alias-Confusion-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-5432-GraphQL-Batching-Alias-Confusion-SQL-Injection">
 
 ---
 ## CVE-2026-54316 ()
@@ -2342,6 +2367,11 @@
 ## CVE-2026-45729 ()
 > 
 - [yeahhbean/CVE-2026-45729](https://github.com/yeahhbean/CVE-2026-45729)	<img alt="forks" src="https://img.shields.io/github/forks/yeahhbean/CVE-2026-45729">	<img alt="stars" src="https://img.shields.io/github/stars/yeahhbean/CVE-2026-45729">
+
+---
+## CVE-2026-4567 ()
+> 
+- [George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-](https://github.com/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-">
 
 ---
 ## CVE-2026-45659 ()
@@ -4106,6 +4136,11 @@
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-3462">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-3462">
 
 ---
+## CVE-2026-3456 ()
+> 
+- [George0Papasotiriou/CVE-2026-3456-OAuth2-PKCE-Race-Condition-Account-Takeover-](https://github.com/George0Papasotiriou/CVE-2026-3456-OAuth2-PKCE-Race-Condition-Account-Takeover-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-3456-OAuth2-PKCE-Race-Condition-Account-Takeover-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-3456-OAuth2-PKCE-Race-Condition-Account-Takeover-">
+
+---
 ## CVE-2026-34486 ()
 > 
 - [AirSkye/CVE-2026-34486-poc](https://github.com/AirSkye/CVE-2026-34486-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AirSkye/CVE-2026-34486-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AirSkye/CVE-2026-34486-poc">
@@ -5561,6 +5596,11 @@
 ## CVE-2026-28286 ()
 > 
 - [Rushi9/zimaos-cve-2026-28286-arbitrary-file-write](https://github.com/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write)	<img alt="forks" src="https://img.shields.io/github/forks/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write">	<img alt="stars" src="https://img.shields.io/github/stars/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write">
+
+---
+## CVE-2026-2828 ()
+> 
+- [George0Papasotiriou/CVE-2026-2828-WebGPU-Cross-Origin-Pixel-Stealing-via-Timing](https://github.com/George0Papasotiriou/CVE-2026-2828-WebGPU-Cross-Origin-Pixel-Stealing-via-Timing)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-2828-WebGPU-Cross-Origin-Pixel-Stealing-via-Timing">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-2828-WebGPU-Cross-Origin-Pixel-Stealing-via-Timing">
 
 ---
 ## CVE-2026-28207 ()
@@ -7863,6 +7903,11 @@
 - [masterwok/PoC-CVE-2026-1357](https://github.com/masterwok/PoC-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-1357">
 
 ---
+## CVE-2026-1337 ()
+> 
+- [George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape](https://github.com/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">
+
+---
 ## CVE-2026-13233 ()
 > 
 - [KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)	<img alt="forks" src="https://img.shields.io/github/forks/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">	<img alt="stars" src="https://img.shields.io/github/stars/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">
@@ -8049,6 +8094,11 @@
 ## CVE-2026-11374 ()
 > 
 - [BishopFox/CVE-2026-11374-check](https://github.com/BishopFox/CVE-2026-11374-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-11374-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-11374-check">
+
+---
+## CVE-2026-1122 ()
+> 
+- [George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection](https://github.com/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">
 
 ---
 ## CVE-2026-1107 ()
