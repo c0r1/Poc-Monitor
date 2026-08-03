@@ -679,6 +679,11 @@
 - [litosmartin/CVE-2026-64600-Refluxfs-PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/litosmartin/CVE-2026-64600-Refluxfs-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/litosmartin/CVE-2026-64600-Refluxfs-PoC">
 
 ---
+## CVE-2026-64560 ()
+> 
+- [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-64560-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-64560-Analysis">
+
+---
 ## CVE-2026-64531 ()
 > 
 - [mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool](https://github.com/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">
@@ -815,6 +820,7 @@
 - [BytesPulse-OE/wp2shell-Hestia-Scanner](https://github.com/BytesPulse-OE/wp2shell-Hestia-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/BytesPulse-OE/wp2shell-Hestia-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/BytesPulse-OE/wp2shell-Hestia-Scanner">
 - [yuag/wp2shell](https://github.com/yuag/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/yuag/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/yuag/wp2shell">
 - [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
+- [Procjevt/CVE-2026-63030](https://github.com/Procjevt/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Procjevt/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Procjevt/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -956,6 +962,7 @@
 - [EQSTLab/CVE-2026-60004](https://github.com/EQSTLab/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-60004">
 - [0xBlackash/CVE-2026-60004](https://github.com/0xBlackash/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60004">
 - [imbas007/CVE-2026-60004-POC](https://github.com/imbas007/CVE-2026-60004-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-60004-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-60004-POC">
+- [shinthink/CVE-2026-60004](https://github.com/shinthink/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-60004">
 
 ---
 ## CVE-2026-59941 ()
@@ -1389,6 +1396,7 @@
 - [mwnickerson/certighost-bof](https://github.com/mwnickerson/certighost-bof)	<img alt="forks" src="https://img.shields.io/github/forks/mwnickerson/certighost-bof">	<img alt="stars" src="https://img.shields.io/github/stars/mwnickerson/certighost-bof">
 - [KrakenEU/CVE-2026-54121-CertiGhost](https://github.com/KrakenEU/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2026-54121-CertiGhost">
 - [nafiez/Metasploit-CVE-2026-54121-Certighost](https://github.com/nafiez/Metasploit-CVE-2026-54121-Certighost)	<img alt="forks" src="https://img.shields.io/github/forks/nafiez/Metasploit-CVE-2026-54121-Certighost">	<img alt="stars" src="https://img.shields.io/github/stars/nafiez/Metasploit-CVE-2026-54121-Certighost">
+- [AtlasVector/Certighost-CVE-2026-54121](https://github.com/AtlasVector/Certighost-CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Certighost-CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Certighost-CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -6145,6 +6153,7 @@
 > 
 - [huynambka/cve-2026-26114](https://github.com/huynambka/cve-2026-26114)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114">
 - [huynambka/cve-2026-26114-poc](https://github.com/huynambka/cve-2026-26114-poc)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114-poc">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114-poc">
+- [fazilbaig1/CVE-2026-26114-Patch](https://github.com/fazilbaig1/CVE-2026-26114-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-26114-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-26114-Patch">
 
 ---
 ## CVE-2026-26030 ()
