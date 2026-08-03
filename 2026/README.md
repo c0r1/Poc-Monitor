@@ -2446,6 +2446,7 @@
 ## CVE-2026-46243 ()
 > 
 - [MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-](https://github.com/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-)	<img alt="forks" src="https://img.shields.io/github/forks/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-">	<img alt="stars" src="https://img.shields.io/github/stars/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-">
+- [0xBlackash/CVE-2026-46243](https://github.com/0xBlackash/CVE-2026-46243)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46243">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46243">
 
 ---
 ## CVE-2026-46242 ()
