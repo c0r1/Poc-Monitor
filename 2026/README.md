@@ -447,6 +447,11 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
+## CVE-2026-68771 ()
+> 
+- [0xdak/CVE-2026-68771_exploit](https://github.com/0xdak/CVE-2026-68771_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-68771_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-68771_exploit">
+
+---
 ## CVE-2026-6875 ()
 > 
 - [HORKimhab/CVE-2026-6875](https://github.com/HORKimhab/CVE-2026-6875)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6875">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6875">
@@ -3011,6 +3016,11 @@
 ## CVE-2026-42879 ()
 > 
 - [guzrex/CVE-2026-42879](https://github.com/guzrex/CVE-2026-42879)	<img alt="forks" src="https://img.shields.io/github/forks/guzrex/CVE-2026-42879">	<img alt="stars" src="https://img.shields.io/github/stars/guzrex/CVE-2026-42879">
+
+---
+## CVE-2026-42826 ()
+> 
+- [sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability](https://github.com/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">
 
 ---
 ## CVE-2026-42796 ()
