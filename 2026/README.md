@@ -1163,6 +1163,11 @@
 - [sentinel-aidefense/CVE-2026-56164-EXP](https://github.com/sentinel-aidefense/CVE-2026-56164-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-56164-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-56164-EXP">
 
 ---
+## CVE-2026-56158 ()
+> 
+- [sam00/CVE-2026-56158-.NET-Framework-RCE-PoC-Exploit](https://github.com/sam00/CVE-2026-56158-.NET-Framework-RCE-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/CVE-2026-56158-.NET-Framework-RCE-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/CVE-2026-56158-.NET-Framework-RCE-PoC-Exploit">
+
+---
 ## CVE-2026-5615 ()
 > 
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
