@@ -7514,6 +7514,21 @@
 - [Filipemendonca1978/CVE-2026-21018](https://github.com/Filipemendonca1978/CVE-2026-21018)	<img alt="forks" src="https://img.shields.io/github/forks/Filipemendonca1978/CVE-2026-21018">	<img alt="stars" src="https://img.shields.io/github/stars/Filipemendonca1978/CVE-2026-21018">
 
 ---
+## CVE-2026-21003 ()
+> 
+- [George0Papasotiriou/CVE-2026-21003-JWT-none-Algorithm-Bypass-via-kid-Header-Omission](https://github.com/George0Papasotiriou/CVE-2026-21003-JWT-none-Algorithm-Bypass-via-kid-Header-Omission)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21003-JWT-none-Algorithm-Bypass-via-kid-Header-Omission">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21003-JWT-none-Algorithm-Bypass-via-kid-Header-Omission">
+
+---
+## CVE-2026-21002 ()
+> 
+- [George0Papasotiriou/CVE-2026-21002-Serverless-Cold-Start-Credential-Leakage-via-Reused-tmp](https://github.com/George0Papasotiriou/CVE-2026-21002-Serverless-Cold-Start-Credential-Leakage-via-Reused-tmp)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21002-Serverless-Cold-Start-Credential-Leakage-via-Reused-tmp">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21002-Serverless-Cold-Start-Credential-Leakage-via-Reused-tmp">
+
+---
+## CVE-2026-21001 ()
+> 
+- [George0Papasotiriou/CVE-2026-21001-WebAssembly-Linear-Memory-OOB-via-Table-Index-Confusion](https://github.com/George0Papasotiriou/CVE-2026-21001-WebAssembly-Linear-Memory-OOB-via-Table-Index-Confusion)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21001-WebAssembly-Linear-Memory-OOB-via-Table-Index-Confusion">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21001-WebAssembly-Linear-Memory-OOB-via-Table-Index-Confusion">
+
+---
 ## CVE-2026-20999 ()
 > 
 - [lasdjk/CVE-2026-20999-my-thought](https://github.com/lasdjk/CVE-2026-20999-my-thought)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-20999-my-thought">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-20999-my-thought">
@@ -8293,9 +8308,84 @@
 - [George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection](https://github.com/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">
 
 ---
+## CVE-2026-11120 ()
+> 
+- [George0Papasotiriou/CVE-2026-11120-Command-Injection-via-Git-URL-in-CI-CD-Pipeline](https://github.com/George0Papasotiriou/CVE-2026-11120-Command-Injection-via-Git-URL-in-CI-CD-Pipeline)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11120-Command-Injection-via-Git-URL-in-CI-CD-Pipeline">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11120-Command-Injection-via-Git-URL-in-CI-CD-Pipeline">
+
+---
+## CVE-2026-11119 ()
+> 
+- [George0Papasotiriou/CVE-2026-11119-Padding-Oracle-Attack-on-CBC-Mode-Encryption](https://github.com/George0Papasotiriou/CVE-2026-11119-Padding-Oracle-Attack-on-CBC-Mode-Encryption)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11119-Padding-Oracle-Attack-on-CBC-Mode-Encryption">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11119-Padding-Oracle-Attack-on-CBC-Mode-Encryption">
+
+---
+## CVE-2026-11118 ()
+> 
+- [George0Papasotiriou/CVE-2026-11118-HTTP-2-Rapid-Reset-DDoS](https://github.com/George0Papasotiriou/CVE-2026-11118-HTTP-2-Rapid-Reset-DDoS)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11118-HTTP-2-Rapid-Reset-DDoS">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11118-HTTP-2-Rapid-Reset-DDoS">
+
+---
+## CVE-2026-11117 ()
+> 
+- [George0Papasotiriou/CVE-2026-11117-WPA2-4-Way-Handshake-Reinstallation-KRACK-Sim-](https://github.com/George0Papasotiriou/CVE-2026-11117-WPA2-4-Way-Handshake-Reinstallation-KRACK-Sim-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11117-WPA2-4-Way-Handshake-Reinstallation-KRACK-Sim-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11117-WPA2-4-Way-Handshake-Reinstallation-KRACK-Sim-">
+
+---
+## CVE-2026-11116 ()
+> 
+- [George0Papasotiriou/CVE-2026-11116-SNMPv3-Authentication-Bypass-via-Default-EngineID](https://github.com/George0Papasotiriou/CVE-2026-11116-SNMPv3-Authentication-Bypass-via-Default-EngineID)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11116-SNMPv3-Authentication-Bypass-via-Default-EngineID">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11116-SNMPv3-Authentication-Bypass-via-Default-EngineID">
+
+---
+## CVE-2026-11115 ()
+> 
+- [George0Papasotiriou/CVE-2026-11115-Database-Connection-String-Injection-via-Env-Variable](https://github.com/George0Papasotiriou/CVE-2026-11115-Database-Connection-String-Injection-via-Env-Variable)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11115-Database-Connection-String-Injection-via-Env-Variable">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11115-Database-Connection-String-Injection-via-Env-Variable">
+
+---
+## CVE-2026-11114 ()
+> 
+- [George0Papasotiriou/CVE-2026-11114-Node.js-vm-Sandbox-Escape-via-Proxy](https://github.com/George0Papasotiriou/CVE-2026-11114-Node.js-vm-Sandbox-Escape-via-Proxy)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11114-Node.js-vm-Sandbox-Escape-via-Proxy">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11114-Node.js-vm-Sandbox-Escape-via-Proxy">
+
+---
+## CVE-2026-11113 ()
+> 
+- [George0Papasotiriou/CVE-2026-11113-SMTP-Header-Injection-in-Contact-Form](https://github.com/George0Papasotiriou/CVE-2026-11113-SMTP-Header-Injection-in-Contact-Form)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11113-SMTP-Header-Injection-in-Contact-Form">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11113-SMTP-Header-Injection-in-Contact-Form">
+
+---
+## CVE-2026-11112 ()
+> 
+- [George0Papasotiriou/CVE-2026-11112-XXE-via-SVG-Image-Upload](https://github.com/George0Papasotiriou/CVE-2026-11112-XXE-via-SVG-Image-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11112-XXE-via-SVG-Image-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11112-XXE-via-SVG-Image-Upload">
+
+---
+## CVE-2026-11111 ()
+> 
+- [George0Papasotiriou/CVE-2026-11111-TOCTOU-in-File-Permission-Check-Before-Open](https://github.com/George0Papasotiriou/CVE-2026-11111-TOCTOU-in-File-Permission-Check-Before-Open)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11111-TOCTOU-in-File-Permission-Check-Before-Open">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11111-TOCTOU-in-File-Permission-Check-Before-Open">
+
+---
+## CVE-2026-11110 ()
+> 
+- [George0Papasotiriou/CVE-2026-11110-AES-GCM-Nonce-Reuse-Leading-to-Key-Recovery](https://github.com/George0Papasotiriou/CVE-2026-11110-AES-GCM-Nonce-Reuse-Leading-to-Key-Recovery)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11110-AES-GCM-Nonce-Reuse-Leading-to-Key-Recovery">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11110-AES-GCM-Nonce-Reuse-Leading-to-Key-Recovery">
+
+---
 ## CVE-2026-1111 ()
 > 
 - [George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy](https://github.com/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy">
+
+---
+## CVE-2026-11109 ()
+> 
+- [George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-](https://github.com/George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-">
+
+---
+## CVE-2026-11108 ()
+> 
+- [George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-](https://github.com/George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-">
+
+---
+## CVE-2026-11107 ()
+> 
+- [George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1](https://github.com/George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1">
+
+---
+## CVE-2026-11106 ()
+> 
+- [George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure](https://github.com/George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure">
 
 ---
 ## CVE-2026-11105 ()
