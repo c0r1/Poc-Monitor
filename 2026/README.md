@@ -625,6 +625,8 @@
 - [Zer0SumGam3/CVE-2026-66066-POC](https://github.com/Zer0SumGam3/CVE-2026-66066-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Zer0SumGam3/CVE-2026-66066-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Zer0SumGam3/CVE-2026-66066-POC">
 - [rails/rails-forensics-CVE-2026-66066](https://github.com/rails/rails-forensics-CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/rails/rails-forensics-CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/rails/rails-forensics-CVE-2026-66066">
 - [0xsha/KindaRails2Shell](https://github.com/0xsha/KindaRails2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/KindaRails2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/KindaRails2Shell">
+- [shinthink/CVE-2026-66066](https://github.com/shinthink/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-66066">
+- [HackSpeak/kindarails2shell-poc](https://github.com/HackSpeak/kindarails2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/kindarails2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/kindarails2shell-poc">
 
 ---
 ## CVE-2026-66012 ()
@@ -1059,6 +1061,11 @@
 ## CVE-2026-58057 ()
 > 
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
+
+---
+## CVE-2026-58048 ()
+> 
+- [imbas007/POC-CVE-2026-58048](https://github.com/imbas007/POC-CVE-2026-58048)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-58048">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-58048">
 
 ---
 ## CVE-2026-58025 ()
@@ -1549,6 +1556,12 @@
 ## CVE-2026-52832 ()
 > 
 - [mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard](https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">
+
+---
+## CVE-2026-52824 ()
+> 
+- [AzureADTrent/CVE-2026-52824](https://github.com/AzureADTrent/CVE-2026-52824)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2026-52824">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2026-52824">
+- [cyeezy08/Kimai-CVE-2026-49865-POC](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyeezy08/Kimai-CVE-2026-49865-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyeezy08/Kimai-CVE-2026-49865-POC">
 
 ---
 ## CVE-2026-52813 ()
@@ -7509,9 +7522,90 @@
 - [Filipemendonca1978/CVE-2026-21045_and_CVE-2026-21048](https://github.com/Filipemendonca1978/CVE-2026-21045_and_CVE-2026-21048)	<img alt="forks" src="https://img.shields.io/github/forks/Filipemendonca1978/CVE-2026-21045_and_CVE-2026-21048">	<img alt="stars" src="https://img.shields.io/github/stars/Filipemendonca1978/CVE-2026-21045_and_CVE-2026-21048">
 
 ---
+## CVE-2026-21020 ()
+> 
+- [George0Papasotiriou/CVE-2026-21020-Protobuf-Message-Parsing-Polymorphic-Deserialization-Vulnerability](https://github.com/George0Papasotiriou/CVE-2026-21020-Protobuf-Message-Parsing-Polymorphic-Deserialization-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21020-Protobuf-Message-Parsing-Polymorphic-Deserialization-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21020-Protobuf-Message-Parsing-Polymorphic-Deserialization-Vulnerability">
+
+---
+## CVE-2026-21019 ()
+> 
+- [George0Papasotiriou/CVE-2026-21019-Kubernetes-CronJob-Suspended-Execution-via-Time-Manipulation](https://github.com/George0Papasotiriou/CVE-2026-21019-Kubernetes-CronJob-Suspended-Execution-via-Time-Manipulation)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21019-Kubernetes-CronJob-Suspended-Execution-via-Time-Manipulation">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21019-Kubernetes-CronJob-Suspended-Execution-via-Time-Manipulation">
+
+---
 ## CVE-2026-21018 ()
 > 
 - [Filipemendonca1978/CVE-2026-21018](https://github.com/Filipemendonca1978/CVE-2026-21018)	<img alt="forks" src="https://img.shields.io/github/forks/Filipemendonca1978/CVE-2026-21018">	<img alt="stars" src="https://img.shields.io/github/stars/Filipemendonca1978/CVE-2026-21018">
+- [George0Papasotiriou/CVE-2026-21018-OPC-UA-Authentication-Bypass-via-None-Security-Policy](https://github.com/George0Papasotiriou/CVE-2026-21018-OPC-UA-Authentication-Bypass-via-None-Security-Policy)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21018-OPC-UA-Authentication-Bypass-via-None-Security-Policy">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21018-OPC-UA-Authentication-Bypass-via-None-Security-Policy">
+
+---
+## CVE-2026-21017 ()
+> 
+- [George0Papasotiriou/CVE-2026-21017-LDAP-Anonymous-Bind-Privilege-Escalation](https://github.com/George0Papasotiriou/CVE-2026-21017-LDAP-Anonymous-Bind-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21017-LDAP-Anonymous-Bind-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21017-LDAP-Anonymous-Bind-Privilege-Escalation">
+
+---
+## CVE-2026-21016 ()
+> 
+- [George0Papasotiriou/CVE-2026-21016-Malicious-PyPI-Package-Install-Hook-setup.py-Execution-](https://github.com/George0Papasotiriou/CVE-2026-21016-Malicious-PyPI-Package-Install-Hook-setup.py-Execution-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21016-Malicious-PyPI-Package-Install-Hook-setup.py-Execution-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21016-Malicious-PyPI-Package-Install-Hook-setup.py-Execution-">
+
+---
+## CVE-2026-21015 ()
+> 
+- [George0Papasotiriou/CVE-2026-21015-PHP-Filter-Chain-Arbitrary-File-Read](https://github.com/George0Papasotiriou/CVE-2026-21015-PHP-Filter-Chain-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21015-PHP-Filter-Chain-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21015-PHP-Filter-Chain-Arbitrary-File-Read">
+
+---
+## CVE-2026-21014 ()
+> 
+- [George0Papasotiriou/CVE-2026-21014-CAN-Bus-Frame-Replay-Attack-on-Automotive-ECU](https://github.com/George0Papasotiriou/CVE-2026-21014-CAN-Bus-Frame-Replay-Attack-on-Automotive-ECU)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21014-CAN-Bus-Frame-Replay-Attack-on-Automotive-ECU">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21014-CAN-Bus-Frame-Replay-Attack-on-Automotive-ECU">
+
+---
+## CVE-2026-21013 ()
+> 
+- [George0Papasotiriou/CVE-2026-21013-PDF-JavaScript-Injection-via-Embedded-Script](https://github.com/George0Papasotiriou/CVE-2026-21013-PDF-JavaScript-Injection-via-Embedded-Script)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21013-PDF-JavaScript-Injection-via-Embedded-Script">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21013-PDF-JavaScript-Injection-via-Embedded-Script">
+
+---
+## CVE-2026-21012 ()
+> 
+- [George0Papasotiriou/CVE-2026-21012-Rust-serde-Deserialization-of-Untrusted-Enum-Variant-Injection-](https://github.com/George0Papasotiriou/CVE-2026-21012-Rust-serde-Deserialization-of-Untrusted-Enum-Variant-Injection-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21012-Rust-serde-Deserialization-of-Untrusted-Enum-Variant-Injection-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21012-Rust-serde-Deserialization-of-Untrusted-Enum-Variant-Injection-">
+
+---
+## CVE-2026-21011 ()
+> 
+- [George0Papasotiriou/CVE-2026-21011-Log4j-style-JNDI-Injection-in-Custom-Logger-Simulated-](https://github.com/George0Papasotiriou/CVE-2026-21011-Log4j-style-JNDI-Injection-in-Custom-Logger-Simulated-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21011-Log4j-style-JNDI-Injection-in-Custom-Logger-Simulated-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21011-Log4j-style-JNDI-Injection-in-Custom-Logger-Simulated-">
+
+---
+## CVE-2026-21010 ()
+> 
+- [George0Papasotiriou/CVE-2026-21010-VoIP-SIP-Digest-Authentication-Replay](https://github.com/George0Papasotiriou/CVE-2026-21010-VoIP-SIP-Digest-Authentication-Replay)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21010-VoIP-SIP-Digest-Authentication-Replay">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21010-VoIP-SIP-Digest-Authentication-Replay">
+
+---
+## CVE-2026-21009 ()
+> 
+- [George0Papasotiriou/CVE-2026-21009-ECDSA-Nonce-Reuse-in-IoT-Firmware-Signing](https://github.com/George0Papasotiriou/CVE-2026-21009-ECDSA-Nonce-Reuse-in-IoT-Firmware-Signing)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21009-ECDSA-Nonce-Reuse-in-IoT-Firmware-Signing">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21009-ECDSA-Nonce-Reuse-in-IoT-Firmware-Signing">
+
+---
+## CVE-2026-21008 ()
+> 
+- [George0Papasotiriou/CVE-2026-21008-Kubernetes-Service-Account-Token-Mounted-in-HostPath](https://github.com/George0Papasotiriou/CVE-2026-21008-Kubernetes-Service-Account-Token-Mounted-in-HostPath)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21008-Kubernetes-Service-Account-Token-Mounted-in-HostPath">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21008-Kubernetes-Service-Account-Token-Mounted-in-HostPath">
+
+---
+## CVE-2026-21007 ()
+> 
+- [George0Papasotiriou/CVE-2026-21007-GPU-Driver-ioctl-Race-Condition-Kernel-Memory-Mapping-](https://github.com/George0Papasotiriou/CVE-2026-21007-GPU-Driver-ioctl-Race-Condition-Kernel-Memory-Mapping-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21007-GPU-Driver-ioctl-Race-Condition-Kernel-Memory-Mapping-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21007-GPU-Driver-ioctl-Race-Condition-Kernel-Memory-Mapping-">
+
+---
+## CVE-2026-21006 ()
+> 
+- [George0Papasotiriou/CVE-2026-21006-Zigbee-Light-Link-Factory-Reset-Exploit](https://github.com/George0Papasotiriou/CVE-2026-21006-Zigbee-Light-Link-Factory-Reset-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21006-Zigbee-Light-Link-Factory-Reset-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21006-Zigbee-Light-Link-Factory-Reset-Exploit">
+
+---
+## CVE-2026-21005 ()
+> 
+- [George0Papasotiriou/CVE-2026-21005-Docker-Registry-V2-Schema-1-Image-Poisoning](https://github.com/George0Papasotiriou/CVE-2026-21005-Docker-Registry-V2-Schema-1-Image-Poisoning)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21005-Docker-Registry-V2-Schema-1-Image-Poisoning">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21005-Docker-Registry-V2-Schema-1-Image-Poisoning">
+
+---
+## CVE-2026-21004 ()
+> 
+- [George0Papasotiriou/CVE-2026-21004-SQLite-FTS3-Match-Infoleak-via-Query-Crafting](https://github.com/George0Papasotiriou/CVE-2026-21004-SQLite-FTS3-Match-Infoleak-via-Query-Crafting)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21004-SQLite-FTS3-Match-Infoleak-via-Query-Crafting">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21004-SQLite-FTS3-Match-Infoleak-via-Query-Crafting">
 
 ---
 ## CVE-2026-21003 ()
