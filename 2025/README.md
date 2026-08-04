@@ -551,6 +551,11 @@
 - [ktauchathuranga/CVE-2025-70994](https://github.com/ktauchathuranga/CVE-2025-70994)	<img alt="forks" src="https://img.shields.io/github/forks/ktauchathuranga/CVE-2025-70994">	<img alt="stars" src="https://img.shields.io/github/stars/ktauchathuranga/CVE-2025-70994">
 
 ---
+## CVE-2025-70962 ()
+> 
+- [namaek2/CVE-2025-70962](https://github.com/namaek2/CVE-2025-70962)	<img alt="forks" src="https://img.shields.io/github/forks/namaek2/CVE-2025-70962">	<img alt="stars" src="https://img.shields.io/github/stars/namaek2/CVE-2025-70962">
+
+---
 ## CVE-2025-70899 ()
 > 
 - [mathavamoorthi/CVE-2025-70899](https://github.com/mathavamoorthi/CVE-2025-70899)	<img alt="forks" src="https://img.shields.io/github/forks/mathavamoorthi/CVE-2025-70899">	<img alt="stars" src="https://img.shields.io/github/stars/mathavamoorthi/CVE-2025-70899">
