@@ -2643,6 +2643,7 @@
 - [KunalKhandelwal-dev/cve-2021-41773-source-code-analysis](https://github.com/KunalKhandelwal-dev/cve-2021-41773-source-code-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/KunalKhandelwal-dev/cve-2021-41773-source-code-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/KunalKhandelwal-dev/cve-2021-41773-source-code-analysis">
 - [tr3m0x/CVE-2021-41773](https://github.com/tr3m0x/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/tr3m0x/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/tr3m0x/CVE-2021-41773">
 - [sbimoxa/cve-2021-41773-lab](https://github.com/sbimoxa/cve-2021-41773-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sbimoxa/cve-2021-41773-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sbimoxa/cve-2021-41773-lab">
+- [Shams-Ul-Mehmood/CVE-2021-41773-Exploit](https://github.com/Shams-Ul-Mehmood/CVE-2021-41773-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shams-Ul-Mehmood/CVE-2021-41773-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shams-Ul-Mehmood/CVE-2021-41773-Exploit">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
