@@ -1000,6 +1000,7 @@
 - [imbas007/CVE-2026-60004-POC](https://github.com/imbas007/CVE-2026-60004-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-60004-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-60004-POC">
 - [shinthink/CVE-2026-60004](https://github.com/shinthink/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-60004">
 - [HackSpeak/CVE-2026-60004](https://github.com/HackSpeak/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-60004">
+- [Sachinart/CVE-2026-60004-gitea-0day](https://github.com/Sachinart/CVE-2026-60004-gitea-0day)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2026-60004-gitea-0day">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2026-60004-gitea-0day">
 
 ---
 ## CVE-2026-59941 ()
