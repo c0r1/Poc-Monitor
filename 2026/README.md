@@ -870,6 +870,7 @@
 - [minwunn/wp2shell-CVE-2026-63030](https://github.com/minwunn/wp2shell-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/minwunn/wp2shell-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/minwunn/wp2shell-CVE-2026-63030">
 - [rechandra/wp2exp-2026](https://github.com/rechandra/wp2exp-2026)	<img alt="forks" src="https://img.shields.io/github/forks/rechandra/wp2exp-2026">	<img alt="stars" src="https://img.shields.io/github/stars/rechandra/wp2exp-2026">
 - [johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)	<img alt="forks" src="https://img.shields.io/github/forks/johnlodan/wp2shell-rce">	<img alt="stars" src="https://img.shields.io/github/stars/johnlodan/wp2shell-rce">
+- [Dungsocool/CVE-2026-60137-CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137-CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -995,6 +996,7 @@
 - [Iqbalx7/wp2shell](https://github.com/Iqbalx7/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Iqbalx7/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Iqbalx7/wp2shell">
 - [AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC](https://github.com/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC">
 - [Dungsocool/CVE-2026-60137-CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137-CVE-2026-63030">
+- [johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)	<img alt="forks" src="https://img.shields.io/github/forks/johnlodan/wp2shell-rce">	<img alt="stars" src="https://img.shields.io/github/stars/johnlodan/wp2shell-rce">
 
 ---
 ## CVE-2026-60121 ()
