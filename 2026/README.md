@@ -7105,6 +7105,11 @@
 - [lukasz-rybak/CVE-2026-23498](https://github.com/lukasz-rybak/CVE-2026-23498)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23498">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23498">
 
 ---
+## CVE-2026-23489 ()
+> 
+- [eorll-lgtm/poc-CVE-2026-23489](https://github.com/eorll-lgtm/poc-CVE-2026-23489)	<img alt="forks" src="https://img.shields.io/github/forks/eorll-lgtm/poc-CVE-2026-23489">	<img alt="stars" src="https://img.shields.io/github/stars/eorll-lgtm/poc-CVE-2026-23489">
+
+---
 ## CVE-2026-23479 ()
 > 
 - [pduggusa/redis-cve-2026-23479-check](https://github.com/pduggusa/redis-cve-2026-23479-check)	<img alt="forks" src="https://img.shields.io/github/forks/pduggusa/redis-cve-2026-23479-check">	<img alt="stars" src="https://img.shields.io/github/stars/pduggusa/redis-cve-2026-23479-check">

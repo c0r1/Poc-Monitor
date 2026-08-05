@@ -164,6 +164,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [cc3305/CVE-2023-6553](https://github.com/cc3305/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2023-6553">
 - [Harshit-Mashru/CVE-2023-6553](https://github.com/Harshit-Mashru/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Harshit-Mashru/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Harshit-Mashru/CVE-2023-6553">
 - [Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit](https://github.com/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit">
+- [Dungsocool/CVE-2023-6553](https://github.com/Dungsocool/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2023-6553">
 
 ---
 ## CVE-2023-6548 (2024-01-17T20:15:00)

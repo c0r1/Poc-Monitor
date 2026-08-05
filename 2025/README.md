@@ -7687,6 +7687,7 @@
 - [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
 - [theeomega/CVE-2025-32432-POC](https://github.com/theeomega/CVE-2025-32432-POC)	<img alt="forks" src="https://img.shields.io/github/forks/theeomega/CVE-2025-32432-POC">	<img alt="stars" src="https://img.shields.io/github/stars/theeomega/CVE-2025-32432-POC">
 - [HeltonPojo/CVE-2025-32432](https://github.com/HeltonPojo/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/HeltonPojo/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/HeltonPojo/CVE-2025-32432">
+- [PsyGuy007-sys/craftcms-cve-2025-32432-rce](https://github.com/PsyGuy007-sys/craftcms-cve-2025-32432-rce)	<img alt="forks" src="https://img.shields.io/github/forks/PsyGuy007-sys/craftcms-cve-2025-32432-rce">	<img alt="stars" src="https://img.shields.io/github/stars/PsyGuy007-sys/craftcms-cve-2025-32432-rce">
 
 ---
 ## CVE-2025-3243 ()
