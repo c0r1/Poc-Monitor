@@ -468,6 +468,11 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
+## CVE-2026-69098 ()
+> 
+- [0xdak/CVE-2026-69098_exploit](https://github.com/0xdak/CVE-2026-69098_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69098_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69098_exploit">
+
+---
 ## CVE-2026-69083 ()
 > 
 - [0xdak/CVE-2026-69083_exploit](https://github.com/0xdak/CVE-2026-69083_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69083_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69083_exploit">
@@ -537,6 +542,11 @@
 ## CVE-2026-67599 ()
 > 
 - [LazyTitan33/CVE-2026-67599_ClearOS_RCE](https://github.com/LazyTitan33/CVE-2026-67599_ClearOS_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LazyTitan33/CVE-2026-67599_ClearOS_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LazyTitan33/CVE-2026-67599_ClearOS_RCE">
+
+---
+## CVE-2026-67598 ()
+> 
+- [IlhomjonR/CVE-2026-67598](https://github.com/IlhomjonR/CVE-2026-67598)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-67598">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-67598">
 
 ---
 ## CVE-2026-67595 ()
@@ -1142,6 +1152,7 @@
 ## CVE-2026-58048 ()
 > 
 - [imbas007/POC-CVE-2026-58048](https://github.com/imbas007/POC-CVE-2026-58048)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-58048">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-58048">
+- [tc4dy/CVE-2026-58048-PoC-Exploit](https://github.com/tc4dy/CVE-2026-58048-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-58048-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-58048-PoC-Exploit">
 
 ---
 ## CVE-2026-58025 ()
