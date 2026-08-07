@@ -752,6 +752,11 @@
 - [altvist/cve-2026-64725-poc](https://github.com/altvist/cve-2026-64725-poc)	<img alt="forks" src="https://img.shields.io/github/forks/altvist/cve-2026-64725-poc">	<img alt="stars" src="https://img.shields.io/github/stars/altvist/cve-2026-64725-poc">
 
 ---
+## CVE-2026-64640 ()
+> 
+- [oscerd/CVE-2026-64640](https://github.com/oscerd/CVE-2026-64640)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-64640">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-64640">
+
+---
 ## CVE-2026-64633 ()
 > 
 - [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
