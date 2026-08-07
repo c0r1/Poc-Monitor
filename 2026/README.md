@@ -1185,6 +1185,7 @@
 - [shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57827">
 - [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
 - [Mohammad-008/rsfiles-CVE-2026-57827](https://github.com/Mohammad-008/rsfiles-CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammad-008/rsfiles-CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammad-008/rsfiles-CVE-2026-57827">
+- [jjkk123123/CVE-2026-57827](https://github.com/jjkk123123/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/jjkk123123/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/jjkk123123/CVE-2026-57827">
 
 ---
 ## CVE-2026-57821 ()
@@ -4030,6 +4031,11 @@
 ## CVE-2026-38165 ()
 > 
 - [AT190510-Cuong/CVE-2026-38165-SSTI-](https://github.com/AT190510-Cuong/CVE-2026-38165-SSTI-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2026-38165-SSTI-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2026-38165-SSTI-">
+
+---
+## CVE-2026-38053 ()
+> 
+- [Crypte1/CVE-2026-38053---Remove-PPL](https://github.com/Crypte1/CVE-2026-38053---Remove-PPL)	<img alt="forks" src="https://img.shields.io/github/forks/Crypte1/CVE-2026-38053---Remove-PPL">	<img alt="stars" src="https://img.shields.io/github/stars/Crypte1/CVE-2026-38053---Remove-PPL">
 
 ---
 ## CVE-2026-3805 ()
@@ -8183,6 +8189,11 @@
 - [sn0x-sharma/CVE-2026-18718](https://github.com/sn0x-sharma/CVE-2026-18718)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-18718">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-18718">
 
 ---
+## CVE-2026-18649 ()
+> 
+- [0xSemizzz/CVE-2026-18649](https://github.com/0xSemizzz/CVE-2026-18649)	<img alt="forks" src="https://img.shields.io/github/forks/0xSemizzz/CVE-2026-18649">	<img alt="stars" src="https://img.shields.io/github/stars/0xSemizzz/CVE-2026-18649">
+
+---
 ## CVE-2026-1862 ()
 > 
 - [b1gchoi/CVE-2026-1862-exp](https://github.com/b1gchoi/CVE-2026-1862-exp)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-1862-exp">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-1862-exp">
@@ -8217,6 +8228,7 @@
 ## CVE-2026-17543 ()
 > 
 - [pratham220/CVE-2026-17543-PHP-Exposure-Validator](https://github.com/pratham220/CVE-2026-17543-PHP-Exposure-Validator)	<img alt="forks" src="https://img.shields.io/github/forks/pratham220/CVE-2026-17543-PHP-Exposure-Validator">	<img alt="stars" src="https://img.shields.io/github/stars/pratham220/CVE-2026-17543-PHP-Exposure-Validator">
+- [Hunt-Benito/e-is-for-exploit-cve-2026-17543-php-pgsql-sql-injection-backslash-breakout](https://github.com/Hunt-Benito/e-is-for-exploit-cve-2026-17543-php-pgsql-sql-injection-backslash-breakout)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/e-is-for-exploit-cve-2026-17543-php-pgsql-sql-injection-backslash-breakout">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/e-is-for-exploit-cve-2026-17543-php-pgsql-sql-injection-backslash-breakout">
 
 ---
 ## CVE-2026-17532 ()
