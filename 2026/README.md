@@ -768,6 +768,11 @@
 - [litosmartin/CVE-2026-64600-Refluxfs-PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/litosmartin/CVE-2026-64600-Refluxfs-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/litosmartin/CVE-2026-64600-Refluxfs-PoC">
 
 ---
+## CVE-2026-64564 ()
+> 
+- [ethanolgolf/CVE-2026-64564](https://github.com/ethanolgolf/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/ethanolgolf/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/ethanolgolf/CVE-2026-64564">
+
+---
 ## CVE-2026-64561 ()
 > 
 - [HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64561">
