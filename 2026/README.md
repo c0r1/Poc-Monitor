@@ -4089,6 +4089,7 @@
 - [rootdirective-sec/CVE-2026-3844-Lab](https://github.com/rootdirective-sec/CVE-2026-3844-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3844-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3844-Lab">
 - [zycoder0day/CVE-2026-3844](https://github.com/zycoder0day/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-3844">
 - [Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution](https://github.com/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">
+- [AnggaTechI/CVE-2026-3844](https://github.com/AnggaTechI/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-3844">
 
 ---
 ## CVE-2026-38427 ()
