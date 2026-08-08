@@ -793,6 +793,7 @@
 - [yogaGymn/XSS2Shell-CVE-2026-64638](https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/yogaGymn/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/yogaGymn/XSS2Shell-CVE-2026-64638">
 - [4minx/CVE-2026-64638](https://github.com/4minx/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-64638">
 - [HackSpeak/CVE-2026-64638](https://github.com/HackSpeak/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64638">
+- [tc4dy/CVE-2026-64638-PoC-Exploit](https://github.com/tc4dy/CVE-2026-64638-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-64638-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-64638-PoC-Exploit">
 
 ---
 ## CVE-2026-64633 ()
@@ -3109,6 +3110,7 @@
 - [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-honor-aak">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-honor-aak">
 - [taoubi1/ghostlock-sm-a155f](https://github.com/taoubi1/ghostlock-sm-a155f)	<img alt="forks" src="https://img.shields.io/github/forks/taoubi1/ghostlock-sm-a155f">	<img alt="stars" src="https://img.shields.io/github/stars/taoubi1/ghostlock-sm-a155f">
 - [Meowkis/tcp-zerocopy-sm](https://github.com/Meowkis/tcp-zerocopy-sm)	<img alt="forks" src="https://img.shields.io/github/forks/Meowkis/tcp-zerocopy-sm">	<img alt="stars" src="https://img.shields.io/github/stars/Meowkis/tcp-zerocopy-sm">
+- [wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/wxxsfxyzm/GhostLock-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/wxxsfxyzm/GhostLock-Galaxy">
 
 ---
 ## CVE-2026-43494 ()
