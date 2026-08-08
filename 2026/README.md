@@ -3103,6 +3103,7 @@
 - [jason5545/ghostlock-myron-tw](https://github.com/jason5545/ghostlock-myron-tw)	<img alt="forks" src="https://img.shields.io/github/forks/jason5545/ghostlock-myron-tw">	<img alt="stars" src="https://img.shields.io/github/stars/jason5545/ghostlock-myron-tw">
 - [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-honor-aak">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-honor-aak">
 - [taoubi1/ghostlock-sm-a155f](https://github.com/taoubi1/ghostlock-sm-a155f)	<img alt="forks" src="https://img.shields.io/github/forks/taoubi1/ghostlock-sm-a155f">	<img alt="stars" src="https://img.shields.io/github/stars/taoubi1/ghostlock-sm-a155f">
+- [Meowkis/tcp-zerocopy-sm](https://github.com/Meowkis/tcp-zerocopy-sm)	<img alt="forks" src="https://img.shields.io/github/forks/Meowkis/tcp-zerocopy-sm">	<img alt="stars" src="https://img.shields.io/github/stars/Meowkis/tcp-zerocopy-sm">
 
 ---
 ## CVE-2026-43494 ()
@@ -8259,6 +8260,11 @@
 ## CVE-2026-1937 ()
 > 
 - [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1937">
+
+---
+## CVE-2026-18953 ()
+> 
+- [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
 
 ---
 ## CVE-2026-1880 ()
