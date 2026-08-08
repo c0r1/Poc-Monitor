@@ -826,6 +826,7 @@
 - [bha-vin/CVE-2026-64600-Exploit](https://github.com/bha-vin/CVE-2026-64600-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bha-vin/CVE-2026-64600-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bha-vin/CVE-2026-64600-Exploit">
 - [letsr00t/RefluxFS_CVE-2026-64600](https://github.com/letsr00t/RefluxFS_CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/RefluxFS_CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/RefluxFS_CVE-2026-64600">
 - [litosmartin/CVE-2026-64600-Refluxfs-PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/litosmartin/CVE-2026-64600-Refluxfs-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/litosmartin/CVE-2026-64600-Refluxfs-PoC">
+- [masrikky/CVE-2026-64600-RefluXFS](https://github.com/masrikky/CVE-2026-64600-RefluXFS)	<img alt="forks" src="https://img.shields.io/github/forks/masrikky/CVE-2026-64600-RefluXFS">	<img alt="stars" src="https://img.shields.io/github/stars/masrikky/CVE-2026-64600-RefluXFS">
 
 ---
 ## CVE-2026-64564 ()
@@ -841,6 +842,7 @@
 - [aarif450/aarif450.github.io](https://github.com/aarif450/aarif450.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/aarif450/aarif450.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/aarif450/aarif450.github.io">
 - [aarif450/Zapscape](https://github.com/aarif450/Zapscape)	<img alt="forks" src="https://img.shields.io/github/forks/aarif450/Zapscape">	<img alt="stars" src="https://img.shields.io/github/stars/aarif450/Zapscape">
 - [Aoripus-LTD/Zapscape-Fix](https://github.com/Aoripus-LTD/Zapscape-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/Aoripus-LTD/Zapscape-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/Aoripus-LTD/Zapscape-Fix">
+- [chuzhongyun/CVE-2026-64561-Kernel-Fix](https://github.com/chuzhongyun/CVE-2026-64561-Kernel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/chuzhongyun/CVE-2026-64561-Kernel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/chuzhongyun/CVE-2026-64561-Kernel-Fix">
 
 ---
 ## CVE-2026-64560 ()
