@@ -3140,6 +3140,7 @@
 - [taoubi1/ghostlock-sm-a155f](https://github.com/taoubi1/ghostlock-sm-a155f)	<img alt="forks" src="https://img.shields.io/github/forks/taoubi1/ghostlock-sm-a155f">	<img alt="stars" src="https://img.shields.io/github/stars/taoubi1/ghostlock-sm-a155f">
 - [Meowkis/tcp-zerocopy-sm](https://github.com/Meowkis/tcp-zerocopy-sm)	<img alt="forks" src="https://img.shields.io/github/forks/Meowkis/tcp-zerocopy-sm">	<img alt="stars" src="https://img.shields.io/github/stars/Meowkis/tcp-zerocopy-sm">
 - [wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/wxxsfxyzm/GhostLock-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/wxxsfxyzm/GhostLock-Galaxy">
+- [ruik-tech/Root-My-Galaxy](https://github.com/ruik-tech/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/ruik-tech/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/ruik-tech/Root-My-Galaxy">
 
 ---
 ## CVE-2026-43494 ()
