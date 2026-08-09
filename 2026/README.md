@@ -801,7 +801,7 @@
 ## CVE-2026-64638 ()
 > 
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
-- [Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC">
+- [Boreas37/CVE-2026-64638-PoC-XSS2Shell-](https://github.com/Boreas37/CVE-2026-64638-PoC-XSS2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC-XSS2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC-XSS2Shell-">
 - [wordsec/XSS2Shell](https://github.com/wordsec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/wordsec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/wordsec/XSS2Shell">
 - [5yu4n/CVE-2026-64638](https://github.com/5yu4n/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/5yu4n/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/5yu4n/CVE-2026-64638">
 - [0xBlackash/CVE-2026-64638](https://github.com/0xBlackash/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64638">
@@ -3298,6 +3298,7 @@
 ## CVE-2026-4282 ()
 > 
 - [hexissam/CVE-2026-4282-Scanner](https://github.com/hexissam/CVE-2026-4282-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hexissam/CVE-2026-4282-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hexissam/CVE-2026-4282-Scanner">
+- [sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability](https://github.com/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">
 
 ---
 ## CVE-2026-42796 ()
