@@ -8170,6 +8170,11 @@
 - [enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF](https://github.com/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF">
 
 ---
+## CVE-2026-20685 ()
+> 
+- [HORKimhab/CVE-2026-20685](https://github.com/HORKimhab/CVE-2026-20685)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20685">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20685">
+
+---
 ## CVE-2026-20660 ()
 > 
 - [retX0/CVE-2026-20660](https://github.com/retX0/CVE-2026-20660)	<img alt="forks" src="https://img.shields.io/github/forks/retX0/CVE-2026-20660">	<img alt="stars" src="https://img.shields.io/github/stars/retX0/CVE-2026-20660">
