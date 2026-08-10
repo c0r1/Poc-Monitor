@@ -137,6 +137,11 @@
 - [George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing](https://github.com/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing">
 
 ---
+## CVE-2026-9086 ()
+> 
+- [Saku0512/CVE-2026-9086-poc](https://github.com/Saku0512/CVE-2026-9086-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-9086-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-9086-poc">
+
+---
 ## CVE-2026-9082 ()
 > 
 - [0xBlackash/CVE-2026-9082](https://github.com/0xBlackash/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-9082">
@@ -8311,6 +8316,7 @@
 > 
 - [stvm8/CVE-2026-2005_lab](https://github.com/stvm8/CVE-2026-2005_lab)	<img alt="forks" src="https://img.shields.io/github/forks/stvm8/CVE-2026-2005_lab">	<img alt="stars" src="https://img.shields.io/github/stars/stvm8/CVE-2026-2005_lab">
 - [dinosn/cve-2026-2005](https://github.com/dinosn/cve-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-2005">
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2026-2005">
 
 ---
 ## CVE-2026-20045 ()
