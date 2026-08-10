@@ -849,6 +849,7 @@
 > 
 - [ethanolgolf/CVE-2026-64564](https://github.com/ethanolgolf/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/ethanolgolf/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/ethanolgolf/CVE-2026-64564">
 - [HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64564">
+- [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
 
 ---
 ## CVE-2026-64561 ()
@@ -7271,6 +7272,7 @@
 - [ozcanpng/CVE-2026-23744](https://github.com/ozcanpng/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-23744">
 - [CerberusMrXi/CVE-2026-23744-MCPJam-Exploit](https://github.com/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">
 - [nullRoot-Red/CVE-2026-23744](https://github.com/nullRoot-Red/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/nullRoot-Red/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/nullRoot-Red/CVE-2026-23744">
+- [amao26/CVE-2026-23744-PoC](https://github.com/amao26/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amao26/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amao26/CVE-2026-23744-PoC">
 
 ---
 ## CVE-2026-23723 ()
@@ -8331,6 +8333,11 @@
 ## CVE-2026-1937 ()
 > 
 - [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1937">
+
+---
+## CVE-2026-19264 ()
+> 
+- [DarkLycn1976/CVE-2026-19264](https://github.com/DarkLycn1976/CVE-2026-19264)	<img alt="forks" src="https://img.shields.io/github/forks/DarkLycn1976/CVE-2026-19264">	<img alt="stars" src="https://img.shields.io/github/stars/DarkLycn1976/CVE-2026-19264">
 
 ---
 ## CVE-2026-19195 ()
