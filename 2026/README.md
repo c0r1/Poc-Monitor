@@ -2356,6 +2356,7 @@
 - [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
 - [eris-ths/supply-chain-guard](https://github.com/eris-ths/supply-chain-guard)	<img alt="forks" src="https://img.shields.io/github/forks/eris-ths/supply-chain-guard">	<img alt="stars" src="https://img.shields.io/github/stars/eris-ths/supply-chain-guard">
 - [xtremebeing/starlette-host-header-lab](https://github.com/xtremebeing/starlette-host-header-lab)	<img alt="forks" src="https://img.shields.io/github/forks/xtremebeing/starlette-host-header-lab">	<img alt="stars" src="https://img.shields.io/github/stars/xtremebeing/starlette-host-header-lab">
+- [CuteeCat/CVE-2026-48710](https://github.com/CuteeCat/CVE-2026-48710)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-48710">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-48710">
 
 ---
 ## CVE-2026-48611 ()
@@ -2959,6 +2960,11 @@
 - [llaytynher/CVE-2026-44438](https://github.com/llaytynher/CVE-2026-44438)	<img alt="forks" src="https://img.shields.io/github/forks/llaytynher/CVE-2026-44438">	<img alt="stars" src="https://img.shields.io/github/stars/llaytynher/CVE-2026-44438">
 
 ---
+## CVE-2026-44401 ()
+> 
+- [sn0x-sharma/CVE-2026-44401](https://github.com/sn0x-sharma/CVE-2026-44401)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-44401">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-44401">
+
+---
 ## CVE-2026-44338 ()
 > 
 - [HORKimhab/CVE-2026-44338](https://github.com/HORKimhab/CVE-2026-44338)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44338">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44338">
@@ -3174,6 +3180,13 @@
 - [wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/wxxsfxyzm/GhostLock-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/wxxsfxyzm/GhostLock-Galaxy">
 - [ruik-tech/Root-My-Galaxy](https://github.com/ruik-tech/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/ruik-tech/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/ruik-tech/Root-My-Galaxy">
 - [yijiacloud/ghostlock-cve-2026-43499-4.19-k40](https://github.com/yijiacloud/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/yijiacloud/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/yijiacloud/ghostlock-cve-2026-43499-4.19-k40">
+- [yijiacloud/GhostLock-OPPO-PCKM00](https://github.com/yijiacloud/GhostLock-OPPO-PCKM00)	<img alt="forks" src="https://img.shields.io/github/forks/yijiacloud/GhostLock-OPPO-PCKM00">	<img alt="stars" src="https://img.shields.io/github/stars/yijiacloud/GhostLock-OPPO-PCKM00">
+- [zzzxxxxxxxxxx/GhostLock-GOT-W29](https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29)	<img alt="forks" src="https://img.shields.io/github/forks/zzzxxxxxxxxxx/GhostLock-GOT-W29">	<img alt="stars" src="https://img.shields.io/github/stars/zzzxxxxxxxxxx/GhostLock-GOT-W29">
+- [xiaohj233/ghostlock-x200-root](https://github.com/xiaohj233/ghostlock-x200-root)	<img alt="forks" src="https://img.shields.io/github/forks/xiaohj233/ghostlock-x200-root">	<img alt="stars" src="https://img.shields.io/github/stars/xiaohj233/ghostlock-x200-root">
+- [oopnv70-lab/ghostlock-skeleton-v2](https://github.com/oopnv70-lab/ghostlock-skeleton-v2)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-skeleton-v2">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-skeleton-v2">
+- [oopnv70-lab/ghostlock-skeleton](https://github.com/oopnv70-lab/ghostlock-skeleton)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-skeleton">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-skeleton">
+- [oopnv70-lab/ghostlock-apk](https://github.com/oopnv70-lab/ghostlock-apk)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-apk">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-apk">
+- [OhLookItsTheIRS/Root-My-Galaxy-tests](https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests)	<img alt="forks" src="https://img.shields.io/github/forks/OhLookItsTheIRS/Root-My-Galaxy-tests">	<img alt="stars" src="https://img.shields.io/github/stars/OhLookItsTheIRS/Root-My-Galaxy-tests">
 
 ---
 ## CVE-2026-43494 ()
