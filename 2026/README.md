@@ -848,6 +848,7 @@
 - [Ahmall-sec/XSS2Shell](https://github.com/Ahmall-sec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/XSS2Shell">
 - [eh-amish/CVE-2026-64638-XSS-to-Shell-PoC](https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">
 - [0xlipon/xss2shell](https://github.com/0xlipon/xss2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xlipon/xss2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xlipon/xss2shell">
+- [giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab](https://github.com/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">
 
 ---
 ## CVE-2026-64633 ()
@@ -3172,6 +3173,7 @@
 - [Meowkis/tcp-zerocopy-sm](https://github.com/Meowkis/tcp-zerocopy-sm)	<img alt="forks" src="https://img.shields.io/github/forks/Meowkis/tcp-zerocopy-sm">	<img alt="stars" src="https://img.shields.io/github/stars/Meowkis/tcp-zerocopy-sm">
 - [wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/wxxsfxyzm/GhostLock-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/wxxsfxyzm/GhostLock-Galaxy">
 - [ruik-tech/Root-My-Galaxy](https://github.com/ruik-tech/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/ruik-tech/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/ruik-tech/Root-My-Galaxy">
+- [yijiacloud/ghostlock-cve-2026-43499-4.19-k40](https://github.com/yijiacloud/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/yijiacloud/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/yijiacloud/ghostlock-cve-2026-43499-4.19-k40">
 
 ---
 ## CVE-2026-43494 ()
