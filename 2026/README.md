@@ -1051,6 +1051,11 @@
 - [87achrafg-stack/CVE-2026-6279.py](https://github.com/87achrafg-stack/CVE-2026-6279.py)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-6279.py">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-6279.py">
 
 ---
+## CVE-2026-62737 ()
+> 
+- [DavidCarliez/cve-2026-62737-lab](https://github.com/DavidCarliez/cve-2026-62737-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/cve-2026-62737-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/cve-2026-62737-lab">
+
+---
 ## CVE-2026-6271 ()
 > 
 - [xxconi/CVE-2026-6271](https://github.com/xxconi/CVE-2026-6271)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6271">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6271">
