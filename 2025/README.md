@@ -1840,6 +1840,7 @@
 - [purehate/CVE-2025-64459-hunter](https://github.com/purehate/CVE-2025-64459-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/purehate/CVE-2025-64459-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/purehate/CVE-2025-64459-hunter">
 - [joshualent/django-cve-2025-64459](https://github.com/joshualent/django-cve-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/joshualent/django-cve-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/joshualent/django-cve-2025-64459">
 - [rafaelchriss/RedTeamBrasil-CVE-2025-64459](https://github.com/rafaelchriss/RedTeamBrasil-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelchriss/RedTeamBrasil-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelchriss/RedTeamBrasil-CVE-2025-64459">
+- [YouGina/CVE-2025-64459](https://github.com/YouGina/CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/YouGina/CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/YouGina/CVE-2025-64459">
 
 ---
 ## CVE-2025-64458 ()
