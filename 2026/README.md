@@ -6202,6 +6202,7 @@
 ## CVE-2026-2764 ()
 > 
 - [SneakyNachos/CVE-2026-2764-but-with-wasm](https://github.com/SneakyNachos/CVE-2026-2764-but-with-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-2764-but-with-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-2764-but-with-wasm">
+- [Max78000/CVE-2026-27641-Flask-Reuploaded](https://github.com/Max78000/CVE-2026-27641-Flask-Reuploaded)	<img alt="forks" src="https://img.shields.io/github/forks/Max78000/CVE-2026-27641-Flask-Reuploaded">	<img alt="stars" src="https://img.shields.io/github/stars/Max78000/CVE-2026-27641-Flask-Reuploaded">
 
 ---
 ## CVE-2026-27639 ()
