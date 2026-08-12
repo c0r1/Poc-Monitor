@@ -32022,6 +32022,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [superneilcn/SpringExploitGUI](https://github.com/superneilcn/SpringExploitGUI)	<img alt="forks" src="https://img.shields.io/github/forks/superneilcn/SpringExploitGUI">	<img alt="stars" src="https://img.shields.io/github/stars/superneilcn/SpringExploitGUI">
 - [entr0pie/demo-cve-2022-22947](https://github.com/entr0pie/demo-cve-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/demo-cve-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/demo-cve-2022-22947">
 - [Y0ngC1oud/CVE-2022-22947](https://github.com/Y0ngC1oud/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/Y0ngC1oud/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/Y0ngC1oud/CVE-2022-22947">
+- [Arrnitage/CVE-2022-22947_exp](https://github.com/Arrnitage/CVE-2022-22947_exp)	<img alt="forks" src="https://img.shields.io/github/forks/Arrnitage/CVE-2022-22947_exp">	<img alt="stars" src="https://img.shields.io/github/stars/Arrnitage/CVE-2022-22947_exp">
 
 ---
 ## CVE-2022-22932 ()
