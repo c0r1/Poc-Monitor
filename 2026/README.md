@@ -496,6 +496,11 @@
 - [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
 
 ---
+## CVE-2026-69263 ()
+> 
+- [leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263)	<img alt="forks" src="https://img.shields.io/github/forks/leoelsolh/CVE-2026-69263">	<img alt="stars" src="https://img.shields.io/github/stars/leoelsolh/CVE-2026-69263">
+
+---
 ## CVE-2026-69243 ()
 > 
 - [JVBotelho/cve-2026-69243-poc-aiohttp-smuggling](https://github.com/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling)	<img alt="forks" src="https://img.shields.io/github/forks/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling">	<img alt="stars" src="https://img.shields.io/github/stars/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling">
@@ -864,6 +869,7 @@
 - [eh-amish/CVE-2026-64638-XSS-to-Shell-PoC](https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">
 - [0xlipon/xss2shell](https://github.com/0xlipon/xss2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xlipon/xss2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xlipon/xss2shell">
 - [giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab](https://github.com/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">
+- [ZildanZ/CVE-2026-64638](https://github.com/ZildanZ/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/ZildanZ/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/ZildanZ/CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
@@ -3212,6 +3218,8 @@
 - [oopnv70-lab/ghostlock-skeleton](https://github.com/oopnv70-lab/ghostlock-skeleton)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-skeleton">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-skeleton">
 - [oopnv70-lab/ghostlock-apk](https://github.com/oopnv70-lab/ghostlock-apk)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-apk">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-apk">
 - [OhLookItsTheIRS/Root-My-Galaxy-tests](https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests)	<img alt="forks" src="https://img.shields.io/github/forks/OhLookItsTheIRS/Root-My-Galaxy-tests">	<img alt="stars" src="https://img.shields.io/github/stars/OhLookItsTheIRS/Root-My-Galaxy-tests">
+- [hybLOVE/iqoo-temp-root](https://github.com/hybLOVE/iqoo-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/hybLOVE/iqoo-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/hybLOVE/iqoo-temp-root">
+- [E-R-Butch/F9360-CVE43499](https://github.com/E-R-Butch/F9360-CVE43499)	<img alt="forks" src="https://img.shields.io/github/forks/E-R-Butch/F9360-CVE43499">	<img alt="stars" src="https://img.shields.io/github/stars/E-R-Butch/F9360-CVE43499">
 
 ---
 ## CVE-2026-43494 ()
@@ -6331,6 +6339,11 @@
 ## CVE-2026-27384 ()
 > 
 - [xxconi/CVE-2026-27384](https://github.com/xxconi/CVE-2026-27384)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-27384">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-27384">
+
+---
+## CVE-2026-27344 ()
+> 
+- [AC8999/CVE-2026-27344](https://github.com/AC8999/CVE-2026-27344)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2026-27344">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2026-27344">
 
 ---
 ## CVE-2026-27211 ()
