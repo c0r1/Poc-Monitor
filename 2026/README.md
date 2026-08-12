@@ -906,6 +906,11 @@
 - [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
 
 ---
+## CVE-2026-64563 ()
+> 
+- [guard-wait/CVE-2026-64563_EXP](https://github.com/guard-wait/CVE-2026-64563_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2026-64563_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2026-64563_EXP">
+
+---
 ## CVE-2026-64561 ()
 > 
 - [HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64561">
@@ -5001,6 +5006,11 @@
 - [qianfei11/CVE-2026-33317](https://github.com/qianfei11/CVE-2026-33317)	<img alt="forks" src="https://img.shields.io/github/forks/qianfei11/CVE-2026-33317">	<img alt="stars" src="https://img.shields.io/github/stars/qianfei11/CVE-2026-33317">
 
 ---
+## CVE-2026-33267 ()
+> 
+- [Boreas37/CVE-2026-33267-PoC](https://github.com/Boreas37/CVE-2026-33267-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-33267-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-33267-PoC">
+
+---
 ## CVE-2026-33229 ()
 > 
 - [azefzafyoussef/CVE-2026-33229](https://github.com/azefzafyoussef/CVE-2026-33229)	<img alt="forks" src="https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-33229">	<img alt="stars" src="https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-33229">
@@ -8522,6 +8532,11 @@
 - [HackSpeak/CVE-2026-17566](https://github.com/HackSpeak/CVE-2026-17566)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17566">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17566">
 
 ---
+## CVE-2026-17544 ()
+> 
+- [Boreas37/CVE-2026-17544-PoC](https://github.com/Boreas37/CVE-2026-17544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-17544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-17544-PoC">
+
+---
 ## CVE-2026-17543 ()
 > 
 - [pratham220/CVE-2026-17543-PHP-Exposure-Validator](https://github.com/pratham220/CVE-2026-17543-PHP-Exposure-Validator)	<img alt="forks" src="https://img.shields.io/github/forks/pratham220/CVE-2026-17543-PHP-Exposure-Validator">	<img alt="stars" src="https://img.shields.io/github/stars/pratham220/CVE-2026-17543-PHP-Exposure-Validator">
@@ -8561,6 +8576,7 @@
 > 
 - [HackSpeak/CVE-2026-17106](https://github.com/HackSpeak/CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17106">
 - [masasron/CopyEscape-CVE-2026-17106](https://github.com/masasron/CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/masasron/CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/masasron/CopyEscape-CVE-2026-17106">
+- [686f6c61/POC-CopyEscape-CVE-2026-17106](https://github.com/686f6c61/POC-CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-CopyEscape-CVE-2026-17106">
 
 ---
 ## CVE-2026-17001 ()
