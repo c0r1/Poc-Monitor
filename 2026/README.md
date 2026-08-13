@@ -15,6 +15,7 @@
 > 
 - [George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite](https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">
 - [josephfarah-ciso/CVE-2026-9999-exploit](https://github.com/josephfarah-ciso/CVE-2026-9999-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/josephfarah-ciso/CVE-2026-9999-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/josephfarah-ciso/CVE-2026-9999-exploit">
+- [24520597-blip/CVE-2026-999999](https://github.com/24520597-blip/CVE-2026-999999)	<img alt="forks" src="https://img.shields.io/github/forks/24520597-blip/CVE-2026-999999">	<img alt="stars" src="https://img.shields.io/github/stars/24520597-blip/CVE-2026-999999">
 
 ---
 ## CVE-2026-9998 ()
