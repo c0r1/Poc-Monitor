@@ -536,6 +536,11 @@
 - [0xdak/CVE-2026-69083_exploit](https://github.com/0xdak/CVE-2026-69083_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69083_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69083_exploit">
 
 ---
+## CVE-2026-68820 ()
+> 
+- [HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-68820">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-68820">
+
+---
 ## CVE-2026-68771 ()
 > 
 - [0xdak/CVE-2026-68771_exploit](https://github.com/0xdak/CVE-2026-68771_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-68771_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-68771_exploit">
@@ -8838,6 +8843,11 @@
 ## CVE-2026-1434 ()
 > 
 - [lukasz-rybak/CVE-2026-1434](https://github.com/lukasz-rybak/CVE-2026-1434)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-1434">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-1434">
+
+---
+## CVE-2026-14282 ()
+> 
+- [nullwhisper/CVE-2026-14282](https://github.com/nullwhisper/CVE-2026-14282)	<img alt="forks" src="https://img.shields.io/github/forks/nullwhisper/CVE-2026-14282">	<img alt="stars" src="https://img.shields.io/github/stars/nullwhisper/CVE-2026-14282">
 
 ---
 ## CVE-2026-14266 ()
