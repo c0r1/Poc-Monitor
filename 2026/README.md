@@ -1823,6 +1823,11 @@
 - [AmesianX/CVE-2026-53435](https://github.com/AmesianX/CVE-2026-53435)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2026-53435">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2026-53435">
 
 ---
+## CVE-2026-53413 ()
+> 
+- [HORKimhab/CVE-2026-53413](https://github.com/HORKimhab/CVE-2026-53413)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53413">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53413">
+
+---
 ## CVE-2026-53360 ()
 > 
 - [0xCyberstan/CVE-2026-53360-POC](https://github.com/0xCyberstan/CVE-2026-53360-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-53360-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-53360-POC">
