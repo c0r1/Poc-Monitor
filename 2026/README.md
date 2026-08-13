@@ -7265,6 +7265,11 @@
 - [imzanggg/CVE-2026-24055-OAuth-Langfuse](https://github.com/imzanggg/CVE-2026-24055-OAuth-Langfuse)	<img alt="forks" src="https://img.shields.io/github/forks/imzanggg/CVE-2026-24055-OAuth-Langfuse">	<img alt="stars" src="https://img.shields.io/github/stars/imzanggg/CVE-2026-24055-OAuth-Langfuse">
 
 ---
+## CVE-2026-24031 ()
+> 
+- [aramosf/CVE-2026-24031](https://github.com/aramosf/CVE-2026-24031)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-24031">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-24031">
+
+---
 ## CVE-2026-2402 ()
 > 
 - [XoTourLiff/CVE-2026-2402](https://github.com/XoTourLiff/CVE-2026-2402)	<img alt="forks" src="https://img.shields.io/github/forks/XoTourLiff/CVE-2026-2402">	<img alt="stars" src="https://img.shields.io/github/stars/XoTourLiff/CVE-2026-2402">
@@ -8765,6 +8770,11 @@
 ## CVE-2026-14856 ()
 > 
 - [jonas-fernandez-as/CVE-2026-14856-TastyIgniter](https://github.com/jonas-fernandez-as/CVE-2026-14856-TastyIgniter)	<img alt="forks" src="https://img.shields.io/github/forks/jonas-fernandez-as/CVE-2026-14856-TastyIgniter">	<img alt="stars" src="https://img.shields.io/github/stars/jonas-fernandez-as/CVE-2026-14856-TastyIgniter">
+
+---
+## CVE-2026-14840 ()
+> 
+- [nullwhisper/CVE-2026-14840](https://github.com/nullwhisper/CVE-2026-14840)	<img alt="forks" src="https://img.shields.io/github/forks/nullwhisper/CVE-2026-14840">	<img alt="stars" src="https://img.shields.io/github/stars/nullwhisper/CVE-2026-14840">
 
 ---
 ## CVE-2026-14802 ()
