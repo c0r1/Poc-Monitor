@@ -2654,6 +2654,7 @@
 - [KunalKhandelwal-dev/cve-2021-41773-lab](https://github.com/KunalKhandelwal-dev/cve-2021-41773-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KunalKhandelwal-dev/cve-2021-41773-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KunalKhandelwal-dev/cve-2021-41773-lab">
 - [Emaar1x/CVE-2021-41773](https://github.com/Emaar1x/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Emaar1x/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Emaar1x/CVE-2021-41773">
 - [s-amnajafri/CVE-2021-41773-Apache-Lab](https://github.com/s-amnajafri/CVE-2021-41773-Apache-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/s-amnajafri/CVE-2021-41773-Apache-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/s-amnajafri/CVE-2021-41773-Apache-Lab">
+- [GlebUsalt/cybersecurity_portfolio](https://github.com/GlebUsalt/cybersecurity_portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/GlebUsalt/cybersecurity_portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/GlebUsalt/cybersecurity_portfolio">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
