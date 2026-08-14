@@ -1856,6 +1856,11 @@
 - [HORKimhab/CVE-2026-53413](https://github.com/HORKimhab/CVE-2026-53413)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53413">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53413">
 
 ---
+## CVE-2026-53365 ()
+> 
+- [HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365">
+
+---
 ## CVE-2026-53360 ()
 > 
 - [0xCyberstan/CVE-2026-53360-POC](https://github.com/0xCyberstan/CVE-2026-53360-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-53360-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-53360-POC">
@@ -3446,6 +3451,7 @@
 - [hulina9900-boop/DIY-CVE-2026-42945-POC](https://github.com/hulina9900-boop/DIY-CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hulina9900-boop/DIY-CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hulina9900-boop/DIY-CVE-2026-42945-POC">
 - [azilRababe/CVE-2026-42945](https://github.com/azilRababe/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-42945">
 - [aratane/CVE-2026-42945](https://github.com/aratane/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2026-42945">
+- [Kentox493/CVE-2026-42945_NginxRift](https://github.com/Kentox493/CVE-2026-42945_NginxRift)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-42945_NginxRift">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-42945_NginxRift">
 
 ---
 ## CVE-2026-42940 ()
