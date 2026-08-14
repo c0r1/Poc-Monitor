@@ -231,6 +231,11 @@
 - [0xBlackash/CVE-2026-8461](https://github.com/0xBlackash/CVE-2026-8461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8461">
 
 ---
+## CVE-2026-8452 ()
+> 
+- [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
+
+---
 ## CVE-2026-8451 ()
 > 
 - [attarwahyup/Netscaler-CVE-2026-8451](https://github.com/attarwahyup/Netscaler-CVE-2026-8451)	<img alt="forks" src="https://img.shields.io/github/forks/attarwahyup/Netscaler-CVE-2026-8451">	<img alt="stars" src="https://img.shields.io/github/stars/attarwahyup/Netscaler-CVE-2026-8451">
