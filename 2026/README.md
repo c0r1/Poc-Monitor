@@ -234,6 +234,7 @@
 ## CVE-2026-8452 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
+- [derekpreston81/CVE_ADC_IOC_2026](https://github.com/derekpreston81/CVE_ADC_IOC_2026)	<img alt="forks" src="https://img.shields.io/github/forks/derekpreston81/CVE_ADC_IOC_2026">	<img alt="stars" src="https://img.shields.io/github/stars/derekpreston81/CVE_ADC_IOC_2026">
 
 ---
 ## CVE-2026-8451 ()
