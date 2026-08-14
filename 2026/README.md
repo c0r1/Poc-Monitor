@@ -1678,6 +1678,11 @@
 - [MichaelAdamGroberman/CVE-2026-54477](https://github.com/MichaelAdamGroberman/CVE-2026-54477)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-54477">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-54477">
 
 ---
+## CVE-2026-54433 ()
+> 
+- [aramosf/CVE-2026-54433](https://github.com/aramosf/CVE-2026-54433)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-54433">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-54433">
+
+---
 ## CVE-2026-54424 ()
 > 
 - [tomadimitrie/CVE-2026-54424](https://github.com/tomadimitrie/CVE-2026-54424)	<img alt="forks" src="https://img.shields.io/github/forks/tomadimitrie/CVE-2026-54424">	<img alt="stars" src="https://img.shields.io/github/stars/tomadimitrie/CVE-2026-54424">
@@ -2813,6 +2818,7 @@
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 - [azilRababe/CVE-2026-46300](https://github.com/azilRababe/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-46300">
 - [MadExploits/CVE-2026-46300](https://github.com/MadExploits/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/CVE-2026-46300">
+- [Kentox493/CVE-2026-46300_Fragnesia](https://github.com/Kentox493/CVE-2026-46300_Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-46300_Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-46300_Fragnesia">
 
 ---
 ## CVE-2026-46275 ()
@@ -6297,6 +6303,11 @@
 > 
 - [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
 - [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
+
+---
+## CVE-2026-27912 ()
+> 
+- [oxstussz-eng/Kerberos-CVE-2026-27912](https://github.com/oxstussz-eng/Kerberos-CVE-2026-27912)	<img alt="forks" src="https://img.shields.io/github/forks/oxstussz-eng/Kerberos-CVE-2026-27912">	<img alt="stars" src="https://img.shields.io/github/stars/oxstussz-eng/Kerberos-CVE-2026-27912">
 
 ---
 ## CVE-2026-27886 ()
