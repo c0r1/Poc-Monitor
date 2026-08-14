@@ -3490,6 +3490,7 @@
 - [usmansec/-CVE-2021-4034](https://github.com/usmansec/-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/usmansec/-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/usmansec/-CVE-2021-4034">
 - [vaibhavkrishna12004/ubuntu-privesc-lab](https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/vaibhavkrishna12004/ubuntu-privesc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/vaibhavkrishna12004/ubuntu-privesc-lab">
 - [mac3d0/CVE-2021-4034-pwnkit](https://github.com/mac3d0/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/mac3d0/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/mac3d0/CVE-2021-4034-pwnkit">
+- [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
