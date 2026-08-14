@@ -2835,6 +2835,8 @@
 - [azilRababe/CVE-2026-46300](https://github.com/azilRababe/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-46300">
 - [MadExploits/CVE-2026-46300](https://github.com/MadExploits/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/CVE-2026-46300">
 - [Kentox493/CVE-2026-46300_Fragnesia](https://github.com/Kentox493/CVE-2026-46300_Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-46300_Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-46300_Fragnesia">
+- [First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/cve_2026_frag_family_fix">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/cve_2026_frag_family_fix">
+- [nonameuserosint-hue/Fragnesia-go](https://github.com/nonameuserosint-hue/Fragnesia-go)	<img alt="forks" src="https://img.shields.io/github/forks/nonameuserosint-hue/Fragnesia-go">	<img alt="stars" src="https://img.shields.io/github/stars/nonameuserosint-hue/Fragnesia-go">
 
 ---
 ## CVE-2026-46275 ()
@@ -6327,6 +6329,8 @@
 ## CVE-2026-27912 ()
 > 
 - [oxstussz-eng/Kerberos-CVE-2026-27912](https://github.com/oxstussz-eng/Kerberos-CVE-2026-27912)	<img alt="forks" src="https://img.shields.io/github/forks/oxstussz-eng/Kerberos-CVE-2026-27912">	<img alt="stars" src="https://img.shields.io/github/stars/oxstussz-eng/Kerberos-CVE-2026-27912">
+- [Semperis-Community/ResetNightmare](https://github.com/Semperis-Community/ResetNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/Semperis-Community/ResetNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/Semperis-Community/ResetNightmare">
+- [mihat2/ResetNightmare-impacket](https://github.com/mihat2/ResetNightmare-impacket)	<img alt="forks" src="https://img.shields.io/github/forks/mihat2/ResetNightmare-impacket">	<img alt="stars" src="https://img.shields.io/github/stars/mihat2/ResetNightmare-impacket">
 
 ---
 ## CVE-2026-27886 ()
