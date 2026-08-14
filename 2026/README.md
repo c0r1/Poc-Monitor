@@ -1941,6 +1941,11 @@
 - [portbuster1337/CVE-2026-52806](https://github.com/portbuster1337/CVE-2026-52806)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-52806">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-52806">
 
 ---
+## CVE-2026-52715 ()
+> 
+- [686f6c61/POC-GeoLeak-CVE-2026-52715](https://github.com/686f6c61/POC-GeoLeak-CVE-2026-52715)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-GeoLeak-CVE-2026-52715">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-GeoLeak-CVE-2026-52715">
+
+---
 ## CVE-2026-52680 ()
 > 
 - [0xdak/CVE-2026-52680_exploit](https://github.com/0xdak/CVE-2026-52680_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-52680_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-52680_exploit">
