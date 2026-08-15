@@ -99,6 +99,7 @@
 - [DesmondHinds94/S22_The_Verification_Protocol](https://github.com/DesmondHinds94/S22_The_Verification_Protocol)	<img alt="forks" src="https://img.shields.io/github/forks/DesmondHinds94/S22_The_Verification_Protocol">	<img alt="stars" src="https://img.shields.io/github/stars/DesmondHinds94/S22_The_Verification_Protocol">
 - [jaden-mas1010/Metasploitable2-Vulnerability-Assessment](https://github.com/jaden-mas1010/Metasploitable2-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/jaden-mas1010/Metasploitable2-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/jaden-mas1010/Metasploitable2-Vulnerability-Assessment">
 - [Youneskc/SMB-Penetration-Testing-NTLM-Relay-Version-2-](https://github.com/Youneskc/SMB-Penetration-Testing-NTLM-Relay-Version-2-)	<img alt="forks" src="https://img.shields.io/github/forks/Youneskc/SMB-Penetration-Testing-NTLM-Relay-Version-2-">	<img alt="stars" src="https://img.shields.io/github/stars/Youneskc/SMB-Penetration-Testing-NTLM-Relay-Version-2-">
+- [harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab](https://github.com/harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
