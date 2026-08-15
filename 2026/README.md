@@ -139,6 +139,7 @@
 > 
 - [biosGit/CVE-2026-9090](https://github.com/biosGit/CVE-2026-9090)	<img alt="forks" src="https://img.shields.io/github/forks/biosGit/CVE-2026-9090">	<img alt="stars" src="https://img.shields.io/github/stars/biosGit/CVE-2026-9090">
 - [George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing](https://github.com/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing">
+- [Kimdir01/CVE-2026-9090-poc](https://github.com/Kimdir01/CVE-2026-9090-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kimdir01/CVE-2026-9090-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kimdir01/CVE-2026-9090-poc">
 
 ---
 ## CVE-2026-9086 ()
@@ -3375,6 +3376,7 @@
 - [fusiondrive/CVE-2026-43499-ZFOLD4](https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-ZFOLD4">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-ZFOLD4">
 - [fusiondrive/CVE-2026-43499-ZFOLD4](https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-ZFOLD4">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-ZFOLD4">
 - [knowlily/cve-2026-43499-honor](https://github.com/knowlily/cve-2026-43499-honor)	<img alt="forks" src="https://img.shields.io/github/forks/knowlily/cve-2026-43499-honor">	<img alt="stars" src="https://img.shields.io/github/stars/knowlily/cve-2026-43499-honor">
+- [CamsShaft/IonStack-S22-cve-2026-43499](https://github.com/CamsShaft/IonStack-S22-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/IonStack-S22-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/IonStack-S22-cve-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
