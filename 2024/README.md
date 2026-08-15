@@ -1347,6 +1347,7 @@ The specific flaw exists within the password reset mechanism. The issue results 
 ## CVE-2024-56426 ()
 > 
 - [Creeeeger/CVE-2024-56426](https://github.com/Creeeeger/CVE-2024-56426)	<img alt="forks" src="https://img.shields.io/github/forks/Creeeeger/CVE-2024-56426">	<img alt="stars" src="https://img.shields.io/github/stars/Creeeeger/CVE-2024-56426">
+- [xcracker000/CVE-2024-56426](https://github.com/xcracker000/CVE-2024-56426)	<img alt="forks" src="https://img.shields.io/github/forks/xcracker000/CVE-2024-56426">	<img alt="stars" src="https://img.shields.io/github/stars/xcracker000/CVE-2024-56426">
 
 ---
 ## CVE-2024-56348 ()
