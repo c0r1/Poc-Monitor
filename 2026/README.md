@@ -207,6 +207,11 @@
 - [funixone/EXPLOIT-CVE-2026-8832-](https://github.com/funixone/EXPLOIT-CVE-2026-8832-)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/EXPLOIT-CVE-2026-8832-">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/EXPLOIT-CVE-2026-8832-">
 
 ---
+## CVE-2026-8793 ()
+> 
+- [H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8793">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8793">
+
+---
 ## CVE-2026-8732 ()
 > 
 - [Jenderal92/CVE-2026-8732](https://github.com/Jenderal92/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8732">
@@ -448,6 +453,7 @@
 - [0xBlackash/CVE-2026-72898](https://github.com/0xBlackash/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-72898">
 - [codeb0ssx/CVE-2026-72898-PoC](https://github.com/codeb0ssx/CVE-2026-72898-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-72898-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-72898-PoC">
 - [4minx/CVE-2026-72898](https://github.com/4minx/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-72898">
+- [ubitquity/Metabase-Setup-Endpoint-SQLi-Fix](https://github.com/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">
 
 ---
 ## CVE-2026-7275 ()
@@ -1353,6 +1359,11 @@
 ## CVE-2026-58424 ()
 > 
 - [BridgerAlderson/CVE-2026-58424](https://github.com/BridgerAlderson/CVE-2026-58424)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-58424">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-58424">
+
+---
+## CVE-2026-58231 ()
+> 
+- [HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-58231">
 
 ---
 ## CVE-2026-58138 ()
