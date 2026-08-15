@@ -9166,6 +9166,11 @@
 - [shmilylty/cve-2021-22005-exp](https://github.com/shmilylty/cve-2021-22005-exp)	<img alt="forks" src="https://img.shields.io/github/forks/shmilylty/cve-2021-22005-exp">	<img alt="stars" src="https://img.shields.io/github/stars/shmilylty/cve-2021-22005-exp">
 
 ---
+## CVE-2021-21994 ()
+> 
+- [mreza-en/cve-2021-21994_POC](https://github.com/mreza-en/cve-2021-21994_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mreza-en/cve-2021-21994_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mreza-en/cve-2021-21994_POC">
+
+---
 ## CVE-2021-21980 ()
 > 
 - [gui2000guix-ui/cve-2021-21980-nuclei-poc](https://github.com/gui2000guix-ui/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-nuclei-poc">
