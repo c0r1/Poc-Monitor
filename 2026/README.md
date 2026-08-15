@@ -2132,6 +2132,7 @@
 - [ChPratik/CVE-2026-50522](https://github.com/ChPratik/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-50522">
 - [darses/CVE-2026-50522](https://github.com/darses/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/darses/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/darses/CVE-2026-50522">
 - [webshellseo8/CVE-2026-50522-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-50522-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-50522-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-50522-Proof-of-Concept">
+- [WismanSec/sharepoint-2026-poc](https://github.com/WismanSec/sharepoint-2026-poc)	<img alt="forks" src="https://img.shields.io/github/forks/WismanSec/sharepoint-2026-poc">	<img alt="stars" src="https://img.shields.io/github/stars/WismanSec/sharepoint-2026-poc">
 
 ---
 ## CVE-2026-50507 ()
