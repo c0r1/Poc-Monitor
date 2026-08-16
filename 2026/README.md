@@ -445,6 +445,11 @@
 - [Xmyronn/CVE-2026-7393-RCE](https://github.com/Xmyronn/CVE-2026-7393-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7393-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7393-RCE">
 
 ---
+## CVE-2026-73847 ()
+> 
+- [squeeze440/CVE-2026-73847-emlog-PoC](https://github.com/squeeze440/CVE-2026-73847-emlog-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73847-emlog-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73847-emlog-PoC">
+
+---
 ## CVE-2026-73678 ()
 > 
 - [Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork](https://github.com/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork">
@@ -453,6 +458,11 @@
 ## CVE-2026-73673 ()
 > 
 - [ozcanpng/CVE-2026-73673](https://github.com/ozcanpng/CVE-2026-73673)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-73673">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-73673">
+
+---
+## CVE-2026-73519 ()
+> 
+- [squeeze440/CVE-2026-73519-WolfStack-PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73519-WolfStack-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73519-WolfStack-PoC">
 
 ---
 ## CVE-2026-73034 ()
