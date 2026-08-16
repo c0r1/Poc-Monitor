@@ -30728,8 +30728,9 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-24481 (2022-04-15T19:15:00)
 > Windows Common Log File System Driver Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24521.
-- [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC)	<img alt="forks" src="https://img.shields.io/github/forks/robotMD5/CVE-2022-24481-POC">	<img alt="stars" src="https://img.shields.io/github/stars/robotMD5/CVE-2022-24481-POC">
+- [fr4nkxixi/CVE-2022-24481-POC](https://github.com/fr4nkxixi/CVE-2022-24481-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fr4nkxixi/CVE-2022-24481-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fr4nkxixi/CVE-2022-24481-POC">
 - [uname1able/CVE-2022-24481](https://github.com/uname1able/CVE-2022-24481)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2022-24481">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2022-24481">
+- [uname1able/CVE-2022-24481-analysis](https://github.com/uname1able/CVE-2022-24481-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2022-24481-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2022-24481-analysis">
 
 ---
 ## CVE-2022-24480 (2022-12-13T19:15:00)
