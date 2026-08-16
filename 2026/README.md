@@ -1853,6 +1853,7 @@
 > 
 - [anonx1945-commits/CVE-2026-53787](https://github.com/anonx1945-commits/CVE-2026-53787)	<img alt="forks" src="https://img.shields.io/github/forks/anonx1945-commits/CVE-2026-53787">	<img alt="stars" src="https://img.shields.io/github/stars/anonx1945-commits/CVE-2026-53787">
 - [webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-53787-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-53787-POC-">
+- [ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSEC2014/amasty-chekout-POC-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSEC2014/amasty-chekout-POC-rce">
 
 ---
 ## CVE-2026-53753 ()
