@@ -3631,6 +3631,7 @@
 - [jelasin/CVE-2026-42533](https://github.com/jelasin/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42533">
 - [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
 - [0xCyberstan/CVE-2026-42533-POC](https://github.com/0xCyberstan/CVE-2026-42533-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-42533-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-42533-POC">
+- [Leeyoonjoo/CVE-2026-42533](https://github.com/Leeyoonjoo/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/Leeyoonjoo/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/Leeyoonjoo/CVE-2026-42533">
 
 ---
 ## CVE-2026-42530 ()
