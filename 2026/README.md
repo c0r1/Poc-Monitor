@@ -687,6 +687,8 @@
 ## CVE-2026-68138 ()
 > 
 - [aramosf/CVE-2026-68138](https://github.com/aramosf/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-68138">
+- [jangkrikkbozz/CVE-2026-68138](https://github.com/jangkrikkbozz/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/jangkrikkbozz/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/jangkrikkbozz/CVE-2026-68138">
+- [suominen/CVE-2026-68138](https://github.com/suominen/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-68138">
 
 ---
 ## CVE-2026-6807 ()
@@ -1408,6 +1410,11 @@
 ## CVE-2026-5950 ()
 > 
 - [billybaraja/cve-2026-5950-bind9-resolver-dos](https://github.com/billybaraja/cve-2026-5950-bind9-resolver-dos)	<img alt="forks" src="https://img.shields.io/github/forks/billybaraja/cve-2026-5950-bind9-resolver-dos">	<img alt="stars" src="https://img.shields.io/github/stars/billybaraja/cve-2026-5950-bind9-resolver-dos">
+
+---
+## CVE-2026-59310 ()
+> 
+- [HORKimhab/CVE-2026-59310](https://github.com/HORKimhab/CVE-2026-59310)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-59310">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-59310">
 
 ---
 ## CVE-2026-59243 ()
