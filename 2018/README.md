@@ -92,6 +92,7 @@
 ## CVE-2018-8611 ()
 > 
 - [ahm3dgg/cve-2018-8611](https://github.com/ahm3dgg/cve-2018-8611)	<img alt="forks" src="https://img.shields.io/github/forks/ahm3dgg/cve-2018-8611">	<img alt="stars" src="https://img.shields.io/github/stars/ahm3dgg/cve-2018-8611">
+- [lsw29475/CVE-2018-8611](https://github.com/lsw29475/CVE-2018-8611)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2018-8611">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2018-8611">
 
 ---
 ## CVE-2018-8587 (2018-12-12T00:29:00)
