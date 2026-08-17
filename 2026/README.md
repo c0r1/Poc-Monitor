@@ -533,6 +533,11 @@
 - [SunandM/poc-h2-duplicate-host](https://github.com/SunandM/poc-h2-duplicate-host)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-duplicate-host">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-duplicate-host">
 
 ---
+## CVE-2026-71518 ()
+> 
+- [IlhomjonR/CVE-2026-71518](https://github.com/IlhomjonR/CVE-2026-71518)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-71518">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-71518">
+
+---
 ## CVE-2026-71384 ()
 > 
 - [Scorpion-Security-Labs/CVE-2026-71384](https://github.com/Scorpion-Security-Labs/CVE-2026-71384)	<img alt="forks" src="https://img.shields.io/github/forks/Scorpion-Security-Labs/CVE-2026-71384">	<img alt="stars" src="https://img.shields.io/github/stars/Scorpion-Security-Labs/CVE-2026-71384">
@@ -8649,6 +8654,11 @@
 ## CVE-2026-20223 ()
 > 
 - [HORKimhab/CVE-2026-20223](https://github.com/HORKimhab/CVE-2026-20223)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20223">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20223">
+
+---
+## CVE-2026-20217 ()
+> 
+- [securifera/CVE-2026-20217](https://github.com/securifera/CVE-2026-20217)	<img alt="forks" src="https://img.shields.io/github/forks/securifera/CVE-2026-20217">	<img alt="stars" src="https://img.shields.io/github/stars/securifera/CVE-2026-20217">
 
 ---
 ## CVE-2026-2020 ()
