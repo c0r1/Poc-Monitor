@@ -4137,6 +4137,11 @@
 - [CCELEND/CVE-2026-40369](https://github.com/CCELEND/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/CCELEND/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/CCELEND/CVE-2026-40369">
 
 ---
+## CVE-2026-40345 ()
+> 
+- [Jvr2022/CVE-2026-40345](https://github.com/Jvr2022/CVE-2026-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-40345">
+
+---
 ## CVE-2026-40281 ()
 > 
 - [ByteWraith1/CVE-2026-40281](https://github.com/ByteWraith1/CVE-2026-40281)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-40281">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-40281">
@@ -5310,6 +5315,7 @@
 - [TatoSec/CVE-2026-33017-Langflop](https://github.com/TatoSec/CVE-2026-33017-Langflop)	<img alt="forks" src="https://img.shields.io/github/forks/TatoSec/CVE-2026-33017-Langflop">	<img alt="stars" src="https://img.shields.io/github/stars/TatoSec/CVE-2026-33017-Langflop">
 - [lxxexxbxx/CVE-2026-33017](https://github.com/lxxexxbxx/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/lxxexxbxx/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/lxxexxbxx/CVE-2026-33017">
 - [sonnelon/CVE-2026-33017-PoC](https://github.com/sonnelon/CVE-2026-33017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2026-33017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2026-33017-PoC">
+- [l4st98/CVE-2026-33017-FireFlow](https://github.com/l4st98/CVE-2026-33017-FireFlow)	<img alt="forks" src="https://img.shields.io/github/forks/l4st98/CVE-2026-33017-FireFlow">	<img alt="stars" src="https://img.shields.io/github/stars/l4st98/CVE-2026-33017-FireFlow">
 
 ---
 ## CVE-2026-3300 ()
@@ -9144,6 +9150,7 @@
 ## CVE-2026-13714 ()
 > 
 - [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
+- [katranSefa/CVE-2026-13714](https://github.com/katranSefa/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-13714">
 
 ---
 ## CVE-2026-13610 ()
