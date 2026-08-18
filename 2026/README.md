@@ -3151,6 +3151,11 @@
 - [HORKimhab/CVE-2026-44963](https://github.com/HORKimhab/CVE-2026-44963)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44963">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44963">
 
 ---
+## CVE-2026-44848 ()
+> 
+- [Boreas37/CVE-2026-44848-PoC](https://github.com/Boreas37/CVE-2026-44848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-44848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-44848-PoC">
+
+---
 ## CVE-2026-4484 ()
 > 
 - [Nxploited/CVE-2026-4484](https://github.com/Nxploited/CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-4484">
