@@ -3222,6 +3222,7 @@
 - [0xBlackash/CVE-2026-44578](https://github.com/0xBlackash/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-44578">
 - [GadaLuBau1337/CVE-2026-44578](https://github.com/GadaLuBau1337/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2026-44578">
 - [BS2010-AirborneTroops/NEXT-SSRF](https://github.com/BS2010-AirborneTroops/NEXT-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/BS2010-AirborneTroops/NEXT-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/BS2010-AirborneTroops/NEXT-SSRF">
+- [lxxexxbxx/CVE-2026-44578](https://github.com/lxxexxbxx/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/lxxexxbxx/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/lxxexxbxx/CVE-2026-44578">
 
 ---
 ## CVE-2026-4447 ()
@@ -8966,6 +8967,11 @@
 ## CVE-2026-1581 ()
 > 
 - [rootdirective-sec/CVE-2026-1581-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-1581-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1581-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1581-Analysis-Lab">
+
+---
+## CVE-2026-15748 ()
+> 
+- [yora1928/cve-2026-15748](https://github.com/yora1928/cve-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/cve-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/cve-2026-15748">
 
 ---
 ## CVE-2026-15706 ()
