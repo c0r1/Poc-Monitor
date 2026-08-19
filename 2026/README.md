@@ -1071,6 +1071,7 @@
 - [HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64564">
 - [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
 - [0xdeadroot/SCTPhantom-CVE-2026-64564](https://github.com/0xdeadroot/SCTPhantom-CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/SCTPhantom-CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/SCTPhantom-CVE-2026-64564">
+- [yandex-cloud-examples/yc-mk8s-sctphantom-mitigation](https://github.com/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation">
 
 ---
 ## CVE-2026-64563 ()
@@ -3947,6 +3948,7 @@
 - [keithbennedict/CVE-2026-41940-Linux](https://github.com/keithbennedict/CVE-2026-41940-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/keithbennedict/CVE-2026-41940-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/keithbennedict/CVE-2026-41940-Linux">
 - [yanchenyu360/CVE-2026-41940-Security-Patch](https://github.com/yanchenyu360/CVE-2026-41940-Security-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/yanchenyu360/CVE-2026-41940-Security-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/yanchenyu360/CVE-2026-41940-Security-Patch">
 - [pemarine/cve-2026-41940-PoC](https://github.com/pemarine/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pemarine/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pemarine/cve-2026-41940-PoC">
+- [lanicer/cve-2026-41940-PoC](https://github.com/lanicer/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lanicer/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lanicer/cve-2026-41940-PoC">
 
 ---
 ## CVE-2026-41901 ()
