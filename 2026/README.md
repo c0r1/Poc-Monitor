@@ -486,6 +486,11 @@
 - [CamilleGR/CVE-2026-73292](https://github.com/CamilleGR/CVE-2026-73292)	<img alt="forks" src="https://img.shields.io/github/forks/CamilleGR/CVE-2026-73292">	<img alt="stars" src="https://img.shields.io/github/stars/CamilleGR/CVE-2026-73292">
 
 ---
+## CVE-2026-73072 ()
+> 
+- [HORKimhab/CVE-2026-73072](https://github.com/HORKimhab/CVE-2026-73072)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-73072">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-73072">
+
+---
 ## CVE-2026-73034 ()
 > 
 - [Boreas37/CVE-2026-73034-PoC](https://github.com/Boreas37/CVE-2026-73034-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-73034-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-73034-PoC">
