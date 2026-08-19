@@ -2749,6 +2749,11 @@
 - [threalwinky/CVE-2026-4800-POC](https://github.com/threalwinky/CVE-2026-4800-POC)	<img alt="forks" src="https://img.shields.io/github/forks/threalwinky/CVE-2026-4800-POC">	<img alt="stars" src="https://img.shields.io/github/stars/threalwinky/CVE-2026-4800-POC">
 
 ---
+## CVE-2026-47858 ()
+> 
+- [realstatus/CVE-2026-47858](https://github.com/realstatus/CVE-2026-47858)	<img alt="forks" src="https://img.shields.io/github/forks/realstatus/CVE-2026-47858">	<img alt="stars" src="https://img.shields.io/github/stars/realstatus/CVE-2026-47858">
+
+---
 ## CVE-2026-4782 ()
 > 
 - [xxconi/CVE-2026-4782](https://github.com/xxconi/CVE-2026-4782)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-4782">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-4782">
