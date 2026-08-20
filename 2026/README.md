@@ -5526,6 +5526,11 @@
 - [izxci/CVE-2026-32488](https://github.com/izxci/CVE-2026-32488)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-32488">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-32488">
 
 ---
+## CVE-2026-32475 ()
+> 
+- [HORKimhab/CVE-2026-32475](https://github.com/HORKimhab/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-32475">
+
+---
 ## CVE-2026-32321 ()
 > 
 - [drkim-dev/CVE-2026-32321](https://github.com/drkim-dev/CVE-2026-32321)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-32321">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-32321">
