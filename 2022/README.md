@@ -31920,7 +31920,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Shayz614/CVE-2022-22963](https://github.com/Shayz614/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/Shayz614/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/Shayz614/CVE-2022-22963">
 - [Ju5te/cve-2022-22963-demo](https://github.com/Ju5te/cve-2022-22963-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Ju5te/cve-2022-22963-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Ju5te/cve-2022-22963-demo">
 - [teofoli-matteo/CVE-2022-22963---Software-Vulnerabilities](https://github.com/teofoli-matteo/CVE-2022-22963---Software-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/teofoli-matteo/CVE-2022-22963---Software-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/teofoli-matteo/CVE-2022-22963---Software-Vulnerabilities">
-- [cyberager/CVE-2022-22963](https://github.com/cyberager/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/cyberager/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/cyberager/CVE-2022-22963">
+- [808rsec/CVE-2022-22963](https://github.com/808rsec/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/808rsec/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/808rsec/CVE-2022-22963">
+- [r4y-br/CVE-2022-22963](https://github.com/r4y-br/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/r4y-br/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/r4y-br/CVE-2022-22963">
 
 ---
 ## CVE-2022-22954 (2022-04-11T20:15:00)
