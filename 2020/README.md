@@ -1093,6 +1093,11 @@
 - [Live-Hack-CVE/CVE-2020-5517](https://github.com/Live-Hack-CVE/CVE-2020-5517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5517">
 
 ---
+## CVE-2020-5504 ()
+> 
+- [CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit](https://github.com/CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit">
+
+---
 ## CVE-2020-5410 (2020-06-02T17:15:00)
 > Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.
 - [Live-Hack-CVE/CVE-2020-5410](https://github.com/Live-Hack-CVE/CVE-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5410">
