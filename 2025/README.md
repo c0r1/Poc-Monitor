@@ -9960,6 +9960,7 @@
 - [SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-](https://github.com/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">
 - [RandomRobbieBF/CVE-2025-22777](https://github.com/RandomRobbieBF/CVE-2025-22777)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-22777">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-22777">
 - [gduma-phData/patch-CVE-2025-22777](https://github.com/gduma-phData/patch-CVE-2025-22777)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-22777">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-22777">
+- [wcnmwcis/CVE-2026-22777](https://github.com/wcnmwcis/CVE-2026-22777)	<img alt="forks" src="https://img.shields.io/github/forks/wcnmwcis/CVE-2026-22777">	<img alt="stars" src="https://img.shields.io/github/stars/wcnmwcis/CVE-2026-22777">
 
 ---
 ## CVE-2025-22710 ()
