@@ -3676,6 +3676,7 @@
 - [villager1314/CVE-2026-43499-IQOO-Neo10-Analysis](https://github.com/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis">
 - [snothin/ghostlock-s26](https://github.com/snothin/ghostlock-s26)	<img alt="forks" src="https://img.shields.io/github/forks/snothin/ghostlock-s26">	<img alt="stars" src="https://img.shields.io/github/stars/snothin/ghostlock-s26">
 - [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT)	<img alt="forks" src="https://img.shields.io/github/forks/yakidango-official/GhostLock-H80GT">	<img alt="stars" src="https://img.shields.io/github/stars/yakidango-official/GhostLock-H80GT">
+- [Redminote11tech/CVE-2026-43499-NAM-AL00](https://github.com/Redminote11tech/CVE-2026-43499-NAM-AL00)	<img alt="forks" src="https://img.shields.io/github/forks/Redminote11tech/CVE-2026-43499-NAM-AL00">	<img alt="stars" src="https://img.shields.io/github/stars/Redminote11tech/CVE-2026-43499-NAM-AL00">
 
 ---
 ## CVE-2026-43494 ()
