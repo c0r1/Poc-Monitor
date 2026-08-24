@@ -5853,6 +5853,8 @@
 ## CVE-2025-48595 ()
 > 
 - [fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-](https://github.com/fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-">
+- [XiaoBaiLovesStirring/CVE-2025-48595-Exploit](https://github.com/XiaoBaiLovesStirring/CVE-2025-48595-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/CVE-2025-48595-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/CVE-2025-48595-Exploit">
+- [HORKimhab/CVE-2025-48595](https://github.com/HORKimhab/CVE-2025-48595)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-48595">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-48595">
 
 ---
 ## CVE-2025-48593 ()
