@@ -764,6 +764,7 @@
 - [HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-68820">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-68820">
 - [fevar54/CVE-2026-68820-Mitigation-PoC-](https://github.com/fevar54/CVE-2026-68820-Mitigation-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-68820-Mitigation-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-68820-Mitigation-PoC-">
 - [ubitquity/Windows-WinSock-UAF-Mitigation](https://github.com/ubitquity/Windows-WinSock-UAF-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Windows-WinSock-UAF-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Windows-WinSock-UAF-Mitigation">
+- [maxprog-svg/CVE-2026-68820_Mass_Exploit](https://github.com/maxprog-svg/CVE-2026-68820_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-68820_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-68820_Mass_Exploit">
 
 ---
 ## CVE-2026-68771 ()
@@ -1574,6 +1575,7 @@
 - [HackSpeak/CVE-2026-60004](https://github.com/HackSpeak/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-60004">
 - [Sachinart/CVE-2026-60004-gitea-0day](https://github.com/Sachinart/CVE-2026-60004-gitea-0day)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2026-60004-gitea-0day">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2026-60004-gitea-0day">
 - [gagaltotal/CVE-2026-60004-poc-gitea](https://github.com/gagaltotal/CVE-2026-60004-poc-gitea)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-60004-poc-gitea">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-60004-poc-gitea">
+- [fevar54/cve-2026-60004](https://github.com/fevar54/cve-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/cve-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/cve-2026-60004">
 
 ---
 ## CVE-2026-59941 ()
