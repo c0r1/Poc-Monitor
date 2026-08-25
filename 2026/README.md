@@ -3027,6 +3027,11 @@
 - [learner202649/CVE-2026-47102-PoC](https://github.com/learner202649/CVE-2026-47102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-47102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-47102-PoC">
 
 ---
+## CVE-2026-4692 ()
+> 
+- [SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm](https://github.com/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm">
+
+---
 ## CVE-2026-46817 ()
 > 
 - [0xBlackash/CVE-2026-46817](https://github.com/0xBlackash/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46817">
@@ -9242,6 +9247,7 @@
 ## CVE-2026-17532 ()
 > 
 - [kalhoralireza/CVE-2026-17532](https://github.com/kalhoralireza/CVE-2026-17532)	<img alt="forks" src="https://img.shields.io/github/forks/kalhoralireza/CVE-2026-17532">	<img alt="stars" src="https://img.shields.io/github/stars/kalhoralireza/CVE-2026-17532">
+- [kalhoralireza/CVE-2026-17532-lab](https://github.com/kalhoralireza/CVE-2026-17532-lab)	<img alt="forks" src="https://img.shields.io/github/forks/kalhoralireza/CVE-2026-17532-lab">	<img alt="stars" src="https://img.shields.io/github/stars/kalhoralireza/CVE-2026-17532-lab">
 
 ---
 ## CVE-2026-17351 ()
