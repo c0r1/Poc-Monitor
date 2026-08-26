@@ -2198,6 +2198,11 @@
 - [7h30th3r0n3/CVE-2026-53625-GLPI-PoC](https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-53625-GLPI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-53625-GLPI-PoC">
 
 ---
+## CVE-2026-53613 ()
+> 
+- [mohamedjawady/CVE-2026-53613-poc](https://github.com/mohamedjawady/CVE-2026-53613-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedjawady/CVE-2026-53613-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedjawady/CVE-2026-53613-poc">
+
+---
 ## CVE-2026-53595 ()
 > 
 - [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
