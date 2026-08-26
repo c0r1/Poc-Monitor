@@ -567,6 +567,7 @@
 - [maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">
 - [hermesash1ray/cow](https://github.com/hermesash1ray/cow)	<img alt="forks" src="https://img.shields.io/github/forks/hermesash1ray/cow">	<img alt="stars" src="https://img.shields.io/github/stars/hermesash1ray/cow">
 - [Minime794/CVE-2016-5195](https://github.com/Minime794/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/Minime794/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/Minime794/CVE-2016-5195">
+- [KongQBin/CVE-2016-5195](https://github.com/KongQBin/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/KongQBin/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/KongQBin/CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
