@@ -364,6 +364,11 @@
 - [Caster-chen/CVE-2026-8037-POC](https://github.com/Caster-chen/CVE-2026-8037-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Caster-chen/CVE-2026-8037-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Caster-chen/CVE-2026-8037-POC">
 
 ---
+## CVE-2026-79617 ()
+> 
+- [alpernae/CVE-2026-79617](https://github.com/alpernae/CVE-2026-79617)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2026-79617">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2026-79617">
+
+---
 ## CVE-2026-7878 ()
 > 
 - [George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write](https://github.com/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write">
