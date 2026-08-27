@@ -460,6 +460,11 @@
 - [Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android](https://github.com/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android">
 
 ---
+## CVE-2026-75898 ()
+> 
+- [t3bik/CVE-2026-75898](https://github.com/t3bik/CVE-2026-75898)	<img alt="forks" src="https://img.shields.io/github/forks/t3bik/CVE-2026-75898">	<img alt="stars" src="https://img.shields.io/github/stars/t3bik/CVE-2026-75898">
+
+---
 ## CVE-2026-7574 ()
 > 
 - [0xBlackash/CVE-2026-7574](https://github.com/0xBlackash/CVE-2026-7574)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-7574">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-7574">
