@@ -739,6 +739,11 @@
 - [Foxer131/CVE-2026-70481](https://github.com/Foxer131/CVE-2026-70481)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2026-70481">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2026-70481">
 
 ---
+## CVE-2026-70463 ()
+> 
+- [Fyyre/CVE-2026-70463](https://github.com/Fyyre/CVE-2026-70463)	<img alt="forks" src="https://img.shields.io/github/forks/Fyyre/CVE-2026-70463">	<img alt="stars" src="https://img.shields.io/github/stars/Fyyre/CVE-2026-70463">
+
+---
 ## CVE-2026-7020 ()
 > 
 - [davidrxchester/CVE-2026-7020](https://github.com/davidrxchester/CVE-2026-7020)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7020">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7020">
@@ -5867,6 +5872,7 @@
 - [0xBlackash/CVE-2026-32475](https://github.com/0xBlackash/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-32475">
 - [absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE](https://github.com/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">
 - [Boreas37/CVE-2026-32475-PoC](https://github.com/Boreas37/CVE-2026-32475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-32475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-32475-PoC">
+- [sahmsec/CVE-2026-32475](https://github.com/sahmsec/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-32475">
 
 ---
 ## CVE-2026-32321 ()
@@ -7084,6 +7090,11 @@
 ## CVE-2026-27344 ()
 > 
 - [AC8999/CVE-2026-27344](https://github.com/AC8999/CVE-2026-27344)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2026-27344">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2026-27344">
+
+---
+## CVE-2026-27280 ()
+> 
+- [R3n3r0/CVE-2026-27280](https://github.com/R3n3r0/CVE-2026-27280)	<img alt="forks" src="https://img.shields.io/github/forks/R3n3r0/CVE-2026-27280">	<img alt="stars" src="https://img.shields.io/github/stars/R3n3r0/CVE-2026-27280">
 
 ---
 ## CVE-2026-27211 ()
@@ -9156,6 +9167,7 @@
 - [Sushilsin/CVE-2026-20131](https://github.com/Sushilsin/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20131">
 - [sak110/CVE-2026-20131](https://github.com/sak110/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/sak110/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/sak110/CVE-2026-20131">
 - [0xBlackash/CVE-2026-20131](https://github.com/0xBlackash/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20131">
+- [Jwa7470/CVE-2026-20131-Post-Incident-Written-Report](https://github.com/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report)	<img alt="forks" src="https://img.shields.io/github/forks/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report">	<img alt="stars" src="https://img.shields.io/github/stars/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report">
 
 ---
 ## CVE-2026-20127 ()
