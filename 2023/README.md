@@ -6603,6 +6603,7 @@ The specific flaw exists within the exportXFAData method. The application expose
 - [dezso-dfield/CVE-2023-27350](https://github.com/dezso-dfield/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/dezso-dfield/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/dezso-dfield/CVE-2023-27350">
 - [danielissaq/-PaperCut-CVE-2023-27350-](https://github.com/danielissaq/-PaperCut-CVE-2023-27350-)	<img alt="forks" src="https://img.shields.io/github/forks/danielissaq/-PaperCut-CVE-2023-27350-">	<img alt="stars" src="https://img.shields.io/github/stars/danielissaq/-PaperCut-CVE-2023-27350-">
 - [joaoaugustom/PaperCut-Authentication_Bypass_and_RCE](https://github.com/joaoaugustom/PaperCut-Authentication_Bypass_and_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/joaoaugustom/PaperCut-Authentication_Bypass_and_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/joaoaugustom/PaperCut-Authentication_Bypass_and_RCE">
+- [HORKimhab/CVE-2023-27350-CVE-2023-27351](https://github.com/HORKimhab/CVE-2023-27350-CVE-2023-27351)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2023-27350-CVE-2023-27351">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2023-27350-CVE-2023-27351">
 
 ---
 ## CVE-2023-27326 (2024-05-03T02:15:00)
@@ -7526,6 +7527,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Gilospy/CVE-2023-23397](https://github.com/Gilospy/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Gilospy/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Gilospy/CVE-2023-23397">
 - [Phaedrik/CVE-2023-23397-POC](https://github.com/Phaedrik/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Phaedrik/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Phaedrik/CVE-2023-23397-POC">
 - [praneethnaidu1910-cmd/cve-2023-23397-purple-team](https://github.com/praneethnaidu1910-cmd/cve-2023-23397-purple-team)	<img alt="forks" src="https://img.shields.io/github/forks/praneethnaidu1910-cmd/cve-2023-23397-purple-team">	<img alt="stars" src="https://img.shields.io/github/stars/praneethnaidu1910-cmd/cve-2023-23397-purple-team">
+- [ZHOUCC-CPU/cve-2023-23397-detection-lab](https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZHOUCC-CPU/cve-2023-23397-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZHOUCC-CPU/cve-2023-23397-detection-lab">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
