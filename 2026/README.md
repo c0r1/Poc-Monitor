@@ -353,6 +353,11 @@
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
 
 ---
+## CVE-2026-81578 ()
+> 
+- [yora1928/PaperCut-CVE-2026-81578-82078](https://github.com/yora1928/PaperCut-CVE-2026-81578-82078)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/PaperCut-CVE-2026-81578-82078">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/PaperCut-CVE-2026-81578-82078">
+
+---
 ## CVE-2026-8080 ()
 > 
 - [George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-](https://github.com/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">
@@ -815,6 +820,11 @@
 ## CVE-2026-69083 ()
 > 
 - [0xdak/CVE-2026-69083_exploit](https://github.com/0xdak/CVE-2026-69083_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69083_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69083_exploit">
+
+---
+## CVE-2026-68929 ()
+> 
+- [Hunt-Benito/your-bot-my-inbox-cve-2026-68929-fastgpt-unauthenticated-wechat-channel-hijack](https://github.com/Hunt-Benito/your-bot-my-inbox-cve-2026-68929-fastgpt-unauthenticated-wechat-channel-hijack)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/your-bot-my-inbox-cve-2026-68929-fastgpt-unauthenticated-wechat-channel-hijack">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/your-bot-my-inbox-cve-2026-68929-fastgpt-unauthenticated-wechat-channel-hijack">
 
 ---
 ## CVE-2026-68820 ()
@@ -3441,6 +3451,7 @@
 - [Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">
 - [yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">
 - [yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585](https://github.com/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585">
+- [aungko186/YellowKey-BitLocker-CVE-2026-45585](https://github.com/aungko186/YellowKey-BitLocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/aungko186/YellowKey-BitLocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/aungko186/YellowKey-BitLocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -8683,6 +8694,7 @@
 - [naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool](https://github.com/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool">
 - [0xBlackash/CVE-2026-21962](https://github.com/0xBlackash/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-21962">
 - [zeetee1235/CVE-2026-21962](https://github.com/zeetee1235/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/zeetee1235/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/zeetee1235/CVE-2026-21962">
+- [KaiserdesMonats/CVE-2026-21962-Blog](https://github.com/KaiserdesMonats/CVE-2026-21962-Blog)	<img alt="forks" src="https://img.shields.io/github/forks/KaiserdesMonats/CVE-2026-21962-Blog">	<img alt="stars" src="https://img.shields.io/github/stars/KaiserdesMonats/CVE-2026-21962-Blog">
 
 ---
 ## CVE-2026-21957 ()
@@ -9130,6 +9142,11 @@
 ## CVE-2026-20404 ()
 > 
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
+
+---
+## CVE-2026-2035703 ()
+> 
+- [danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300)	<img alt="forks" src="https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300">	<img alt="stars" src="https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300">
 
 ---
 ## CVE-2026-20303 ()
