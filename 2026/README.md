@@ -4134,6 +4134,7 @@
 - [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
 - [0xCyberstan/CVE-2026-42533-POC](https://github.com/0xCyberstan/CVE-2026-42533-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-42533-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-42533-POC">
 - [Leeyoonjoo/CVE-2026-42533](https://github.com/Leeyoonjoo/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/Leeyoonjoo/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/Leeyoonjoo/CVE-2026-42533">
+- [FranklinF25/cve-2026-42533](https://github.com/FranklinF25/cve-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/cve-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/cve-2026-42533">
 
 ---
 ## CVE-2026-42530 ()
@@ -8061,6 +8062,11 @@
 - [BiranPeretz/docling-core-CVE-2026-24009](https://github.com/BiranPeretz/docling-core-CVE-2026-24009)	<img alt="forks" src="https://img.shields.io/github/forks/BiranPeretz/docling-core-CVE-2026-24009">	<img alt="stars" src="https://img.shields.io/github/stars/BiranPeretz/docling-core-CVE-2026-24009">
 
 ---
+## CVE-2026-23989 ()
+> 
+- [dinosn/cve-2026-23989-opencloud-lab](https://github.com/dinosn/cve-2026-23989-opencloud-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-23989-opencloud-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-23989-opencloud-lab">
+
+---
 ## CVE-2026-23980 ()
 > 
 - [oscarmine/CVE-2026-23980-Exploit](https://github.com/oscarmine/CVE-2026-23980-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-23980-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-23980-Exploit">
@@ -9285,6 +9291,11 @@
 - [HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914](https://github.com/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914">
 
 ---
+## CVE-2026-19745 ()
+> 
+- [drbloop2000/CVE-2026-19745](https://github.com/drbloop2000/CVE-2026-19745)	<img alt="forks" src="https://img.shields.io/github/forks/drbloop2000/CVE-2026-19745">	<img alt="stars" src="https://img.shields.io/github/stars/drbloop2000/CVE-2026-19745">
+
+---
 ## CVE-2026-19679 ()
 > 
 - [h00die/POC-CVE-2026-19679](https://github.com/h00die/POC-CVE-2026-19679)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19679">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19679">
@@ -9351,6 +9362,7 @@
 ---
 ## CVE-2026-19286 ()
 > 
+- [rmhowe425/POC-CVE-2026-19286](https://github.com/rmhowe425/POC-CVE-2026-19286)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-19286">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-19286">
 - [rmhowe425/POC-CVE-2026-19286](https://github.com/rmhowe425/POC-CVE-2026-19286)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-19286">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-19286">
 
 ---
@@ -9993,6 +10005,11 @@
 ## CVE-2026-12277 ()
 > 
 - [moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)	<img alt="forks" src="https://img.shields.io/github/forks/moritakaaz/CVE-2026-12277">	<img alt="stars" src="https://img.shields.io/github/stars/moritakaaz/CVE-2026-12277">
+
+---
+## CVE-2026-12243 ()
+> 
+- [morzelowski/CVE-2026-12243-NLTK-PoC](https://github.com/morzelowski/CVE-2026-12243-NLTK-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/morzelowski/CVE-2026-12243-NLTK-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/morzelowski/CVE-2026-12243-NLTK-PoC">
 
 ---
 ## CVE-2026-12191 ()
