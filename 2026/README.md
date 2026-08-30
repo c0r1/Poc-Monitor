@@ -467,6 +467,7 @@
 ## CVE-2026-76581 ()
 > 
 - [HORKimhab/CVE-2026-76581](https://github.com/HORKimhab/CVE-2026-76581)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-76581">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-76581">
+- [hackersroot/CVE-2026-76581-Detector](https://github.com/hackersroot/CVE-2026-76581-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2026-76581-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2026-76581-Detector">
 
 ---
 ## CVE-2026-76565 ()
@@ -3006,6 +3007,7 @@
 - [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
 - [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
 - [wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)	<img alt="forks" src="https://img.shields.io/github/forks/wanmywan/CVE-2026-48611-phpBB">	<img alt="stars" src="https://img.shields.io/github/stars/wanmywan/CVE-2026-48611-phpBB">
+- [Ethicalgrey/phpBB-CVE-2026-48611](https://github.com/Ethicalgrey/phpBB-CVE-2026-48611)	<img alt="forks" src="https://img.shields.io/github/forks/Ethicalgrey/phpBB-CVE-2026-48611">	<img alt="stars" src="https://img.shields.io/github/stars/Ethicalgrey/phpBB-CVE-2026-48611">
 
 ---
 ## CVE-2026-4861 ()
