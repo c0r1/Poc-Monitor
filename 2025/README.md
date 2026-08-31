@@ -10275,6 +10275,7 @@
 > 
 - [callinston/CVE-2025-20333](https://github.com/callinston/CVE-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333">
 - [curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner](https://github.com/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">
+- [cobbbex/cve-2025-20333](https://github.com/cobbbex/cve-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/cobbbex/cve-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/cobbbex/cve-2025-20333">
 
 ---
 ## CVE-2025-20286 ()
@@ -10339,6 +10340,11 @@
 ## CVE-2025-20229 ()
 > 
 - [allinsthon/CVE-2025-20229](https://github.com/allinsthon/CVE-2025-20229)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-20229">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-20229">
+
+---
+## CVE-2025-20197 ()
+> 
+- [KaraRyougi/CVE-2025-20197-POC](https://github.com/KaraRyougi/CVE-2025-20197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/KaraRyougi/CVE-2025-20197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/KaraRyougi/CVE-2025-20197-POC">
 
 ---
 ## CVE-2025-20188 ()

@@ -328,6 +328,7 @@
 > 
 - [dinosn/givewp-cve-2026-82222-rce-lab](https://github.com/dinosn/givewp-cve-2026-82222-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/givewp-cve-2026-82222-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/givewp-cve-2026-82222-rce-lab">
 - [UdinChan/cve-2026-82222-poc](https://github.com/UdinChan/cve-2026-82222-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UdinChan/cve-2026-82222-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UdinChan/cve-2026-82222-poc">
+- [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/R0x19/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/R0x19/CVE-2026-82222">
 
 ---
 ## CVE-2026-8206 ()
@@ -1573,6 +1574,11 @@
 - [0p5cur/CVE-2026-62737-POC](https://github.com/0p5cur/CVE-2026-62737-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0p5cur/CVE-2026-62737-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0p5cur/CVE-2026-62737-POC">
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
+
+---
+## CVE-2026-62735 ()
+> 
+- [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2026-62735">
 
 ---
 ## CVE-2026-6271 ()
@@ -10661,6 +10667,7 @@
 - [RDTUTORIAL/aetherion](https://github.com/RDTUTORIAL/aetherion)	<img alt="forks" src="https://img.shields.io/github/forks/RDTUTORIAL/aetherion">	<img alt="stars" src="https://img.shields.io/github/stars/RDTUTORIAL/aetherion">
 - [ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN](https://github.com/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN)	<img alt="forks" src="https://img.shields.io/github/forks/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">	<img alt="stars" src="https://img.shields.io/github/stars/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">
 - [aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass">
+- [naheeju/POC-CVE-2026-0073](https://github.com/naheeju/POC-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/naheeju/POC-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/naheeju/POC-CVE-2026-0073">
 - [naheeju/POC-CVE-2026-0073](https://github.com/naheeju/POC-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/naheeju/POC-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/naheeju/POC-CVE-2026-0073">
 
 ---
