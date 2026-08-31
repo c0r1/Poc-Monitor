@@ -1310,7 +1310,7 @@
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
 - [imbas007/POC-CVE-2025-66478](https://github.com/imbas007/POC-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-66478">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
-- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
+- [Saturate/CVE-2025-55182-react2shell](https://github.com/Saturate/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-react2shell">
 - [xkey8/react2shell](https://github.com/xkey8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/xkey8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/xkey8/react2shell">
 - [namest504/CVE-2025-66478-Exploit-Poc](https://github.com/namest504/CVE-2025-66478-Exploit-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/namest504/CVE-2025-66478-Exploit-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/namest504/CVE-2025-66478-Exploit-Poc">
 - [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
@@ -1436,6 +1436,9 @@
 - [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
 - [termireum/react2shell](https://github.com/termireum/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/react2shell">
 - [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
+- [JotaEspig/CVE-2025-66478-PoC-Reverse-Shell](https://github.com/JotaEspig/CVE-2025-66478-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/JotaEspig/CVE-2025-66478-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/JotaEspig/CVE-2025-66478-PoC-Reverse-Shell">
+- [rvzsec/react2shell](https://github.com/rvzsec/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/react2shell">
+- [nilfredb/CVE-2025-66478-Research-Proof-of-Concept](https://github.com/nilfredb/CVE-2025-66478-Research-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/nilfredb/CVE-2025-66478-Research-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/nilfredb/CVE-2025-66478-Research-Proof-of-Concept">
 
 ---
 ## CVE-2025-66470 ()
