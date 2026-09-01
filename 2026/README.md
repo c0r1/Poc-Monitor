@@ -304,6 +304,11 @@
 - [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
 
 ---
+## CVE-2026-82592 ()
+> 
+- [HackSpeak/CVE-2026-82592](https://github.com/HackSpeak/CVE-2026-82592)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-82592">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-82592">
+
+---
 ## CVE-2026-82539 ()
 > 
 - [Xernary/CVE-2026-82539](https://github.com/Xernary/CVE-2026-82539)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2026-82539">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2026-82539">
@@ -5268,6 +5273,11 @@
 - [sec-zone/CVE-2026-36213](https://github.com/sec-zone/CVE-2026-36213)	<img alt="forks" src="https://img.shields.io/github/forks/sec-zone/CVE-2026-36213">	<img alt="stars" src="https://img.shields.io/github/stars/sec-zone/CVE-2026-36213">
 
 ---
+## CVE-2026-36130 ()
+> 
+- [cwjchoi01/CVE-2026-36130](https://github.com/cwjchoi01/CVE-2026-36130)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2026-36130">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2026-36130">
+
+---
 ## CVE-2026-3600 ()
 > 
 - [K3ysTr0K3R/CVE-2026-3600](https://github.com/K3ysTr0K3R/CVE-2026-3600)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-3600">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-3600">
@@ -6579,6 +6589,11 @@
 ## CVE-2026-31341 ()
 > 
 - [Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker](https://github.com/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">
+
+---
+## CVE-2026-31321 ()
+> 
+- [cwjchoi01/CVE-2026-31321](https://github.com/cwjchoi01/CVE-2026-31321)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2026-31321">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2026-31321">
 
 ---
 ## CVE-2026-31309 ()
