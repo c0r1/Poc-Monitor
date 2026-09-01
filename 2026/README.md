@@ -327,6 +327,7 @@
 ## CVE-2026-82329 ()
 > 
 - [HORKimhab/CVE-2026-82329](https://github.com/HORKimhab/CVE-2026-82329)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-82329">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-82329">
+- [dinosn/cve-2026-82329-jfrog-artifactory](https://github.com/dinosn/cve-2026-82329-jfrog-artifactory)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-82329-jfrog-artifactory">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-82329-jfrog-artifactory">
 
 ---
 ## CVE-2026-82286 ()
@@ -8113,6 +8114,7 @@
 - [0p5cur/CVE-2026-62737-POC](https://github.com/0p5cur/CVE-2026-62737-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0p5cur/CVE-2026-62737-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0p5cur/CVE-2026-62737-POC">
 - [iLokaas/CVE-2026-24061-payload](https://github.com/iLokaas/CVE-2026-24061-payload)	<img alt="forks" src="https://img.shields.io/github/forks/iLokaas/CVE-2026-24061-payload">	<img alt="stars" src="https://img.shields.io/github/stars/iLokaas/CVE-2026-24061-payload">
 - [DiegoRivas1/htb-labs-orion](https://github.com/DiegoRivas1/htb-labs-orion)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoRivas1/htb-labs-orion">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoRivas1/htb-labs-orion">
+- [Ish3ng0m4/CVE-2026-24061-Telnetd](https://github.com/Ish3ng0m4/CVE-2026-24061-Telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/Ish3ng0m4/CVE-2026-24061-Telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/Ish3ng0m4/CVE-2026-24061-Telnetd">
 
 ---
 ## CVE-2026-2406 ()
@@ -9533,6 +9535,7 @@
 - [debugactiveprocess/CVE-2026-18963](https://github.com/debugactiveprocess/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/debugactiveprocess/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/debugactiveprocess/CVE-2026-18963">
 - [alt3kx/CVE-2026-18963](https://github.com/alt3kx/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-18963">
 - [EQSTLab/CVE-2026-18963](https://github.com/EQSTLab/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-18963">
+- [M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/My-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/My-Exploits">
 
 ---
 ## CVE-2026-18953 ()
