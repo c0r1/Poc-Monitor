@@ -455,6 +455,11 @@
 - [vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds](https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">
 
 ---
+## CVE-2026-78839 ()
+> 
+- [nabeelmkhan/CVE-2026-78839](https://github.com/nabeelmkhan/CVE-2026-78839)	<img alt="forks" src="https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78839">	<img alt="stars" src="https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78839">
+
+---
 ## CVE-2026-78838 ()
 > 
 - [nabeelmkhan/CVE-2026-78838](https://github.com/nabeelmkhan/CVE-2026-78838)	<img alt="forks" src="https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78838">	<img alt="stars" src="https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78838">
@@ -765,6 +770,11 @@
 ## CVE-2026-7222 ()
 > 
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
+
+---
+## CVE-2026-71981 ()
+> 
+- [lyn4r/CVE-2026-71981](https://github.com/lyn4r/CVE-2026-71981)	<img alt="forks" src="https://img.shields.io/github/forks/lyn4r/CVE-2026-71981">	<img alt="stars" src="https://img.shields.io/github/stars/lyn4r/CVE-2026-71981">
 
 ---
 ## CVE-2026-71960 ()
@@ -2783,7 +2793,8 @@
 - [EQSTLab/CVE-2026-5027](https://github.com/EQSTLab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-5027">
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 - [Layer-6/CVE-2026-5027-Langflow](https://github.com/Layer-6/CVE-2026-5027-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Layer-6/CVE-2026-5027-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Layer-6/CVE-2026-5027-Langflow">
-- [HORKimhab/-CVE-2026-5027](https://github.com/HORKimhab/-CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/-CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/-CVE-2026-5027">
+- [HORKimhab/CVE-2026-5027](https://github.com/HORKimhab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-5027">
+- [rmhowe425/POC-CVE-2026-5027](https://github.com/rmhowe425/POC-CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-5027">
 
 ---
 ## CVE-2026-50229 ()
@@ -4021,7 +4032,7 @@
 - [ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">
 - [zenyxx-xd/RootMyVivo](https://github.com/zenyxx-xd/RootMyVivo)	<img alt="forks" src="https://img.shields.io/github/forks/zenyxx-xd/RootMyVivo">	<img alt="stars" src="https://img.shields.io/github/stars/zenyxx-xd/RootMyVivo">
 - [JingMatrix/pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root)	<img alt="forks" src="https://img.shields.io/github/forks/JingMatrix/pixel-ksu-root">	<img alt="stars" src="https://img.shields.io/github/stars/JingMatrix/pixel-ksu-root">
-- [Cxyofficial/k50g-pocof4gt-cve-2026-43499-poc](https://github.com/Cxyofficial/k50g-pocof4gt-cve-2026-43499-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Cxyofficial/k50g-pocof4gt-cve-2026-43499-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Cxyofficial/k50g-pocof4gt-cve-2026-43499-poc">
+- [Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC](https://github.com/Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC">
 - [lkeld/CVE-2026-43499-poc](https://github.com/lkeld/CVE-2026-43499-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lkeld/CVE-2026-43499-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lkeld/CVE-2026-43499-poc">
 - [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/YuKongA/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/YuKongA/ghostlock-app">
 - [hackyangwen-lgtm/rmg-s9180-fzg1](https://github.com/hackyangwen-lgtm/rmg-s9180-fzg1)	<img alt="forks" src="https://img.shields.io/github/forks/hackyangwen-lgtm/rmg-s9180-fzg1">	<img alt="stars" src="https://img.shields.io/github/stars/hackyangwen-lgtm/rmg-s9180-fzg1">
@@ -7945,6 +7956,7 @@
 ## CVE-2026-24423 ()
 > 
 - [aavamin/CVE-2026-24423](https://github.com/aavamin/CVE-2026-24423)	<img alt="forks" src="https://img.shields.io/github/forks/aavamin/CVE-2026-24423">	<img alt="stars" src="https://img.shields.io/github/stars/aavamin/CVE-2026-24423">
+- [CyberAlp0/SmarterMail-CVE-2026-24423-](https://github.com/CyberAlp0/SmarterMail-CVE-2026-24423-)	<img alt="forks" src="https://img.shields.io/github/forks/CyberAlp0/SmarterMail-CVE-2026-24423-">	<img alt="stars" src="https://img.shields.io/github/stars/CyberAlp0/SmarterMail-CVE-2026-24423-">
 
 ---
 ## CVE-2026-24422 ()

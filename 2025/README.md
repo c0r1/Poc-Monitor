@@ -8680,6 +8680,7 @@
 > 
 - [jsecx88/CVE-2025-29009-POC](https://github.com/jsecx88/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jsecx88/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jsecx88/CVE-2025-29009-POC">
 - [Nxploited/CVE-2025-29009](https://github.com/Nxploited/CVE-2025-29009)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-29009">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-29009">
+- [katranSefa/CVE-2025-29009](https://github.com/katranSefa/CVE-2025-29009)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-29009">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-29009">
 
 ---
 ## CVE-2025-28915 ()
