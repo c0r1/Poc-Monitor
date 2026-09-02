@@ -2855,6 +2855,11 @@
 - [chaitanyagarware/CVE-2026-50131](https://github.com/chaitanyagarware/CVE-2026-50131)	<img alt="forks" src="https://img.shields.io/github/forks/chaitanyagarware/CVE-2026-50131">	<img alt="stars" src="https://img.shields.io/github/stars/chaitanyagarware/CVE-2026-50131">
 
 ---
+## CVE-2026-5006 ()
+> 
+- [tcollins-hashicorp/vault-cve-2026-5006-audit](https://github.com/tcollins-hashicorp/vault-cve-2026-5006-audit)	<img alt="forks" src="https://img.shields.io/github/forks/tcollins-hashicorp/vault-cve-2026-5006-audit">	<img alt="stars" src="https://img.shields.io/github/stars/tcollins-hashicorp/vault-cve-2026-5006-audit">
+
+---
 ## CVE-2026-50055 ()
 > 
 - [HORKimhab/CVE-2026-50055](https://github.com/HORKimhab/CVE-2026-50055)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50055">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50055">
