@@ -84,6 +84,11 @@
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
 
 ---
+## CVE-2026-9586 ()
+> 
+- [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
+
+---
 ## CVE-2026-9560 ()
 > 
 - [HORKimhab/CVE-2026-9560](https://github.com/HORKimhab/CVE-2026-9560)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9560">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9560">
@@ -423,6 +428,11 @@
 ## CVE-2026-79483 ()
 > 
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
+
+---
+## CVE-2026-7899 ()
+> 
+- [HORKimhab/CVE-2026-7899](https://github.com/HORKimhab/CVE-2026-7899)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-7899">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-7899">
 
 ---
 ## CVE-2026-78906 ()
@@ -1864,6 +1874,7 @@
 > 
 - [HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-58231">
 - [WildanDeveloper/CVE-2026-58231](https://github.com/WildanDeveloper/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/WildanDeveloper/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/WildanDeveloper/CVE-2026-58231">
+- [SAP-system-update/CVE-2026-58231](https://github.com/SAP-system-update/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/SAP-system-update/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/SAP-system-update/CVE-2026-58231">
 
 ---
 ## CVE-2026-58138 ()
@@ -4021,6 +4032,7 @@
 - [rsyzee/ghostlock-infinix-hot70](https://github.com/rsyzee/ghostlock-infinix-hot70)	<img alt="forks" src="https://img.shields.io/github/forks/rsyzee/ghostlock-infinix-hot70">	<img alt="stars" src="https://img.shields.io/github/stars/rsyzee/ghostlock-infinix-hot70">
 - [sgswzglwlx/vivo-root-build](https://github.com/sgswzglwlx/vivo-root-build)	<img alt="forks" src="https://img.shields.io/github/forks/sgswzglwlx/vivo-root-build">	<img alt="stars" src="https://img.shields.io/github/stars/sgswzglwlx/vivo-root-build">
 - [slapah/ghostlock-h8q](https://github.com/slapah/ghostlock-h8q)	<img alt="forks" src="https://img.shields.io/github/forks/slapah/ghostlock-h8q">	<img alt="stars" src="https://img.shields.io/github/stars/slapah/ghostlock-h8q">
+- [abdgalaxy36-code/rmgp-complete-handoff](https://github.com/abdgalaxy36-code/rmgp-complete-handoff)	<img alt="forks" src="https://img.shields.io/github/forks/abdgalaxy36-code/rmgp-complete-handoff">	<img alt="stars" src="https://img.shields.io/github/stars/abdgalaxy36-code/rmgp-complete-handoff">
 
 ---
 ## CVE-2026-43494 ()
@@ -9814,6 +9826,7 @@
 - [Nxploited/CVE-2026-1555](https://github.com/Nxploited/CVE-2026-1555)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1555">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1555">
 - [willygailo/WG-CVE-2026-1555-Linux](https://github.com/willygailo/WG-CVE-2026-1555-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/WG-CVE-2026-1555-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/WG-CVE-2026-1555-Linux">
 - [webshellseo8/CVE-2026-1555-POC](https://github.com/webshellseo8/CVE-2026-1555-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-1555-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-1555-POC">
+- [katranSefa/CVE-2026-1555](https://github.com/katranSefa/CVE-2026-1555)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-1555">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-1555">
 
 ---
 ## CVE-2026-1550 ()
