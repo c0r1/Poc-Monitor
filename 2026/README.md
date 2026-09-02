@@ -283,6 +283,11 @@
 - [amnsecurity/CVE-2026-8451-CitrixBleed](https://github.com/amnsecurity/CVE-2026-8451-CitrixBleed)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-8451-CitrixBleed">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-8451-CitrixBleed">
 
 ---
+## CVE-2026-84361 ()
+> 
+- [Saku0512/CVE-2026-84361-poc](https://github.com/Saku0512/CVE-2026-84361-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-84361-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-84361-poc">
+
+---
 ## CVE-2026-8389 ()
 > 
 - [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)	<img alt="forks" src="https://img.shields.io/github/forks/crixpwn/CVE-2026-8389">	<img alt="stars" src="https://img.shields.io/github/stars/crixpwn/CVE-2026-8389">
@@ -438,6 +443,16 @@
 ## CVE-2026-78903 ()
 > 
 - [vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds](https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">
+
+---
+## CVE-2026-78838 ()
+> 
+- [nabeelmkhan/CVE-2026-78838](https://github.com/nabeelmkhan/CVE-2026-78838)	<img alt="forks" src="https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78838">	<img alt="stars" src="https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78838">
+
+---
+## CVE-2026-78837 ()
+> 
+- [nabeelmkhan/CVE-2026-78837](https://github.com/nabeelmkhan/CVE-2026-78837)	<img alt="forks" src="https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78837">	<img alt="stars" src="https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78837">
 
 ---
 ## CVE-2026-7878 ()
