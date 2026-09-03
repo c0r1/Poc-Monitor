@@ -10674,6 +10674,11 @@
 - [razureink/cve-2026-0770-langflow_rce_reproduction](https://github.com/razureink/cve-2026-0770-langflow_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-0770-langflow_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-0770-langflow_rce_reproduction">
 
 ---
+## CVE-2026-0769 ()
+> 
+- [rmhowe425/POC-CVE-2026-0769](https://github.com/rmhowe425/POC-CVE-2026-0769)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-0769">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-0769">
+
+---
 ## CVE-2026-0768 ()
 > 
 - [HORKimhab/CVE-2026-0768](https://github.com/HORKimhab/CVE-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0768">

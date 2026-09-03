@@ -11,6 +11,11 @@
 - [sohaibeb/CVE-2025-9983](https://github.com/sohaibeb/CVE-2025-9983)	<img alt="forks" src="https://img.shields.io/github/forks/sohaibeb/CVE-2025-9983">	<img alt="stars" src="https://img.shields.io/github/stars/sohaibeb/CVE-2025-9983">
 
 ---
+## CVE-2025-9974 ()
+> 
+- [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
+
+---
 ## CVE-2025-9967 ()
 > 
 - [OraclePatch/CVE-2025-9967](https://github.com/OraclePatch/CVE-2025-9967)	<img alt="forks" src="https://img.shields.io/github/forks/OraclePatch/CVE-2025-9967">	<img alt="stars" src="https://img.shields.io/github/stars/OraclePatch/CVE-2025-9967">
