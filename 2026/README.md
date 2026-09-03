@@ -313,6 +313,11 @@
 - [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
 
 ---
+## CVE-2026-83548 ()
+> 
+- [xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis">
+
+---
 ## CVE-2026-8347 ()
 > 
 - [aj2108/CVE-2026-8347](https://github.com/aj2108/CVE-2026-8347)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8347">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8347">
@@ -424,6 +429,12 @@
 ## CVE-2026-8053 ()
 > 
 - [mgiay/CVE-2026-8053-MongoDB](https://github.com/mgiay/CVE-2026-8053-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-8053-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-8053-MongoDB">
+
+---
+## CVE-2026-80428 ()
+> 
+- [digiprosec/CVE-2026-80428](https://github.com/digiprosec/CVE-2026-80428)	<img alt="forks" src="https://img.shields.io/github/forks/digiprosec/CVE-2026-80428">	<img alt="stars" src="https://img.shields.io/github/stars/digiprosec/CVE-2026-80428">
+- [Zipkoppie/CVE-2026-80428](https://github.com/Zipkoppie/CVE-2026-80428)	<img alt="forks" src="https://img.shields.io/github/forks/Zipkoppie/CVE-2026-80428">	<img alt="stars" src="https://img.shields.io/github/stars/Zipkoppie/CVE-2026-80428">
 
 ---
 ## CVE-2026-8037 ()
@@ -1683,6 +1694,7 @@
 ## CVE-2026-62735 ()
 > 
 - [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2026-62735">
+- [HackSpeak/CVE-2026-62735](https://github.com/HackSpeak/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-62735">
 
 ---
 ## CVE-2026-6271 ()
@@ -10220,6 +10232,7 @@
 - [shinthink/CVE-2026-13001](https://github.com/shinthink/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-13001">
 - [sadb98523-eng/CVE-2026-13001](https://github.com/sadb98523-eng/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/sadb98523-eng/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/sadb98523-eng/CVE-2026-13001">
 - [ghostpels/CVE-2026-13001](https://github.com/ghostpels/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpels/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpels/CVE-2026-13001">
+- [byt3l0rd/CVE-2026-13001](https://github.com/byt3l0rd/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-13001">
 
 ---
 ## CVE-2026-12960 ()
