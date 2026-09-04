@@ -502,6 +502,7 @@
 ## CVE-2026-78745 ()
 > 
 - [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
+- [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
 
 ---
 ## CVE-2026-78329 ()
@@ -9496,6 +9497,11 @@
 ## CVE-2026-20217 ()
 > 
 - [securifera/CVE-2026-20217](https://github.com/securifera/CVE-2026-20217)	<img alt="forks" src="https://img.shields.io/github/forks/securifera/CVE-2026-20217">	<img alt="stars" src="https://img.shields.io/github/stars/securifera/CVE-2026-20217">
+
+---
+## CVE-2026-20212 ()
+> 
+- [HORKimhab/CVE-2026-20212](https://github.com/HORKimhab/CVE-2026-20212)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20212">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20212">
 
 ---
 ## CVE-2026-2020 ()
