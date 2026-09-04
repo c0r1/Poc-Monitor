@@ -335,6 +335,11 @@
 - [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
 
 ---
+## CVE-2026-82876 ()
+> 
+- [Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass](https://github.com/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass">
+
+---
 ## CVE-2026-82592 ()
 > 
 - [HackSpeak/CVE-2026-82592](https://github.com/HackSpeak/CVE-2026-82592)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-82592">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-82592">
@@ -757,6 +762,11 @@
 - [alsyundawy/eradicate-zimbra-malware](https://github.com/alsyundawy/eradicate-zimbra-malware)	<img alt="forks" src="https://img.shields.io/github/forks/alsyundawy/eradicate-zimbra-malware">	<img alt="stars" src="https://img.shields.io/github/stars/alsyundawy/eradicate-zimbra-malware">
 - [byt3l0rd/CVE-2026-73570](https://github.com/byt3l0rd/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-73570">
 - [dahnutz/zimbra-cve-2026-73570-ir](https://github.com/dahnutz/zimbra-cve-2026-73570-ir)	<img alt="forks" src="https://img.shields.io/github/forks/dahnutz/zimbra-cve-2026-73570-ir">	<img alt="stars" src="https://img.shields.io/github/stars/dahnutz/zimbra-cve-2026-73570-ir">
+
+---
+## CVE-2026-73554 ()
+> 
+- [HORKimhab/CVE-2026-73554](https://github.com/HORKimhab/CVE-2026-73554)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-73554">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-73554">
 
 ---
 ## CVE-2026-73519 ()
@@ -1422,6 +1432,11 @@
 - [altvist/cve-2026-64725-poc](https://github.com/altvist/cve-2026-64725-poc)	<img alt="forks" src="https://img.shields.io/github/forks/altvist/cve-2026-64725-poc">	<img alt="stars" src="https://img.shields.io/github/stars/altvist/cve-2026-64725-poc">
 
 ---
+## CVE-2026-6471 ()
+> 
+- [HORKimhab/CVE-2026-6471](https://github.com/HORKimhab/CVE-2026-6471)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6471">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6471">
+
+---
 ## CVE-2026-64640 ()
 > 
 - [oscerd/CVE-2026-64640](https://github.com/oscerd/CVE-2026-64640)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-64640">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-64640">
@@ -1578,6 +1593,8 @@
 - [sfewer-r7/CVE-2026-63077](https://github.com/sfewer-r7/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-63077">
 - [BoredHackerBlog/teamcity-CVE-2026-63077-pcap](https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap)	<img alt="forks" src="https://img.shields.io/github/forks/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">	<img alt="stars" src="https://img.shields.io/github/stars/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">
 - [AnggaTechI/CVE-2026-63077](https://github.com/AnggaTechI/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63077">
+- [0xCyp1337/CVE-2026-63077](https://github.com/0xCyp1337/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-63077">
+- [bakos-sandor-nx/teamcity-cve-2026-63077-remediation](https://github.com/bakos-sandor-nx/teamcity-cve-2026-63077-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/bakos-sandor-nx/teamcity-cve-2026-63077-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/bakos-sandor-nx/teamcity-cve-2026-63077-remediation">
 
 ---
 ## CVE-2026-63072 ()
@@ -6711,6 +6728,7 @@
 - [dev1681/CVE-2026-31431](https://github.com/dev1681/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dev1681/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dev1681/CVE-2026-31431">
 - [joaocalciolari07/copyfail-guard](https://github.com/joaocalciolari07/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/joaocalciolari07/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/joaocalciolari07/copyfail-guard">
 - [byt3l0rd/CVE-2026-31431](https://github.com/byt3l0rd/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-31431">
+- [FranklinF25/cve-2026-31431](https://github.com/FranklinF25/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -9645,6 +9663,11 @@
 ## CVE-2026-1953 ()
 > 
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
+
+---
+## CVE-2026-19516 ()
+> 
+- [HORKimhab/CVE-2026-19516](https://github.com/HORKimhab/CVE-2026-19516)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19516">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19516">
 
 ---
 ## CVE-2026-19501 ()
