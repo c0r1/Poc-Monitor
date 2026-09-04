@@ -6304,6 +6304,11 @@
 - [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 
 ---
+## CVE-2026-31787 ()
+> 
+- [0xAtharv/CVE-2026-31787](https://github.com/0xAtharv/CVE-2026-31787)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2026-31787">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2026-31787">
+
+---
 ## CVE-2026-31717 ()
 > 
 - [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
@@ -7988,6 +7993,11 @@
 ## CVE-2026-25075 ()
 > 
 - [BishopFox/CVE-2026-25075-check](https://github.com/BishopFox/CVE-2026-25075-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-25075-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-25075-check">
+
+---
+## CVE-2026-25057 ()
+> 
+- [ibrah-m/CVE-2026-25057](https://github.com/ibrah-m/CVE-2026-25057)	<img alt="forks" src="https://img.shields.io/github/forks/ibrah-m/CVE-2026-25057">	<img alt="stars" src="https://img.shields.io/github/stars/ibrah-m/CVE-2026-25057">
 
 ---
 ## CVE-2026-25053 ()
@@ -10618,6 +10628,11 @@
 ## CVE-2026-10187 ()
 > 
 - [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
+
+---
+## CVE-2026-10134 ()
+> 
+- [rmhowe425/POC-CVE-2026-10134](https://github.com/rmhowe425/POC-CVE-2026-10134)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-10134">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-10134">
 
 ---
 ## CVE-2026-10104 ()
