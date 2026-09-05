@@ -5380,6 +5380,7 @@
 > A flaw was found in Keycloak before 13.0.0, where it is possible to force the server to call out an unverified URL using the OIDC parameter request_uri. This flaw allows an attacker to use this parameter to execute a Server-side request forgery (SSRF) attack.
 - [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
 - [Live-Hack-CVE/CVE-2020-10770](https://github.com/Live-Hack-CVE/CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10770">
+- [0xlyvio/CVE-2020-10770-keycloak-exploit-poc](https://github.com/0xlyvio/CVE-2020-10770-keycloak-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2020-10770-keycloak-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2020-10770-keycloak-exploit-poc">
 
 ---
 ## CVE-2020-10761 (2020-06-09T13:15:00)
