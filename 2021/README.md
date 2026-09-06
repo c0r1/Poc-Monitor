@@ -6982,6 +6982,11 @@
 - [joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC](https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC">
 
 ---
+## CVE-2021-3030 ()
+> 
+- [athosgonzaga/CVE-2021-3030](https://github.com/athosgonzaga/CVE-2021-3030)	<img alt="forks" src="https://img.shields.io/github/forks/athosgonzaga/CVE-2021-3030">	<img alt="stars" src="https://img.shields.io/github/stars/athosgonzaga/CVE-2021-3030">
+
+---
 ## CVE-2021-3024 (2021-02-01T16:15:00)
 > HashiCorp Vault and Vault Enterprise disclosed the internal IP address of the Vault node when responding to some invalid, unauthenticated HTTP requests. Fixed in 1.6.2 & 1.5.7.
 - [Live-Hack-CVE/CVE-2021-3024](https://github.com/Live-Hack-CVE/CVE-2021-3024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3024">

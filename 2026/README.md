@@ -7386,6 +7386,7 @@
 ## CVE-2026-27876 ()
 > 
 - [0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-27876">
+- [atiilla/CVE-2026-27876](https://github.com/atiilla/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-27876">
 
 ---
 ## CVE-2026-27831 ()
@@ -9747,6 +9748,7 @@
 - [DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19598-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19598-PoC">
 - [sag-asab/CVE-2026-19598](https://github.com/sag-asab/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/sag-asab/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/sag-asab/CVE-2026-19598">
 - [0xCyp1337/CVE-2026-19598-](https://github.com/0xCyp1337/CVE-2026-19598-)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-19598-">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-19598-">
+- [HackfutSecRoot/multi_exploit_wp](https://github.com/HackfutSecRoot/multi_exploit_wp)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/multi_exploit_wp">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/multi_exploit_wp">
 
 ---
 ## CVE-2026-1953 ()
