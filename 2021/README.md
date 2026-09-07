@@ -3506,6 +3506,7 @@
 - [nicoibarburu/CVE-2021-4034](https://github.com/nicoibarburu/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/nicoibarburu/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/nicoibarburu/CVE-2021-4034">
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
+- [iurhfiu6/CVE-2021-4034](https://github.com/iurhfiu6/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/iurhfiu6/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/iurhfiu6/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -9992,6 +9993,7 @@
 - [000Tonio/cve-2021-1675](https://github.com/000Tonio/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/000Tonio/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/000Tonio/cve-2021-1675">
 - [kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis](https://github.com/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">
 - [VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis](https://github.com/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis">
+- [HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
