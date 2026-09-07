@@ -6045,6 +6045,11 @@
 ## CVE-2020-0609 ()
 > 
 - [Bhanunamikaze/BlueGate-CVE-2020-0609](https://github.com/Bhanunamikaze/BlueGate-CVE-2020-0609)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BlueGate-CVE-2020-0609">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BlueGate-CVE-2020-0609">
+- [ruppde/rdg_scanner_cve-2020-0609](https://github.com/ruppde/rdg_scanner_cve-2020-0609)	<img alt="forks" src="https://img.shields.io/github/forks/ruppde/rdg_scanner_cve-2020-0609">	<img alt="stars" src="https://img.shields.io/github/stars/ruppde/rdg_scanner_cve-2020-0609">
+- [ioncodes/BlueGate](https://github.com/ioncodes/BlueGate)	<img alt="forks" src="https://img.shields.io/github/forks/ioncodes/BlueGate">	<img alt="stars" src="https://img.shields.io/github/stars/ioncodes/BlueGate">
+- [Archi73ct/CVE-2020-0609](https://github.com/Archi73ct/CVE-2020-0609)	<img alt="forks" src="https://img.shields.io/github/forks/Archi73ct/CVE-2020-0609">	<img alt="stars" src="https://img.shields.io/github/stars/Archi73ct/CVE-2020-0609">
+- [MalwareTech/RDGScanner](https://github.com/MalwareTech/RDGScanner)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/RDGScanner">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/RDGScanner">
+- [ly4k/BlueGate](https://github.com/ly4k/BlueGate)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/BlueGate">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/BlueGate">
 
 ---
 ## CVE-2020-0601 (2020-01-14T23:15:00)
