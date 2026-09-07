@@ -295,6 +295,7 @@
 - [cybersensei-EH/hackviser_labs_CVE-2015-3306](https://github.com/cybersensei-EH/hackviser_labs_CVE-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/cybersensei-EH/hackviser_labs_CVE-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/cybersensei-EH/hackviser_labs_CVE-2015-3306">
 - [netw0rk7/CVE-2015-3306-Home-Lab](https://github.com/netw0rk7/CVE-2015-3306-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2015-3306-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2015-3306-Home-Lab">
 - [canpilayda/proftpd-mod_copy-cve-2015-3306](https://github.com/canpilayda/proftpd-mod_copy-cve-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/proftpd-mod_copy-cve-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/proftpd-mod_copy-cve-2015-3306">
+- [diegslva/cve-2015-3306-lab](https://github.com/diegslva/cve-2015-3306-lab)	<img alt="forks" src="https://img.shields.io/github/forks/diegslva/cve-2015-3306-lab">	<img alt="stars" src="https://img.shields.io/github/stars/diegslva/cve-2015-3306-lab">
 
 ---
 ## CVE-2015-3256 ()
