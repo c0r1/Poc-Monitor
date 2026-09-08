@@ -470,6 +470,11 @@
 - [George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-](https://github.com/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">
 
 ---
+## CVE-2026-8069 ()
+> 
+- [S1eezer/CVE-2026-8069](https://github.com/S1eezer/CVE-2026-8069)	<img alt="forks" src="https://img.shields.io/github/forks/S1eezer/CVE-2026-8069">	<img alt="stars" src="https://img.shields.io/github/stars/S1eezer/CVE-2026-8069">
+
+---
 ## CVE-2026-8054 ()
 > 
 - [Mr-xn/CVE-2026-8054](https://github.com/Mr-xn/CVE-2026-8054)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2026-8054">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2026-8054">
@@ -708,6 +713,8 @@
 ## CVE-2026-75650 ()
 > 
 - [dinosn/cve-2026-75650-magento-validation-lab](https://github.com/dinosn/cve-2026-75650-magento-validation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-75650-magento-validation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-75650-magento-validation-lab">
+- [disrex-group/stylesmuggler-adobe-patches](https://github.com/disrex-group/stylesmuggler-adobe-patches)	<img alt="forks" src="https://img.shields.io/github/forks/disrex-group/stylesmuggler-adobe-patches">	<img alt="stars" src="https://img.shields.io/github/stars/disrex-group/stylesmuggler-adobe-patches">
+- [disrex-group/stylesmuggler-adobe-patches-mageos](https://github.com/disrex-group/stylesmuggler-adobe-patches-mageos)	<img alt="forks" src="https://img.shields.io/github/forks/disrex-group/stylesmuggler-adobe-patches-mageos">	<img alt="stars" src="https://img.shields.io/github/stars/disrex-group/stylesmuggler-adobe-patches-mageos">
 
 ---
 ## CVE-2026-75616 ()
@@ -871,6 +878,11 @@
 ## CVE-2026-7275 ()
 > 
 - [ExDev994/CVE-2026-7275-moodle](https://github.com/ExDev994/CVE-2026-7275-moodle)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-7275-moodle">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-7275-moodle">
+
+---
+## CVE-2026-72744 ()
+> 
+- [Saku0512/CVE-2026-72744-poc](https://github.com/Saku0512/CVE-2026-72744-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-72744-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-72744-poc">
 
 ---
 ## CVE-2026-7270 ()
@@ -2146,6 +2158,7 @@
 ## CVE-2026-57811 ()
 > 
 - [webshellseo8/CVE-2026-57811-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-57811-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-57811-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-57811-Proof-of-Concept">
+- [0xCyp1337/CVE-2026-57811](https://github.com/0xCyp1337/CVE-2026-57811)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-57811">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-57811">
 
 ---
 ## CVE-2026-57588 ()
