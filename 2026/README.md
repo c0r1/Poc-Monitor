@@ -668,6 +668,11 @@
 - [hackersroot/CVE-2026-76581-Detector](https://github.com/hackersroot/CVE-2026-76581-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2026-76581-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2026-76581-Detector">
 
 ---
+## CVE-2026-76578 ()
+> 
+- [BrainBob/CVE-2026-76578](https://github.com/BrainBob/CVE-2026-76578)	<img alt="forks" src="https://img.shields.io/github/forks/BrainBob/CVE-2026-76578">	<img alt="stars" src="https://img.shields.io/github/stars/BrainBob/CVE-2026-76578">
+
+---
 ## CVE-2026-76569 ()
 > 
 - [toanln-cov/CVE-2026-76569](https://github.com/toanln-cov/CVE-2026-76569)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-76569">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-76569">
@@ -1905,6 +1910,8 @@
 - [Madelleimproved411/wp-to-code](https://github.com/Madelleimproved411/wp-to-code)	<img alt="forks" src="https://img.shields.io/github/forks/Madelleimproved411/wp-to-code">	<img alt="stars" src="https://img.shields.io/github/stars/Madelleimproved411/wp-to-code">
 - [g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/WP2Shell">
 - [mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mhassani97/cve-2026-63030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mhassani97/cve-2026-63030-lab">
+- [Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/WP2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/WP2Shell-Scanner">
+- [DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/wp2shell-poc">
 
 ---
 ## CVE-2026-62911 ()
