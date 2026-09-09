@@ -2651,6 +2651,7 @@
 - [AtlasVector/Certighost-CVE-2026-54121](https://github.com/AtlasVector/Certighost-CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Certighost-CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Certighost-CVE-2026-54121">
 - [sam00/POC-CVE-2026-54121-Certighost](https://github.com/sam00/POC-CVE-2026-54121-Certighost)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-54121-Certighost">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-54121-Certighost">
 - [TryA9ain/Certighost_CVE-2026-54121](https://github.com/TryA9ain/Certighost_CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/Certighost_CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/Certighost_CVE-2026-54121">
+- [L0u7r3/certighost](https://github.com/L0u7r3/certighost)	<img alt="forks" src="https://img.shields.io/github/forks/L0u7r3/certighost">	<img alt="stars" src="https://img.shields.io/github/stars/L0u7r3/certighost">
 
 ---
 ## CVE-2026-5411 ()
@@ -10807,6 +10808,7 @@
 ## CVE-2026-11387 ()
 > 
 - [1beelze/CVE-2026-11387](https://github.com/1beelze/CVE-2026-11387)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-11387">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-11387">
+- [abraxas/CVE-2026-11387-WooCommerce-SMS-OTP](https://github.com/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP">
 
 ---
 ## CVE-2026-11374 ()
