@@ -247,6 +247,11 @@
 - [H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8793">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8793">
 
 ---
+## CVE-2026-87491 ()
+> 
+- [SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter](https://github.com/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter">
+
+---
 ## CVE-2026-8732 ()
 > 
 - [Jenderal92/CVE-2026-8732](https://github.com/Jenderal92/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8732">
@@ -5059,6 +5064,7 @@
 - [HydraSoft/CVE-2026-41089-Netlogon-RCE](https://github.com/HydraSoft/CVE-2026-41089-Netlogon-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HydraSoft/CVE-2026-41089-Netlogon-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HydraSoft/CVE-2026-41089-Netlogon-RCE">
 - [opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE](https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE">
 - [jelasin/CVE-2026-41089](https://github.com/jelasin/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-41089">
+- [ZeroDayVPN/CVE-2026-41089-Netlogon](https://github.com/ZeroDayVPN/CVE-2026-41089-Netlogon)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-41089-Netlogon">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-41089-Netlogon">
 
 ---
 ## CVE-2026-4106 ()
@@ -9778,6 +9784,8 @@
 - [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uzair-Baig0900/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uzair-Baig0900/CVE-2026-20805-PoC">
 - [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">
 - [ZeroDayEvil/CVE-2026-20805-PoC](https://github.com/ZeroDayEvil/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-20805-PoC">
+- [SimoesCTT/SCTT-2026-33-0002-DWM-Visual-Field-Singularity](https://github.com/SimoesCTT/SCTT-2026-33-0002-DWM-Visual-Field-Singularity)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/SCTT-2026-33-0002-DWM-Visual-Field-Singularity">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/SCTT-2026-33-0002-DWM-Visual-Field-Singularity">
+- [SimoesCTT/-SCTT-2026-33-0002-DWM-Visual-Field-Singularity](https://github.com/SimoesCTT/-SCTT-2026-33-0002-DWM-Visual-Field-Singularity)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-SCTT-2026-33-0002-DWM-Visual-Field-Singularity">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-SCTT-2026-33-0002-DWM-Visual-Field-Singularity">
 
 ---
 ## CVE-2026-20700 ()
