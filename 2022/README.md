@@ -30669,6 +30669,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [0xM4hm0ud/CVE-2022-24637](https://github.com/0xM4hm0ud/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/0xM4hm0ud/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/0xM4hm0ud/CVE-2022-24637">
 - [0xRyuk/CVE-2022-24637](https://github.com/0xRyuk/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/0xRyuk/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/0xRyuk/CVE-2022-24637">
 - [c0derpwner/HTB-pwned](https://github.com/c0derpwner/HTB-pwned)	<img alt="forks" src="https://img.shields.io/github/forks/c0derpwner/HTB-pwned">	<img alt="stars" src="https://img.shields.io/github/stars/c0derpwner/HTB-pwned">
+- [PrinceAikinsBaidoo/CVE-2022-24637](https://github.com/PrinceAikinsBaidoo/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/PrinceAikinsBaidoo/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/PrinceAikinsBaidoo/CVE-2022-24637">
 
 ---
 ## CVE-2022-24588 (2022-02-15T16:15:00)
@@ -36290,6 +36291,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [real-tim-johnston/megaquagga-pentest-report](https://github.com/real-tim-johnston/megaquagga-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/real-tim-johnston/megaquagga-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/real-tim-johnston/megaquagga-pentest-report">
 - [t1ckprivate/CVE-2022-0847-Dirty-Pipe](https://github.com/t1ckprivate/CVE-2022-0847-Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2022-0847-Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2022-0847-Dirty-Pipe">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [vudangducminh/CVE-2022-0847](https://github.com/vudangducminh/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/vudangducminh/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/vudangducminh/CVE-2022-0847">
 
 ---
 ## CVE-2022-0836 (2022-05-09T17:15:00)
