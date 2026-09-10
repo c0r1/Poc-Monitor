@@ -852,6 +852,11 @@
 - [squeeze440/CVE-2026-73847-emlog-PoC](https://github.com/squeeze440/CVE-2026-73847-emlog-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73847-emlog-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73847-emlog-PoC">
 
 ---
+## CVE-2026-73786 ()
+> 
+- [promasu/CVE-2026-73786](https://github.com/promasu/CVE-2026-73786)	<img alt="forks" src="https://img.shields.io/github/forks/promasu/CVE-2026-73786">	<img alt="stars" src="https://img.shields.io/github/stars/promasu/CVE-2026-73786">
+
+---
 ## CVE-2026-73678 ()
 > 
 - [Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork](https://github.com/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork">
@@ -2086,6 +2091,14 @@
 - [Dungsocool/CVE-2026-60137-CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137-CVE-2026-63030">
 - [johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)	<img alt="forks" src="https://img.shields.io/github/forks/johnlodan/wp2shell-rce">	<img alt="stars" src="https://img.shields.io/github/stars/johnlodan/wp2shell-rce">
 - [ivanesk315/CVE-2026-60137-and-CVE-2026-63030](https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">
+- [Madelleimproved411/wp-to-code](https://github.com/Madelleimproved411/wp-to-code)	<img alt="forks" src="https://img.shields.io/github/forks/Madelleimproved411/wp-to-code">	<img alt="stars" src="https://img.shields.io/github/stars/Madelleimproved411/wp-to-code">
+- [sowarma/wp2shell-PoC](https://github.com/sowarma/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sowarma/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sowarma/wp2shell-PoC">
+- [Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/WP2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/WP2Shell-Scanner">
+- [DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/wp2shell-poc">
+- [mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mhassani97/cve-2026-63030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mhassani97/cve-2026-63030-lab">
+- [TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-](https://github.com/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">
+- [g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/WP2Shell">
+- [M4xSec/wp2shell-Exploit-Waf-Bypass](https://github.com/M4xSec/wp2shell-Exploit-Waf-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/wp2shell-Exploit-Waf-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/wp2shell-Exploit-Waf-Bypass">
 
 ---
 ## CVE-2026-60121 ()
@@ -9753,6 +9766,7 @@
 - [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20805-POC">
 - [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uzair-Baig0900/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uzair-Baig0900/CVE-2026-20805-PoC">
 - [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">
+- [ZeroDayEvil/CVE-2026-20805-POC](https://github.com/ZeroDayEvil/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-20805-POC">
 
 ---
 ## CVE-2026-20700 ()
@@ -11248,6 +11262,11 @@
 ## CVE-2026-0542 ()
 > 
 - [HORKimhab/CVE-2026-0542](https://github.com/HORKimhab/CVE-2026-0542)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0542">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0542">
+
+---
+## CVE-2026-0303 ()
+> 
+- [YonLiud/CVE-2026-0303](https://github.com/YonLiud/CVE-2026-0303)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-0303">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-0303">
 
 ---
 ## CVE-2026-0300 ()
