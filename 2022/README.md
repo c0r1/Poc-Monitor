@@ -22742,6 +22742,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 ## CVE-2022-34303 ()
 > 
 - [TheMalwareGuardian/CVE-2022-34303](https://github.com/TheMalwareGuardian/CVE-2022-34303)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34303">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34303">
+- [TheMalwareGuardian/CVE-2022-34301](https://github.com/TheMalwareGuardian/CVE-2022-34301)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34301">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34301">
 
 ---
 ## CVE-2022-34302 ()

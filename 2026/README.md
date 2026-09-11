@@ -293,6 +293,7 @@
 - [FlowerWitch/CVE-2026-85706_docker_exp](https://github.com/FlowerWitch/CVE-2026-85706_docker_exp)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2026-85706_docker_exp">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2026-85706_docker_exp">
 - [mhtsec/CVE-2026-85706](https://github.com/mhtsec/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-85706">
 - [guneykabel/cve-2026-85706](https://github.com/guneykabel/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/guneykabel/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/guneykabel/cve-2026-85706">
+- [solivaquaant/CVE-2026-85706-PoC](https://github.com/solivaquaant/CVE-2026-85706-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/solivaquaant/CVE-2026-85706-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/solivaquaant/CVE-2026-85706-PoC">
 
 ---
 ## CVE-2026-85649 ()
@@ -4579,6 +4580,7 @@
 ## CVE-2026-42978 ()
 > 
 - [grizzzer/CVE-2026-42978-PoC-Research](https://github.com/grizzzer/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/grizzzer/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/grizzzer/CVE-2026-42978-PoC-Research">
+- [SyntaxMethod/CVE-2026-42978-PoC-Research](https://github.com/SyntaxMethod/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-42978-PoC-Research">
 
 ---
 ## CVE-2026-42945 ()
@@ -5063,6 +5065,7 @@
 - [m0n1x90/CVE-2026-41096](https://github.com/m0n1x90/CVE-2026-41096)	<img alt="forks" src="https://img.shields.io/github/forks/m0n1x90/CVE-2026-41096">	<img alt="stars" src="https://img.shields.io/github/stars/m0n1x90/CVE-2026-41096">
 - [TwoSevenOneT/CVE-2026-41096-Attack-Surface](https://github.com/TwoSevenOneT/CVE-2026-41096-Attack-Surface)	<img alt="forks" src="https://img.shields.io/github/forks/TwoSevenOneT/CVE-2026-41096-Attack-Surface">	<img alt="stars" src="https://img.shields.io/github/stars/TwoSevenOneT/CVE-2026-41096-Attack-Surface">
 - [ZeroDayEvil/CVE-2026-41096-PoC](https://github.com/ZeroDayEvil/CVE-2026-41096-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-41096-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-41096-PoC">
+- [personnumber3377/dns_client_fuzzing](https://github.com/personnumber3377/dns_client_fuzzing)	<img alt="forks" src="https://img.shields.io/github/forks/personnumber3377/dns_client_fuzzing">	<img alt="stars" src="https://img.shields.io/github/stars/personnumber3377/dns_client_fuzzing">
 
 ---
 ## CVE-2026-41091 ()
@@ -10523,6 +10526,11 @@
 ## CVE-2026-15013 ()
 > 
 - [zer0dayf/CVE-2026-15013](https://github.com/zer0dayf/CVE-2026-15013)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-15013">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-15013">
+
+---
+## CVE-2026-14962 ()
+> 
+- [cflowsec/CVE-2026-14962](https://github.com/cflowsec/CVE-2026-14962)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-14962">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-14962">
 
 ---
 ## CVE-2026-14960 ()
