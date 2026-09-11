@@ -291,11 +291,18 @@
 ## CVE-2026-85706 ()
 > 
 - [FlowerWitch/CVE-2026-85706_docker_exp](https://github.com/FlowerWitch/CVE-2026-85706_docker_exp)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2026-85706_docker_exp">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2026-85706_docker_exp">
+- [mhtsec/CVE-2026-85706](https://github.com/mhtsec/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-85706">
+- [guneykabel/cve-2026-85706](https://github.com/guneykabel/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/guneykabel/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/guneykabel/cve-2026-85706">
 
 ---
 ## CVE-2026-85649 ()
 > 
 - [ChewKeanHo/research-cve-2026-85649](https://github.com/ChewKeanHo/research-cve-2026-85649)	<img alt="forks" src="https://img.shields.io/github/forks/ChewKeanHo/research-cve-2026-85649">	<img alt="stars" src="https://img.shields.io/github/stars/ChewKeanHo/research-cve-2026-85649">
+
+---
+## CVE-2026-85612 ()
+> 
+- [hotplugin0x01/CVE-2026-85612](https://github.com/hotplugin0x01/CVE-2026-85612)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2026-85612">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2026-85612">
 
 ---
 ## CVE-2026-8508 ()
@@ -551,6 +558,11 @@
 > 
 - [TheMalwareGuardian/CVE-2026-79298](https://github.com/TheMalwareGuardian/CVE-2026-79298)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-79298">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-79298">
 - [TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy](https://github.com/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy">
+
+---
+## CVE-2026-79294 ()
+> 
+- [MGTx2/CVE-2026-79294](https://github.com/MGTx2/CVE-2026-79294)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-79294">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-79294">
 
 ---
 ## CVE-2026-78997 ()
@@ -4454,7 +4466,7 @@
 - [CamsShaft/IonStack-S22-cve-2026-43499](https://github.com/CamsShaft/IonStack-S22-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/IonStack-S22-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/IonStack-S22-cve-2026-43499">
 - [NanoTurtle1145/root-my-s24](https://github.com/NanoTurtle1145/root-my-s24)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTurtle1145/root-my-s24">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTurtle1145/root-my-s24">
 - [gitchw/ghostlock-cve-2026-43499](https://github.com/gitchw/ghostlock-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/gitchw/ghostlock-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/gitchw/ghostlock-cve-2026-43499">
-- [R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/GhostLock-5.10">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/GhostLock-5.10">
+- [R0rt1z2/GhostLock](https://github.com/R0rt1z2/GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/GhostLock">
 - [zychen027/CVE-2026-43499_HW-CLT-AL01](https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01)	<img alt="forks" src="https://img.shields.io/github/forks/zychen027/CVE-2026-43499_HW-CLT-AL01">	<img alt="stars" src="https://img.shields.io/github/stars/zychen027/CVE-2026-43499_HW-CLT-AL01">
 - [xrzcc/s26-m1q-ghostlock-selinux](https://github.com/xrzcc/s26-m1q-ghostlock-selinux)	<img alt="forks" src="https://img.shields.io/github/forks/xrzcc/s26-m1q-ghostlock-selinux">	<img alt="stars" src="https://img.shields.io/github/stars/xrzcc/s26-m1q-ghostlock-selinux">
 - [XiaoBaiLovesStirring/ghostlock-custom](https://github.com/XiaoBaiLovesStirring/ghostlock-custom)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/ghostlock-custom">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/ghostlock-custom">
@@ -4486,6 +4498,11 @@
 - [abdgalaxy36-code/rmgp-complete-handoff](https://github.com/abdgalaxy36-code/rmgp-complete-handoff)	<img alt="forks" src="https://img.shields.io/github/forks/abdgalaxy36-code/rmgp-complete-handoff">	<img alt="stars" src="https://img.shields.io/github/stars/abdgalaxy36-code/rmgp-complete-handoff">
 - [dorlow/hazel-cve-2026-43499](https://github.com/dorlow/hazel-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/dorlow/hazel-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/dorlow/hazel-cve-2026-43499">
 - [oopnv70-lab/ghostlock-aak-apk](https://github.com/oopnv70-lab/ghostlock-aak-apk)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-aak-apk">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-aak-apk">
+- [hui191/cve-2026-43499-aak-an00](https://github.com/hui191/cve-2026-43499-aak-an00)	<img alt="forks" src="https://img.shields.io/github/forks/hui191/cve-2026-43499-aak-an00">	<img alt="stars" src="https://img.shields.io/github/stars/hui191/cve-2026-43499-aak-an00">
+- [zenyxx-xd/RootMyVivo-Exploit](https://github.com/zenyxx-xd/RootMyVivo-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zenyxx-xd/RootMyVivo-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zenyxx-xd/RootMyVivo-Exploit">
+- [ruik-tech/ghostlock-s25fe](https://github.com/ruik-tech/ghostlock-s25fe)	<img alt="forks" src="https://img.shields.io/github/forks/ruik-tech/ghostlock-s25fe">	<img alt="stars" src="https://img.shields.io/github/stars/ruik-tech/ghostlock-s25fe">
+- [cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4](https://github.com/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4">
+- [abdgalaxy36-code/galaxy-a37-root](https://github.com/abdgalaxy36-code/galaxy-a37-root)	<img alt="forks" src="https://img.shields.io/github/forks/abdgalaxy36-code/galaxy-a37-root">	<img alt="stars" src="https://img.shields.io/github/stars/abdgalaxy36-code/galaxy-a37-root">
 
 ---
 ## CVE-2026-43494 ()
@@ -5045,6 +5062,7 @@
 - [bajoex/CVE-2026-41096-POC-trigger-no-exploit-](https://github.com/bajoex/CVE-2026-41096-POC-trigger-no-exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/bajoex/CVE-2026-41096-POC-trigger-no-exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/bajoex/CVE-2026-41096-POC-trigger-no-exploit-">
 - [m0n1x90/CVE-2026-41096](https://github.com/m0n1x90/CVE-2026-41096)	<img alt="forks" src="https://img.shields.io/github/forks/m0n1x90/CVE-2026-41096">	<img alt="stars" src="https://img.shields.io/github/stars/m0n1x90/CVE-2026-41096">
 - [TwoSevenOneT/CVE-2026-41096-Attack-Surface](https://github.com/TwoSevenOneT/CVE-2026-41096-Attack-Surface)	<img alt="forks" src="https://img.shields.io/github/forks/TwoSevenOneT/CVE-2026-41096-Attack-Surface">	<img alt="stars" src="https://img.shields.io/github/stars/TwoSevenOneT/CVE-2026-41096-Attack-Surface">
+- [ZeroDayEvil/CVE-2026-41096-PoC](https://github.com/ZeroDayEvil/CVE-2026-41096-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-41096-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-41096-PoC">
 
 ---
 ## CVE-2026-41091 ()
@@ -5309,6 +5327,8 @@
 - [Clara-M-Grossl/Exploit-Marimo](https://github.com/Clara-M-Grossl/Exploit-Marimo)	<img alt="forks" src="https://img.shields.io/github/forks/Clara-M-Grossl/Exploit-Marimo">	<img alt="stars" src="https://img.shields.io/github/stars/Clara-M-Grossl/Exploit-Marimo">
 - [stapat1245/CVE-2026-39987-PoC](https://github.com/stapat1245/CVE-2026-39987-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/stapat1245/CVE-2026-39987-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/stapat1245/CVE-2026-39987-PoC">
 - [Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2026-39987">
+- [julichaan/CVE-2026-39987_POC](https://github.com/julichaan/CVE-2026-39987_POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-39987_POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-39987_POC">
+- [iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/cohort-htb">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/cohort-htb">
 
 ---
 ## CVE-2026-39983 ()
@@ -10417,6 +10437,11 @@
 ## CVE-2026-15706 ()
 > 
 - [musana/CVE-2026-15706](https://github.com/musana/CVE-2026-15706)	<img alt="forks" src="https://img.shields.io/github/forks/musana/CVE-2026-15706">	<img alt="stars" src="https://img.shields.io/github/stars/musana/CVE-2026-15706">
+
+---
+## CVE-2026-15667 ()
+> 
+- [cflowsec/CVE-2026-15667](https://github.com/cflowsec/CVE-2026-15667)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-15667">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-15667">
 
 ---
 ## CVE-2026-1560 ()
