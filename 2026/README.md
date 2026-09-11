@@ -435,6 +435,7 @@
 - [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/R0x19/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/R0x19/CVE-2026-82222">
 - [0xCyp1337/CVE-2026-82222-MassExploit](https://github.com/0xCyp1337/CVE-2026-82222-MassExploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82222-MassExploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82222-MassExploit">
 - [GhostlyrootB2H/CVE-2026-82222](https://github.com/GhostlyrootB2H/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/GhostlyrootB2H/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/GhostlyrootB2H/CVE-2026-82222">
+- [sajjadsiam/CVE-2026-82222-PoC](https://github.com/sajjadsiam/CVE-2026-82222-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sajjadsiam/CVE-2026-82222-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sajjadsiam/CVE-2026-82222-PoC">
 
 ---
 ## CVE-2026-82221 ()
@@ -10198,6 +10199,12 @@
 - [Nxploited/CVE-2026-18366](https://github.com/Nxploited/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-18366">
 - [ghostpels/CVE-2026-18366](https://github.com/ghostpels/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpels/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpels/CVE-2026-18366">
 - [katranSefa/CVE-2026-18366](https://github.com/katranSefa/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-18366">
+
+---
+## CVE-2026-18351 ()
+> 
+- [JohenLastGen-JLG/CVE-2026-18351](https://github.com/JohenLastGen-JLG/CVE-2026-18351)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/CVE-2026-18351">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/CVE-2026-18351">
+- [ChiefYoru/Exploit-CVE-2026-18351](https://github.com/ChiefYoru/Exploit-CVE-2026-18351)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/Exploit-CVE-2026-18351">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/Exploit-CVE-2026-18351">
 
 ---
 ## CVE-2026-18315 ()
