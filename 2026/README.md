@@ -317,6 +317,7 @@
 - [solivaquaant/CVE-2026-85706](https://github.com/solivaquaant/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/solivaquaant/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/solivaquaant/CVE-2026-85706">
 - [ynsmroztas/GitLabSniper](https://github.com/ynsmroztas/GitLabSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/GitLabSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/GitLabSniper">
 - [jithinkrishnanrs/gitlab-cve-2026-85706-ioc](https://github.com/jithinkrishnanrs/gitlab-cve-2026-85706-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">
+- [0xlyvio/cve-2026-85706-poc-exploit-gitlab](https://github.com/0xlyvio/cve-2026-85706-poc-exploit-gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/cve-2026-85706-poc-exploit-gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/cve-2026-85706-poc-exploit-gitlab">
 
 ---
 ## CVE-2026-85649 ()
@@ -832,6 +833,8 @@
 - [dinosn/cve-2026-75650-magento-validation-lab](https://github.com/dinosn/cve-2026-75650-magento-validation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-75650-magento-validation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-75650-magento-validation-lab">
 - [disrex-group/stylesmuggler-adobe-patches](https://github.com/disrex-group/stylesmuggler-adobe-patches)	<img alt="forks" src="https://img.shields.io/github/forks/disrex-group/stylesmuggler-adobe-patches">	<img alt="stars" src="https://img.shields.io/github/stars/disrex-group/stylesmuggler-adobe-patches">
 - [disrex-group/stylesmuggler-adobe-patches-mageos](https://github.com/disrex-group/stylesmuggler-adobe-patches-mageos)	<img alt="forks" src="https://img.shields.io/github/forks/disrex-group/stylesmuggler-adobe-patches-mageos">	<img alt="stars" src="https://img.shields.io/github/stars/disrex-group/stylesmuggler-adobe-patches-mageos">
+- [fortbridge/stylesmuggler](https://github.com/fortbridge/stylesmuggler)	<img alt="forks" src="https://img.shields.io/github/forks/fortbridge/stylesmuggler">	<img alt="stars" src="https://img.shields.io/github/stars/fortbridge/stylesmuggler">
+- [jithinkrishnanrs/stylesmuggler-ioc-toolkit](https://github.com/jithinkrishnanrs/stylesmuggler-ioc-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/stylesmuggler-ioc-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/stylesmuggler-ioc-toolkit">
 
 ---
 ## CVE-2026-75616 ()
@@ -3187,6 +3190,7 @@
 - [bolubey/CVE-2026-50751](https://github.com/bolubey/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/bolubey/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/bolubey/CVE-2026-50751">
 - [e4zyy/Project-CVE-2026-50751](https://github.com/e4zyy/Project-CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2026-50751">
 - [WadesWeaponShed/CheckPoint-CVE-Webscanner](https://github.com/WadesWeaponShed/CheckPoint-CVE-Webscanner)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CheckPoint-CVE-Webscanner">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CheckPoint-CVE-Webscanner">
+- [uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/CVE-2026-50751">
 - [uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/CVE-2026-50751">
 
 ---
