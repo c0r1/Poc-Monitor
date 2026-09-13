@@ -7187,6 +7187,7 @@
 - [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/poc-CVE-2025-38352">
 - [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/chronomaly">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/chronomaly">
 - [Crime2/poc-CVE-2025-38352](https://github.com/Crime2/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/Crime2/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/Crime2/poc-CVE-2025-38352">
+- [longwasu/CVE-2025-38352-PoC](https://github.com/longwasu/CVE-2025-38352-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/longwasu/CVE-2025-38352-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/longwasu/CVE-2025-38352-PoC">
 
 ---
 ## CVE-2025-38248 ()
@@ -9800,11 +9801,12 @@
 - [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 - [fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">
 - [Fomovet/cve-2025-24071](https://github.com/Fomovet/cve-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24071">
-- [hyperchk/CVE-2025-24071-POC](https://github.com/hyperchk/CVE-2025-24071-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hyperchk/CVE-2025-24071-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hyperchk/CVE-2025-24071-POC">
+- [buffertrychar/CVE-2025-24071-POC](https://github.com/buffertrychar/CVE-2025-24071-POC)	<img alt="forks" src="https://img.shields.io/github/forks/buffertrychar/CVE-2025-24071-POC">	<img alt="stars" src="https://img.shields.io/github/stars/buffertrychar/CVE-2025-24071-POC">
 - [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
 - [zbs54/Blackash-CVE-2025-24071](https://github.com/zbs54/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/zbs54/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/zbs54/Blackash-CVE-2025-24071">
 - [ephunter/CVE-2025-24071-Exploit](https://github.com/ephunter/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ephunter/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ephunter/CVE-2025-24071-Exploit">
 - [DAEMON-404/PoC-CVE-2025-24071](https://github.com/DAEMON-404/PoC-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/PoC-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/PoC-CVE-2025-24071">
+- [kaIIsyms/CVE-2025-24071](https://github.com/kaIIsyms/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/kaIIsyms/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/kaIIsyms/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()

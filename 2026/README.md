@@ -689,6 +689,7 @@
 ## CVE-2026-78006 ()
 > 
 - [DeadExpl0it/CVE-2026-78006-POC](https://github.com/DeadExpl0it/CVE-2026-78006-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-78006-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-78006-POC">
+- [user445213/CVE-2026-78006](https://github.com/user445213/CVE-2026-78006)	<img alt="forks" src="https://img.shields.io/github/forks/user445213/CVE-2026-78006">	<img alt="stars" src="https://img.shields.io/github/stars/user445213/CVE-2026-78006">
 
 ---
 ## CVE-2026-77806 ()
@@ -1663,6 +1664,11 @@
 ## CVE-2026-65640 ()
 > 
 - [jobusa755-a11y/CVE-2026-65640-](https://github.com/jobusa755-a11y/CVE-2026-65640-)	<img alt="forks" src="https://img.shields.io/github/forks/jobusa755-a11y/CVE-2026-65640-">	<img alt="stars" src="https://img.shields.io/github/stars/jobusa755-a11y/CVE-2026-65640-">
+
+---
+## CVE-2026-65615 ()
+> 
+- [BL0odz/JFrog_CVE-2026-65615-ByGLM](https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM)	<img alt="forks" src="https://img.shields.io/github/forks/BL0odz/JFrog_CVE-2026-65615-ByGLM">	<img alt="stars" src="https://img.shields.io/github/stars/BL0odz/JFrog_CVE-2026-65615-ByGLM">
 
 ---
 ## CVE-2026-65591 ()
@@ -8613,6 +8619,11 @@
 - [BridgerAlderson/CVE-2026-24418](https://github.com/BridgerAlderson/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-24418">
 
 ---
+## CVE-2026-24332 ()
+> 
+- [0cqb/CVE-2026-24332](https://github.com/0cqb/CVE-2026-24332)	<img alt="forks" src="https://img.shields.io/github/forks/0cqb/CVE-2026-24332">	<img alt="stars" src="https://img.shields.io/github/stars/0cqb/CVE-2026-24332">
+
+---
 ## CVE-2026-24306 ()
 > 
 - [b1gchoi/CVE-2026-24306](https://github.com/b1gchoi/CVE-2026-24306)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24306">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24306">
@@ -8869,6 +8880,7 @@
 > 
 - [oscarmine/CVE-2026-23980-Exploit](https://github.com/oscarmine/CVE-2026-23980-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-23980-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-23980-Exploit">
 - [oscar-mine/CVE-2026-23980-Exploit](https://github.com/oscar-mine/CVE-2026-23980-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/CVE-2026-23980-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/CVE-2026-23980-Exploit">
+- [hyphenTBG/CVE-2026-23980](https://github.com/hyphenTBG/CVE-2026-23980)	<img alt="forks" src="https://img.shields.io/github/forks/hyphenTBG/CVE-2026-23980">	<img alt="stars" src="https://img.shields.io/github/stars/hyphenTBG/CVE-2026-23980">
 
 ---
 ## CVE-2026-2395 ()
