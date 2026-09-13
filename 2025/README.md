@@ -9804,6 +9804,7 @@
 - [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
 - [zbs54/Blackash-CVE-2025-24071](https://github.com/zbs54/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/zbs54/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/zbs54/Blackash-CVE-2025-24071">
 - [ephunter/CVE-2025-24071-Exploit](https://github.com/ephunter/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ephunter/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ephunter/CVE-2025-24071-Exploit">
+- [DAEMON-404/PoC-CVE-2025-24071](https://github.com/DAEMON-404/PoC-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/PoC-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/PoC-CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
@@ -10757,6 +10758,11 @@
 ## CVE-2025-14696 ()
 > 
 - [b1gchoi/CVE-2025-14696](https://github.com/b1gchoi/CVE-2025-14696)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-14696">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-14696">
+
+---
+## CVE-2025-14659 ()
+> 
+- [PeterLinccl/Vulnerability-DLink-CVE-2025-14659](https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659)	<img alt="forks" src="https://img.shields.io/github/forks/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">	<img alt="stars" src="https://img.shields.io/github/stars/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">
 
 ---
 ## CVE-2025-14611 ()

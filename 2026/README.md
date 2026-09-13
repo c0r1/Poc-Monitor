@@ -701,6 +701,11 @@
 - [pervinzahidli/CVE-2026-77771](https://github.com/pervinzahidli/CVE-2026-77771)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-77771">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-77771">
 
 ---
+## CVE-2026-77770 ()
+> 
+- [cflowsec/CVE-2026-77770](https://github.com/cflowsec/CVE-2026-77770)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-77770">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-77770">
+
+---
 ## CVE-2026-7777 ()
 > 
 - [George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server](https://github.com/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server">
@@ -3192,6 +3197,7 @@
 - [WadesWeaponShed/CheckPoint-CVE-Webscanner](https://github.com/WadesWeaponShed/CheckPoint-CVE-Webscanner)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CheckPoint-CVE-Webscanner">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CheckPoint-CVE-Webscanner">
 - [uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/CVE-2026-50751">
 - [uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/CVE-2026-50751">
+- [uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/CVE-2026-50751">
 
 ---
 ## CVE-2026-50657 ()
@@ -4553,6 +4559,7 @@
 - [huaguiqi/asus_i005-CVE-2026-43499](https://github.com/huaguiqi/asus_i005-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/huaguiqi/asus_i005-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/huaguiqi/asus_i005-CVE-2026-43499">
 - [DeveshTone/vivo-y75-v2117-ghostlock](https://github.com/DeveshTone/vivo-y75-v2117-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/DeveshTone/vivo-y75-v2117-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/DeveshTone/vivo-y75-v2117-ghostlock">
 - [1ndevelopment/ghostlock-s26](https://github.com/1ndevelopment/ghostlock-s26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/ghostlock-s26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/ghostlock-s26">
+- [zhubaohe123/ghostlock-kit](https://github.com/zhubaohe123/ghostlock-kit)	<img alt="forks" src="https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit">	<img alt="stars" src="https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit">
 
 ---
 ## CVE-2026-43494 ()
