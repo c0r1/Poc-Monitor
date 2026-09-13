@@ -7188,6 +7188,8 @@
 - [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/chronomaly">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/chronomaly">
 - [Crime2/poc-CVE-2025-38352](https://github.com/Crime2/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/Crime2/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/Crime2/poc-CVE-2025-38352">
 - [longwasu/CVE-2025-38352-PoC](https://github.com/longwasu/CVE-2025-38352-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/longwasu/CVE-2025-38352-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/longwasu/CVE-2025-38352-PoC">
+- [AnalyticETH/chronomaly-webos](https://github.com/AnalyticETH/chronomaly-webos)	<img alt="forks" src="https://img.shields.io/github/forks/AnalyticETH/chronomaly-webos">	<img alt="stars" src="https://img.shields.io/github/stars/AnalyticETH/chronomaly-webos">
+- [jordelmir/Elysium-Vanguard-Sentinel-Audit](https://github.com/jordelmir/Elysium-Vanguard-Sentinel-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/jordelmir/Elysium-Vanguard-Sentinel-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/jordelmir/Elysium-Vanguard-Sentinel-Audit">
 
 ---
 ## CVE-2025-38248 ()
@@ -9807,6 +9809,7 @@
 - [ephunter/CVE-2025-24071-Exploit](https://github.com/ephunter/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ephunter/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ephunter/CVE-2025-24071-Exploit">
 - [DAEMON-404/PoC-CVE-2025-24071](https://github.com/DAEMON-404/PoC-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/PoC-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/PoC-CVE-2025-24071">
 - [kaIIsyms/CVE-2025-24071](https://github.com/kaIIsyms/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/kaIIsyms/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/kaIIsyms/CVE-2025-24071">
+- [BardLaudian/CVE-2025-24071](https://github.com/BardLaudian/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
