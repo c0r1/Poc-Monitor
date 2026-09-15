@@ -483,6 +483,7 @@
 - [0xCyp1337/CVE-2026-82329](https://github.com/0xCyp1337/CVE-2026-82329)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82329">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82329">
 - [gagaltotal/CVE-2026-82329-poc](https://github.com/gagaltotal/CVE-2026-82329-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-82329-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-82329-poc">
 - [0xTerror/CVE-2026-82329-JFrog-Artifactory-](https://github.com/0xTerror/CVE-2026-82329-JFrog-Artifactory-)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2026-82329-JFrog-Artifactory-">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2026-82329-JFrog-Artifactory-">
+- [tc4dy/CVE-2026-82329-PoC-Exploit](https://github.com/tc4dy/CVE-2026-82329-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-82329-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-82329-PoC-Exploit">
 
 ---
 ## CVE-2026-82286 ()
@@ -4645,6 +4646,8 @@
 - [genksome/ghost-hoock](https://github.com/genksome/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/genksome/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/genksome/ghost-hoock">
 - [newazbenalam/Root-My-Galaxy-Payloads](https://github.com/newazbenalam/Root-My-Galaxy-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/newazbenalam/Root-My-Galaxy-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/newazbenalam/Root-My-Galaxy-Payloads">
 - [ymh001/meizu21-ghostlock-root](https://github.com/ymh001/meizu21-ghostlock-root)	<img alt="forks" src="https://img.shields.io/github/forks/ymh001/meizu21-ghostlock-root">	<img alt="stars" src="https://img.shields.io/github/stars/ymh001/meizu21-ghostlock-root">
+- [DeAurity/ghost-hoock](https://github.com/DeAurity/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/ghost-hoock">
+- [kurtulusakyuz/IonStack_S21](https://github.com/kurtulusakyuz/IonStack_S21)	<img alt="forks" src="https://img.shields.io/github/forks/kurtulusakyuz/IonStack_S21">	<img alt="stars" src="https://img.shields.io/github/stars/kurtulusakyuz/IonStack_S21">
 
 ---
 ## CVE-2026-43494 ()
