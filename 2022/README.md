@@ -32293,6 +32293,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Benasin/CVE-2022-22720](https://github.com/Benasin/CVE-2022-22720)	<img alt="forks" src="https://img.shields.io/github/forks/Benasin/CVE-2022-22720">	<img alt="stars" src="https://img.shields.io/github/stars/Benasin/CVE-2022-22720">
 
 ---
+## CVE-2022-22715 ()
+> 
+- [vportal/CVE-2022-22715](https://github.com/vportal/CVE-2022-22715)	<img alt="forks" src="https://img.shields.io/github/forks/vportal/CVE-2022-22715">	<img alt="stars" src="https://img.shields.io/github/stars/vportal/CVE-2022-22715">
+
+---
 ## CVE-2022-2271 (2022-09-05T13:15:00)
 > The WP Database Backup WordPress plugin before 5.9 does not escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-2271](https://github.com/Live-Hack-CVE/CVE-2022-2271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2271">
