@@ -1737,6 +1737,11 @@
 - [acheong08/CVE-2026-65400](https://github.com/acheong08/CVE-2026-65400)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2026-65400">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2026-65400">
 
 ---
+## CVE-2026-65374 ()
+> 
+- [HORKimhab/CVE-2026-65374](https://github.com/HORKimhab/CVE-2026-65374)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-65374">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-65374">
+
+---
 ## CVE-2026-65349 ()
 > 
 - [ByteV0rtex/CVE-2026-65349](https://github.com/ByteV0rtex/CVE-2026-65349)	<img alt="forks" src="https://img.shields.io/github/forks/ByteV0rtex/CVE-2026-65349">	<img alt="stars" src="https://img.shields.io/github/stars/ByteV0rtex/CVE-2026-65349">
