@@ -114,6 +114,11 @@
 - [shinthink/CVE-2026-9290](https://github.com/shinthink/CVE-2026-9290)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-9290">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-9290">
 
 ---
+## CVE-2026-92805 ()
+> 
+- [cflowsec/CVE-2026-92805](https://github.com/cflowsec/CVE-2026-92805)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-92805">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-92805">
+
+---
 ## CVE-2026-9277 ()
 > 
 - [DylanZahedi/CVE-2026-9277](https://github.com/DylanZahedi/CVE-2026-9277)	<img alt="forks" src="https://img.shields.io/github/forks/DylanZahedi/CVE-2026-9277">	<img alt="stars" src="https://img.shields.io/github/stars/DylanZahedi/CVE-2026-9277">
@@ -359,6 +364,7 @@
 - [plur1bu5/gitread](https://github.com/plur1bu5/gitread)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/gitread">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/gitread">
 - [gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-85706">
 - [0xenesbayram/cve-2026-85706](https://github.com/0xenesbayram/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/0xenesbayram/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/0xenesbayram/cve-2026-85706">
+- [S3v3n-JG/CVE-2026-85706](https://github.com/S3v3n-JG/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-85706">
 
 ---
 ## CVE-2026-85649 ()
@@ -376,6 +382,11 @@
 - [minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508](https://github.com/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">
 
 ---
+## CVE-2026-85048 ()
+> 
+- [SneakyNachos/CVE-2026-85048-the-gpu-died](https://github.com/SneakyNachos/CVE-2026-85048-the-gpu-died)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85048-the-gpu-died">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85048-the-gpu-died">
+
+---
 ## CVE-2026-85046 ()
 > 
 - [ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine](https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">
@@ -384,6 +395,11 @@
 - [Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-85046">
 - [atiilla/CVE-2026-85046](https://github.com/atiilla/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-85046">
 - [SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm](https://github.com/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">
+
+---
+## CVE-2026-85045 ()
+> 
+- [SneakyNachos/CVE-2026-85045](https://github.com/SneakyNachos/CVE-2026-85045)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85045">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85045">
 
 ---
 ## CVE-2026-8467 ()
@@ -602,6 +618,11 @@
 ## CVE-2026-8053 ()
 > 
 - [mgiay/CVE-2026-8053-MongoDB](https://github.com/mgiay/CVE-2026-8053-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-8053-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-8053-MongoDB">
+
+---
+## CVE-2026-80467 ()
+> 
+- [SangSenimanWartefak/CVE-2026-80467](https://github.com/SangSenimanWartefak/CVE-2026-80467)	<img alt="forks" src="https://img.shields.io/github/forks/SangSenimanWartefak/CVE-2026-80467">	<img alt="stars" src="https://img.shields.io/github/stars/SangSenimanWartefak/CVE-2026-80467">
 
 ---
 ## CVE-2026-80428 ()
@@ -3542,6 +3563,11 @@
 ## CVE-2026-49230 ()
 > 
 - [BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass](https://github.com/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass">
+
+---
+## CVE-2026-49179 ()
+> 
+- [overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection">
 
 ---
 ## CVE-2026-49176 ()
@@ -9185,6 +9211,8 @@
 - [nullRoot-Red/CVE-2026-23744](https://github.com/nullRoot-Red/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/nullRoot-Red/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/nullRoot-Red/CVE-2026-23744">
 - [Mluex0/CVE-2026-23744-PoC](https://github.com/Mluex0/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mluex0/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mluex0/CVE-2026-23744-PoC">
 - [sonnelon/CVE-2026-23744-PoC](https://github.com/sonnelon/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2026-23744-PoC">
+- [wvverez/CVE-2026-23744](https://github.com/wvverez/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2026-23744">
+- [itsC1SCO/mcpjam-to-root](https://github.com/itsC1SCO/mcpjam-to-root)	<img alt="forks" src="https://img.shields.io/github/forks/itsC1SCO/mcpjam-to-root">	<img alt="stars" src="https://img.shields.io/github/stars/itsC1SCO/mcpjam-to-root">
 
 ---
 ## CVE-2026-23723 ()
