@@ -327,6 +327,7 @@
 > 
 - [HORKimhab/CVE-2026-86218](https://github.com/HORKimhab/CVE-2026-86218)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-86218">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-86218">
 - [jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit](https://github.com/jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit">
+- [Udyz/CVE-2026-86218](https://github.com/Udyz/CVE-2026-86218)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2026-86218">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2026-86218">
 
 ---
 ## CVE-2026-86060 ()
@@ -2654,6 +2655,11 @@
 ## CVE-2026-55957 ()
 > 
 - [mdvpat/CVE-2026-55957-PoC](https://github.com/mdvpat/CVE-2026-55957-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-55957-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-55957-PoC">
+
+---
+## CVE-2026-55781 ()
+> 
+- [g17hubH4ck/CVE-2026-55781-poc](https://github.com/g17hubH4ck/CVE-2026-55781-poc)	<img alt="forks" src="https://img.shields.io/github/forks/g17hubH4ck/CVE-2026-55781-poc">	<img alt="stars" src="https://img.shields.io/github/stars/g17hubH4ck/CVE-2026-55781-poc">
 
 ---
 ## CVE-2026-55726 ()
