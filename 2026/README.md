@@ -265,6 +265,11 @@
 - [0xbekoo/CVE-2026-8863](https://github.com/0xbekoo/CVE-2026-8863)	<img alt="forks" src="https://img.shields.io/github/forks/0xbekoo/CVE-2026-8863">	<img alt="stars" src="https://img.shields.io/github/stars/0xbekoo/CVE-2026-8863">
 
 ---
+## CVE-2026-88533 ()
+> 
+- [HEMLOCK-LYK/CVE-2026-88533](https://github.com/HEMLOCK-LYK/CVE-2026-88533)	<img alt="forks" src="https://img.shields.io/github/forks/HEMLOCK-LYK/CVE-2026-88533">	<img alt="stars" src="https://img.shields.io/github/stars/HEMLOCK-LYK/CVE-2026-88533">
+
+---
 ## CVE-2026-8838 ()
 > 
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
@@ -285,6 +290,11 @@
 ## CVE-2026-8794 ()
 > 
 - [H4zaz/CVE-2026-8794](https://github.com/H4zaz/CVE-2026-8794)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8794">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8794">
+
+---
+## CVE-2026-87930 ()
+> 
+- [winrarzipsexploit/CVE-2026-87930](https://github.com/winrarzipsexploit/CVE-2026-87930)	<img alt="forks" src="https://img.shields.io/github/forks/winrarzipsexploit/CVE-2026-87930">	<img alt="stars" src="https://img.shields.io/github/stars/winrarzipsexploit/CVE-2026-87930">
 
 ---
 ## CVE-2026-8793 ()
@@ -365,6 +375,7 @@
 - [gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-85706">
 - [0xenesbayram/cve-2026-85706](https://github.com/0xenesbayram/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/0xenesbayram/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/0xenesbayram/cve-2026-85706">
 - [S3v3n-JG/CVE-2026-85706](https://github.com/S3v3n-JG/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-85706">
+- [tc4dy/CVE-2026-85706-PoC-Toolkit](https://github.com/tc4dy/CVE-2026-85706-PoC-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-85706-PoC-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-85706-PoC-Toolkit">
 
 ---
 ## CVE-2026-85649 ()
@@ -3691,6 +3702,7 @@
 - [imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE](https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">
 - [imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE](https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">
 - [yora1928/CVE-2026-48908-by-yora](https://github.com/yora1928/CVE-2026-48908-by-yora)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/CVE-2026-48908-by-yora">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/CVE-2026-48908-by-yora">
+- [winrarzipsexploit/CVE-2026-48908](https://github.com/winrarzipsexploit/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/winrarzipsexploit/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/winrarzipsexploit/CVE-2026-48908">
 
 ---
 ## CVE-2026-48907 ()
@@ -8081,6 +8093,7 @@
 ## CVE-2026-27540 ()
 > 
 - [DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC](https://github.com/DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC">
+- [winrarzipsexploit/CVE-2026-27540](https://github.com/winrarzipsexploit/CVE-2026-27540)	<img alt="forks" src="https://img.shields.io/github/forks/winrarzipsexploit/CVE-2026-27540">	<img alt="stars" src="https://img.shields.io/github/stars/winrarzipsexploit/CVE-2026-27540">
 
 ---
 ## CVE-2026-2754 ()
@@ -10371,6 +10384,11 @@
 ## CVE-2026-19626 ()
 > 
 - [h00die/POC-CVE-2026-19626](https://github.com/h00die/POC-CVE-2026-19626)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19626">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19626">
+
+---
+## CVE-2026-1961 ()
+> 
+- [kalnux/CVE-2026-1961-foreman-poc](https://github.com/kalnux/CVE-2026-1961-foreman-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kalnux/CVE-2026-1961-foreman-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kalnux/CVE-2026-1961-foreman-poc">
 
 ---
 ## CVE-2026-19598 ()
