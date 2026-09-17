@@ -857,6 +857,12 @@
 - [0xBlackash/CVE-2026-76461](https://github.com/0xBlackash/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-76461">
 - [HORKimhab/CVE-2026-76461](https://github.com/HORKimhab/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-76461">
 - [fevar54/CVE-2026-76461-Detection-Kit-](https://github.com/fevar54/CVE-2026-76461-Detection-Kit-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-76461-Detection-Kit-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-76461-Detection-Kit-">
+- [S3v3n-JG/CVE-2026-76461](https://github.com/S3v3n-JG/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-76461">
+
+---
+## CVE-2026-76460 ()
+> 
+- [S3v3n-JG/CVE-2026-76460](https://github.com/S3v3n-JG/CVE-2026-76460)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-76460">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-76460">
 
 ---
 ## CVE-2026-76071 ()
@@ -4709,6 +4715,8 @@
 - [DeAurity/ghost-hoock](https://github.com/DeAurity/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/ghost-hoock">
 - [kurtulusakyuz/IonStack_S21](https://github.com/kurtulusakyuz/IonStack_S21)	<img alt="forks" src="https://img.shields.io/github/forks/kurtulusakyuz/IonStack_S21">	<img alt="stars" src="https://img.shields.io/github/stars/kurtulusakyuz/IonStack_S21">
 - [huaguiqi/asus-i005-cve-2026-43499](https://github.com/huaguiqi/asus-i005-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/huaguiqi/asus-i005-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/huaguiqi/asus-i005-cve-2026-43499">
+- [diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/ghostlock-pfem10">
+- [cxlfhx/ghostlock-pfem10](https://github.com/cxlfhx/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/cxlfhx/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/cxlfhx/ghostlock-pfem10">
 
 ---
 ## CVE-2026-43494 ()
