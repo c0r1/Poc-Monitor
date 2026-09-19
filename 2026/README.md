@@ -651,6 +651,16 @@
 - [yora1928/PaperCut-CVE-2026-81578-82078](https://github.com/yora1928/PaperCut-CVE-2026-81578-82078)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/PaperCut-CVE-2026-81578-82078">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/PaperCut-CVE-2026-81578-82078">
 
 ---
+## CVE-2026-81000 ()
+> 
+- [0xBlackash/CVE-2026-81000](https://github.com/0xBlackash/CVE-2026-81000)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-81000">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-81000">
+
+---
+## CVE-2026-80844 ()
+> 
+- [0xBlackash/CVE-2026-80844](https://github.com/0xBlackash/CVE-2026-80844)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-80844">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-80844">
+
+---
 ## CVE-2026-8080 ()
 > 
 - [George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-](https://github.com/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">
@@ -804,6 +814,11 @@
 ## CVE-2026-78329 ()
 > 
 - [oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78329">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78329">
+
+---
+## CVE-2026-78159 ()
+> 
+- [abraxas/CVE-2026-78159](https://github.com/abraxas/CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-78159">
 
 ---
 ## CVE-2026-78122 ()
@@ -1066,6 +1081,11 @@
 ## CVE-2026-7458 ()
 > 
 - [zycoder0day/CVE-2026-7458](https://github.com/zycoder0day/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-7458">
+
+---
+## CVE-2026-74469 ()
+> 
+- [0xBlackash/CVE-2026-74469](https://github.com/0xBlackash/CVE-2026-74469)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-74469">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-74469">
 
 ---
 ## CVE-2026-74252 ()
@@ -1513,6 +1533,11 @@
 - [aramosf/CVE-2026-68138](https://github.com/aramosf/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-68138">
 - [jangkrikkbozz/CVE-2026-68138](https://github.com/jangkrikkbozz/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/jangkrikkbozz/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/jangkrikkbozz/CVE-2026-68138">
 - [suominen/CVE-2026-68138](https://github.com/suominen/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-68138">
+
+---
+## CVE-2026-68121 ()
+> 
+- [0xBlackash/CVE-2026-68121](https://github.com/0xBlackash/CVE-2026-68121)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-68121">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-68121">
 
 ---
 ## CVE-2026-6807 ()
@@ -10574,6 +10599,11 @@
 ## CVE-2026-18953 ()
 > 
 - [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
+
+---
+## CVE-2026-18937 ()
+> 
+- [abraxas/CVE-2026-18937](https://github.com/abraxas/CVE-2026-18937)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-18937">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-18937">
 
 ---
 ## CVE-2026-18907 ()
