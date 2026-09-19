@@ -338,6 +338,11 @@
 - [xShadow-Here/CVE-2026-8732](https://github.com/xShadow-Here/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8732">
 
 ---
+## CVE-2026-8726 ()
+> 
+- [Shentao83/news-8.6.0-cve-2026-8726-backport](https://github.com/Shentao83/news-8.6.0-cve-2026-8726-backport)	<img alt="forks" src="https://img.shields.io/github/forks/Shentao83/news-8.6.0-cve-2026-8726-backport">	<img alt="stars" src="https://img.shields.io/github/stars/Shentao83/news-8.6.0-cve-2026-8726-backport">
+
+---
 ## CVE-2026-8713 ()
 > 
 - [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
