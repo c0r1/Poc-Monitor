@@ -867,6 +867,11 @@
 - [oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78329">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78329">
 
 ---
+## CVE-2026-78306 ()
+> 
+- [Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306">
+
+---
 ## CVE-2026-78159 ()
 > 
 - [abraxas/CVE-2026-78159](https://github.com/abraxas/CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-78159">
@@ -896,6 +901,11 @@
 ## CVE-2026-77991 ()
 > 
 - [abraxas/CVE-2026-77991](https://github.com/abraxas/CVE-2026-77991)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-77991">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-77991">
+
+---
+## CVE-2026-77812 ()
+> 
+- [Wh02m1/CVE-2026-77812](https://github.com/Wh02m1/CVE-2026-77812)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2026-77812">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2026-77812">
 
 ---
 ## CVE-2026-77806 ()
