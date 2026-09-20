@@ -810,6 +810,11 @@
 - [vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds](https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">
 
 ---
+## CVE-2026-78844 ()
+> 
+- [0Linear/CVE-2026-78844](https://github.com/0Linear/CVE-2026-78844)	<img alt="forks" src="https://img.shields.io/github/forks/0Linear/CVE-2026-78844">	<img alt="stars" src="https://img.shields.io/github/stars/0Linear/CVE-2026-78844">
+
+---
 ## CVE-2026-78839 ()
 > 
 - [nabeelmkhan/CVE-2026-78839](https://github.com/nabeelmkhan/CVE-2026-78839)	<img alt="forks" src="https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78839">	<img alt="stars" src="https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78839">
@@ -6239,6 +6244,7 @@
 ## CVE-2026-36213 ()
 > 
 - [sec-zone/CVE-2026-36213](https://github.com/sec-zone/CVE-2026-36213)	<img alt="forks" src="https://img.shields.io/github/forks/sec-zone/CVE-2026-36213">	<img alt="stars" src="https://img.shields.io/github/stars/sec-zone/CVE-2026-36213">
+- [g17hubH4ck/CVE-2026-36213-poc](https://github.com/g17hubH4ck/CVE-2026-36213-poc)	<img alt="forks" src="https://img.shields.io/github/forks/g17hubH4ck/CVE-2026-36213-poc">	<img alt="stars" src="https://img.shields.io/github/stars/g17hubH4ck/CVE-2026-36213-poc">
 
 ---
 ## CVE-2026-36130 ()
