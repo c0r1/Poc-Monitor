@@ -109,6 +109,11 @@
 - [djzzlim/CVE-2026-94036](https://github.com/djzzlim/CVE-2026-94036)	<img alt="forks" src="https://img.shields.io/github/forks/djzzlim/CVE-2026-94036">	<img alt="stars" src="https://img.shields.io/github/stars/djzzlim/CVE-2026-94036">
 
 ---
+## CVE-2026-93958 ()
+> 
+- [HackSpeak/CVE-2026-93958](https://github.com/HackSpeak/CVE-2026-93958)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-93958">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-93958">
+
+---
 ## CVE-2026-93659 ()
 > 
 - [prince325/CVE-2026-93659-writeup](https://github.com/prince325/CVE-2026-93659-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/prince325/CVE-2026-93659-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/prince325/CVE-2026-93659-writeup">
@@ -1401,6 +1406,11 @@
 ## CVE-2026-71300 ()
 > 
 - [oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-71300">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-71300">
+
+---
+## CVE-2026-71217 ()
+> 
+- [Reelix/CVE-2026-71217-PoC](https://github.com/Reelix/CVE-2026-71217-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Reelix/CVE-2026-71217-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Reelix/CVE-2026-71217-PoC">
 
 ---
 ## CVE-2026-71211 ()
@@ -5742,6 +5752,7 @@
 - [Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2026-39987">
 - [julichaan/CVE-2026-39987_POC](https://github.com/julichaan/CVE-2026-39987_POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-39987_POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-39987_POC">
 - [iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/cohort-htb">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/cohort-htb">
+- [mfahdk/CVE-2026-39987_RCE_PoC](https://github.com/mfahdk/CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mfahdk/CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mfahdk/CVE-2026-39987_RCE_PoC">
 
 ---
 ## CVE-2026-39983 ()

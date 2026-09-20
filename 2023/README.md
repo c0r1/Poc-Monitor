@@ -2264,6 +2264,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 ## CVE-2023-43804 (2023-10-04T17:15:00)
 > urllib3 is a user-friendly HTTP client library for Python. urllib3 doesn't treat the `Cookie` HTTP header special or provide any helpers for managing cookies over HTTP, that is the responsibility of the user. However, it is possible for a user to specify a `Cookie` header and unknowingly leak information via HTTP redirects to a different origin if that user doesn't disable redirects explicitly. This issue has been patched in urllib3 version 1.26.17 or 2.0.5.
 - [JawadPy/CVE-2023-43804-Exploit](https://github.com/JawadPy/CVE-2023-43804-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-43804-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-43804-Exploit">
+- [deepanshu-khurana/CVE-2023-43804](https://github.com/deepanshu-khurana/CVE-2023-43804)	<img alt="forks" src="https://img.shields.io/github/forks/deepanshu-khurana/CVE-2023-43804">	<img alt="stars" src="https://img.shields.io/github/stars/deepanshu-khurana/CVE-2023-43804">
 
 ---
 ## CVE-2023-43786 (2023-10-10T13:15:00)
@@ -6678,6 +6679,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests](https://github.com/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests">
 - [thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE](https://github.com/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE">
 - [Jeanback1/CVE-2023-27163-exploit](https://github.com/Jeanback1/CVE-2023-27163-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2023-27163-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2023-27163-exploit">
+- [AmulyaKaushik/CVE-2023-27163-lab](https://github.com/AmulyaKaushik/CVE-2023-27163-lab)	<img alt="forks" src="https://img.shields.io/github/forks/AmulyaKaushik/CVE-2023-27163-lab">	<img alt="stars" src="https://img.shields.io/github/stars/AmulyaKaushik/CVE-2023-27163-lab">
 
 ---
 ## CVE-2023-27146 ()
