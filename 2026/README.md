@@ -407,6 +407,8 @@
 - [FLX-0x00/CVE-2026-87902](https://github.com/FLX-0x00/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/FLX-0x00/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/FLX-0x00/CVE-2026-87902">
 - [ressl/cve-2026-87902-poc](https://github.com/ressl/cve-2026-87902-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ressl/cve-2026-87902-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ressl/cve-2026-87902-poc">
 - [abraxas/CVE-2026-87902](https://github.com/abraxas/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-87902">
+- [vulpecuna/CVE-2026-87902](https://github.com/vulpecuna/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/vulpecuna/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/vulpecuna/CVE-2026-87902">
+- [griisemine/cve-2026-87902-detection](https://github.com/griisemine/cve-2026-87902-detection)	<img alt="forks" src="https://img.shields.io/github/forks/griisemine/cve-2026-87902-detection">	<img alt="stars" src="https://img.shields.io/github/stars/griisemine/cve-2026-87902-detection">
 
 ---
 ## CVE-2026-87796 ()
@@ -2421,6 +2423,7 @@
 ---
 ## CVE-2026-62878 ()
 > 
+- [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 - [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 
 ---
@@ -9436,6 +9439,11 @@
 ## CVE-2026-23947 ()
 > 
 - [boroeurnprach/CVE-2026-23947-PoC](https://github.com/boroeurnprach/CVE-2026-23947-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23947-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23947-PoC">
+
+---
+## CVE-2026-23921 ()
+> 
+- [qucklecrabik/CVE-2026-23921](https://github.com/qucklecrabik/CVE-2026-23921)	<img alt="forks" src="https://img.shields.io/github/forks/qucklecrabik/CVE-2026-23921">	<img alt="stars" src="https://img.shields.io/github/stars/qucklecrabik/CVE-2026-23921">
 
 ---
 ## CVE-2026-23918 ()
