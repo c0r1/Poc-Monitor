@@ -129,6 +129,11 @@
 - [HackSpeak/CVE-2026-93958](https://github.com/HackSpeak/CVE-2026-93958)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-93958">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-93958">
 
 ---
+## CVE-2026-93680 ()
+> 
+- [rmhowe425/POC-CVE-2026-93680](https://github.com/rmhowe425/POC-CVE-2026-93680)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-93680">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-93680">
+
+---
 ## CVE-2026-93659 ()
 > 
 - [prince325/CVE-2026-93659-writeup](https://github.com/prince325/CVE-2026-93659-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/prince325/CVE-2026-93659-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/prince325/CVE-2026-93659-writeup">
@@ -5064,6 +5069,7 @@
 - [grizzzer/CVE-2026-42978-PoC-Research](https://github.com/grizzzer/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/grizzzer/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/grizzzer/CVE-2026-42978-PoC-Research">
 - [SyntaxMethod/CVE-2026-42978-PoC-Research](https://github.com/SyntaxMethod/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-42978-PoC-Research">
 - [ZeroDayEvil/CVE-2026-42978-PoC-Research](https://github.com/ZeroDayEvil/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-42978-PoC-Research">
+- [coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research](https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research">
 
 ---
 ## CVE-2026-42945 ()
@@ -5605,6 +5611,7 @@
 - [jelasin/CVE-2026-41089](https://github.com/jelasin/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-41089">
 - [ZeroDayVPN/CVE-2026-41089-Netlogon](https://github.com/ZeroDayVPN/CVE-2026-41089-Netlogon)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-41089-Netlogon">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-41089-Netlogon">
 - [SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">
+- [Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC">
 
 ---
 ## CVE-2026-4106 ()
