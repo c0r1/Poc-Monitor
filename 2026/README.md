@@ -3608,6 +3608,7 @@
 - [Yucaerin/CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-5118">
 - [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">
 - [1beelze/CVE-2026-5118](https://github.com/1beelze/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-5118">
+- [SangSenimanWartefak/CVE-2026-5118](https://github.com/SangSenimanWartefak/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/SangSenimanWartefak/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/SangSenimanWartefak/CVE-2026-5118">
 
 ---
 ## CVE-2026-51119 ()
