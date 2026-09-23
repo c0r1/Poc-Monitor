@@ -4259,6 +4259,8 @@
 ## CVE-2020-15368 ()
 > 
 - [egorrsp/CVE-2020-15368-AsrDrv103-research](https://github.com/egorrsp/CVE-2020-15368-AsrDrv103-research)	<img alt="forks" src="https://img.shields.io/github/forks/egorrsp/CVE-2020-15368-AsrDrv103-research">	<img alt="stars" src="https://img.shields.io/github/stars/egorrsp/CVE-2020-15368-AsrDrv103-research">
+- [R7flex/asrockploit](https://github.com/R7flex/asrockploit)	<img alt="forks" src="https://img.shields.io/github/forks/R7flex/asrockploit">	<img alt="stars" src="https://img.shields.io/github/stars/R7flex/asrockploit">
+- [stong/CVE-2020-15368](https://github.com/stong/CVE-2020-15368)	<img alt="forks" src="https://img.shields.io/github/forks/stong/CVE-2020-15368">	<img alt="stars" src="https://img.shields.io/github/stars/stong/CVE-2020-15368">
 
 ---
 ## CVE-2020-15366 (2020-07-15T20:15:00)
