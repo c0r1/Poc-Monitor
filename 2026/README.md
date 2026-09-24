@@ -79,6 +79,11 @@
 - [izxci/CVE-2026-9691](https://github.com/izxci/CVE-2026-9691)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-9691">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-9691">
 
 ---
+## CVE-2026-96515 ()
+> 
+- [whoami-012/CVE-2026-96515](https://github.com/whoami-012/CVE-2026-96515)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-012/CVE-2026-96515">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-012/CVE-2026-96515">
+
+---
 ## CVE-2026-9645 ()
 > 
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
@@ -87,6 +92,11 @@
 ## CVE-2026-9586 ()
 > 
 - [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
+
+---
+## CVE-2026-95675 ()
+> 
+- [d6fault/CVE-2026-95675](https://github.com/d6fault/CVE-2026-95675)	<img alt="forks" src="https://img.shields.io/github/forks/d6fault/CVE-2026-95675">	<img alt="stars" src="https://img.shields.io/github/stars/d6fault/CVE-2026-95675">
 
 ---
 ## CVE-2026-9560 ()
@@ -460,6 +470,7 @@
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 - [oliveiralimajr/CVE_2026_87902](https://github.com/oliveiralimajr/CVE_2026_87902)	<img alt="forks" src="https://img.shields.io/github/forks/oliveiralimajr/CVE_2026_87902">	<img alt="stars" src="https://img.shields.io/github/stars/oliveiralimajr/CVE_2026_87902">
 - [ynsmroztas/WPSniper](https://github.com/ynsmroztas/WPSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/WPSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/WPSniper">
+- [zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/zyphorixofficialmain-lab/cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/zyphorixofficialmain-lab/cve-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -1007,6 +1018,7 @@
 ## CVE-2026-78306 ()
 > 
 - [Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306">
+- [FEEDBEEF/Dji_ble_vuln](https://github.com/FEEDBEEF/Dji_ble_vuln)	<img alt="forks" src="https://img.shields.io/github/forks/FEEDBEEF/Dji_ble_vuln">	<img alt="stars" src="https://img.shields.io/github/stars/FEEDBEEF/Dji_ble_vuln">
 
 ---
 ## CVE-2026-78159 ()
@@ -5191,6 +5203,7 @@
 - [RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-](https://github.com/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-)	<img alt="forks" src="https://img.shields.io/github/forks/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">	<img alt="stars" src="https://img.shields.io/github/stars/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">
 - [millikanjohnl-blip/dirtyfrag-detection-rules](https://github.com/millikanjohnl-blip/dirtyfrag-detection-rules)	<img alt="forks" src="https://img.shields.io/github/forks/millikanjohnl-blip/dirtyfrag-detection-rules">	<img alt="stars" src="https://img.shields.io/github/stars/millikanjohnl-blip/dirtyfrag-detection-rules">
 - [cyber-niz/Dirty-Frag](https://github.com/cyber-niz/Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/cyber-niz/Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/cyber-niz/Dirty-Frag">
+- [nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-](https://github.com/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-)	<img alt="forks" src="https://img.shields.io/github/forks/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-">	<img alt="stars" src="https://img.shields.io/github/stars/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-">
 
 ---
 ## CVE-2026-42980 ()
@@ -6387,6 +6400,11 @@
 ## CVE-2026-36669 ()
 > 
 - [firstlax6t/CVE-2026-36669-FengOffice](https://github.com/firstlax6t/CVE-2026-36669-FengOffice)	<img alt="forks" src="https://img.shields.io/github/forks/firstlax6t/CVE-2026-36669-FengOffice">	<img alt="stars" src="https://img.shields.io/github/stars/firstlax6t/CVE-2026-36669-FengOffice">
+
+---
+## CVE-2026-36539 ()
+> 
+- [khaleedbt/netis-cve-2026-36539](https://github.com/khaleedbt/netis-cve-2026-36539)	<img alt="forks" src="https://img.shields.io/github/forks/khaleedbt/netis-cve-2026-36539">	<img alt="stars" src="https://img.shields.io/github/stars/khaleedbt/netis-cve-2026-36539">
 
 ---
 ## CVE-2026-36522 ()
