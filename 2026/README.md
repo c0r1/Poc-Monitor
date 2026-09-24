@@ -323,6 +323,7 @@
 - [ExDev994/CVE-2026-90817](https://github.com/ExDev994/CVE-2026-90817)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-90817">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-90817">
 - [murrez/CVE-2026-90817](https://github.com/murrez/CVE-2026-90817)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-90817">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-90817">
 - [kia950274/CVE-2026-90817-study](https://github.com/kia950274/CVE-2026-90817-study)	<img alt="forks" src="https://img.shields.io/github/forks/kia950274/CVE-2026-90817-study">	<img alt="stars" src="https://img.shields.io/github/stars/kia950274/CVE-2026-90817-study">
+- [yulisec/CVE-2026-90817](https://github.com/yulisec/CVE-2026-90817)	<img alt="forks" src="https://img.shields.io/github/forks/yulisec/CVE-2026-90817">	<img alt="stars" src="https://img.shields.io/github/stars/yulisec/CVE-2026-90817">
 
 ---
 ## CVE-2026-90782 ()
@@ -5121,6 +5122,9 @@
 - [coey0814/Fold8-Ultra-Root-F976N](https://github.com/coey0814/Fold8-Ultra-Root-F976N)	<img alt="forks" src="https://img.shields.io/github/forks/coey0814/Fold8-Ultra-Root-F976N">	<img alt="stars" src="https://img.shields.io/github/stars/coey0814/Fold8-Ultra-Root-F976N">
 - [imeiplus/ghostlock-pfem10](https://github.com/imeiplus/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/imeiplus/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/imeiplus/ghostlock-pfem10">
 - [wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499](https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499">
+- [pyyyc/honor-6.12.38-43499-research](https://github.com/pyyyc/honor-6.12.38-43499-research)	<img alt="forks" src="https://img.shields.io/github/forks/pyyyc/honor-6.12.38-43499-research">	<img alt="stars" src="https://img.shields.io/github/stars/pyyyc/honor-6.12.38-43499-research">
+- [AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/AriyanPegu/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/AriyanPegu/ghostlock-app">
+- [jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root](https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root)	<img alt="forks" src="https://img.shields.io/github/forks/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">	<img alt="stars" src="https://img.shields.io/github/stars/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">
 
 ---
 ## CVE-2026-43494 ()
