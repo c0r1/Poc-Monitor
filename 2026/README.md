@@ -477,6 +477,7 @@
 - [oliveiralimajr/CVE_2026_87902](https://github.com/oliveiralimajr/CVE_2026_87902)	<img alt="forks" src="https://img.shields.io/github/forks/oliveiralimajr/CVE_2026_87902">	<img alt="stars" src="https://img.shields.io/github/stars/oliveiralimajr/CVE_2026_87902">
 - [ynsmroztas/WPSniper](https://github.com/ynsmroztas/WPSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/WPSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/WPSniper">
 - [zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/zyphorixofficialmain-lab/cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/zyphorixofficialmain-lab/cve-2026-87902">
+- [khellwan/CVE-2026-87902---PoC-](https://github.com/khellwan/CVE-2026-87902---PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/khellwan/CVE-2026-87902---PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/khellwan/CVE-2026-87902---PoC-">
 
 ---
 ## CVE-2026-87796 ()
@@ -12297,6 +12298,11 @@
 ## CVE-2026-0023 ()
 > 
 - [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0023-Update-Ownership-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0023-Update-Ownership-PoC">
+
+---
+## CVE-2026-0014 ()
+> 
+- [cduram/NotCVE-2026-0014](https://github.com/cduram/NotCVE-2026-0014)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/NotCVE-2026-0014">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/NotCVE-2026-0014">
 
 ---
 ## CVE-2026-0013 ()
