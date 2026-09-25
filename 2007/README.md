@@ -103,6 +103,7 @@
 - [Mboatella25/metasploitable-pentest-lab](https://github.com/Mboatella25/metasploitable-pentest-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Mboatella25/metasploitable-pentest-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Mboatella25/metasploitable-pentest-lab">
 - [EthicalHackingLabs/metasploitable2-exploitation-metasploit](https://github.com/EthicalHackingLabs/metasploitable2-exploitation-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/EthicalHackingLabs/metasploitable2-exploitation-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/EthicalHackingLabs/metasploitable2-exploitation-metasploit">
 - [rushikesh-a-bhujbal/CVE-2007-2447](https://github.com/rushikesh-a-bhujbal/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2007-2447">
+- [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
