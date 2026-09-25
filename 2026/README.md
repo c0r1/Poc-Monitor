@@ -487,8 +487,9 @@
 - [oliveiralimajr/CVE_2026_87902](https://github.com/oliveiralimajr/CVE_2026_87902)	<img alt="forks" src="https://img.shields.io/github/forks/oliveiralimajr/CVE_2026_87902">	<img alt="stars" src="https://img.shields.io/github/stars/oliveiralimajr/CVE_2026_87902">
 - [ynsmroztas/WPSniper](https://github.com/ynsmroztas/WPSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/WPSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/WPSniper">
 - [zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/zyphorixofficialmain-lab/cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/zyphorixofficialmain-lab/cve-2026-87902">
-- [khellwan/CVE-2026-87902_PoC](https://github.com/khellwan/CVE-2026-87902_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/khellwan/CVE-2026-87902_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/khellwan/CVE-2026-87902_PoC">
+- [crowsec-edtech/CVE-2026-87902](https://github.com/crowsec-edtech/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/crowsec-edtech/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/crowsec-edtech/CVE-2026-87902">
 - [joaovicdev/EXPLOIT-CVE-2026-87902](https://github.com/joaovicdev/EXPLOIT-CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-87902">
+- [pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader)	<img alt="forks" src="https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader">	<img alt="stars" src="https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader">
 
 ---
 ## CVE-2026-87796 ()
@@ -2326,6 +2327,7 @@
 - [quyicheng03-boop/xiaomi15-dada-cve-2026-64560](https://github.com/quyicheng03-boop/xiaomi15-dada-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/quyicheng03-boop/xiaomi15-dada-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/quyicheng03-boop/xiaomi15-dada-cve-2026-64560">
 - [RMDycz/K80Pro-miro-CVE-2026-64560](https://github.com/RMDycz/K80Pro-miro-CVE-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-64560">
 - [a23bc/op13-cve-2026-64560](https://github.com/a23bc/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/a23bc/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/a23bc/op13-cve-2026-64560">
+- [Wangs-official/opace6-cve-2026-64560](https://github.com/Wangs-official/opace6-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/Wangs-official/opace6-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/Wangs-official/opace6-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
@@ -5188,6 +5190,7 @@
 - [AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/AriyanPegu/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/AriyanPegu/ghostlock-app">
 - [jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root](https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root)	<img alt="forks" src="https://img.shields.io/github/forks/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">	<img alt="stars" src="https://img.shields.io/github/stars/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">
 - [AthBe1337/CVE-2026-43499-poc](https://github.com/AthBe1337/CVE-2026-43499-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AthBe1337/CVE-2026-43499-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AthBe1337/CVE-2026-43499-poc">
+- [0ch4/ghostlock-mrx-w09](https://github.com/0ch4/ghostlock-mrx-w09)	<img alt="forks" src="https://img.shields.io/github/forks/0ch4/ghostlock-mrx-w09">	<img alt="stars" src="https://img.shields.io/github/stars/0ch4/ghostlock-mrx-w09">
 
 ---
 ## CVE-2026-43494 ()
