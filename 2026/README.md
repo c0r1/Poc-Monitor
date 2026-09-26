@@ -5030,6 +5030,7 @@
 ## CVE-2026-43786 ()
 > 
 - [Malwation/CVE-2026-43786](https://github.com/Malwation/CVE-2026-43786)	<img alt="forks" src="https://img.shields.io/github/forks/Malwation/CVE-2026-43786">	<img alt="stars" src="https://img.shields.io/github/stars/Malwation/CVE-2026-43786">
+- [0xBlackash/CVE-2026-43786](https://github.com/0xBlackash/CVE-2026-43786)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43786">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43786">
 
 ---
 ## CVE-2026-43783 ()
