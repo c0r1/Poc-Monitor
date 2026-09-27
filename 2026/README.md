@@ -570,6 +570,11 @@
 - [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
 
 ---
+## CVE-2026-8712 ()
+> 
+- [rahulreddykarne/CVE-2026-8712-Wyoming](https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-8712-Wyoming">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-8712-Wyoming">
+
+---
 ## CVE-2026-8697 ()
 > 
 - [itzmetanjim/cve-2026-8697](https://github.com/itzmetanjim/cve-2026-8697)	<img alt="forks" src="https://img.shields.io/github/forks/itzmetanjim/cve-2026-8697">	<img alt="stars" src="https://img.shields.io/github/stars/itzmetanjim/cve-2026-8697">
@@ -710,6 +715,7 @@
 - [derekpreston81/CVE_ADC_IOC_2026](https://github.com/derekpreston81/CVE_ADC_IOC_2026)	<img alt="forks" src="https://img.shields.io/github/forks/derekpreston81/CVE_ADC_IOC_2026">	<img alt="stars" src="https://img.shields.io/github/stars/derekpreston81/CVE_ADC_IOC_2026">
 - [maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777](https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777">
 - [BishopFox/CVE-2026-8452-check](https://github.com/BishopFox/CVE-2026-8452-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-8452-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-8452-check">
+- [techupdate24/citrix-netscaler-cve-2026-8452-rce](https://github.com/techupdate24/citrix-netscaler-cve-2026-8452-rce)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/citrix-netscaler-cve-2026-8452-rce">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/citrix-netscaler-cve-2026-8452-rce">
 
 ---
 ## CVE-2026-8451 ()
@@ -4770,6 +4776,7 @@
 - [yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">
 - [yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585](https://github.com/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585">
 - [aungko186/YellowKey-BitLocker-CVE-2026-45585](https://github.com/aungko186/YellowKey-BitLocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/aungko186/YellowKey-BitLocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/aungko186/YellowKey-BitLocker-CVE-2026-45585">
+- [v4naxx/YellowKey-BitLocker-CVE-2026-45585](https://github.com/v4naxx/YellowKey-BitLocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/v4naxx/YellowKey-BitLocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/v4naxx/YellowKey-BitLocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -4995,6 +5002,11 @@
 ## CVE-2026-44024 ()
 > 
 - [0xdak/CVE-2026-44024_exploit](https://github.com/0xdak/CVE-2026-44024_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-44024_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-44024_exploit">
+
+---
+## CVE-2026-44011 ()
+> 
+- [4xura/CVE-2026-44011-craftcms-auth-rce](https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-44011-craftcms-auth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-44011-craftcms-auth-rce">
 
 ---
 ## CVE-2026-43914 ()
@@ -12162,6 +12174,11 @@
 ## CVE-2026-1010 ()
 > 
 - [George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header](https://github.com/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">
+
+---
+## CVE-2026-100740 ()
+> 
+- [murrez/CVE-2026-100740](https://github.com/murrez/CVE-2026-100740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100740">
 
 ---
 ## CVE-2026-10053 ()
