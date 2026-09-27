@@ -465,6 +465,11 @@
 - [murrez/CVE-2026-88854](https://github.com/murrez/CVE-2026-88854)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88854">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88854">
 
 ---
+## CVE-2026-88772 ()
+> 
+- [murrez/CVE-2026-88772](https://github.com/murrez/CVE-2026-88772)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88772">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88772">
+
+---
 ## CVE-2026-8863 ()
 > 
 - [0xbekoo/CVE-2026-8863](https://github.com/0xbekoo/CVE-2026-8863)	<img alt="forks" src="https://img.shields.io/github/forks/0xbekoo/CVE-2026-8863">	<img alt="stars" src="https://img.shields.io/github/stars/0xbekoo/CVE-2026-8863">
@@ -534,6 +539,7 @@
 - [rwxrwxs/CVE-2026-87902](https://github.com/rwxrwxs/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/rwxrwxs/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/rwxrwxs/CVE-2026-87902">
 - [langz337/CVE-2026-87902](https://github.com/langz337/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/langz337/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/langz337/CVE-2026-87902">
 - [abatsakidis/wp-cve-2026-87902-checker](https://github.com/abatsakidis/wp-cve-2026-87902-checker)	<img alt="forks" src="https://img.shields.io/github/forks/abatsakidis/wp-cve-2026-87902-checker">	<img alt="stars" src="https://img.shields.io/github/stars/abatsakidis/wp-cve-2026-87902-checker">
+- [Maalfer/CVE-2026-87902-exploit](https://github.com/Maalfer/CVE-2026-87902-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2026-87902-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2026-87902-exploit">
 
 ---
 ## CVE-2026-87796 ()
@@ -5019,6 +5025,8 @@
 ## CVE-2026-44011 ()
 > 
 - [4xura/CVE-2026-44011-craftcms-auth-rce](https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-44011-craftcms-auth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-44011-craftcms-auth-rce">
+- [Cyberuser-hash/CVE-2026-44011-craft-rce-poc](https://github.com/Cyberuser-hash/CVE-2026-44011-craft-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberuser-hash/CVE-2026-44011-craft-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberuser-hash/CVE-2026-44011-craft-rce-poc">
+- [DENNISDGR/CVE-2026-44011-poc](https://github.com/DENNISDGR/CVE-2026-44011-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-44011-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-44011-poc">
 
 ---
 ## CVE-2026-43914 ()
@@ -6826,6 +6834,8 @@
 - [gbuyssens/CVE-2026-34990](https://github.com/gbuyssens/CVE-2026-34990)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-34990">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-34990">
 - [0xc4rc3l/CVE-2026-34990-poc](https://github.com/0xc4rc3l/CVE-2026-34990-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4rc3l/CVE-2026-34990-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4rc3l/CVE-2026-34990-poc">
 - [DENNISDGR/CVE-2026-34990-poc](https://github.com/DENNISDGR/CVE-2026-34990-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-34990-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-34990-poc">
+- [khush-613/CVE-2026-34990-poc](https://github.com/khush-613/CVE-2026-34990-poc)	<img alt="forks" src="https://img.shields.io/github/forks/khush-613/CVE-2026-34990-poc">	<img alt="stars" src="https://img.shields.io/github/stars/khush-613/CVE-2026-34990-poc">
+- [predyy/CVE-2026-34990](https://github.com/predyy/CVE-2026-34990)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/CVE-2026-34990">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/CVE-2026-34990">
 
 ---
 ## CVE-2026-34980 ()
