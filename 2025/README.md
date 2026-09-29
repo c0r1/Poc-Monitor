@@ -386,6 +386,11 @@
 - [Jessica74016/CVE-2025-8088](https://github.com/Jessica74016/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Jessica74016/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Jessica74016/CVE-2025-8088">
 - [lennertdefauw/CVE-2025-8088](https://github.com/lennertdefauw/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/lennertdefauw/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/lennertdefauw/CVE-2025-8088">
 - [shaheeryasirofficial/CVE-2025-8088](https://github.com/shaheeryasirofficial/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shaheeryasirofficial/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shaheeryasirofficial/CVE-2025-8088">
+- [roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3)	<img alt="forks" src="https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3">	<img alt="stars" src="https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3">
+- [roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2)	<img alt="forks" src="https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2">	<img alt="stars" src="https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2">
+- [roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1)	<img alt="forks" src="https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1">	<img alt="stars" src="https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1">
+- [Lewis-Ricardo/Amaranth-Project](https://github.com/Lewis-Ricardo/Amaranth-Project)	<img alt="forks" src="https://img.shields.io/github/forks/Lewis-Ricardo/Amaranth-Project">	<img alt="stars" src="https://img.shields.io/github/stars/Lewis-Ricardo/Amaranth-Project">
+- [skander1337/winrar-exploit](https://github.com/skander1337/winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skander1337/winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skander1337/winrar-exploit">
 
 ---
 ## CVE-2025-8081 ()
@@ -2327,6 +2332,11 @@
 - [monzaviman/CVE-2025-62168](https://github.com/monzaviman/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-62168">
 - [shahroodcert/CVE-2025-62168](https://github.com/shahroodcert/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/shahroodcert/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/shahroodcert/CVE-2025-62168">
 - [nehkark/CVE-2025-62168](https://github.com/nehkark/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-62168">
+
+---
+## CVE-2025-62023 ()
+> 
+- [josemour8/CVE-2025-62023](https://github.com/josemour8/CVE-2025-62023)	<img alt="forks" src="https://img.shields.io/github/forks/josemour8/CVE-2025-62023">	<img alt="stars" src="https://img.shields.io/github/stars/josemour8/CVE-2025-62023">
 
 ---
 ## CVE-2025-6202 ()
