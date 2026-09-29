@@ -597,6 +597,7 @@
 - [Maalfer/CVE-2026-87902-exploit](https://github.com/Maalfer/CVE-2026-87902-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2026-87902-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2026-87902-exploit">
 - [HackfutSecRoot/CVE-2026-87902](https://github.com/HackfutSecRoot/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/CVE-2026-87902">
 - [MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-87902">
+- [tonydelouvre/CVE-2026-87902](https://github.com/tonydelouvre/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/tonydelouvre/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/tonydelouvre/CVE-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -817,6 +818,11 @@
 ## CVE-2026-84388 ()
 > 
 - [ShadowForge-Cyber/CVE-2026-84388-POC](https://github.com/ShadowForge-Cyber/CVE-2026-84388-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-84388-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-84388-POC">
+
+---
+## CVE-2026-84383 ()
+> 
+- [dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/libheif-cve-2026-84383-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/libheif-cve-2026-84383-lab">
 
 ---
 ## CVE-2026-84361 ()
@@ -7704,6 +7710,11 @@
 ## CVE-2026-31891 ()
 > 
 - [ffasterss/CVE-2026-31891](https://github.com/ffasterss/CVE-2026-31891)	<img alt="forks" src="https://img.shields.io/github/forks/ffasterss/CVE-2026-31891">	<img alt="stars" src="https://img.shields.io/github/stars/ffasterss/CVE-2026-31891">
+
+---
+## CVE-2026-31857 ()
+> 
+- [0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857)	<img alt="forks" src="https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857">	<img alt="stars" src="https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857">
 
 ---
 ## CVE-2026-31844 ()
