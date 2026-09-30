@@ -3505,6 +3505,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-38831-POC">
 - [olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis](https://github.com/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">
 - [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
+- [KrioSocial/defender-bypass-winrar-cve-2023-38831](https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/KrioSocial/defender-bypass-winrar-cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/KrioSocial/defender-bypass-winrar-cve-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -3821,6 +3822,11 @@ of headers and eventually cause curl to run out of heap memory.
 ## CVE-2023-37771 (2023-07-31T16:15:00)
 > Art Gallery Management System v1.0 contains a SQL injection vulnerability via the cid parameter at /agms/product.php.
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
+
+---
+## CVE-2023-3776 ()
+> 
+- [Sakura999999999/CVE-2023-3776_repro](https://github.com/Sakura999999999/CVE-2023-3776_repro)	<img alt="forks" src="https://img.shields.io/github/forks/Sakura999999999/CVE-2023-3776_repro">	<img alt="stars" src="https://img.shields.io/github/stars/Sakura999999999/CVE-2023-3776_repro">
 
 ---
 ## CVE-2023-37756 (2023-09-14T21:15:00)
