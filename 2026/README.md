@@ -1234,6 +1234,7 @@
 ## CVE-2026-78159 ()
 > 
 - [abraxas/CVE-2026-78159](https://github.com/abraxas/CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-78159">
+- [antid00t/CVE-2026-78006-CVE-2026-78159](https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/antid00t/CVE-2026-78006-CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/antid00t/CVE-2026-78006-CVE-2026-78159">
 
 ---
 ## CVE-2026-78122 ()
@@ -1610,6 +1611,7 @@
 - [dahnutz/zimbra-cve-2026-73570-ir](https://github.com/dahnutz/zimbra-cve-2026-73570-ir)	<img alt="forks" src="https://img.shields.io/github/forks/dahnutz/zimbra-cve-2026-73570-ir">	<img alt="stars" src="https://img.shields.io/github/stars/dahnutz/zimbra-cve-2026-73570-ir">
 - [juanpoch/CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/juanpoch/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/juanpoch/CVE-2026-73570">
 - [hainhc/CVE-2026-73570](https://github.com/hainhc/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/hainhc/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/hainhc/CVE-2026-73570">
+- [0xBlackash/CVE-2026-73570](https://github.com/0xBlackash/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-73570">
 
 ---
 ## CVE-2026-73554 ()
