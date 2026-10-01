@@ -380,6 +380,11 @@
 - [SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">
 
 ---
+## CVE-2026-91159 ()
+> 
+- [sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc">
+
+---
 ## CVE-2026-91097 ()
 > 
 - [Nxploited/CVE-2026-91097-CVE-2026-91106](https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-91097-CVE-2026-91106">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-91097-CVE-2026-91106">
@@ -12246,6 +12251,11 @@
 - [BishopFox/CVE-2026-11374-check](https://github.com/BishopFox/CVE-2026-11374-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-11374-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-11374-check">
 
 ---
+## CVE-2026-11318 ()
+> 
+- [Cr0wld3r/CVE-2026-11318](https://github.com/Cr0wld3r/CVE-2026-11318)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0wld3r/CVE-2026-11318">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0wld3r/CVE-2026-11318">
+
+---
 ## CVE-2026-1122 ()
 > 
 - [George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection](https://github.com/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">
@@ -12419,6 +12429,16 @@
 - [emilliewatson96/spryCVE-2026-10520](https://github.com/emilliewatson96/spryCVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/emilliewatson96/spryCVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/emilliewatson96/spryCVE-2026-10520">
 - [imbas007/RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">
 - [gduma-phData/patch-CVE-2026-10520](https://github.com/gduma-phData/patch-CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-10520">
+
+---
+## CVE-2026-103585 ()
+> 
+- [BomboBombone/CVE-2026-103585](https://github.com/BomboBombone/CVE-2026-103585)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-103585">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-103585">
+
+---
+## CVE-2026-103584 ()
+> 
+- [BomboBombone/CVE-2026-103584](https://github.com/BomboBombone/CVE-2026-103584)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-103584">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-103584">
 
 ---
 ## CVE-2026-102975 ()
