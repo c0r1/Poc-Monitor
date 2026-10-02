@@ -699,6 +699,8 @@
 > 
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
+- [decalage2/detect_CVE-2026-86950](https://github.com/decalage2/detect_CVE-2026-86950)	<img alt="forks" src="https://img.shields.io/github/forks/decalage2/detect_CVE-2026-86950">	<img alt="stars" src="https://img.shields.io/github/stars/decalage2/detect_CVE-2026-86950">
+- [msuiche/hotcell](https://github.com/msuiche/hotcell)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/hotcell">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/hotcell">
 
 ---
 ## CVE-2026-86595 ()
@@ -12516,6 +12518,11 @@
 - [gduma-phData/patch-CVE-2026-10520](https://github.com/gduma-phData/patch-CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-10520">
 
 ---
+## CVE-2026-104826 ()
+> 
+- [KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826)	<img alt="forks" src="https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826">	<img alt="stars" src="https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826">
+
+---
 ## CVE-2026-104356 ()
 > 
 - [wvllxe/CVE-2026-104356-pictshare-weak-delete-code](https://github.com/wvllxe/CVE-2026-104356-pictshare-weak-delete-code)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104356-pictshare-weak-delete-code">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104356-pictshare-weak-delete-code">
@@ -12537,9 +12544,19 @@
 - [wvllxe/CVE-2026-104051-pictshare-info-disclosure](https://github.com/wvllxe/CVE-2026-104051-pictshare-info-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104051-pictshare-info-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104051-pictshare-info-disclosure">
 
 ---
+## CVE-2026-103978 ()
+> 
+- [KiwKNR/CVE-2026-103978](https://github.com/KiwKNR/CVE-2026-103978)	<img alt="forks" src="https://img.shields.io/github/forks/KiwKNR/CVE-2026-103978">	<img alt="stars" src="https://img.shields.io/github/stars/KiwKNR/CVE-2026-103978">
+
+---
 ## CVE-2026-103977 ()
 > 
 - [pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977">
+
+---
+## CVE-2026-103931 ()
+> 
+- [overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931](https://github.com/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931">
 
 ---
 ## CVE-2026-103922 ()
