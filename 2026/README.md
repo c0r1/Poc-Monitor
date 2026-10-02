@@ -5552,6 +5552,15 @@
 - [RELIHR/CVE-2026-43499](https://github.com/RELIHR/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/RELIHR/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/RELIHR/CVE-2026-43499">
 - [ZeroDayEvil/CVE-2026-43499](https://github.com/ZeroDayEvil/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-43499">
 - [shubhampathak65/CVE-2026-43499](https://github.com/shubhampathak65/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/shubhampathak65/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/shubhampathak65/CVE-2026-43499">
+- [yexiaoqq/rmg-s9110-research](https://github.com/yexiaoqq/rmg-s9110-research)	<img alt="forks" src="https://img.shields.io/github/forks/yexiaoqq/rmg-s9110-research">	<img alt="stars" src="https://img.shields.io/github/stars/yexiaoqq/rmg-s9110-research">
+- [aniketlab/POCO-M7-Plus-Jailbreak](https://github.com/aniketlab/POCO-M7-Plus-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/aniketlab/POCO-M7-Plus-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/aniketlab/POCO-M7-Plus-Jailbreak">
+- [L-1124/RootMyVivo-rs](https://github.com/L-1124/RootMyVivo-rs)	<img alt="forks" src="https://img.shields.io/github/forks/L-1124/RootMyVivo-rs">	<img alt="stars" src="https://img.shields.io/github/stars/L-1124/RootMyVivo-rs">
+- [L-1124/RootMyVivo-Exploit](https://github.com/L-1124/RootMyVivo-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/L-1124/RootMyVivo-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/L-1124/RootMyVivo-Exploit">
+- [YUE546/IQOO-neo7-ghostlock-43499](https://github.com/YUE546/IQOO-neo7-ghostlock-43499)	<img alt="forks" src="https://img.shields.io/github/forks/YUE546/IQOO-neo7-ghostlock-43499">	<img alt="stars" src="https://img.shields.io/github/stars/YUE546/IQOO-neo7-ghostlock-43499">
+- [a2333c/DFRoot](https://github.com/a2333c/DFRoot)	<img alt="forks" src="https://img.shields.io/github/forks/a2333c/DFRoot">	<img alt="stars" src="https://img.shields.io/github/stars/a2333c/DFRoot">
+- [mo2g/redmi-note-12t-pro-kernel](https://github.com/mo2g/redmi-note-12t-pro-kernel)	<img alt="forks" src="https://img.shields.io/github/forks/mo2g/redmi-note-12t-pro-kernel">	<img alt="stars" src="https://img.shields.io/github/stars/mo2g/redmi-note-12t-pro-kernel">
+- [CKwasd/zenfone9-ghostlock](https://github.com/CKwasd/zenfone9-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/CKwasd/zenfone9-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/CKwasd/zenfone9-ghostlock">
+- [WitAqua-tools/Root-My-Device](https://github.com/WitAqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/WitAqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/WitAqua-tools/Root-My-Device">
 
 ---
 ## CVE-2026-43494 ()
@@ -11309,6 +11318,11 @@
 - [HackfutSecRoot/multi_exploit_wp](https://github.com/HackfutSecRoot/multi_exploit_wp)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/multi_exploit_wp">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/multi_exploit_wp">
 
 ---
+## CVE-2026-19553 ()
+> 
+- [abraxas/cve-2026-19553-wrap-bio](https://github.com/abraxas/cve-2026-19553-wrap-bio)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/cve-2026-19553-wrap-bio">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/cve-2026-19553-wrap-bio">
+
+---
 ## CVE-2026-1953 ()
 > 
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
@@ -11343,6 +11357,11 @@
 - [n0xdaemon/cve-2026-19478](https://github.com/n0xdaemon/cve-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/n0xdaemon/cve-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/n0xdaemon/cve-2026-19478">
 - [punitdarji/Gitlab-CVE-2026-19478](https://github.com/punitdarji/Gitlab-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Gitlab-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Gitlab-CVE-2026-19478">
 - [EQSTLab/CVE-2026-19478](https://github.com/EQSTLab/CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-19478">
+
+---
+## CVE-2026-19445 ()
+> 
+- [abraxas/cve-2026-19445-sni-uaf](https://github.com/abraxas/cve-2026-19445-sni-uaf)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/cve-2026-19445-sni-uaf">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/cve-2026-19445-sni-uaf">
 
 ---
 ## CVE-2026-1937 ()
