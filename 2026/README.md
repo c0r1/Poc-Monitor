@@ -179,6 +179,7 @@
 ## CVE-2026-9558 ()
 > 
 - [covepseng/cve-2026-9558-poc](https://github.com/covepseng/cve-2026-9558-poc)	<img alt="forks" src="https://img.shields.io/github/forks/covepseng/cve-2026-9558-poc">	<img alt="stars" src="https://img.shields.io/github/stars/covepseng/cve-2026-9558-poc">
+- [Cimihan123/CVE-2026-9558-lab-poc-bundle](https://github.com/Cimihan123/CVE-2026-9558-lab-poc-bundle)	<img alt="forks" src="https://img.shields.io/github/forks/Cimihan123/CVE-2026-9558-lab-poc-bundle">	<img alt="stars" src="https://img.shields.io/github/stars/Cimihan123/CVE-2026-9558-lab-poc-bundle">
 
 ---
 ## CVE-2026-9490 ()
@@ -339,6 +340,11 @@
 ## CVE-2026-92680 ()
 > 
 - [grepstrength/CVE-2026-92680](https://github.com/grepstrength/CVE-2026-92680)	<img alt="forks" src="https://img.shields.io/github/forks/grepstrength/CVE-2026-92680">	<img alt="stars" src="https://img.shields.io/github/stars/grepstrength/CVE-2026-92680">
+
+---
+## CVE-2026-92592 ()
+> 
+- [godylockz/CVE-2026-92592](https://github.com/godylockz/CVE-2026-92592)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2026-92592">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2026-92592">
 
 ---
 ## CVE-2026-9256 ()
@@ -912,6 +918,11 @@
 ## CVE-2026-8388 ()
 > 
 - [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
+
+---
+## CVE-2026-83603 ()
+> 
+- [OhWelp/CVE-2026-83603-LPE-PoC](https://github.com/OhWelp/CVE-2026-83603-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/OhWelp/CVE-2026-83603-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/OhWelp/CVE-2026-83603-LPE-PoC">
 
 ---
 ## CVE-2026-83548 ()
