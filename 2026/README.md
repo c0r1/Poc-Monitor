@@ -5170,6 +5170,8 @@
 - [ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC">
 - [Vusal777/CVE-2026-4480-exploit-poc](https://github.com/Vusal777/CVE-2026-4480-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Vusal777/CVE-2026-4480-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Vusal777/CVE-2026-4480-exploit-poc">
 - [AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce)	<img alt="forks" src="https://img.shields.io/github/forks/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce">	<img alt="stars" src="https://img.shields.io/github/stars/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce">
+- [timgad794/Abducted-HTB-Writeup](https://github.com/timgad794/Abducted-HTB-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/Abducted-HTB-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/Abducted-HTB-Writeup">
+- [SafeBreach-Labs/ForgottenButNotGone](https://github.com/SafeBreach-Labs/ForgottenButNotGone)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/ForgottenButNotGone">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/ForgottenButNotGone">
 
 ---
 ## CVE-2026-44789 ()
