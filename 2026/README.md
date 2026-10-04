@@ -935,6 +935,11 @@
 - [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
 
 ---
+## CVE-2026-83627 ()
+> 
+- [K52-ai/CVE-2026-83627](https://github.com/K52-ai/CVE-2026-83627)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2026-83627">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2026-83627">
+
+---
 ## CVE-2026-83603 ()
 > 
 - [OhWelp/CVE-2026-83603-LPE-PoC](https://github.com/OhWelp/CVE-2026-83603-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/OhWelp/CVE-2026-83603-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/OhWelp/CVE-2026-83603-LPE-PoC">
@@ -12145,6 +12150,11 @@
 - [murrez/CVE-2026-13249](https://github.com/murrez/CVE-2026-13249)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-13249">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-13249">
 
 ---
+## CVE-2026-13247 ()
+> 
+- [sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat](https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat">
+
+---
 ## CVE-2026-13233 ()
 > 
 - [KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)	<img alt="forks" src="https://img.shields.io/github/forks/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">	<img alt="stars" src="https://img.shields.io/github/stars/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">
@@ -12665,6 +12675,11 @@
 ## CVE-2026-103584 ()
 > 
 - [BomboBombone/CVE-2026-103584](https://github.com/BomboBombone/CVE-2026-103584)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-103584">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-103584">
+
+---
+## CVE-2026-103355 ()
+> 
+- [Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc](https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc">
 
 ---
 ## CVE-2026-102975 ()
