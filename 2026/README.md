@@ -5608,6 +5608,7 @@
 - [mo2g/redmi-note-12t-pro-kernel](https://github.com/mo2g/redmi-note-12t-pro-kernel)	<img alt="forks" src="https://img.shields.io/github/forks/mo2g/redmi-note-12t-pro-kernel">	<img alt="stars" src="https://img.shields.io/github/stars/mo2g/redmi-note-12t-pro-kernel">
 - [CKwasd/zenfone9-ghostlock](https://github.com/CKwasd/zenfone9-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/CKwasd/zenfone9-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/CKwasd/zenfone9-ghostlock">
 - [WitAqua-tools/Root-My-Device](https://github.com/WitAqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/WitAqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/WitAqua-tools/Root-My-Device">
+- [AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15)	<img alt="forks" src="https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15">	<img alt="stars" src="https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15">
 
 ---
 ## CVE-2026-43494 ()
@@ -11766,6 +11767,11 @@
 ## CVE-2026-15964 ()
 > 
 - [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
+
+---
+## CVE-2026-15911 ()
+> 
+- [rahulreddykarne/CVE-2026-15911-Confluent_Kafka](https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">
 
 ---
 ## CVE-2026-15826 ()
