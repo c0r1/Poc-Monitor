@@ -730,6 +730,11 @@
 - [msuiche/hotcell](https://github.com/msuiche/hotcell)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/hotcell">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/hotcell">
 
 ---
+## CVE-2026-86881 ()
+> 
+- [0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881)	<img alt="forks" src="https://img.shields.io/github/forks/0xcrypto/CVE-2026-86881">	<img alt="stars" src="https://img.shields.io/github/stars/0xcrypto/CVE-2026-86881">
+
+---
 ## CVE-2026-86595 ()
 > 
 - [Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti)	<img alt="forks" src="https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti">	<img alt="stars" src="https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti">
@@ -6386,6 +6391,7 @@
 - [MRdark-ops/CVE-2026-40281-exploit](https://github.com/MRdark-ops/CVE-2026-40281-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-40281-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-40281-exploit">
 - [codeb0ssx/CVE-2026-42589xCVE-2026-40281-PoC](https://github.com/codeb0ssx/CVE-2026-42589xCVE-2026-40281-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-42589xCVE-2026-40281-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-42589xCVE-2026-40281-PoC">
 - [HackfutSecRoot/-GOTENBERG-RCE-CHAIN](https://github.com/HackfutSecRoot/-GOTENBERG-RCE-CHAIN)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/-GOTENBERG-RCE-CHAIN">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/-GOTENBERG-RCE-CHAIN">
+- [rabakuku/CVE-2026-40281](https://github.com/rabakuku/CVE-2026-40281)	<img alt="forks" src="https://img.shields.io/github/forks/rabakuku/CVE-2026-40281">	<img alt="stars" src="https://img.shields.io/github/stars/rabakuku/CVE-2026-40281">
 
 ---
 ## CVE-2026-40261 ()

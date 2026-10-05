@@ -130,6 +130,7 @@
 - [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
 - [rsakthikumar-cmd/metasploitable2-vsftpd-writeup](https://github.com/rsakthikumar-cmd/metasploitable2-vsftpd-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/rsakthikumar-cmd/metasploitable2-vsftpd-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/rsakthikumar-cmd/metasploitable2-vsftpd-writeup">
 - [aish19siddiqua-commits/mtechweek_04](https://github.com/aish19siddiqua-commits/mtechweek_04)	<img alt="forks" src="https://img.shields.io/github/forks/aish19siddiqua-commits/mtechweek_04">	<img alt="stars" src="https://img.shields.io/github/stars/aish19siddiqua-commits/mtechweek_04">
+- [Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
