@@ -3888,6 +3888,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
 - [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
 - [weae26/cve-2024-4367-poc](https://github.com/weae26/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/cve-2024-4367-poc">
+- [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
 
 ---
 ## CVE-2024-43639 ()
