@@ -3165,6 +3165,11 @@
 - [billybaraja/cve-2026-5950-bind9-resolver-dos](https://github.com/billybaraja/cve-2026-5950-bind9-resolver-dos)	<img alt="forks" src="https://img.shields.io/github/forks/billybaraja/cve-2026-5950-bind9-resolver-dos">	<img alt="stars" src="https://img.shields.io/github/stars/billybaraja/cve-2026-5950-bind9-resolver-dos">
 
 ---
+## CVE-2026-59358 ()
+> 
+- [abraxas/CVE-2026-59358](https://github.com/abraxas/CVE-2026-59358)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-59358">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-59358">
+
+---
 ## CVE-2026-59346 ()
 > 
 - [0xCyberstan/CVE-2026-59346-POC](https://github.com/0xCyberstan/CVE-2026-59346-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-59346-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-59346-POC">
