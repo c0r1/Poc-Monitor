@@ -912,6 +912,7 @@
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
 - [comerc/CVE-2025-68664](https://github.com/comerc/CVE-2025-68664)	<img alt="forks" src="https://img.shields.io/github/forks/comerc/CVE-2025-68664">	<img alt="stars" src="https://img.shields.io/github/stars/comerc/CVE-2025-68664">
 - [Johnnyzhou666/langgrinch-cve-2025-68664-analysis](https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">
+- [t-sorger/cve-2025-68664-langgrinch](https://github.com/t-sorger/cve-2025-68664-langgrinch)	<img alt="forks" src="https://img.shields.io/github/forks/t-sorger/cve-2025-68664-langgrinch">	<img alt="stars" src="https://img.shields.io/github/stars/t-sorger/cve-2025-68664-langgrinch">
 
 ---
 ## CVE-2025-68645 ()
@@ -2309,6 +2310,7 @@
 - [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
 - [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis">
 - [gowonisgood/CVE-2025-62215-POC](https://github.com/gowonisgood/CVE-2025-62215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gowonisgood/CVE-2025-62215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gowonisgood/CVE-2025-62215-POC">
+- [Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege](https://github.com/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege)	<img alt="forks" src="https://img.shields.io/github/forks/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege">	<img alt="stars" src="https://img.shields.io/github/stars/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege">
 
 ---
 ## CVE-2025-62207 ()
