@@ -394,6 +394,11 @@
 - [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
 
 ---
+## CVE-2026-92555 ()
+> 
+- [Enay-Project/CVE-2026-92555](https://github.com/Enay-Project/CVE-2026-92555)	<img alt="forks" src="https://img.shields.io/github/forks/Enay-Project/CVE-2026-92555">	<img alt="stars" src="https://img.shields.io/github/stars/Enay-Project/CVE-2026-92555">
+
+---
 ## CVE-2026-9254 ()
 > 
 - [Slagzz/CVE-2026-9254](https://github.com/Slagzz/CVE-2026-9254)	<img alt="forks" src="https://img.shields.io/github/forks/Slagzz/CVE-2026-9254">	<img alt="stars" src="https://img.shields.io/github/stars/Slagzz/CVE-2026-9254">

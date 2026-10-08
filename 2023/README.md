@@ -564,6 +564,7 @@ We recommend users to:
 - [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">
 - [pulentoski/CVE-2023-51467-and-CVE-2023-49070](https://github.com/pulentoski/CVE-2023-51467-and-CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2023-51467-and-CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2023-51467-and-CVE-2023-49070">
 - [AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-](https://github.com/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-">
+- [CyberCTF/vulhub-ofbiz-cve-2023-51467](https://github.com/CyberCTF/vulhub-ofbiz-cve-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-ofbiz-cve-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-ofbiz-cve-2023-51467">
 
 ---
 ## CVE-2023-51448 (2023-12-22T17:15:00)
@@ -1778,6 +1779,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation](https://github.com/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation">
 - [stefanotractor/activemq-cve-2023-46604-lab](https://github.com/stefanotractor/activemq-cve-2023-46604-lab)	<img alt="forks" src="https://img.shields.io/github/forks/stefanotractor/activemq-cve-2023-46604-lab">	<img alt="stars" src="https://img.shields.io/github/stars/stefanotractor/activemq-cve-2023-46604-lab">
 - [Bhanunamikaze/ActiveMQ-CVE-2023-46604](https://github.com/Bhanunamikaze/ActiveMQ-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/ActiveMQ-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/ActiveMQ-CVE-2023-46604">
+- [CyberCTF/vulhub-activemq-cve-2023-46604](https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-activemq-cve-2023-46604">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
@@ -5456,6 +5458,7 @@ Fixed in version 6.4.1.
 - [pulentoski/Explotacion-CVE-2023-32315-Openfire](https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotacion-CVE-2023-32315-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotacion-CVE-2023-32315-Openfire">
 - [shiyingzhencai/CVE-2023-32315-java7-](https://github.com/shiyingzhencai/CVE-2023-32315-java7-)	<img alt="forks" src="https://img.shields.io/github/forks/shiyingzhencai/CVE-2023-32315-java7-">	<img alt="stars" src="https://img.shields.io/github/stars/shiyingzhencai/CVE-2023-32315-java7-">
 - [rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite)	<img alt="forks" src="https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite">	<img alt="stars" src="https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite">
+- [CyberCTF/vulhub-openfire-cve-2023-32315](https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openfire-cve-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openfire-cve-2023-32315">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -6549,6 +6552,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Cappricio-Securities/CVE-2023-27524](https://github.com/Cappricio-Securities/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-27524">
 - [sumaiyafathima-code/CVE-2023-27524](https://github.com/sumaiyafathima-code/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/sumaiyafathima-code/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/sumaiyafathima-code/CVE-2023-27524">
 - [rachidafaf/bola-CVE-2023-27524](https://github.com/rachidafaf/bola-CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/rachidafaf/bola-CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/rachidafaf/bola-CVE-2023-27524">
+- [CyberCTF/vulhub-superset-cve-2023-27524](https://github.com/CyberCTF/vulhub-superset-cve-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-superset-cve-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-superset-cve-2023-27524">
 
 ---
 ## CVE-2023-2752 (2023-05-17T08:15:00)

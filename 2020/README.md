@@ -1772,6 +1772,7 @@
 ## CVE-2020-35476 (2020-12-16T08:15:00)
 > A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. The yrange value is written to a gnuplot file in the /tmp directory. This file is then executed via the mygnuplot.sh shell script. (tsd/GraphHandler.java attempted to prevent command injections by blocking backticks but this is insufficient.)
 - [glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476)	<img alt="forks" src="https://img.shields.io/github/forks/glowbase/CVE-2020-35476">	<img alt="stars" src="https://img.shields.io/github/stars/glowbase/CVE-2020-35476">
+- [CyberCTF/vulhub-opentsdb-cve-2020-35476](https://github.com/CyberCTF/vulhub-opentsdb-cve-2020-35476)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-opentsdb-cve-2020-35476">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-opentsdb-cve-2020-35476">
 
 ---
 ## CVE-2020-35473 (2022-11-08T06:15:00)
@@ -3771,6 +3772,7 @@
 - [cyberguardsec101-sketch/ghostcat](https://github.com/cyberguardsec101-sketch/ghostcat)	<img alt="forks" src="https://img.shields.io/github/forks/cyberguardsec101-sketch/ghostcat">	<img alt="stars" src="https://img.shields.io/github/stars/cyberguardsec101-sketch/ghostcat">
 - [si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3](https://github.com/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3)	<img alt="forks" src="https://img.shields.io/github/forks/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">	<img alt="stars" src="https://img.shields.io/github/stars/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">
 - [aidilzlkfli/Scanning](https://github.com/aidilzlkfli/Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/aidilzlkfli/Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/aidilzlkfli/Scanning">
+- [CyberCTF/vulhub-tomcat-cve-2020-1938](https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2020-1938">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)

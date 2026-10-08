@@ -261,6 +261,7 @@
 - [elkhaoudari/CVE-2018-7600-PoC](https://github.com/elkhaoudari/CVE-2018-7600-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/elkhaoudari/CVE-2018-7600-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/elkhaoudari/CVE-2018-7600-PoC">
 - [Prapul1/VulnHub-DC1-Writeup](https://github.com/Prapul1/VulnHub-DC1-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Prapul1/VulnHub-DC1-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Prapul1/VulnHub-DC1-Writeup">
 - [K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2018-7600">
+- [CyberCTF/vulhub-drupal-cve-2018-7600](https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2018-7600">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
@@ -272,6 +273,7 @@
 > uWSGI before 2.0.17 mishandles a DOCUMENT_ROOT check during use of the --php-docroot option, allowing directory traversal.
 - [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
 - [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
+- [CyberCTF/vulhub-uwsgi-cve-2018-7490](https://github.com/CyberCTF/vulhub-uwsgi-cve-2018-7490)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-uwsgi-cve-2018-7490">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-uwsgi-cve-2018-7490">
 
 ---
 ## CVE-2018-7489 ()
@@ -1838,11 +1840,21 @@
 - [knqyf263/CVE-2018-1273](https://github.com/knqyf263/CVE-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-1273">
 - [wearearima/poc-cve-2018-1273](https://github.com/wearearima/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/wearearima/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/wearearima/poc-cve-2018-1273">
 - [andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable](https://github.com/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable">
+- [CyberCTF/vulhub-spring-cve-2018-1273](https://github.com/CyberCTF/vulhub-spring-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2018-1273">
 
 ---
 ## CVE-2018-12633 ()
 > 
 - [wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass](https://github.com/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass">
+
+---
+## CVE-2018-12613 ()
+> 
+- [CyberCTF/vulhub-phpmyadmin-cve-2018-12613](https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-phpmyadmin-cve-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-phpmyadmin-cve-2018-12613">
+- [eastmountyxz/CVE-2018-12613-phpMyAdmin](https://github.com/eastmountyxz/CVE-2018-12613-phpMyAdmin)	<img alt="forks" src="https://img.shields.io/github/forks/eastmountyxz/CVE-2018-12613-phpMyAdmin">	<img alt="stars" src="https://img.shields.io/github/stars/eastmountyxz/CVE-2018-12613-phpMyAdmin">
+- [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus)	<img alt="forks" src="https://img.shields.io/github/forks/YagamiiLight/Cerberus">	<img alt="stars" src="https://img.shields.io/github/stars/YagamiiLight/Cerberus">
+- [ivanitlearning/CVE-2018-12613](https://github.com/ivanitlearning/CVE-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2018-12613">
+- [0x00-0x00/CVE-2018-12613](https://github.com/0x00-0x00/CVE-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-12613">
 
 ---
 ## CVE-2018-1260 ()

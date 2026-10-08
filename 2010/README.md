@@ -95,6 +95,11 @@
 - [avielzecharia/CVE-2010-2883](https://github.com/avielzecharia/CVE-2010-2883)	<img alt="forks" src="https://img.shields.io/github/forks/avielzecharia/CVE-2010-2883">	<img alt="stars" src="https://img.shields.io/github/stars/avielzecharia/CVE-2010-2883">
 
 ---
+## CVE-2010-2861 ()
+> 
+- [CyberCTF/vulhub-coldfusion-cve-2010-2861](https://github.com/CyberCTF/vulhub-coldfusion-cve-2010-2861)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-coldfusion-cve-2010-2861">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-coldfusion-cve-2010-2861">
+
+---
 ## CVE-2010-2553 (2010-08-11T18:47:00)
 > The Cinepak codec in Microsoft Windows XP SP2 and SP3, Windows Vista SP1 and SP2, and Windows 7 does not properly decompress media files, which allows remote attackers to execute arbitrary code via a crafted file, aka "Cinepak Codec Decompression Vulnerability."
 - [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-2553-reproduction">

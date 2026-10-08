@@ -7585,6 +7585,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28752 ()
 > 
 - [ReaJason/CVE-2024-28752](https://github.com/ReaJason/CVE-2024-28752)	<img alt="forks" src="https://img.shields.io/github/forks/ReaJason/CVE-2024-28752">	<img alt="stars" src="https://img.shields.io/github/stars/ReaJason/CVE-2024-28752">
+- [CyberCTF/vulhub-apache-cxf-cve-2024-28752](https://github.com/CyberCTF/vulhub-apache-cxf-cve-2024-28752)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-apache-cxf-cve-2024-28752">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-apache-cxf-cve-2024-28752">
 
 ---
 ## CVE-2024-28741 (2024-04-06T19:15:00)

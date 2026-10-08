@@ -620,6 +620,7 @@
 - [pizza-power/CVE-2016-4437](https://github.com/pizza-power/CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/CVE-2016-4437">
 - [xk-mt/CVE-2016-4437](https://github.com/xk-mt/CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2016-4437">
 - [35789-gh/cve-2016-4437](https://github.com/35789-gh/cve-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/35789-gh/cve-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/35789-gh/cve-2016-4437">
+- [CyberCTF/vulhub-shiro-cve-2016-4437](https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-shiro-cve-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-shiro-cve-2016-4437">
 
 ---
 ## CVE-2016-4432 (2016-06-01T20:59:00)
@@ -763,6 +764,7 @@
 - [Hood3dRob1n/CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/Hood3dRob1n/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/Hood3dRob1n/CVE-2016-3714">
 - [tommiionfire/CVE-2016-3714](https://github.com/tommiionfire/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/tommiionfire/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/tommiionfire/CVE-2016-3714">
 - [jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet)	<img alt="forks" src="https://img.shields.io/github/forks/jackdpeterson/imagick_secure_puppet">	<img alt="stars" src="https://img.shields.io/github/stars/jackdpeterson/imagick_secure_puppet">
+- [CyberCTF/vulhub-imagemagick-cve-2016-3714](https://github.com/CyberCTF/vulhub-imagemagick-cve-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-imagemagick-cve-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-imagemagick-cve-2016-3714">
 
 ---
 ## CVE-2016-3709 (2022-07-28T17:15:00)
