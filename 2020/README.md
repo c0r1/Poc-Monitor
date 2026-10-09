@@ -4404,6 +4404,8 @@
 - [Ashwesker/Blackash-CVE-2020-14882](https://github.com/Ashwesker/Blackash-CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2020-14882">
 - [b1g-b33f/CVE-2020-14882](https://github.com/b1g-b33f/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/b1g-b33f/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/b1g-b33f/CVE-2020-14882">
 - [VelesSecurity/CVE-2020-14882-WebLogic-Analysis](https://github.com/VelesSecurity/CVE-2020-14882-WebLogic-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VelesSecurity/CVE-2020-14882-WebLogic-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VelesSecurity/CVE-2020-14882-WebLogic-Analysis">
+- [CyberCTF/vulhub-weblogic-cve-2020-14882](https://github.com/CyberCTF/vulhub-weblogic-cve-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2020-14882">
+- [hyderpwn/weblogic](https://github.com/hyderpwn/weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/hyderpwn/weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/hyderpwn/weblogic">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
@@ -4750,6 +4752,7 @@
 - [1135/unomi_exploit](https://github.com/1135/unomi_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/1135/unomi_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/1135/unomi_exploit">
 - [shifa123/CVE-2020-13942-POC-](https://github.com/shifa123/CVE-2020-13942-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/shifa123/CVE-2020-13942-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/shifa123/CVE-2020-13942-POC-">
 - [lp008/CVE-2020-13942](https://github.com/lp008/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2020-13942">
+- [CyberCTF/vulhub-unomi-cve-2020-13942](https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-unomi-cve-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-unomi-cve-2020-13942">
 
 ---
 ## CVE-2020-13941 ()
@@ -5277,6 +5280,7 @@
 - [Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651">
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
 - [s1lentf00thold/CVE-2020-11651-Poc](https://github.com/s1lentf00thold/CVE-2020-11651-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/s1lentf00thold/CVE-2020-11651-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/s1lentf00thold/CVE-2020-11651-Poc">
+- [CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651">
 
 ---
 ## CVE-2020-11620 ()

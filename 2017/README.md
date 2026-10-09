@@ -43,6 +43,7 @@
 - [MR-LeonardoGomes/CVE-2017-9841](https://github.com/MR-LeonardoGomes/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/CVE-2017-9841">
 - [krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC](https://github.com/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">
 - [CheLover86/CVE-2017-9841](https://github.com/CheLover86/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/CheLover86/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/CheLover86/CVE-2017-9841">
+- [CyberCTF/vulhub-phpunit-cve-2017-9841](https://github.com/CyberCTF/vulhub-phpunit-cve-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-phpunit-cve-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-phpunit-cve-2017-9841">
 
 ---
 ## CVE-2017-9833 (2017-06-24T02:29:00)
@@ -1372,6 +1373,7 @@
 - [captain-woof/cve-2017-12629](https://github.com/captain-woof/cve-2017-12629)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/cve-2017-12629">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/cve-2017-12629">
 - [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+- [CyberCTF/vulhub-solr-cve-2017-12629-rce](https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2017-12629-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2017-12629-rce">
 
 ---
 ## CVE-2017-12617 (2017-10-04T01:29:00)
@@ -1713,6 +1715,9 @@
 - [zhangkaibin0921/CVE-2017-10271](https://github.com/zhangkaibin0921/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/zhangkaibin0921/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/zhangkaibin0921/CVE-2017-10271">
 - [1337g/CVE-2017-10271](https://github.com/1337g/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-10271">
 - [seoyoung-kang/CVE-2017-10271](https://github.com/seoyoung-kang/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/seoyoung-kang/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/seoyoung-kang/CVE-2017-10271">
+- [CyberCTF/vulhub-weblogic-cve-2017-10271](https://github.com/CyberCTF/vulhub-weblogic-cve-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2017-10271">
+- [shahdawadfallah-sys/Cybersecurity-Capstone-Project](https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project)	<img alt="forks" src="https://img.shields.io/github/forks/shahdawadfallah-sys/Cybersecurity-Capstone-Project">	<img alt="stars" src="https://img.shields.io/github/stars/shahdawadfallah-sys/Cybersecurity-Capstone-Project">
+- [Dungsocool/CVE-2017-10271](https://github.com/Dungsocool/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-10271">
 
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)

@@ -31914,6 +31914,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Kuri119/CVE-2022-22965-Spring4Shell](https://github.com/Kuri119/CVE-2022-22965-Spring4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kuri119/CVE-2022-22965-Spring4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kuri119/CVE-2022-22965-Spring4Shell">
 - [RootEvil333/CVE-2022-22965](https://github.com/RootEvil333/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-22965">
 - [ernestom-commits/jfrog-apptrust-demo](https://github.com/ernestom-commits/jfrog-apptrust-demo)	<img alt="forks" src="https://img.shields.io/github/forks/ernestom-commits/jfrog-apptrust-demo">	<img alt="stars" src="https://img.shields.io/github/stars/ernestom-commits/jfrog-apptrust-demo">
+- [CyberCTF/vulhub-spring-cve-2022-22965](https://github.com/CyberCTF/vulhub-spring-cve-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22965">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
@@ -32076,6 +32077,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [entr0pie/demo-cve-2022-22947](https://github.com/entr0pie/demo-cve-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/demo-cve-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/demo-cve-2022-22947">
 - [Y0ngC1oud/CVE-2022-22947](https://github.com/Y0ngC1oud/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/Y0ngC1oud/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/Y0ngC1oud/CVE-2022-22947">
 - [Arrnitage/CVE-2022-22947_exp](https://github.com/Arrnitage/CVE-2022-22947_exp)	<img alt="forks" src="https://img.shields.io/github/forks/Arrnitage/CVE-2022-22947_exp">	<img alt="stars" src="https://img.shields.io/github/stars/Arrnitage/CVE-2022-22947_exp">
+- [CyberCTF/vulhub-spring-cve-2022-22947](https://github.com/CyberCTF/vulhub-spring-cve-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22947">
 
 ---
 ## CVE-2022-22932 ()
@@ -36580,6 +36582,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [netw0rk7/CVE-2022-0543-Home-Lab](https://github.com/netw0rk7/CVE-2022-0543-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2022-0543-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2022-0543-Home-Lab">
 - [K3ysTr0K3R/CVE-2022-0543](https://github.com/K3ysTr0K3R/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2022-0543">
 - [OpsCipher/CVE-2022-0543](https://github.com/OpsCipher/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/OpsCipher/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/OpsCipher/CVE-2022-0543">
+- [CyberCTF/vulhub-redis-cve-2022-0543](https://github.com/CyberCTF/vulhub-redis-cve-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-redis-cve-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-redis-cve-2022-0543">
 
 ---
 ## CVE-2022-0542 (2022-08-19T18:15:00)

@@ -653,6 +653,7 @@
 - [wudidwo/CVE-2018-3760-poc](https://github.com/wudidwo/CVE-2018-3760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2018-3760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2018-3760-poc">
 - [cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-](https://github.com/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-">
 - [mpgn/CVE-2018-3760](https://github.com/mpgn/CVE-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-3760">
+- [CyberCTF/vulhub-rails-cve-2018-3760](https://github.com/CyberCTF/vulhub-rails-cve-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2018-3760">
 
 ---
 ## CVE-2018-3757 ()
