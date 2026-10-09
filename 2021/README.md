@@ -1200,6 +1200,7 @@
 - [Vaibhav91one/log4shell-cve-lab](https://github.com/Vaibhav91one/log4shell-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/log4shell-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/log4shell-cve-lab">
 - [Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab">
 - [osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner">
+- [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
