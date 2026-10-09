@@ -994,6 +994,7 @@
 - [omarkurt/CVE-2019-5418](https://github.com/omarkurt/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/CVE-2019-5418">
 - [daehyeok0618/CVE-2019-5418](https://github.com/daehyeok0618/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/daehyeok0618/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/daehyeok0618/CVE-2019-5418">
 - [CyberCTF/vulhub-rails-cve-2019-5418](https://github.com/CyberCTF/vulhub-rails-cve-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2019-5418">
+- [melardev/CVE-2019-5418](https://github.com/melardev/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/melardev/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/melardev/CVE-2019-5418">
 
 ---
 ## CVE-2019-5414 ()
