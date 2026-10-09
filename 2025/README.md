@@ -6991,6 +6991,11 @@
 - [Slow-Mist/CVE-2025-4126](https://github.com/Slow-Mist/CVE-2025-4126)	<img alt="forks" src="https://img.shields.io/github/forks/Slow-Mist/CVE-2025-4126">	<img alt="stars" src="https://img.shields.io/github/stars/Slow-Mist/CVE-2025-4126">
 
 ---
+## CVE-2025-41249 ()
+> 
+- [edwin/simulating-cve-2025-41249](https://github.com/edwin/simulating-cve-2025-41249)	<img alt="forks" src="https://img.shields.io/github/forks/edwin/simulating-cve-2025-41249">	<img alt="stars" src="https://img.shields.io/github/stars/edwin/simulating-cve-2025-41249">
+
+---
 ## CVE-2025-41244 ()
 > 
 - [rxerium/CVE-2025-41244](https://github.com/rxerium/CVE-2025-41244)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-41244">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-41244">
@@ -9156,6 +9161,7 @@
 - [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 - [tpirate/CVE-2025-26466](https://github.com/tpirate/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/tpirate/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/tpirate/CVE-2025-26466">
 - [acidboonrs/cve-2025-26466-openssh-poc](https://github.com/acidboonrs/cve-2025-26466-openssh-poc)	<img alt="forks" src="https://img.shields.io/github/forks/acidboonrs/cve-2025-26466-openssh-poc">	<img alt="stars" src="https://img.shields.io/github/stars/acidboonrs/cve-2025-26466-openssh-poc">
+- [K0n9-log/cve-2025-26466-canvas](https://github.com/K0n9-log/cve-2025-26466-canvas)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/cve-2025-26466-canvas">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/cve-2025-26466-canvas">
 
 ---
 ## CVE-2025-26465 ()
