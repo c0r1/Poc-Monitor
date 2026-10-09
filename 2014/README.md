@@ -153,6 +153,9 @@
 - [HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor](https://github.com/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor)	<img alt="forks" src="https://img.shields.io/github/forks/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">	<img alt="stars" src="https://img.shields.io/github/stars/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">
 - [caverm/Shellshock_CVE-2014-6271](https://github.com/caverm/Shellshock_CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/caverm/Shellshock_CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/caverm/Shellshock_CVE-2014-6271">
 - [cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report](https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report)	<img alt="forks" src="https://img.shields.io/github/forks/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report">	<img alt="stars" src="https://img.shields.io/github/stars/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report">
+- [CyberCTF/vulhub-bash-cve-2014-6271](https://github.com/CyberCTF/vulhub-bash-cve-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-bash-cve-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-bash-cve-2014-6271">
+- [mgiftson0/linux-env-vars-shellshock-lab](https://github.com/mgiftson0/linux-env-vars-shellshock-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mgiftson0/linux-env-vars-shellshock-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mgiftson0/linux-env-vars-shellshock-lab">
+- [FREEGUY-6/dmz-security-monitoring-hardening](https://github.com/FREEGUY-6/dmz-security-monitoring-hardening)	<img alt="forks" src="https://img.shields.io/github/forks/FREEGUY-6/dmz-security-monitoring-hardening">	<img alt="stars" src="https://img.shields.io/github/stars/FREEGUY-6/dmz-security-monitoring-hardening">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
@@ -225,6 +228,9 @@
 - [Neldeborg/Drupalgeddon-Python3](https://github.com/Neldeborg/Drupalgeddon-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/Neldeborg/Drupalgeddon-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/Neldeborg/Drupalgeddon-Python3">
 - [AleDiBen/Drupalgeddon](https://github.com/AleDiBen/Drupalgeddon)	<img alt="forks" src="https://img.shields.io/github/forks/AleDiBen/Drupalgeddon">	<img alt="stars" src="https://img.shields.io/github/stars/AleDiBen/Drupalgeddon">
 - [happynote3966/CVE-2014-3704](https://github.com/happynote3966/CVE-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2014-3704">
+- [CyberCTF/vulhub-drupal-cve-2014-3704](https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2014-3704">
+- [adfortunato/metasploitable3-pentest-writeup](https://github.com/adfortunato/metasploitable3-pentest-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/adfortunato/metasploitable3-pentest-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/adfortunato/metasploitable3-pentest-writeup">
+- [fbm31/Audit-BlackBox-Web-to-Root](https://github.com/fbm31/Audit-BlackBox-Web-to-Root)	<img alt="forks" src="https://img.shields.io/github/forks/fbm31/Audit-BlackBox-Web-to-Root">	<img alt="stars" src="https://img.shields.io/github/stars/fbm31/Audit-BlackBox-Web-to-Root">
 
 ---
 ## CVE-2014-3656 ()
@@ -323,6 +329,7 @@
 - [xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2014-3120">
 - [echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/echohtp/ElasticSearch-CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/echohtp/ElasticSearch-CVE-2014-3120">
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
+- [CyberCTF/vulhub-elasticsearch-cve-2014-3120](https://github.com/CyberCTF/vulhub-elasticsearch-cve-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-elasticsearch-cve-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-elasticsearch-cve-2014-3120">
 
 ---
 ## CVE-2014-2497 (2014-03-21T14:55:00)

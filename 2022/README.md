@@ -2211,6 +2211,7 @@ Here we only need to move the of_node_put() before the check.
 - [nou-man/CVE-2022-46169](https://github.com/nou-man/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/nou-man/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/nou-man/CVE-2022-46169">
 - [svchost9913/CVE-2022-46169_unauth_remote_code_execution](https://github.com/svchost9913/CVE-2022-46169_unauth_remote_code_execution)	<img alt="forks" src="https://img.shields.io/github/forks/svchost9913/CVE-2022-46169_unauth_remote_code_execution">	<img alt="stars" src="https://img.shields.io/github/stars/svchost9913/CVE-2022-46169_unauth_remote_code_execution">
 - [K4PXD/CVE-2022-46169](https://github.com/K4PXD/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/K4PXD/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/K4PXD/CVE-2022-46169">
+- [CyberCTF/vulhub-cacti-cve-2022-46169](https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-cacti-cve-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-cacti-cve-2022-46169">
 
 ---
 ## CVE-2022-46168 (2023-01-05T18:15:00)
@@ -22779,7 +22780,9 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [raheel0x01/CVE-2022-34265-modified](https://github.com/raheel0x01/CVE-2022-34265-modified)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2022-34265-modified">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2022-34265-modified">
 - [coco0x0a/CVE-2022-34265-mysql](https://github.com/coco0x0a/CVE-2022-34265-mysql)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2022-34265-mysql">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2022-34265-mysql">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
-- [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
+- [lnwza0x0a/CTF_Django_CVE-2022-34265](https://github.com/lnwza0x0a/CTF_Django_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/lnwza0x0a/CTF_Django_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/lnwza0x0a/CTF_Django_CVE-2022-34265">
+- [CyberCTF/vulhub-django-cve-2022-34265](https://github.com/CyberCTF/vulhub-django-cve-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-django-cve-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-django-cve-2022-34265">
+- [simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject)	<img alt="forks" src="https://img.shields.io/github/forks/simonepetruzzi/WebSecurityProject">	<img alt="stars" src="https://img.shields.io/github/stars/simonepetruzzi/WebSecurityProject">
 
 ---
 ## CVE-2022-3426 (2022-12-05T17:15:00)

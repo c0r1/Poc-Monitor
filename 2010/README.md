@@ -98,6 +98,7 @@
 ## CVE-2010-2861 ()
 > 
 - [CyberCTF/vulhub-coldfusion-cve-2010-2861](https://github.com/CyberCTF/vulhub-coldfusion-cve-2010-2861)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-coldfusion-cve-2010-2861">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-coldfusion-cve-2010-2861">
+- [greysneakthief/14641-v2](https://github.com/greysneakthief/14641-v2)	<img alt="forks" src="https://img.shields.io/github/forks/greysneakthief/14641-v2">	<img alt="stars" src="https://img.shields.io/github/stars/greysneakthief/14641-v2">
 
 ---
 ## CVE-2010-2553 (2010-08-11T18:47:00)
