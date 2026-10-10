@@ -31918,6 +31918,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [RootEvil333/CVE-2022-22965](https://github.com/RootEvil333/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-22965">
 - [ernestom-commits/jfrog-apptrust-demo](https://github.com/ernestom-commits/jfrog-apptrust-demo)	<img alt="forks" src="https://img.shields.io/github/forks/ernestom-commits/jfrog-apptrust-demo">	<img alt="stars" src="https://img.shields.io/github/stars/ernestom-commits/jfrog-apptrust-demo">
 - [CyberCTF/vulhub-spring-cve-2022-22965](https://github.com/CyberCTF/vulhub-spring-cve-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22965">
+- [PrinceH4k/Spring4Shell-POC](https://github.com/PrinceH4k/Spring4Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PrinceH4k/Spring4Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PrinceH4k/Spring4Shell-POC">
+- [meng-security/spring4shell-local-verification-lab](https://github.com/meng-security/spring4shell-local-verification-lab)	<img alt="forks" src="https://img.shields.io/github/forks/meng-security/spring4shell-local-verification-lab">	<img alt="stars" src="https://img.shields.io/github/stars/meng-security/spring4shell-local-verification-lab">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
@@ -36589,7 +36591,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [SiennaSkies/redisHack](https://github.com/SiennaSkies/redisHack)	<img alt="forks" src="https://img.shields.io/github/forks/SiennaSkies/redisHack">	<img alt="stars" src="https://img.shields.io/github/stars/SiennaSkies/redisHack">
 - [netw0rk7/CVE-2022-0543-Home-Lab](https://github.com/netw0rk7/CVE-2022-0543-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2022-0543-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2022-0543-Home-Lab">
 - [K3ysTr0K3R/CVE-2022-0543](https://github.com/K3ysTr0K3R/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2022-0543">
-- [OpsCipher/CVE-2022-0543](https://github.com/OpsCipher/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/OpsCipher/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/OpsCipher/CVE-2022-0543">
+- [fulxey/CVE-2022-0543](https://github.com/fulxey/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/fulxey/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/fulxey/CVE-2022-0543">
 - [CyberCTF/vulhub-redis-cve-2022-0543](https://github.com/CyberCTF/vulhub-redis-cve-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-redis-cve-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-redis-cve-2022-0543">
 
 ---

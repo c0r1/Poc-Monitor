@@ -939,6 +939,11 @@
 - [petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543)	<img alt="forks" src="https://img.shields.io/github/forks/petermalone/CVE-2026-84543">	<img alt="stars" src="https://img.shields.io/github/stars/petermalone/CVE-2026-84543">
 
 ---
+## CVE-2026-84520 ()
+> 
+- [csrXamfi/CVE-2026-84520](https://github.com/csrXamfi/CVE-2026-84520)	<img alt="forks" src="https://img.shields.io/github/forks/csrXamfi/CVE-2026-84520">	<img alt="stars" src="https://img.shields.io/github/stars/csrXamfi/CVE-2026-84520">
+
+---
 ## CVE-2026-8452 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
@@ -12735,6 +12740,11 @@
 ## CVE-2026-107268 ()
 > 
 - [yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268)	<img alt="forks" src="https://img.shields.io/github/forks/yuwkaaa/CVE-2026-107268">	<img alt="stars" src="https://img.shields.io/github/stars/yuwkaaa/CVE-2026-107268">
+
+---
+## CVE-2026-107181 ()
+> 
+- [SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181)	<img alt="forks" src="https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181">	<img alt="stars" src="https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181">
 
 ---
 ## CVE-2026-10702 ()
