@@ -247,6 +247,11 @@
 - [cflowsec/cve-2026-94504](https://github.com/cflowsec/cve-2026-94504)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/cve-2026-94504">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/cve-2026-94504">
 
 ---
+## CVE-2026-94503 ()
+> 
+- [Wayang1337/CVE-2026-94503](https://github.com/Wayang1337/CVE-2026-94503)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2026-94503">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2026-94503">
+
+---
 ## CVE-2026-94132 ()
 > 
 - [murrez/CVE-2026-94132](https://github.com/murrez/CVE-2026-94132)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-94132">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-94132">
@@ -869,6 +874,11 @@
 ## CVE-2026-85102 ()
 > 
 - [aduli198/CVE-2026-85102](https://github.com/aduli198/CVE-2026-85102)	<img alt="forks" src="https://img.shields.io/github/forks/aduli198/CVE-2026-85102">	<img alt="stars" src="https://img.shields.io/github/stars/aduli198/CVE-2026-85102">
+
+---
+## CVE-2026-85097 ()
+> 
+- [Wayang1337/CVE-2026-85097](https://github.com/Wayang1337/CVE-2026-85097)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2026-85097">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2026-85097">
 
 ---
 ## CVE-2026-8508 ()
@@ -6976,6 +6986,11 @@
 - [pateldhyeyit/CVE-2026-37149](https://github.com/pateldhyeyit/CVE-2026-37149)	<img alt="forks" src="https://img.shields.io/github/forks/pateldhyeyit/CVE-2026-37149">	<img alt="stars" src="https://img.shields.io/github/stars/pateldhyeyit/CVE-2026-37149">
 
 ---
+## CVE-2026-37107 ()
+> 
+- [KyrieKlay/CVE-2026-37107](https://github.com/KyrieKlay/CVE-2026-37107)	<img alt="forks" src="https://img.shields.io/github/forks/KyrieKlay/CVE-2026-37107">	<img alt="stars" src="https://img.shields.io/github/stars/KyrieKlay/CVE-2026-37107">
+
+---
 ## CVE-2026-36981 ()
 > 
 - [canomer/CVE-2026-36981-Kernel-EoP-PoC](https://github.com/canomer/CVE-2026-36981-Kernel-EoP-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/canomer/CVE-2026-36981-Kernel-EoP-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/canomer/CVE-2026-36981-Kernel-EoP-PoC">
@@ -12731,6 +12746,11 @@
 - [HORKimhab/CVE-2026-10795](https://github.com/HORKimhab/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10795">
 
 ---
+## CVE-2026-107806 ()
+> 
+- [murrez/CVE-2026-107806](https://github.com/murrez/CVE-2026-107806)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-107806">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-107806">
+
+---
 ## CVE-2026-107406 ()
 > 
 - [techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/citrix-netscaler-rce-cve-2026-107406">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/citrix-netscaler-rce-cve-2026-107406">
@@ -12756,6 +12776,11 @@
 ## CVE-2026-10672 ()
 > 
 - [Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri](https://github.com/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">
+
+---
+## CVE-2026-106445 ()
+> 
+- [murrez/CVE-2026-106445](https://github.com/murrez/CVE-2026-106445)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-106445">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-106445">
 
 ---
 ## CVE-2026-105844 ()
@@ -12849,6 +12874,7 @@
 > 
 - [ShadowForge-Cyber/CVE-2026-104286-POC](https://github.com/ShadowForge-Cyber/CVE-2026-104286-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-104286-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-104286-POC">
 - [techupdate24/fortimail-zero-day-cve-2026-104286](https://github.com/techupdate24/fortimail-zero-day-cve-2026-104286)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/fortimail-zero-day-cve-2026-104286">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/fortimail-zero-day-cve-2026-104286">
+- [kh20134/fortimail-cve-2026-104286-response](https://github.com/kh20134/fortimail-cve-2026-104286-response)	<img alt="forks" src="https://img.shields.io/github/forks/kh20134/fortimail-cve-2026-104286-response">	<img alt="stars" src="https://img.shields.io/github/stars/kh20134/fortimail-cve-2026-104286-response">
 
 ---
 ## CVE-2026-104110 ()
@@ -12945,6 +12971,11 @@
 > 
 - [horizon3ai/CVE-2026-102489](https://github.com/horizon3ai/CVE-2026-102489)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-102489">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-102489">
 - [Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce">
+
+---
+## CVE-2026-102428 ()
+> 
+- [murrez/CVE-2026-102428](https://github.com/murrez/CVE-2026-102428)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-102428">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-102428">
 
 ---
 ## CVE-2026-102425 ()
