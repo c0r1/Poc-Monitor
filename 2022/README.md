@@ -4975,6 +4975,7 @@ Here we only need to move the of_node_put() before the check.
 - [jkobierczynski/cve-2022-44268](https://github.com/jkobierczynski/cve-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/jkobierczynski/cve-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/jkobierczynski/cve-2022-44268">
 - [mouftan/CVE-2022-44268](https://github.com/mouftan/CVE-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/mouftan/CVE-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/mouftan/CVE-2022-44268">
 - [k-javaman12/CVE-2022-44268-](https://github.com/k-javaman12/CVE-2022-44268-)	<img alt="forks" src="https://img.shields.io/github/forks/k-javaman12/CVE-2022-44268-">	<img alt="stars" src="https://img.shields.io/github/stars/k-javaman12/CVE-2022-44268-">
+- [CyberCTF/vulhub-imagemagick-cve-2022-44268](https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-imagemagick-cve-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-imagemagick-cve-2022-44268">
 
 ---
 ## CVE-2022-44262 ()
@@ -31611,6 +31612,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23221 ()
 > 
 - [straightSang/H2-database-CVE-2022-23221](https://github.com/straightSang/H2-database-CVE-2022-23221)	<img alt="forks" src="https://img.shields.io/github/forks/straightSang/H2-database-CVE-2022-23221">	<img alt="stars" src="https://img.shields.io/github/stars/straightSang/H2-database-CVE-2022-23221">
+- [CyberCTF/vulhub-h2database-cve-2022-23221](https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-h2database-cve-2022-23221">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-h2database-cve-2022-23221">
 
 ---
 ## CVE-2022-2320 (2022-09-01T21:15:00)

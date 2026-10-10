@@ -1174,6 +1174,7 @@
 > 
 - [ehsehs5652/CVE-2017-15715-httpd](https://github.com/ehsehs5652/CVE-2017-15715-httpd)	<img alt="forks" src="https://img.shields.io/github/forks/ehsehs5652/CVE-2017-15715-httpd">	<img alt="stars" src="https://img.shields.io/github/stars/ehsehs5652/CVE-2017-15715-httpd">
 - [whisp1830/CVE-2017-15715](https://github.com/whisp1830/CVE-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/whisp1830/CVE-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/whisp1830/CVE-2017-15715">
+- [CyberCTF/vulhub-httpd-cve-2017-15715](https://github.com/CyberCTF/vulhub-httpd-cve-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2017-15715">
 
 ---
 ## CVE-2017-15700 ()
@@ -1913,6 +1914,7 @@
 ## CVE-2017-1000028 (2017-07-17T13:18:00)
 > Oracle, GlassFish Server Open Source Edition 4.1 is vulnerable to both authenticated and unauthenticated Directory Traversal vulnerability, that can be exploited by issuing a specially crafted HTTP GET request.
 - [NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/NeonNOXX/CVE-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/NeonNOXX/CVE-2017-1000028">
+- [CyberCTF/vulhub-glassfish-cve-2017-1000028](https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-glassfish-cve-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-glassfish-cve-2017-1000028">
 
 ---
 ## CVE-2017-0888 (2017-04-05T20:59:00)
