@@ -942,6 +942,7 @@
 ## CVE-2026-84568 ()
 > 
 - [jvidhan/autofs-cve-2026-84568](https://github.com/jvidhan/autofs-cve-2026-84568)	<img alt="forks" src="https://img.shields.io/github/forks/jvidhan/autofs-cve-2026-84568">	<img alt="stars" src="https://img.shields.io/github/stars/jvidhan/autofs-cve-2026-84568">
+- [redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568)	<img alt="forks" src="https://img.shields.io/github/forks/redinpulse/CVE-2026-84568">	<img alt="stars" src="https://img.shields.io/github/stars/redinpulse/CVE-2026-84568">
 
 ---
 ## CVE-2026-84543 ()
@@ -975,6 +976,12 @@
 ## CVE-2026-84434 ()
 > 
 - [murrez/CVE-2026-84434](https://github.com/murrez/CVE-2026-84434)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-84434">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-84434">
+
+---
+## CVE-2026-84411 ()
+> 
+- [maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-84411">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-84411">
+- [gagaltotal/CVE-2026-mikrotik-poc](https://github.com/gagaltotal/CVE-2026-mikrotik-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-mikrotik-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-mikrotik-poc">
 
 ---
 ## CVE-2026-84388 ()
@@ -2065,6 +2072,11 @@
 ## CVE-2026-6951 ()
 > 
 - [EQSTLab/CVE-2026-6951](https://github.com/EQSTLab/CVE-2026-6951)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-6951">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-6951">
+
+---
+## CVE-2026-69414 ()
+> 
+- [maxprog-svg/CVE-2026-69414](https://github.com/maxprog-svg/CVE-2026-69414)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-69414">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-69414">
 
 ---
 ## CVE-2026-69328 ()
