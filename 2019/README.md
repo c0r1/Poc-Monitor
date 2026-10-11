@@ -391,6 +391,7 @@
 - [Akshay15-png/CVE-2019-7609](https://github.com/Akshay15-png/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/Akshay15-png/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/Akshay15-png/CVE-2019-7609">
 - [toxaker/CVE-2019-7609](https://github.com/toxaker/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxaker/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxaker/CVE-2019-7609">
 - [aleister1102/kibana-prototype-pollusion](https://github.com/aleister1102/kibana-prototype-pollusion)	<img alt="forks" src="https://img.shields.io/github/forks/aleister1102/kibana-prototype-pollusion">	<img alt="stars" src="https://img.shields.io/github/stars/aleister1102/kibana-prototype-pollusion">
+- [CyberCTF/vulhub-kibana-cve-2019-7609](https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-kibana-cve-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-kibana-cve-2019-7609">
 
 ---
 ## CVE-2019-7529 ()
@@ -418,6 +419,12 @@
 ## CVE-2019-7238 ()
 > 
 - [CyberCTF/vulhub-nexus-cve-2019-7238](https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nexus-cve-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nexus-cve-2019-7238">
+- [DannyRavi/nmap-scripts](https://github.com/DannyRavi/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/DannyRavi/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/DannyRavi/nmap-scripts">
+- [smallpiggy/CVE-2019-7238](https://github.com/smallpiggy/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/smallpiggy/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/smallpiggy/CVE-2019-7238">
+- [magicming200/CVE-2019-7238_Nexus_RCE_Tool](https://github.com/magicming200/CVE-2019-7238_Nexus_RCE_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/magicming200/CVE-2019-7238_Nexus_RCE_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/magicming200/CVE-2019-7238_Nexus_RCE_Tool">
+- [jas502n/CVE-2019-7238](https://github.com/jas502n/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-7238">
+- [verctor/nexus_rce_CVE-2019-7238](https://github.com/verctor/nexus_rce_CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/verctor/nexus_rce_CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/verctor/nexus_rce_CVE-2019-7238">
+- [mpgn/CVE-2019-7238](https://github.com/mpgn/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-7238">
 
 ---
 ## CVE-2019-7232 (2019-06-24T17:15:00)
@@ -1852,6 +1859,7 @@ use after free.
 - [Dungsocool/CVE-2019-20933](https://github.com/Dungsocool/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2019-20933">
 - [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">
 - [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Hydragyrum/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Hydragyrum/CVE-2019-20933">
+- [CyberCTF/vulhub-influxdb-cve-2019-20933](https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-influxdb-cve-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-influxdb-cve-2019-20933">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
@@ -3537,6 +3545,11 @@ use after free.
 ## CVE-2019-10760 (2019-10-15T15:15:00)
 > safer-eval before 1.3.2 are vulnerable to Arbitrary Code Execution. A payload using constructor properties can escape the sandbox and execute arbitrary code.
 - [lirantal/safer-eval-cve-CVE-2019-10760](https://github.com/lirantal/safer-eval-cve-CVE-2019-10760)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/safer-eval-cve-CVE-2019-10760">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/safer-eval-cve-CVE-2019-10760">
+
+---
+## CVE-2019-10758 ()
+> 
+- [CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758">
 
 ---
 ## CVE-2019-10746 (2019-08-23T17:15:00)

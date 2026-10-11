@@ -1414,6 +1414,7 @@
 - [sbimoxa/cve-2021-43798-lab](https://github.com/sbimoxa/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sbimoxa/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sbimoxa/cve-2021-43798-lab">
 - [Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798](https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">
 - [khanna419/cve-2021-43798-lab](https://github.com/khanna419/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khanna419/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khanna419/cve-2021-43798-lab">
+- [CyberCTF/vulhub-grafana-cve-2021-43798](https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-grafana-cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-grafana-cve-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
@@ -7262,6 +7263,7 @@
 - [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/nacos-cve-2021-29441">
 - [azhao1981/CVE-2021-29441](https://github.com/azhao1981/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/azhao1981/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/azhao1981/CVE-2021-29441">
 - [K3ysTr0K3R/CVE-2021-29441](https://github.com/K3ysTr0K3R/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-29441">
+- [CyberCTF/vulhub-nacos-cve-2021-29441](https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nacos-cve-2021-29441">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
@@ -7453,6 +7455,7 @@
 ## CVE-2021-28164 (2021-04-01T15:15:00)
 > In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs that contain %2e or %2e%2e segments to access protected resources within the WEB-INF directory. For example a request to /context/%2e/WEB-INF/web.xml can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
 - [jammy0903/-jettyCVE-2021-28164-](https://github.com/jammy0903/-jettyCVE-2021-28164-)	<img alt="forks" src="https://img.shields.io/github/forks/jammy0903/-jettyCVE-2021-28164-">	<img alt="stars" src="https://img.shields.io/github/stars/jammy0903/-jettyCVE-2021-28164-">
+- [CyberCTF/vulhub-jetty-cve-2021-28164](https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jetty-cve-2021-28164">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jetty-cve-2021-28164">
 
 ---
 ## CVE-2021-28114 (2021-07-16T13:15:00)
@@ -9086,6 +9089,7 @@
 - [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 - [Jeromeyoung/CVE-2021-22210](https://github.com/Jeromeyoung/CVE-2021-22210)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-22210">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-22210">
 - [K3ysTr0K3R/CVE-2021-22205](https://github.com/K3ysTr0K3R/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-22205">
+- [CyberCTF/vulhub-gitlab-cve-2021-22205](https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-gitlab-cve-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-gitlab-cve-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)

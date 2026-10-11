@@ -324,6 +324,7 @@
 - [Fenil2511/CVE-2017-7529-POC](https://github.com/Fenil2511/CVE-2017-7529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Fenil2511/CVE-2017-7529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Fenil2511/CVE-2017-7529-POC">
 - [youngmin0104/CVE-2017-7529-](https://github.com/youngmin0104/CVE-2017-7529-)	<img alt="forks" src="https://img.shields.io/github/forks/youngmin0104/CVE-2017-7529-">	<img alt="stars" src="https://img.shields.io/github/stars/youngmin0104/CVE-2017-7529-">
 - [portfolio10/nginx](https://github.com/portfolio10/nginx)	<img alt="forks" src="https://img.shields.io/github/forks/portfolio10/nginx">	<img alt="stars" src="https://img.shields.io/github/stars/portfolio10/nginx">
+- [CyberCTF/vulhub-nginx-cve-2017-7529](https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2017-7529">
 
 ---
 ## CVE-2017-7504 (2017-05-19T20:29:00)
@@ -1241,6 +1242,11 @@
 ## CVE-2017-14862 (2017-09-29T01:34:00)
 > An Invalid memory address dereference was discovered in Exiv2::DataValue::read in value.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
 - [Live-Hack-CVE/CVE-2017-14862](https://github.com/Live-Hack-CVE/CVE-2017-14862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14862">
+
+---
+## CVE-2017-14849 ()
+> 
+- [CyberCTF/vulhub-node-cve-2017-14849](https://github.com/CyberCTF/vulhub-node-cve-2017-14849)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-node-cve-2017-14849">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-node-cve-2017-14849">
 
 ---
 ## CVE-2017-14746 (2017-11-27T22:29:00)
