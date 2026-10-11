@@ -6543,6 +6543,11 @@
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
 
 ---
+## CVE-2026-40224 ()
+> 
+- [0xparad0x/Exploit-CVE-2026-40224](https://github.com/0xparad0x/Exploit-CVE-2026-40224)	<img alt="forks" src="https://img.shields.io/github/forks/0xparad0x/Exploit-CVE-2026-40224">	<img alt="stars" src="https://img.shields.io/github/stars/0xparad0x/Exploit-CVE-2026-40224">
+
+---
 ## CVE-2026-40217 ()
 > 
 - [learner202649/CVE-2026-40217-PoC](https://github.com/learner202649/CVE-2026-40217-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-40217-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-40217-PoC">
@@ -9192,6 +9197,7 @@
 > 
 - [0xh7ml/CVE-2026-27626-PoC](https://github.com/0xh7ml/CVE-2026-27626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-27626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-27626-PoC">
 - [Cobrastrike62/CVE-2026-27626-POC](https://github.com/Cobrastrike62/CVE-2026-27626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-27626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-27626-POC">
+- [Shisones/CVE-2026-27626](https://github.com/Shisones/CVE-2026-27626)	<img alt="forks" src="https://img.shields.io/github/forks/Shisones/CVE-2026-27626">	<img alt="stars" src="https://img.shields.io/github/stars/Shisones/CVE-2026-27626">
 
 ---
 ## CVE-2026-27621 ()
@@ -12781,6 +12787,7 @@
 > 
 - [techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/citrix-netscaler-rce-cve-2026-107406">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/citrix-netscaler-rce-cve-2026-107406">
 - [ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc">
+- [ctroy999/CVE-2026-107406](https://github.com/ctroy999/CVE-2026-107406)	<img alt="forks" src="https://img.shields.io/github/forks/ctroy999/CVE-2026-107406">	<img alt="stars" src="https://img.shields.io/github/stars/ctroy999/CVE-2026-107406">
 
 ---
 ## CVE-2026-107268 ()
