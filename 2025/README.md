@@ -7965,8 +7965,9 @@
 - [HeltonPojo/CVE-2025-32432](https://github.com/HeltonPojo/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/HeltonPojo/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/HeltonPojo/CVE-2025-32432">
 - [PsyGuy007-sys/craftcms-cve-2025-32432-rce](https://github.com/PsyGuy007-sys/craftcms-cve-2025-32432-rce)	<img alt="forks" src="https://img.shields.io/github/forks/PsyGuy007-sys/craftcms-cve-2025-32432-rce">	<img alt="stars" src="https://img.shields.io/github/stars/PsyGuy007-sys/craftcms-cve-2025-32432-rce">
 - [EzraMansor/CVE-2025-32432-PoC](https://github.com/EzraMansor/CVE-2025-32432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EzraMansor/CVE-2025-32432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EzraMansor/CVE-2025-32432-PoC">
-- [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">
+- [Si13NTTT/CVE-2025-32432](https://github.com/Si13NTTT/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/Si13NTTT/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/Si13NTTT/CVE-2025-32432">
 - [P34NUT2/CVE-2025-32432-exploit-by-P34NUT](https://github.com/P34NUT2/CVE-2025-32432-exploit-by-P34NUT)	<img alt="forks" src="https://img.shields.io/github/forks/P34NUT2/CVE-2025-32432-exploit-by-P34NUT">	<img alt="stars" src="https://img.shields.io/github/stars/P34NUT2/CVE-2025-32432-exploit-by-P34NUT">
+- [l0lsuit/CVE-2025-32432-craftcms-rce](https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsuit/CVE-2025-32432-craftcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsuit/CVE-2025-32432-craftcms-rce">
 
 ---
 ## CVE-2025-3243 ()
