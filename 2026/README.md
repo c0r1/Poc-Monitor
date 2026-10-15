@@ -11878,6 +11878,8 @@
 - [hardeep-sudo/Keycloak-CVE-2026-18963-Exploit](https://github.com/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit">
 - [SonOfABot/-CVE-2026-18963-POC](https://github.com/SonOfABot/-CVE-2026-18963-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SonOfABot/-CVE-2026-18963-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SonOfABot/-CVE-2026-18963-POC">
 - [orevim/CVE-2026-18963-PoC](https://github.com/orevim/CVE-2026-18963-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/orevim/CVE-2026-18963-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/orevim/CVE-2026-18963-PoC">
+- [orevim/CVE-2026-18963-PoC](https://github.com/orevim/CVE-2026-18963-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/orevim/CVE-2026-18963-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/orevim/CVE-2026-18963-PoC">
+- [ynsmroztas/KeySniper](https://github.com/ynsmroztas/KeySniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/KeySniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/KeySniper">
 
 ---
 ## CVE-2026-18953 ()
@@ -13183,6 +13185,11 @@
 - [MrjHaxcore/CVE-2026-104748](https://github.com/MrjHaxcore/CVE-2026-104748)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2026-104748">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2026-104748">
 
 ---
+## CVE-2026-104715 ()
+> 
+- [M3aCulpa/CVE-2026-104715](https://github.com/M3aCulpa/CVE-2026-104715)	<img alt="forks" src="https://img.shields.io/github/forks/M3aCulpa/CVE-2026-104715">	<img alt="stars" src="https://img.shields.io/github/stars/M3aCulpa/CVE-2026-104715">
+
+---
 ## CVE-2026-104711 ()
 > 
 - [uday952/CVE-2026-104711-Advanced-Variant](https://github.com/uday952/CVE-2026-104711-Advanced-Variant)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-Advanced-Variant">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-Advanced-Variant">
@@ -13322,6 +13329,11 @@
 ## CVE-2026-102718 ()
 > 
 - [D7EAD/CVE-2026-102718](https://github.com/D7EAD/CVE-2026-102718)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-102718">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-102718">
+
+---
+## CVE-2026-102697 ()
+> 
+- [akinerkisa/blindllama-cve-2026-102697](https://github.com/akinerkisa/blindllama-cve-2026-102697)	<img alt="forks" src="https://img.shields.io/github/forks/akinerkisa/blindllama-cve-2026-102697">	<img alt="stars" src="https://img.shields.io/github/stars/akinerkisa/blindllama-cve-2026-102697">
 
 ---
 ## CVE-2026-102489 ()
