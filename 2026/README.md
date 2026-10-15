@@ -2858,6 +2858,7 @@
 - [Meniben/redmi14c-pond-cve-2026-64560](https://github.com/Meniben/redmi14c-pond-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/Meniben/redmi14c-pond-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/Meniben/redmi14c-pond-cve-2026-64560">
 - [imkidz0/CVE-2026-64560-exploit](https://github.com/imkidz0/CVE-2026-64560-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/imkidz0/CVE-2026-64560-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/imkidz0/CVE-2026-64560-exploit">
 - [feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu">
+- [sangsheng2026/honor-90gt-mag-an00-root-research](https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research)	<img alt="forks" src="https://img.shields.io/github/forks/sangsheng2026/honor-90gt-mag-an00-root-research">	<img alt="stars" src="https://img.shields.io/github/stars/sangsheng2026/honor-90gt-mag-an00-root-research">
 
 ---
 ## CVE-2026-64531 ()
@@ -12936,6 +12937,7 @@
 ## CVE-2026-110912 ()
 > 
 - [dreamfast/CVE-2026-110912](https://github.com/dreamfast/CVE-2026-110912)	<img alt="forks" src="https://img.shields.io/github/forks/dreamfast/CVE-2026-110912">	<img alt="stars" src="https://img.shields.io/github/stars/dreamfast/CVE-2026-110912">
+- [0xBlackash/CVE-2026-110912](https://github.com/0xBlackash/CVE-2026-110912)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-110912">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-110912">
 
 ---
 ## CVE-2026-1107 ()
@@ -12982,6 +12984,11 @@
 ## CVE-2026-108592 ()
 > 
 - [asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc">
+
+---
+## CVE-2026-108578 ()
+> 
+- [KernelDotDLL/CVE-2026-108578](https://github.com/KernelDotDLL/CVE-2026-108578)	<img alt="forks" src="https://img.shields.io/github/forks/KernelDotDLL/CVE-2026-108578">	<img alt="stars" src="https://img.shields.io/github/stars/KernelDotDLL/CVE-2026-108578">
 
 ---
 ## CVE-2026-10818 ()
