@@ -988,6 +988,7 @@
 - [canpilayda/n8n-RCE-CVE-2025-68613](https://github.com/canpilayda/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/n8n-RCE-CVE-2025-68613">
 - [azilRababe/CVE-2025-68613](https://github.com/azilRababe/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2025-68613">
 - [rmhowe425/POC-CVE-2025-68613](https://github.com/rmhowe425/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-68613">
+- [bijoumj/cve-2025-68613-ctf](https://github.com/bijoumj/cve-2025-68613-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/bijoumj/cve-2025-68613-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/bijoumj/cve-2025-68613-ctf">
 
 ---
 ## CVE-2025-6860 ()
@@ -1300,6 +1301,11 @@
 ## CVE-2025-666666 ()
 > 
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
+
+---
+## CVE-2025-66645 ()
+> 
+- [prokeon5991-wq/cve-2025-66645](https://github.com/prokeon5991-wq/cve-2025-66645)	<img alt="forks" src="https://img.shields.io/github/forks/prokeon5991-wq/cve-2025-66645">	<img alt="stars" src="https://img.shields.io/github/stars/prokeon5991-wq/cve-2025-66645">
 
 ---
 ## CVE-2025-66644 ()
