@@ -5424,6 +5424,7 @@
 - [shinthink/solrradar](https://github.com/shinthink/solrradar)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/solrradar">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/solrradar">
 - [q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_test">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_test">
 - [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
+- [q0524/CVE-2026-44825_CTF](https://github.com/q0524/CVE-2026-44825_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_CTF">
 
 ---
 ## CVE-2026-4480 ()
@@ -12930,6 +12931,11 @@
 ## CVE-2026-108924 ()
 > 
 - [capivara-research/CVE-2026-108924](https://github.com/capivara-research/CVE-2026-108924)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-108924">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-108924">
+
+---
+## CVE-2026-108598 ()
+> 
+- [Sidesploitx/CVE-2026-108598](https://github.com/Sidesploitx/CVE-2026-108598)	<img alt="forks" src="https://img.shields.io/github/forks/Sidesploitx/CVE-2026-108598">	<img alt="stars" src="https://img.shields.io/github/stars/Sidesploitx/CVE-2026-108598">
 
 ---
 ## CVE-2026-108592 ()
