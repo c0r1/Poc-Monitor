@@ -9729,7 +9729,7 @@
 ---
 ## CVE-2025-24801 ()
 > 
-- [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/CVE-2025-24801">
+- [r1beirin/Exploit-CVE-2025-24801](https://github.com/r1beirin/Exploit-CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/Exploit-CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/Exploit-CVE-2025-24801">
 - [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24801">
 - [b4sh0xf/PoC-CVE-2025-24801](https://github.com/b4sh0xf/PoC-CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh0xf/PoC-CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh0xf/PoC-CVE-2025-24801">
 - [kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE](https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE">
