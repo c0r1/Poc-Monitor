@@ -468,6 +468,16 @@
 - [murrez/CVE-2026-92229](https://github.com/murrez/CVE-2026-92229)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-92229">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-92229">
 
 ---
+## CVE-2026-92209 ()
+> 
+- [do4choo/CVE-2026-92209_NoMachine_LPE](https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/do4choo/CVE-2026-92209_NoMachine_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/do4choo/CVE-2026-92209_NoMachine_LPE">
+
+---
+## CVE-2026-92208 ()
+> 
+- [do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow)	<img alt="forks" src="https://img.shields.io/github/forks/do4choo/CVE-2026-92208_remote_mDNS_overflow">	<img alt="stars" src="https://img.shields.io/github/stars/do4choo/CVE-2026-92208_remote_mDNS_overflow">
+
+---
 ## CVE-2026-92162 ()
 > 
 - [0xSemizzz/CVE-2026-92162](https://github.com/0xSemizzz/CVE-2026-92162)	<img alt="forks" src="https://img.shields.io/github/forks/0xSemizzz/CVE-2026-92162">	<img alt="stars" src="https://img.shields.io/github/stars/0xSemizzz/CVE-2026-92162">
