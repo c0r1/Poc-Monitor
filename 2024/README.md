@@ -7323,6 +7323,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [whyuhurtz/wongpress](https://github.com/whyuhurtz/wongpress)	<img alt="forks" src="https://img.shields.io/github/forks/whyuhurtz/wongpress">	<img alt="stars" src="https://img.shields.io/github/stars/whyuhurtz/wongpress">
 - [Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE">
 - [muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961](https://github.com/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">
+- [Sib1110/cve-2024-2961](https://github.com/Sib1110/cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/Sib1110/cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/Sib1110/cve-2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)

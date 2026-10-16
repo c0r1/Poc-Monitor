@@ -4067,6 +4067,7 @@
 > 
 - [HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365">
 - [HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365">
+- [hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365">
 
 ---
 ## CVE-2026-53360 ()
@@ -12829,6 +12830,16 @@
 ## CVE-2026-1122 ()
 > 
 - [George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection](https://github.com/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection">
+
+---
+## CVE-2026-111444 ()
+> 
+- [Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444)	<img alt="forks" src="https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111444">	<img alt="stars" src="https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111444">
+
+---
+## CVE-2026-111389 ()
+> 
+- [Syscallh00k/CVE-2026-111389](https://github.com/Syscallh00k/CVE-2026-111389)	<img alt="forks" src="https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111389">	<img alt="stars" src="https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111389">
 
 ---
 ## CVE-2026-11120 ()
