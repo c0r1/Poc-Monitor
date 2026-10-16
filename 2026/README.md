@@ -2869,6 +2869,11 @@
 - [HackSpeak/CVE-2026-64531](https://github.com/HackSpeak/CVE-2026-64531)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64531">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64531">
 
 ---
+## CVE-2026-64507 ()
+> 
+- [manalejandro/CVE-2026-64507](https://github.com/manalejandro/CVE-2026-64507)	<img alt="forks" src="https://img.shields.io/github/forks/manalejandro/CVE-2026-64507">	<img alt="stars" src="https://img.shields.io/github/stars/manalejandro/CVE-2026-64507">
+
+---
 ## CVE-2026-6440 ()
 > 
 - [Alixploit22/CVE-2026-6440](https://github.com/Alixploit22/CVE-2026-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2026-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2026-6440">
