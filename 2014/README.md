@@ -156,6 +156,7 @@
 - [CyberCTF/vulhub-bash-cve-2014-6271](https://github.com/CyberCTF/vulhub-bash-cve-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-bash-cve-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-bash-cve-2014-6271">
 - [mgiftson0/linux-env-vars-shellshock-lab](https://github.com/mgiftson0/linux-env-vars-shellshock-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mgiftson0/linux-env-vars-shellshock-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mgiftson0/linux-env-vars-shellshock-lab">
 - [FREEGUY-6/dmz-security-monitoring-hardening](https://github.com/FREEGUY-6/dmz-security-monitoring-hardening)	<img alt="forks" src="https://img.shields.io/github/forks/FREEGUY-6/dmz-security-monitoring-hardening">	<img alt="stars" src="https://img.shields.io/github/stars/FREEGUY-6/dmz-security-monitoring-hardening">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
