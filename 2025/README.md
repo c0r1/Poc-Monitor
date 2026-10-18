@@ -1953,6 +1953,7 @@
 - [sahmsec/CVE-2025-6440](https://github.com/sahmsec/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2025-6440">
 - [SangSenimanWartefak/CVE-2025-6440](https://github.com/SangSenimanWartefak/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/SangSenimanWartefak/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/SangSenimanWartefak/CVE-2025-6440">
 - [katranSefa/CVE-2025-6440](https://github.com/katranSefa/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-6440">
+- [0xCyp1337/CVE-2025-6440-BypassExt](https://github.com/0xCyp1337/CVE-2025-6440-BypassExt)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2025-6440-BypassExt">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2025-6440-BypassExt">
 
 ---
 ## CVE-2025-64328 ()
@@ -8460,6 +8461,7 @@
 - [HazaVVIP/CVE-2025-30208](https://github.com/HazaVVIP/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HazaVVIP/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HazaVVIP/CVE-2025-30208">
 - [cc3305/CVE-2025-30208](https://github.com/cc3305/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-30208">
 - [Minseo9503/cve-2025-30208](https://github.com/Minseo9503/cve-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Minseo9503/cve-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Minseo9503/cve-2025-30208">
+- [L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125)	<img alt="forks" src="https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125">	<img alt="stars" src="https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125">
 
 ---
 ## CVE-2025-30144 ()

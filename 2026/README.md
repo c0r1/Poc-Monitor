@@ -13,6 +13,8 @@
 - [PeronGH/CVE-2026-99999](https://github.com/PeronGH/CVE-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/PeronGH/CVE-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/PeronGH/CVE-2026-99999">
 - [MChorfa/csumguard](https://github.com/MChorfa/csumguard)	<img alt="forks" src="https://img.shields.io/github/forks/MChorfa/csumguard">	<img alt="stars" src="https://img.shields.io/github/stars/MChorfa/csumguard">
 - [24520597-blip/CVE-2026-999999](https://github.com/24520597-blip/CVE-2026-999999)	<img alt="forks" src="https://img.shields.io/github/forks/24520597-blip/CVE-2026-999999">	<img alt="stars" src="https://img.shields.io/github/stars/24520597-blip/CVE-2026-999999">
+- [zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/zakinko/kpatch-alma-cve-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/zakinko/kpatch-alma-cve-2026-99999">
+- [kingahmadr/CVE-2026-99999-kernel-check](https://github.com/kingahmadr/CVE-2026-99999-kernel-check)	<img alt="forks" src="https://img.shields.io/github/forks/kingahmadr/CVE-2026-99999-kernel-check">	<img alt="stars" src="https://img.shields.io/github/stars/kingahmadr/CVE-2026-99999-kernel-check">
 
 ---
 ## CVE-2026-9999 ()
@@ -1378,6 +1380,16 @@
 > 
 - [HORKimhab/CVE-2026-8037](https://github.com/HORKimhab/CVE-2026-8037)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8037">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8037">
 - [Caster-chen/CVE-2026-8037-POC](https://github.com/Caster-chen/CVE-2026-8037-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Caster-chen/CVE-2026-8037-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Caster-chen/CVE-2026-8037-POC">
+
+---
+## CVE-2026-80343 ()
+> 
+- [oscerd/CVE-2026-80343](https://github.com/oscerd/CVE-2026-80343)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-80343">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-80343">
+
+---
+## CVE-2026-80312 ()
+> 
+- [oscerd/CVE-2026-80312](https://github.com/oscerd/CVE-2026-80312)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-80312">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-80312">
 
 ---
 ## CVE-2026-80099 ()
@@ -3554,6 +3566,11 @@
 - [HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-58231">
 - [WildanDeveloper/CVE-2026-58231](https://github.com/WildanDeveloper/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/WildanDeveloper/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/WildanDeveloper/CVE-2026-58231">
 - [SAP-system-update/CVE-2026-58231](https://github.com/SAP-system-update/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/SAP-system-update/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/SAP-system-update/CVE-2026-58231">
+
+---
+## CVE-2026-58221 ()
+> 
+- [DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221)	<img alt="forks" src="https://img.shields.io/github/forks/DevAli00/CVE-2026-58221">	<img alt="stars" src="https://img.shields.io/github/stars/DevAli00/CVE-2026-58221">
 
 ---
 ## CVE-2026-58138 ()
@@ -13480,6 +13497,11 @@
 ## CVE-2026-103889 ()
 > 
 - [kayes817/CVE-2026-103889](https://github.com/kayes817/CVE-2026-103889)	<img alt="forks" src="https://img.shields.io/github/forks/kayes817/CVE-2026-103889">	<img alt="stars" src="https://img.shields.io/github/stars/kayes817/CVE-2026-103889">
+
+---
+## CVE-2026-103849 ()
+> 
+- [dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-103849-blockstrap-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-103849-blockstrap-lab">
 
 ---
 ## CVE-2026-103752 ()
