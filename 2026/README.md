@@ -4616,6 +4616,7 @@
 ## CVE-2026-50229 ()
 > 
 - [zero-trace7/CVE-2026-50229](https://github.com/zero-trace7/CVE-2026-50229)	<img alt="forks" src="https://img.shields.io/github/forks/zero-trace7/CVE-2026-50229">	<img alt="stars" src="https://img.shields.io/github/stars/zero-trace7/CVE-2026-50229">
+- [flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229)	<img alt="forks" src="https://img.shields.io/github/forks/flvzx/CVE-2026-50229">	<img alt="stars" src="https://img.shields.io/github/stars/flvzx/CVE-2026-50229">
 
 ---
 ## CVE-2026-50181 ()
