@@ -1107,6 +1107,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [ading2210/CVE-2024-6778-POC](https://github.com/ading2210/CVE-2024-6778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ading2210/CVE-2024-6778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ading2210/CVE-2024-6778-POC">
 
 ---
+## CVE-2024-58299 ()
+> 
+- [CyberWarrior10101/CVE-2024-58299](https://github.com/CyberWarrior10101/CVE-2024-58299)	<img alt="forks" src="https://img.shields.io/github/forks/CyberWarrior10101/CVE-2024-58299">	<img alt="stars" src="https://img.shields.io/github/stars/CyberWarrior10101/CVE-2024-58299">
+
+---
 ## CVE-2024-58290 ()
 > 
 - [SohelYousef/CVE-2024-58290-Xhibiter-SQLi](https://github.com/SohelYousef/CVE-2024-58290-Xhibiter-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SohelYousef/CVE-2024-58290-Xhibiter-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SohelYousef/CVE-2024-58290-Xhibiter-SQLi">
@@ -5569,6 +5574,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [0xjiefeng/CVE-2024-35250-BOF](https://github.com/0xjiefeng/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/0xjiefeng/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/0xjiefeng/CVE-2024-35250-BOF">
 - [yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/yinsel/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/yinsel/CVE-2024-35250-BOF">
 - [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/ro0tmylove/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/ro0tmylove/CVE-2024-35250-BOF">
+- [m01000xd/CVE-2024-35250](https://github.com/m01000xd/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/m01000xd/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/m01000xd/CVE-2024-35250">
 
 ---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
