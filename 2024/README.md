@@ -996,6 +996,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [m0n3ef/regreSSHion-Checker](https://github.com/m0n3ef/regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/m0n3ef/regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/m0n3ef/regreSSHion-Checker">
 - [oseasfr/Scanner_CVE_OpenSSH](https://github.com/oseasfr/Scanner_CVE_OpenSSH)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_OpenSSH">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_OpenSSH">
 - [hasan8babiker/CVE-2024-6387](https://github.com/hasan8babiker/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/hasan8babiker/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/hasan8babiker/CVE-2024-6387">
+- [dolapoojone/CVE-2024-6387-Vulnerability-Anaysis](https://github.com/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis)	<img alt="forks" src="https://img.shields.io/github/forks/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">	<img alt="stars" src="https://img.shields.io/github/stars/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -8014,6 +8015,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
 - [abiral-timalsina/Cyber-Defenders-lab-](https://github.com/abiral-timalsina/Cyber-Defenders-lab-)	<img alt="forks" src="https://img.shields.io/github/forks/abiral-timalsina/Cyber-Defenders-lab-">	<img alt="stars" src="https://img.shields.io/github/stars/abiral-timalsina/Cyber-Defenders-lab-">
 - [wonnnggge/CVE-2024-27198_CTF](https://github.com/wonnnggge/CVE-2024-27198_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/wonnnggge/CVE-2024-27198_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/wonnnggge/CVE-2024-27198_CTF">
+- [GREATKID05/CVE-2024-27198-Assignment](https://github.com/GREATKID05/CVE-2024-27198-Assignment)	<img alt="forks" src="https://img.shields.io/github/forks/GREATKID05/CVE-2024-27198-Assignment">	<img alt="stars" src="https://img.shields.io/github/stars/GREATKID05/CVE-2024-27198-Assignment">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -10461,6 +10463,11 @@ authentication.   
 ## CVE-2024-12641 ()
 > 
 - [Jimmy01240397/CVE-2024-12641_12642_12645](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12645)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12645">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12645">
+
+---
+## CVE-2024-12603 ()
+> 
+- [MAwaisAfzal0/CVE-2024-12603-POC](https://github.com/MAwaisAfzal0/CVE-2024-12603-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MAwaisAfzal0/CVE-2024-12603-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MAwaisAfzal0/CVE-2024-12603-POC">
 
 ---
 ## CVE-2024-12583 ()
