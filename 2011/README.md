@@ -139,6 +139,7 @@
 - [sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs](https://github.com/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs)	<img alt="forks" src="https://img.shields.io/github/forks/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">	<img alt="stars" src="https://img.shields.io/github/stars/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">
 - [Spidey1919/vsftpd-2.3.4-rce-assessment](https://github.com/Spidey1919/vsftpd-2.3.4-rce-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Spidey1919/vsftpd-2.3.4-rce-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Spidey1919/vsftpd-2.3.4-rce-assessment">
 - [delmag138/NovaShyld_Task_3](https://github.com/delmag138/NovaShyld_Task_3)	<img alt="forks" src="https://img.shields.io/github/forks/delmag138/NovaShyld_Task_3">	<img alt="stars" src="https://img.shields.io/github/stars/delmag138/NovaShyld_Task_3">
+- [secwitness/CVE-2011-2523-vsftpd-backdoor-analysis](https://github.com/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)

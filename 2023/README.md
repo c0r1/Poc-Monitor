@@ -1180,6 +1180,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab">
 - [jarpex/cve-2023-4911-exploit-optimized](https://github.com/jarpex/cve-2023-4911-exploit-optimized)	<img alt="forks" src="https://img.shields.io/github/forks/jarpex/cve-2023-4911-exploit-optimized">	<img alt="stars" src="https://img.shields.io/github/stars/jarpex/cve-2023-4911-exploit-optimized">
 - [baeseungwon1010/CVE-2023-4911](https://github.com/baeseungwon1010/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/baeseungwon1010/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/baeseungwon1010/CVE-2023-4911">
+- [adewlee87-rgb/cve-2023-4911-looney-tunables](https://github.com/adewlee87-rgb/cve-2023-4911-looney-tunables)	<img alt="forks" src="https://img.shields.io/github/forks/adewlee87-rgb/cve-2023-4911-looney-tunables">	<img alt="stars" src="https://img.shields.io/github/stars/adewlee87-rgb/cve-2023-4911-looney-tunables">
 
 ---
 ## CVE-2023-49109 ()

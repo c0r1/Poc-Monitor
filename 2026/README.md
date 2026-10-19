@@ -16,6 +16,7 @@
 - [zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/zakinko/kpatch-alma-cve-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/zakinko/kpatch-alma-cve-2026-99999">
 - [kingahmadr/CVE-2026-99999-kernel-check](https://github.com/kingahmadr/CVE-2026-99999-kernel-check)	<img alt="forks" src="https://img.shields.io/github/forks/kingahmadr/CVE-2026-99999-kernel-check">	<img alt="stars" src="https://img.shields.io/github/stars/kingahmadr/CVE-2026-99999-kernel-check">
 - [01luyicheng/CVE-2026-99999](https://github.com/01luyicheng/CVE-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/01luyicheng/CVE-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/01luyicheng/CVE-2026-99999">
+- [gandli/CVE-2026-99999-pwnescape](https://github.com/gandli/CVE-2026-99999-pwnescape)	<img alt="forks" src="https://img.shields.io/github/forks/gandli/CVE-2026-99999-pwnescape">	<img alt="stars" src="https://img.shields.io/github/stars/gandli/CVE-2026-99999-pwnescape">
 
 ---
 ## CVE-2026-9999 ()
@@ -3007,6 +3008,8 @@
 - [maosasagawa/pmx110-cve-2026-64560](https://github.com/maosasagawa/pmx110-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/maosasagawa/pmx110-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/maosasagawa/pmx110-cve-2026-64560">
 - [totsiaw/cve-2026-64560-rmx6699](https://github.com/totsiaw/cve-2026-64560-rmx6699)	<img alt="forks" src="https://img.shields.io/github/forks/totsiaw/cve-2026-64560-rmx6699">	<img alt="stars" src="https://img.shields.io/github/stars/totsiaw/cve-2026-64560-rmx6699">
 - [ChaYeWuu/prague-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0)	<img alt="forks" src="https://img.shields.io/github/forks/ChaYeWuu/prague-CVE-2026-64560-OS4.0">	<img alt="stars" src="https://img.shields.io/github/stars/ChaYeWuu/prague-CVE-2026-64560-OS4.0">
+- [Feng1586/CVE-2026-64560-public](https://github.com/Feng1586/CVE-2026-64560-public)	<img alt="forks" src="https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-public">	<img alt="stars" src="https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-public">
+- [Feng1586/CVE-2026-64560-sources](https://github.com/Feng1586/CVE-2026-64560-sources)	<img alt="forks" src="https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-sources">	<img alt="stars" src="https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-sources">
 
 ---
 ## CVE-2026-64531 ()
