@@ -5575,6 +5575,9 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/yinsel/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/yinsel/CVE-2024-35250-BOF">
 - [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/ro0tmylove/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/ro0tmylove/CVE-2024-35250-BOF">
 - [m01000xd/CVE-2024-35250](https://github.com/m01000xd/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/m01000xd/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/m01000xd/CVE-2024-35250">
+- [xvalegendary/HVCIPwned](https://github.com/xvalegendary/HVCIPwned)	<img alt="forks" src="https://img.shields.io/github/forks/xvalegendary/HVCIPwned">	<img alt="stars" src="https://img.shields.io/github/stars/xvalegendary/HVCIPwned">
+- [0xROOTPLS/GiveMeKernel](https://github.com/0xROOTPLS/GiveMeKernel)	<img alt="forks" src="https://img.shields.io/github/forks/0xROOTPLS/GiveMeKernel">	<img alt="stars" src="https://img.shields.io/github/stars/0xROOTPLS/GiveMeKernel">
+- [CrackerCat/CVE-2024-35250](https://github.com/CrackerCat/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-35250">
 
 ---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
