@@ -797,6 +797,7 @@
 - [r0lh/CVE-2020-7247](https://github.com/r0lh/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2020-7247">
 - [minhluannguyen/CVE-2020-7247-reproducer](https://github.com/minhluannguyen/CVE-2020-7247-reproducer)	<img alt="forks" src="https://img.shields.io/github/forks/minhluannguyen/CVE-2020-7247-reproducer">	<img alt="stars" src="https://img.shields.io/github/stars/minhluannguyen/CVE-2020-7247-reproducer">
 - [solmin111/OpenSMTPD-CVE-2020-7247-](https://github.com/solmin111/OpenSMTPD-CVE-2020-7247-)	<img alt="forks" src="https://img.shields.io/github/forks/solmin111/OpenSMTPD-CVE-2020-7247-">	<img alt="stars" src="https://img.shields.io/github/stars/solmin111/OpenSMTPD-CVE-2020-7247-">
+- [CyberCTF/vulhub-opensmtpd-cve-2020-7247](https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-opensmtpd-cve-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-opensmtpd-cve-2020-7247">
 
 ---
 ## CVE-2020-7246 (2020-01-21T14:15:00)

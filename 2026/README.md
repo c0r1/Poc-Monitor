@@ -20,6 +20,7 @@
 - [nsrg-fmlorg/kpatch-rocky-cve-2026-99999](https://github.com/nsrg-fmlorg/kpatch-rocky-cve-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-rocky-cve-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-rocky-cve-2026-99999">
 - [shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC](https://github.com/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC">
 - [alvaroguzmancode/CVE-2026-99999](https://github.com/alvaroguzmancode/CVE-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-99999">
+- [sqzer-x/cve-2026-99999-scanner](https://github.com/sqzer-x/cve-2026-99999-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sqzer-x/cve-2026-99999-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sqzer-x/cve-2026-99999-scanner">
 
 ---
 ## CVE-2026-9999 ()
