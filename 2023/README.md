@@ -4886,6 +4886,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.](https://github.com/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.)	<img alt="forks" src="https://img.shields.io/github/forks/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">	<img alt="stars" src="https://img.shields.io/github/stars/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">
 - [khengar9274-web/moveit-transfer-2023-breach](https://github.com/khengar9274-web/moveit-transfer-2023-breach)	<img alt="forks" src="https://img.shields.io/github/forks/khengar9274-web/moveit-transfer-2023-breach">	<img alt="stars" src="https://img.shields.io/github/stars/khengar9274-web/moveit-transfer-2023-breach">
 - [horrister/moveit-transfer-cve-2023-34362](https://github.com/horrister/moveit-transfer-cve-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/moveit-transfer-cve-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/moveit-transfer-cve-2023-34362">
+- [k9yk5zkn76-op/-CVE-2023-34362-Analysis](https://github.com/k9yk5zkn76-op/-CVE-2023-34362-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/k9yk5zkn76-op/-CVE-2023-34362-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/k9yk5zkn76-op/-CVE-2023-34362-Analysis">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
@@ -8968,6 +8969,11 @@ If the server is run as root (which is the default when installing the  snap pac
 ## CVE-2023-0630 (2023-03-20T16:15:00)
 > The Slimstat Analytics WordPress plugin before 4.9.3.3 does not prevent subscribers from rendering shortcodes that concatenates attributes directly into an SQL query.
 - [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630">
+
+---
+## CVE-2023-0482 ()
+> 
+- [Bethel904/CVE-2023-0482-Analysis](https://github.com/Bethel904/CVE-2023-0482-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Bethel904/CVE-2023-0482-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Bethel904/CVE-2023-0482-Analysis">
 
 ---
 ## CVE-2023-0464 (2023-03-22T17:15:00)

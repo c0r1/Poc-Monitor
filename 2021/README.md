@@ -5829,6 +5829,12 @@
 - [TieuLong21Prosper/detect_bruteforce](https://github.com/TieuLong21Prosper/detect_bruteforce)	<img alt="forks" src="https://img.shields.io/github/forks/TieuLong21Prosper/detect_bruteforce">	<img alt="stars" src="https://img.shields.io/github/stars/TieuLong21Prosper/detect_bruteforce">
 - [AUSK1LL9/CVE-2021-34527](https://github.com/AUSK1LL9/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/AUSK1LL9/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/AUSK1LL9/CVE-2021-34527">
 - [AlDawli/CVE-2021-34527-](https://github.com/AlDawli/CVE-2021-34527-)	<img alt="forks" src="https://img.shields.io/github/forks/AlDawli/CVE-2021-34527-">	<img alt="stars" src="https://img.shields.io/github/stars/AlDawli/CVE-2021-34527-">
+- [honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md)	<img alt="forks" src="https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">	<img alt="stars" src="https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">
+- [s1kh/Vulnerability-Analysis-and-Mitigation](https://github.com/s1kh/Vulnerability-Analysis-and-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/s1kh/Vulnerability-Analysis-and-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/s1kh/Vulnerability-Analysis-and-Mitigation">
+- [HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675">
+- [joertx07/printnightmare-detection-lab](https://github.com/joertx07/printnightmare-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/joertx07/printnightmare-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/joertx07/printnightmare-detection-lab">
+- [KaritaMW/printnightmare-detection-mitigation-lab](https://github.com/KaritaMW/printnightmare-detection-mitigation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KaritaMW/printnightmare-detection-mitigation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KaritaMW/printnightmare-detection-mitigation-lab">
+- [ccordeiro/CVE-2021-1675](https://github.com/ccordeiro/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-1675">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
@@ -7756,6 +7762,7 @@
 - [SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit](https://github.com/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit">
 - [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
 - [haotiku/CVE-2021-26855-exploit-Exchange](https://github.com/haotiku/CVE-2021-26855-exploit-Exchange)	<img alt="forks" src="https://img.shields.io/github/forks/haotiku/CVE-2021-26855-exploit-Exchange">	<img alt="stars" src="https://img.shields.io/github/stars/haotiku/CVE-2021-26855-exploit-Exchange">
+- [ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis">
 
 ---
 ## CVE-2021-26837 ()
