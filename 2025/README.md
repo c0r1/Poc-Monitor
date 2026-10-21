@@ -793,6 +793,11 @@
 - [Kha-Beleh/PoC-CVE-2025-69419](https://github.com/Kha-Beleh/PoC-CVE-2025-69419)	<img alt="forks" src="https://img.shields.io/github/forks/Kha-Beleh/PoC-CVE-2025-69419">	<img alt="stars" src="https://img.shields.io/github/stars/Kha-Beleh/PoC-CVE-2025-69419">
 
 ---
+## CVE-2025-69413 ()
+> 
+- [fuad00/CVE-2025-69413-PoC](https://github.com/fuad00/CVE-2025-69413-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fuad00/CVE-2025-69413-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fuad00/CVE-2025-69413-PoC">
+
+---
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
