@@ -8695,6 +8695,7 @@
 - [vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/vulnace/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/vulnace/CVE-2025-29927">
 - [sungue1/CVE-2025-29927](https://github.com/sungue1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sungue1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sungue1/CVE-2025-29927">
 - [mcpmark-eval-liuhezi/cve-2025-29927-audit](https://github.com/mcpmark-eval-liuhezi/cve-2025-29927-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/cve-2025-29927-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/cve-2025-29927-audit">
+- [gadaugherty/larkspur-billing](https://github.com/gadaugherty/larkspur-billing)	<img alt="forks" src="https://img.shields.io/github/forks/gadaugherty/larkspur-billing">	<img alt="stars" src="https://img.shields.io/github/stars/gadaugherty/larkspur-billing">
 
 ---
 ## CVE-2025-29891 ()
