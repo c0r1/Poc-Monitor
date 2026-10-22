@@ -5430,6 +5430,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [DanieleGiovanardi2408/cve-2024-36401-geoserver-rce](https://github.com/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce)	<img alt="forks" src="https://img.shields.io/github/forks/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">	<img alt="stars" src="https://img.shields.io/github/stars/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">
 - [keelanbrady1011/CVE-2024-36401](https://github.com/keelanbrady1011/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/keelanbrady1011/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/keelanbrady1011/CVE-2024-36401">
 - [raniaemran/cve-2024-36401-security-simulator](https://github.com/raniaemran/cve-2024-36401-security-simulator)	<img alt="forks" src="https://img.shields.io/github/forks/raniaemran/cve-2024-36401-security-simulator">	<img alt="stars" src="https://img.shields.io/github/stars/raniaemran/cve-2024-36401-security-simulator">
+- [basesixtythree/B63-POC-CVE-2024-36401](https://github.com/basesixtythree/B63-POC-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2024-36401">
 
 ---
 ## CVE-2024-3640 ()
