@@ -7918,6 +7918,11 @@
 - [stuxbench/vllm-cve-2025-32444](https://github.com/stuxbench/vllm-cve-2025-32444)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vllm-cve-2025-32444">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vllm-cve-2025-32444">
 
 ---
+## CVE-2025-32440 ()
+> 
+- [jstjep00/CVE-2025-32440-netalertx-auth-bypass](https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/jstjep00/CVE-2025-32440-netalertx-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/jstjep00/CVE-2025-32440-netalertx-auth-bypass">
+
+---
 ## CVE-2025-32434 ()
 > 
 - [2h3ph3rd/CVE-2025-32434](https://github.com/2h3ph3rd/CVE-2025-32434)	<img alt="forks" src="https://img.shields.io/github/forks/2h3ph3rd/CVE-2025-32434">	<img alt="stars" src="https://img.shields.io/github/stars/2h3ph3rd/CVE-2025-32434">
