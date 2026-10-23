@@ -1847,6 +1847,9 @@ use after free.
 - [0xbinder/CVE_2019_2215](https://github.com/0xbinder/CVE_2019_2215)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE_2019_2215">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE_2019_2215">
 - [saaedimam/sony-bravia-root-toolkit](https://github.com/saaedimam/sony-bravia-root-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/saaedimam/sony-bravia-root-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/saaedimam/sony-bravia-root-toolkit">
 - [WJNKAC/cve-2019-2215-oppo-a77t](https://github.com/WJNKAC/cve-2019-2215-oppo-a77t)	<img alt="forks" src="https://img.shields.io/github/forks/WJNKAC/cve-2019-2215-oppo-a77t">	<img alt="stars" src="https://img.shields.io/github/stars/WJNKAC/cve-2019-2215-oppo-a77t">
+- [xushihushuo-art/cve-2019-2215-skyworth](https://github.com/xushihushuo-art/cve-2019-2215-skyworth)	<img alt="forks" src="https://img.shields.io/github/forks/xushihushuo-art/cve-2019-2215-skyworth">	<img alt="stars" src="https://img.shields.io/github/stars/xushihushuo-art/cve-2019-2215-skyworth">
+- [kilokite/old-phone-temp-root](https://github.com/kilokite/old-phone-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/kilokite/old-phone-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/kilokite/old-phone-temp-root">
+- [FDLAlfrid/odin-od105-devkit](https://github.com/FDLAlfrid/odin-od105-devkit)	<img alt="forks" src="https://img.shields.io/github/forks/FDLAlfrid/odin-od105-devkit">	<img alt="stars" src="https://img.shields.io/github/stars/FDLAlfrid/odin-od105-devkit">
 
 ---
 ## CVE-2019-2115 ()
