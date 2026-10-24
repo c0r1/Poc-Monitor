@@ -872,7 +872,7 @@
 - [orjanj/netscaler_threat_hunt_helper](https://github.com/orjanj/netscaler_threat_hunt_helper)	<img alt="forks" src="https://img.shields.io/github/forks/orjanj/netscaler_threat_hunt_helper">	<img alt="stars" src="https://img.shields.io/github/stars/orjanj/netscaler_threat_hunt_helper">
 - [ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ThomasPoppelgaard/netscaler-ctx697096-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ThomasPoppelgaard/netscaler-ctx697096-checker">
 - [securekomodo/citrixInspector](https://github.com/securekomodo/citrixInspector)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/citrixInspector">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/citrixInspector">
-- [CompleteTech-LLC/netscaler-cve-2026-88772-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-88772-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-88772-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-88772-check">
+- [completetech-security/netscaler-cve-2026-88772-check](https://github.com/completetech-security/netscaler-cve-2026-88772-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/netscaler-cve-2026-88772-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/netscaler-cve-2026-88772-check">
 
 ---
 ## CVE-2026-88771 ()
@@ -883,7 +883,7 @@
 - [ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ThomasPoppelgaard/netscaler-ctx697096-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ThomasPoppelgaard/netscaler-ctx697096-checker">
 - [technion/netscaler_scanner](https://github.com/technion/netscaler_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/technion/netscaler_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/technion/netscaler_scanner">
 - [SwiftSecur/CVE-2026-88771-HuntScript](https://github.com/SwiftSecur/CVE-2026-88771-HuntScript)	<img alt="forks" src="https://img.shields.io/github/forks/SwiftSecur/CVE-2026-88771-HuntScript">	<img alt="stars" src="https://img.shields.io/github/stars/SwiftSecur/CVE-2026-88771-HuntScript">
-- [CompleteTech-LLC/netscaler-cve-2026-88771-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-88771-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-88771-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-88771-check">
+- [completetech-security/netscaler-cve-2026-88771-check](https://github.com/completetech-security/netscaler-cve-2026-88771-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/netscaler-cve-2026-88771-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/netscaler-cve-2026-88771-check">
 - [ceterion/netscaler-quickcheck](https://github.com/ceterion/netscaler-quickcheck)	<img alt="forks" src="https://img.shields.io/github/forks/ceterion/netscaler-quickcheck">	<img alt="stars" src="https://img.shields.io/github/stars/ceterion/netscaler-quickcheck">
 - [orjanj/netscaler_threat_hunt_helper](https://github.com/orjanj/netscaler_threat_hunt_helper)	<img alt="forks" src="https://img.shields.io/github/forks/orjanj/netscaler_threat_hunt_helper">	<img alt="stars" src="https://img.shields.io/github/stars/orjanj/netscaler_threat_hunt_helper">
 - [emilstahl/pitscaler](https://github.com/emilstahl/pitscaler)	<img alt="forks" src="https://img.shields.io/github/forks/emilstahl/pitscaler">	<img alt="stars" src="https://img.shields.io/github/stars/emilstahl/pitscaler">
@@ -3963,9 +3963,39 @@
 - [tc4dy/CVE-2026-58048-PoC-Exploit](https://github.com/tc4dy/CVE-2026-58048-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-58048-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-58048-PoC-Exploit">
 
 ---
+## CVE-2026-58045 ()
+> 
+- [completetech-security/node-cve-2026-58045-check](https://github.com/completetech-security/node-cve-2026-58045-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58045-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58045-check">
+
+---
+## CVE-2026-58044 ()
+> 
+- [completetech-security/node-cve-2026-58044-check](https://github.com/completetech-security/node-cve-2026-58044-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58044-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58044-check">
+
+---
 ## CVE-2026-58043 ()
 > 
-- [CompleteTech-LLC/node-cve-2026-58043-check](https://github.com/CompleteTech-LLC/node-cve-2026-58043-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-58043-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-58043-check">
+- [completetech-security/node-cve-2026-58043-check](https://github.com/completetech-security/node-cve-2026-58043-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58043-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58043-check">
+
+---
+## CVE-2026-58042 ()
+> 
+- [completetech-security/node-cve-2026-58042-check](https://github.com/completetech-security/node-cve-2026-58042-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58042-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58042-check">
+
+---
+## CVE-2026-58041 ()
+> 
+- [completetech-security/node-cve-2026-58041-check](https://github.com/completetech-security/node-cve-2026-58041-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58041-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58041-check">
+
+---
+## CVE-2026-58040 ()
+> 
+- [completetech-security/node-cve-2026-58040-check](https://github.com/completetech-security/node-cve-2026-58040-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58040-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58040-check">
+
+---
+## CVE-2026-58039 ()
+> 
+- [completetech-security/node-cve-2026-58039-check](https://github.com/completetech-security/node-cve-2026-58039-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-58039-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-58039-check">
 
 ---
 ## CVE-2026-58025 ()
@@ -4079,17 +4109,23 @@
 ---
 ## CVE-2026-56850 ()
 > 
-- [CompleteTech-LLC/node-cve-2026-56850-check](https://github.com/CompleteTech-LLC/node-cve-2026-56850-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-56850-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-56850-check">
+- [completetech-security/node-cve-2026-56850-check](https://github.com/completetech-security/node-cve-2026-56850-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-56850-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-56850-check">
 
 ---
 ## CVE-2026-56848 ()
 > 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2026-56848">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2026-56848">
+- [completetech-security/node-cve-2026-56848-check](https://github.com/completetech-security/node-cve-2026-56848-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-56848-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-56848-check">
+
+---
+## CVE-2026-56847 ()
+> 
+- [completetech-security/node-cve-2026-56847-check](https://github.com/completetech-security/node-cve-2026-56847-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-56847-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-56847-check">
 
 ---
 ## CVE-2026-56846 ()
 > 
-- [CompleteTech-LLC/node-cve-2026-56846-check](https://github.com/CompleteTech-LLC/node-cve-2026-56846-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-56846-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-56846-check">
+- [completetech-security/node-cve-2026-56846-check](https://github.com/completetech-security/node-cve-2026-56846-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-56846-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-56846-check">
 
 ---
 ## CVE-2026-56782 ()
@@ -14485,6 +14521,36 @@
 - [tc4dy/CVE-2026-106173-PoC-Exploit](https://github.com/tc4dy/CVE-2026-106173-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-106173-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-106173-PoC-Exploit">
 
 ---
+## CVE-2026-106074 ()
+> 
+- [completetech-security/node-cve-2026-106074-check](https://github.com/completetech-security/node-cve-2026-106074-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-106074-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-106074-check">
+
+---
+## CVE-2026-106073 ()
+> 
+- [completetech-security/node-cve-2026-106073-check](https://github.com/completetech-security/node-cve-2026-106073-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-106073-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-106073-check">
+
+---
+## CVE-2026-106072 ()
+> 
+- [completetech-security/node-cve-2026-106072-check](https://github.com/completetech-security/node-cve-2026-106072-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-106072-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-106072-check">
+
+---
+## CVE-2026-106071 ()
+> 
+- [completetech-security/node-cve-2026-106071-check](https://github.com/completetech-security/node-cve-2026-106071-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-106071-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-106071-check">
+
+---
+## CVE-2026-106070 ()
+> 
+- [completetech-security/node-cve-2026-106070-check](https://github.com/completetech-security/node-cve-2026-106070-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-106070-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-106070-check">
+
+---
+## CVE-2026-106069 ()
+> 
+- [completetech-security/node-cve-2026-106069-check](https://github.com/completetech-security/node-cve-2026-106069-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-106069-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-106069-check">
+
+---
 ## CVE-2026-105950 ()
 > 
 - [capivara-research/CVE-2026-105950](https://github.com/capivara-research/CVE-2026-105950)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-105950">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-105950">
@@ -14514,6 +14580,11 @@
 ## CVE-2026-105484 ()
 > 
 - [xiaobai718-ab/CVE-2026-105484](https://github.com/xiaobai718-ab/CVE-2026-105484)	<img alt="forks" src="https://img.shields.io/github/forks/xiaobai718-ab/CVE-2026-105484">	<img alt="stars" src="https://img.shields.io/github/stars/xiaobai718-ab/CVE-2026-105484">
+
+---
+## CVE-2026-105483 ()
+> 
+- [completetech-security/node-cve-2026-105483-check](https://github.com/completetech-security/node-cve-2026-105483-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/node-cve-2026-105483-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/node-cve-2026-105483-check">
 
 ---
 ## CVE-2026-105482 ()
@@ -14613,6 +14684,8 @@
 - [ApexBreach/CVE-2026-104935-Proof-of-concept](https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-104935-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-104935-Proof-of-concept">
 - [0x45dd/ivanti-cve-2026-104935-check](https://github.com/0x45dd/ivanti-cve-2026-104935-check)	<img alt="forks" src="https://img.shields.io/github/forks/0x45dd/ivanti-cve-2026-104935-check">	<img alt="stars" src="https://img.shields.io/github/stars/0x45dd/ivanti-cve-2026-104935-check">
 - [completetech-security/ivanti-connect-secure-cve-2026-104935-check](https://github.com/completetech-security/ivanti-connect-secure-cve-2026-104935-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/ivanti-connect-secure-cve-2026-104935-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/ivanti-connect-secure-cve-2026-104935-check">
+- [Bluefire-Redteam-Cybersecurity/bluefire-ivanti-ics-guard](https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-ivanti-ics-guard)	<img alt="forks" src="https://img.shields.io/github/forks/Bluefire-Redteam-Cybersecurity/bluefire-ivanti-ics-guard">	<img alt="stars" src="https://img.shields.io/github/stars/Bluefire-Redteam-Cybersecurity/bluefire-ivanti-ics-guard">
+- [maxprog-svg/CVE-2026-104935](https://github.com/maxprog-svg/CVE-2026-104935)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-104935">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-104935">
 
 ---
 ## CVE-2026-104905 ()
@@ -14863,7 +14936,7 @@
 ---
 ## CVE-2026-102258 ()
 > 
-- [CompleteTech-LLC/sonicwall-sma1000-cve-2026-102258-check](https://github.com/CompleteTech-LLC/sonicwall-sma1000-cve-2026-102258-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleteTech-LLC/sonicwall-sma1000-cve-2026-102258-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleteTech-LLC/sonicwall-sma1000-cve-2026-102258-check">
+- [completetech-security/sonicwall-sma1000-cve-2026-102258-check](https://github.com/completetech-security/sonicwall-sma1000-cve-2026-102258-check)	<img alt="forks" src="https://img.shields.io/github/forks/completetech-security/sonicwall-sma1000-cve-2026-102258-check">	<img alt="stars" src="https://img.shields.io/github/stars/completetech-security/sonicwall-sma1000-cve-2026-102258-check">
 
 ---
 ## CVE-2026-102257 ()
