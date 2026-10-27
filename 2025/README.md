@@ -5173,6 +5173,8 @@
 - [watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691](https://github.com/watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691">
 - [nxgn-kd01/smartermail-cve-scanner](https://github.com/nxgn-kd01/smartermail-cve-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nxgn-kd01/smartermail-cve-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nxgn-kd01/smartermail-cve-scanner">
 - [rimbadirgantara/CVE-2025-52691-poc](https://github.com/rimbadirgantara/CVE-2025-52691-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2025-52691-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2025-52691-poc">
+- [mohammadzarnian1357/Ashwesker-CVE-2025-52691](https://github.com/mohammadzarnian1357/Ashwesker-CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/mohammadzarnian1357/Ashwesker-CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/mohammadzarnian1357/Ashwesker-CVE-2025-52691">
+- [Udyz/CVE-2025-52691](https://github.com/Udyz/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2025-52691">
 
 ---
 ## CVE-2025-52689 ()
@@ -9013,6 +9015,11 @@
 > 
 - [mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack](https://github.com/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack">
 - [watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain](https://github.com/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain">
+
+---
+## CVE-2025-27740 ()
+> 
+- [Dannners/CVE-2025-27740_POC](https://github.com/Dannners/CVE-2025-27740_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/CVE-2025-27740_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/CVE-2025-27740_POC">
 
 ---
 ## CVE-2025-27636 ()
