@@ -1635,6 +1635,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">
 
 ---
+## CVE-2024-55090 ()
+> 
+- [Pwned007/CVE-2024-55090](https://github.com/Pwned007/CVE-2024-55090)	<img alt="forks" src="https://img.shields.io/github/forks/Pwned007/CVE-2024-55090">	<img alt="stars" src="https://img.shields.io/github/stars/Pwned007/CVE-2024-55090">
+
+---
 ## CVE-2024-55060 ()
 > 
 - [bigzooooz/CVE-2024-55060](https://github.com/bigzooooz/CVE-2024-55060)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2024-55060">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2024-55060">
@@ -3096,6 +3101,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-47167 ()
 > 
 - [alexan011/CVE-2024-47167-Environment-Setup](https://github.com/alexan011/CVE-2024-47167-Environment-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/alexan011/CVE-2024-47167-Environment-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/alexan011/CVE-2024-47167-Environment-Setup">
+- [piecar21/CVE-2024-47167](https://github.com/piecar21/CVE-2024-47167)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2024-47167">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2024-47167">
 
 ---
 ## CVE-2024-47138 ()
