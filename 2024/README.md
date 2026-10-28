@@ -998,6 +998,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [hasan8babiker/CVE-2024-6387](https://github.com/hasan8babiker/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/hasan8babiker/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/hasan8babiker/CVE-2024-6387">
 - [dolapoojone/CVE-2024-6387-Vulnerability-Anaysis](https://github.com/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis)	<img alt="forks" src="https://img.shields.io/github/forks/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">	<img alt="stars" src="https://img.shields.io/github/stars/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">
 - [ohackercego/CVE-2024-6387-how-to-fix](https://github.com/ohackercego/CVE-2024-6387-how-to-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2024-6387-how-to-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2024-6387-how-to-fix">
+- [axisops/CVE-2024-6387](https://github.com/axisops/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -2709,6 +2710,7 @@ length to be included in the checksum calculation is fully consumed.
 - [FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected](https://github.com/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">
 - [mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected">
 - [mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected">
+- [Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada](https://github.com/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada)	<img alt="forks" src="https://img.shields.io/github/forks/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada">	<img alt="stars" src="https://img.shields.io/github/stars/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada">
 
 ---
 ## CVE-2024-49113 ()
@@ -6811,6 +6813,10 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [nnatsopoulos/xz-backdoor-research](https://github.com/nnatsopoulos/xz-backdoor-research)	<img alt="forks" src="https://img.shields.io/github/forks/nnatsopoulos/xz-backdoor-research">	<img alt="stars" src="https://img.shields.io/github/stars/nnatsopoulos/xz-backdoor-research">
 - [stevehenderson/lab_xz_backdoor](https://github.com/stevehenderson/lab_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/stevehenderson/lab_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/stevehenderson/lab_xz_backdoor">
 - [Subzero710/CVE-2024-3094-demo](https://github.com/Subzero710/CVE-2024-3094-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Subzero710/CVE-2024-3094-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Subzero710/CVE-2024-3094-demo">
+- [axisops/CVE-2024-3094](https://github.com/axisops/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2024-3094">
+- [Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study">
+- [namegabevictoire01-sys/cs50-cybersecurity-final-project](https://github.com/namegabevictoire01-sys/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/namegabevictoire01-sys/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/namegabevictoire01-sys/cs50-cybersecurity-final-project">
+- [mhicairo-hue/cs50-cybersecurity-final-project](https://github.com/mhicairo-hue/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/mhicairo-hue/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/mhicairo-hue/cs50-cybersecurity-final-project">
 
 ---
 ## CVE-2024-3090 (2024-03-30T13:15:00)
