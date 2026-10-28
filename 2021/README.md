@@ -3566,6 +3566,7 @@
 - [SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034">
 - [locksec/CVE-2021-4034](https://github.com/locksec/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/locksec/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/locksec/CVE-2021-4034">
 - [axisops/CVE-2021-4034](https://github.com/axisops/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2021-4034">
+- [DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)

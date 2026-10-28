@@ -9021,6 +9021,7 @@
 ## CVE-2025-27740 ()
 > 
 - [Dannners/CVE-2025-27740_POC](https://github.com/Dannners/CVE-2025-27740_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/CVE-2025-27740_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/CVE-2025-27740_POC">
+- [tyie949/cve-2025-27740](https://github.com/tyie949/cve-2025-27740)	<img alt="forks" src="https://img.shields.io/github/forks/tyie949/cve-2025-27740">	<img alt="stars" src="https://img.shields.io/github/stars/tyie949/cve-2025-27740">
 
 ---
 ## CVE-2025-27636 ()
