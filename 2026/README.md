@@ -53,6 +53,14 @@
 - [aj2108/CVE-2026-9848](https://github.com/aj2108/CVE-2026-9848)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9848">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9848">
 
 ---
+## CVE-2026-98432 ()
+> 
+- [axisops/CVE-2026-98432](https://github.com/axisops/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2026-98432">
+- [suominen/CVE-2026-98432](https://github.com/suominen/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-98432">
+- [typhoon1217/cve-2026-98432-mitigation](https://github.com/typhoon1217/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/typhoon1217/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/typhoon1217/cve-2026-98432-mitigation">
+- [nsrg-fmlorg/kpatch-cve-2026-98432](https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-cve-2026-98432">
+
+---
 ## CVE-2026-98385 ()
 > 
 - [ylh440104/InfinityCore-Android-CVE-2026-98385](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98385">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98385">
@@ -915,6 +923,11 @@
 ## CVE-2026-88854 ()
 > 
 - [murrez/CVE-2026-88854](https://github.com/murrez/CVE-2026-88854)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88854">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88854">
+
+---
+## CVE-2026-88804 ()
+> 
+- [R0gfall/CVE-2026-88804](https://github.com/R0gfall/CVE-2026-88804)	<img alt="forks" src="https://img.shields.io/github/forks/R0gfall/CVE-2026-88804">	<img alt="stars" src="https://img.shields.io/github/stars/R0gfall/CVE-2026-88804">
 
 ---
 ## CVE-2026-88789 ()
@@ -5546,6 +5559,7 @@
 - [NONAME-ELV/CVE-2026-48907](https://github.com/NONAME-ELV/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/NONAME-ELV/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/NONAME-ELV/CVE-2026-48907">
 - [theendofabbys/CVE-2026-48907](https://github.com/theendofabbys/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/theendofabbys/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/theendofabbys/CVE-2026-48907">
 - [0xCyp1337/CVE-2026-48907-RCE](https://github.com/0xCyp1337/CVE-2026-48907-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-48907-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-48907-RCE">
+- [CoNistical/CVE-2026-48907](https://github.com/CoNistical/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/CoNistical/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/CoNistical/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -8724,6 +8738,7 @@
 - [infernosalex/CVE-2026-33439-Python-PoC](https://github.com/infernosalex/CVE-2026-33439-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/infernosalex/CVE-2026-33439-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/infernosalex/CVE-2026-33439-Python-PoC">
 - [JonasChen0103/CVE-2026-33439-PoC](https://github.com/JonasChen0103/CVE-2026-33439-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JonasChen0103/CVE-2026-33439-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JonasChen0103/CVE-2026-33439-PoC">
 - [rh33t/CVE-2026-33439-Poc](https://github.com/rh33t/CVE-2026-33439-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/rh33t/CVE-2026-33439-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/rh33t/CVE-2026-33439-Poc">
+- [TeoVMP/CVE-2026-33439](https://github.com/TeoVMP/CVE-2026-33439)	<img alt="forks" src="https://img.shields.io/github/forks/TeoVMP/CVE-2026-33439">	<img alt="stars" src="https://img.shields.io/github/stars/TeoVMP/CVE-2026-33439">
 
 ---
 ## CVE-2026-33340 ()
@@ -10582,6 +10597,7 @@
 - [CEAarab/CVE-2026-26026-PoC](https://github.com/CEAarab/CVE-2026-26026-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2026-26026-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2026-26026-PoC">
 - [wuyou6956-glitch/CVE-2026-26026-PoC](https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wuyou6956-glitch/CVE-2026-26026-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wuyou6956-glitch/CVE-2026-26026-PoC">
 - [petriQore/CVE-2026-26026_PoC](https://github.com/petriQore/CVE-2026-26026_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/petriQore/CVE-2026-26026_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/petriQore/CVE-2026-26026_PoC">
+- [PeaMatNgu/CVE-2026-26026-GLPI](https://github.com/PeaMatNgu/CVE-2026-26026-GLPI)	<img alt="forks" src="https://img.shields.io/github/forks/PeaMatNgu/CVE-2026-26026-GLPI">	<img alt="stars" src="https://img.shields.io/github/stars/PeaMatNgu/CVE-2026-26026-GLPI">
 
 ---
 ## CVE-2026-26012 ()
@@ -13784,6 +13800,16 @@
 ## CVE-2026-116000 ()
 > 
 - [capivara-research/CVE-2026-116000](https://github.com/capivara-research/CVE-2026-116000)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-116000">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-116000">
+
+---
+## CVE-2026-115926 ()
+> 
+- [aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth](https://github.com/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth)	<img alt="forks" src="https://img.shields.io/github/forks/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth">	<img alt="stars" src="https://img.shields.io/github/stars/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth">
+
+---
+## CVE-2026-115925 ()
+> 
+- [aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure](https://github.com/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure)	<img alt="forks" src="https://img.shields.io/github/forks/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure">	<img alt="stars" src="https://img.shields.io/github/stars/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure">
 
 ---
 ## CVE-2026-115893 ()
