@@ -634,6 +634,11 @@
 - [Slagzz/CVE-2026-9254](https://github.com/Slagzz/CVE-2026-9254)	<img alt="forks" src="https://img.shields.io/github/forks/Slagzz/CVE-2026-9254">	<img alt="stars" src="https://img.shields.io/github/stars/Slagzz/CVE-2026-9254">
 
 ---
+## CVE-2026-92424 ()
+> 
+- [aymencdm/cve-2026-92424-content-egg-stored-xss-](https://github.com/aymencdm/cve-2026-92424-content-egg-stored-xss-)	<img alt="forks" src="https://img.shields.io/github/forks/aymencdm/cve-2026-92424-content-egg-stored-xss-">	<img alt="stars" src="https://img.shields.io/github/stars/aymencdm/cve-2026-92424-content-egg-stored-xss-">
+
+---
 ## CVE-2026-92392 ()
 > 
 - [ashu7ank/CVE-2026-92392](https://github.com/ashu7ank/CVE-2026-92392)	<img alt="forks" src="https://img.shields.io/github/forks/ashu7ank/CVE-2026-92392">	<img alt="stars" src="https://img.shields.io/github/stars/ashu7ank/CVE-2026-92392">
@@ -13961,6 +13966,8 @@
 ## CVE-2026-112621 ()
 > 
 - [Xplo8E/CVE-2026-112621-oob-write-poc](https://github.com/Xplo8E/CVE-2026-112621-oob-write-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Xplo8E/CVE-2026-112621-oob-write-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Xplo8E/CVE-2026-112621-oob-write-poc">
+- [794pn2s6fh-hub/CVE-2026-112621-](https://github.com/794pn2s6fh-hub/CVE-2026-112621-)	<img alt="forks" src="https://img.shields.io/github/forks/794pn2s6fh-hub/CVE-2026-112621-">	<img alt="stars" src="https://img.shields.io/github/stars/794pn2s6fh-hub/CVE-2026-112621-">
+- [Allen-ux-dev/cve-2026-112621-test](https://github.com/Allen-ux-dev/cve-2026-112621-test)	<img alt="forks" src="https://img.shields.io/github/forks/Allen-ux-dev/cve-2026-112621-test">	<img alt="stars" src="https://img.shields.io/github/stars/Allen-ux-dev/cve-2026-112621-test">
 
 ---
 ## CVE-2026-112445 ()

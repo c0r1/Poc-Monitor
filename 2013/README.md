@@ -235,6 +235,7 @@
 ## CVE-2013-1690 ()
 > 
 - [Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690](https://github.com/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690)	<img alt="forks" src="https://img.shields.io/github/forks/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690">	<img alt="stars" src="https://img.shields.io/github/stars/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690">
+- [vlad902/annotated-fbi-tbb-exploit](https://github.com/vlad902/annotated-fbi-tbb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vlad902/annotated-fbi-tbb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vlad902/annotated-fbi-tbb-exploit">
 
 ---
 ## CVE-2013-1511 (2013-04-17T12:14:00)
