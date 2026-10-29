@@ -13979,6 +13979,8 @@
 - [gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-)	<img alt="forks" src="https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-">	<img alt="stars" src="https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-">
 - [hkoeck/node2shell-status](https://github.com/hkoeck/node2shell-status)	<img alt="forks" src="https://img.shields.io/github/forks/hkoeck/node2shell-status">	<img alt="stars" src="https://img.shields.io/github/stars/hkoeck/node2shell-status">
 - [amier-ge/Node2Shell](https://github.com/amier-ge/Node2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/amier-ge/Node2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/amier-ge/Node2Shell">
+- [caveeroo/cve-2026-111497-wordpress-poc](https://github.com/caveeroo/cve-2026-111497-wordpress-poc)	<img alt="forks" src="https://img.shields.io/github/forks/caveeroo/cve-2026-111497-wordpress-poc">	<img alt="stars" src="https://img.shields.io/github/stars/caveeroo/cve-2026-111497-wordpress-poc">
+- [Quaerendir/node2shell-audit](https://github.com/Quaerendir/node2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/node2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/node2shell-audit">
 
 ---
 ## CVE-2026-111444 ()
