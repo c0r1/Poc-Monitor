@@ -10939,6 +10939,7 @@
 - [shokribardiya/CVE-2025-14847-mongobleed](https://github.com/shokribardiya/CVE-2025-14847-mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/shokribardiya/CVE-2025-14847-mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/shokribardiya/CVE-2025-14847-mongobleed">
 - [SAIM28826/CVE-2025-14847-poc](https://github.com/SAIM28826/CVE-2025-14847-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SAIM28826/CVE-2025-14847-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SAIM28826/CVE-2025-14847-poc">
 - [SAIM28826/TEST](https://github.com/SAIM28826/TEST)	<img alt="forks" src="https://img.shields.io/github/forks/SAIM28826/TEST">	<img alt="stars" src="https://img.shields.io/github/stars/SAIM28826/TEST">
+- [t3chn0t3s-org/cve-2025-14847-scanner](https://github.com/t3chn0t3s-org/cve-2025-14847-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/t3chn0t3s-org/cve-2025-14847-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/t3chn0t3s-org/cve-2025-14847-scanner">
 
 ---
 ## CVE-2025-14783 ()
@@ -11832,6 +11833,11 @@
 ## CVE-2025-0924 ()
 > 
 - [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2025-0924-different">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2025-0924-different">
+
+---
+## CVE-2025-0890 ()
+> 
+- [krevetkqqq/CVE-2025-0890](https://github.com/krevetkqqq/CVE-2025-0890)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2025-0890">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2025-0890">
 
 ---
 ## CVE-2025-0868 ()
