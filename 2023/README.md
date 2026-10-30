@@ -1796,6 +1796,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [CyberCTF/vulhub-activemq-cve-2023-46604](https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-activemq-cve-2023-46604">
 - [basesixtythree/B63-POC-CVE-2023-46604](https://github.com/basesixtythree/B63-POC-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2023-46604">
 - [Theocyg/CVE-2023-46604](https://github.com/Theocyg/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Theocyg/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Theocyg/CVE-2023-46604">
+- [krevetkqqq/cve-2023-46604-activemq-lab](https://github.com/krevetkqqq/cve-2023-46604-activemq-lab)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/cve-2023-46604-activemq-lab">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/cve-2023-46604-activemq-lab">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
@@ -5483,6 +5484,7 @@ Fixed in version 6.4.1.
 - [shiyingzhencai/CVE-2023-32315-java7-](https://github.com/shiyingzhencai/CVE-2023-32315-java7-)	<img alt="forks" src="https://img.shields.io/github/forks/shiyingzhencai/CVE-2023-32315-java7-">	<img alt="stars" src="https://img.shields.io/github/stars/shiyingzhencai/CVE-2023-32315-java7-">
 - [rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite)	<img alt="forks" src="https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite">	<img alt="stars" src="https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite">
 - [CyberCTF/vulhub-openfire-cve-2023-32315](https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openfire-cve-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openfire-cve-2023-32315">
+- [krevetkqqq/cve-2023-32315-openfire-lab](https://github.com/krevetkqqq/cve-2023-32315-openfire-lab)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/cve-2023-32315-openfire-lab">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/cve-2023-32315-openfire-lab">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)

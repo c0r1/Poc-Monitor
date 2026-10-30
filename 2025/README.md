@@ -8712,6 +8712,7 @@
 - [mcpmark-eval-liuhezi/cve-2025-29927-audit](https://github.com/mcpmark-eval-liuhezi/cve-2025-29927-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/cve-2025-29927-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/cve-2025-29927-audit">
 - [gadaugherty/larkspur-billing](https://github.com/gadaugherty/larkspur-billing)	<img alt="forks" src="https://img.shields.io/github/forks/gadaugherty/larkspur-billing">	<img alt="stars" src="https://img.shields.io/github/stars/gadaugherty/larkspur-billing">
 - [axisops/CVE-2025-29927](https://github.com/axisops/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2025-29927">
+- [Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass](https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">
 
 ---
 ## CVE-2025-29891 ()
@@ -9787,6 +9788,7 @@
 - [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
 - [toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/toyplan/cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/toyplan/cve-2025-24813">
 - [Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813](https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">
+- [Ghost-Bx1/cve-2025-24813-apache-tomcat-rce](https://github.com/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce">
 
 ---
 ## CVE-2025-24801 ()
@@ -10669,7 +10671,7 @@
 - [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yanmarques/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yanmarques/CVE-2025-1974">
 - [Esonhugh/ingressNightmare-CVE-2025-1974-exps](https://github.com/Esonhugh/ingressNightmare-CVE-2025-1974-exps)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/ingressNightmare-CVE-2025-1974-exps">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/ingressNightmare-CVE-2025-1974-exps">
 - [justmorpheus/IngressNightmare-CVE-2025-1974](https://github.com/justmorpheus/IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/justmorpheus/IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/justmorpheus/IngressNightmare-CVE-2025-1974">
-- [dttuss/IngressNightmare-RCE-POC](https://github.com/dttuss/IngressNightmare-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dttuss/IngressNightmare-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dttuss/IngressNightmare-RCE-POC">
+- [1w4y/IngressNightmare-RCE-POC](https://github.com/1w4y/IngressNightmare-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/1w4y/IngressNightmare-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/1w4y/IngressNightmare-RCE-POC">
 - [zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2025-1974">
 - [m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m-q-t/ingressnightmare-detection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m-q-t/ingressnightmare-detection-poc">
 - [hi-unc1e/CVE-2025-1974-poc](https://github.com/hi-unc1e/CVE-2025-1974-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hi-unc1e/CVE-2025-1974-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hi-unc1e/CVE-2025-1974-poc">
@@ -10695,6 +10697,7 @@
 - [BoianEduard/CVE-2025-1974](https://github.com/BoianEduard/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2025-1974">
 - [zsxen/CVE-2025-1974](https://github.com/zsxen/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zsxen/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zsxen/CVE-2025-1974">
 - [zsxen/cve-2025-1974-lab](https://github.com/zsxen/cve-2025-1974-lab)	<img alt="forks" src="https://img.shields.io/github/forks/zsxen/cve-2025-1974-lab">	<img alt="stars" src="https://img.shields.io/github/stars/zsxen/cve-2025-1974-lab">
+- [Ghost-Bx1/cve-2025-1974-ingress-nginx-rce](https://github.com/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce">
 
 ---
 ## CVE-2025-1913 ()
