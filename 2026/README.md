@@ -51,6 +51,7 @@
 ## CVE-2026-98937 ()
 > 
 - [woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937)	<img alt="forks" src="https://img.shields.io/github/forks/woshigenm/CVE-2026-98937">	<img alt="stars" src="https://img.shields.io/github/stars/woshigenm/CVE-2026-98937">
+- [woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937)	<img alt="forks" src="https://img.shields.io/github/forks/woshigenm/CVE-2026-98937">	<img alt="stars" src="https://img.shields.io/github/stars/woshigenm/CVE-2026-98937">
 
 ---
 ## CVE-2026-9848 ()
