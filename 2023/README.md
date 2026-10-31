@@ -3870,6 +3870,7 @@ of headers and eventually cause curl to run out of heap memory.
 ## CVE-2023-37679 (2023-08-03T03:15:00)
 > A remote command execution (RCE) vulnerability in NextGen Mirth Connect v4.3.0 allows attackers to execute arbitrary commands on the hosting server.
 - [jakabakos/CVE-2023-37679-mirth-connect-rce-poc](https://github.com/jakabakos/CVE-2023-37679-mirth-connect-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-37679-mirth-connect-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-37679-mirth-connect-rce-poc">
+- [krevetkqqq/CVE-2023-37679](https://github.com/krevetkqqq/CVE-2023-37679)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-37679">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-37679">
 
 ---
 ## CVE-2023-37635 ()
