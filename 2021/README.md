@@ -6758,6 +6758,7 @@
 - [WhatsWrongAndWhy/CVE-2021-3156](https://github.com/WhatsWrongAndWhy/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3156">
 - [Shams-Ul-Mehmood/CVE-2021-3156-Project](https://github.com/Shams-Ul-Mehmood/CVE-2021-3156-Project)	<img alt="forks" src="https://img.shields.io/github/forks/Shams-Ul-Mehmood/CVE-2021-3156-Project">	<img alt="stars" src="https://img.shields.io/github/stars/Shams-Ul-Mehmood/CVE-2021-3156-Project">
 - [gmh5225/cve-2021-3156-](https://github.com/gmh5225/cve-2021-3156-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/cve-2021-3156-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/cve-2021-3156-">
+- [d4ytox/CVE-2021-3156](https://github.com/d4ytox/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
