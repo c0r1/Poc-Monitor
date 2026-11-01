@@ -149,6 +149,7 @@
 - [simayang01/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/simayang01/CVE-2026-98260-vivo-x-fold6-poc)	<img alt="forks" src="https://img.shields.io/github/forks/simayang01/CVE-2026-98260-vivo-x-fold6-poc">	<img alt="stars" src="https://img.shields.io/github/stars/simayang01/CVE-2026-98260-vivo-x-fold6-poc">
 - [AmarnathCJD/CVE-2026-98260-IQOO-13](https://github.com/AmarnathCJD/CVE-2026-98260-IQOO-13)	<img alt="forks" src="https://img.shields.io/github/forks/AmarnathCJD/CVE-2026-98260-IQOO-13">	<img alt="stars" src="https://img.shields.io/github/stars/AmarnathCJD/CVE-2026-98260-IQOO-13">
 - [helloklf/CVE-2026-98260-SHELL](https://github.com/helloklf/CVE-2026-98260-SHELL)	<img alt="forks" src="https://img.shields.io/github/forks/helloklf/CVE-2026-98260-SHELL">	<img alt="stars" src="https://img.shields.io/github/stars/helloklf/CVE-2026-98260-SHELL">
+- [sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260">
 
 ---
 ## CVE-2026-98256 ()
@@ -1034,6 +1035,7 @@
 - [Scyrix-LLC/CVE-2026-88773](https://github.com/Scyrix-LLC/CVE-2026-88773)	<img alt="forks" src="https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-88773">	<img alt="stars" src="https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-88773">
 - [ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ThomasPoppelgaard/netscaler-ctx697096-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ThomasPoppelgaard/netscaler-ctx697096-checker">
 - [CompleTetech-Security/netscaler-cve-2026-88773-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88773-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88773-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88773-check">
+- [Fyyre/CVE-2026-88773](https://github.com/Fyyre/CVE-2026-88773)	<img alt="forks" src="https://img.shields.io/github/forks/Fyyre/CVE-2026-88773">	<img alt="stars" src="https://img.shields.io/github/stars/Fyyre/CVE-2026-88773">
 
 ---
 ## CVE-2026-88772 ()
@@ -13817,6 +13819,11 @@
 ## CVE-2026-118776 ()
 > 
 - [zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-118776">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-118776">
+
+---
+## CVE-2026-118764 ()
+> 
+- [b1nv0id/CVE-2026-118764](https://github.com/b1nv0id/CVE-2026-118764)	<img alt="forks" src="https://img.shields.io/github/forks/b1nv0id/CVE-2026-118764">	<img alt="stars" src="https://img.shields.io/github/stars/b1nv0id/CVE-2026-118764">
 
 ---
 ## CVE-2026-11837 ()

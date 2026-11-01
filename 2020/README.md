@@ -6242,6 +6242,11 @@
 - [Kaizzzo1/cve-2020-00796](https://github.com/Kaizzzo1/cve-2020-00796)	<img alt="forks" src="https://img.shields.io/github/forks/Kaizzzo1/cve-2020-00796">	<img alt="stars" src="https://img.shields.io/github/stars/Kaizzzo1/cve-2020-00796">
 
 ---
+## CVE-2020-0069 ()
+> 
+- [s1204IT/CVE-2020-0069](https://github.com/s1204IT/CVE-2020-0069)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2020-0069">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2020-0069">
+
+---
 ## CVE-2020-0041 ()
 > 
 - [j4nn/CVE-2020-0041](https://github.com/j4nn/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/j4nn/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/j4nn/CVE-2020-0041">
