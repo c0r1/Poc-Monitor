@@ -2779,6 +2779,8 @@ length to be included in the checksum calculation is fully consumed.
 - [sobbing333/CVE-2024-48990-POC](https://github.com/sobbing333/CVE-2024-48990-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sobbing333/CVE-2024-48990-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sobbing333/CVE-2024-48990-POC">
 - [grecosamuel/CVE-2024-48990](https://github.com/grecosamuel/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/grecosamuel/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/grecosamuel/CVE-2024-48990">
 - [BLUEBERRYP1LL/CVE-2024-48990](https://github.com/BLUEBERRYP1LL/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/BLUEBERRYP1LL/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/BLUEBERRYP1LL/CVE-2024-48990">
+- [nekr0ff/needrestart-sudo-escalate-cve-2024-48990](https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/nekr0ff/needrestart-sudo-escalate-cve-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/nekr0ff/needrestart-sudo-escalate-cve-2024-48990">
+- [endermixxer/CVE-2024-48990_needrestart](https://github.com/endermixxer/CVE-2024-48990_needrestart)	<img alt="forks" src="https://img.shields.io/github/forks/endermixxer/CVE-2024-48990_needrestart">	<img alt="stars" src="https://img.shields.io/github/stars/endermixxer/CVE-2024-48990_needrestart">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)

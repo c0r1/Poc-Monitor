@@ -1443,6 +1443,9 @@
 - [Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798](https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">
 - [khanna419/cve-2021-43798-lab](https://github.com/khanna419/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khanna419/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khanna419/cve-2021-43798-lab">
 - [CyberCTF/vulhub-grafana-cve-2021-43798](https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-grafana-cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-grafana-cve-2021-43798">
+- [str1keboo/CVE-2021-43798](https://github.com/str1keboo/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/str1keboo/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/str1keboo/CVE-2021-43798">
+- [Jiahe114514/hdu-is-lab1-secure-api](https://github.com/Jiahe114514/hdu-is-lab1-secure-api)	<img alt="forks" src="https://img.shields.io/github/forks/Jiahe114514/hdu-is-lab1-secure-api">	<img alt="stars" src="https://img.shields.io/github/stars/Jiahe114514/hdu-is-lab1-secure-api">
+- [shivamg2004/-INE_Shivam_Gupta_23104003](https://github.com/shivamg2004/-INE_Shivam_Gupta_23104003)	<img alt="forks" src="https://img.shields.io/github/forks/shivamg2004/-INE_Shivam_Gupta_23104003">	<img alt="stars" src="https://img.shields.io/github/stars/shivamg2004/-INE_Shivam_Gupta_23104003">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
