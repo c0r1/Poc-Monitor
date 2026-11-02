@@ -3946,6 +3946,7 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 ## CVE-2023-37474 (2023-07-14T20:15:00)
 > Copyparty is a portable file server. Versions prior to 1.8.2 are subject to a path traversal vulnerability detected in the `.cpr` subfolder. The Path Traversal attack technique allows an attacker access to files, directories, and commands that reside outside the web document root directory. This issue has been addressed in commit `043e3c7d` which has been included in release 1.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37474">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37474">
+- [0D00-0721-0/hdu-is-work1-copyparty-cve-2023-37474](https://github.com/0D00-0721-0/hdu-is-work1-copyparty-cve-2023-37474)	<img alt="forks" src="https://img.shields.io/github/forks/0D00-0721-0/hdu-is-work1-copyparty-cve-2023-37474">	<img alt="stars" src="https://img.shields.io/github/stars/0D00-0721-0/hdu-is-work1-copyparty-cve-2023-37474">
 
 ---
 ## CVE-2023-37467 ()
@@ -8684,6 +8685,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [charlesjson/CVE-2023-20198](https://github.com/charlesjson/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/charlesjson/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/charlesjson/CVE-2023-20198">
 - [telly251/forwardnetworksdemo](https://github.com/telly251/forwardnetworksdemo)	<img alt="forks" src="https://img.shields.io/github/forks/telly251/forwardnetworksdemo">	<img alt="stars" src="https://img.shields.io/github/stars/telly251/forwardnetworksdemo">
 - [abrahamsurf/CVE-2023-20198-Scanner](https://github.com/abrahamsurf/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/abrahamsurf/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/abrahamsurf/CVE-2023-20198-Scanner">
+- [waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE](https://github.com/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE)	<img alt="forks" src="https://img.shields.io/github/forks/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE">	<img alt="stars" src="https://img.shields.io/github/stars/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

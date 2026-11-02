@@ -103,6 +103,10 @@
 - [uvian/xboard-core](https://github.com/uvian/xboard-core)	<img alt="forks" src="https://img.shields.io/github/forks/uvian/xboard-core">	<img alt="stars" src="https://img.shields.io/github/stars/uvian/xboard-core">
 - [fetus-hina/cve-2026-98432-mitigation-rpm](https://github.com/fetus-hina/cve-2026-98432-mitigation-rpm)	<img alt="forks" src="https://img.shields.io/github/forks/fetus-hina/cve-2026-98432-mitigation-rpm">	<img alt="stars" src="https://img.shields.io/github/stars/fetus-hina/cve-2026-98432-mitigation-rpm">
 - [jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt)	<img alt="forks" src="https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt">	<img alt="stars" src="https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt">
+- [johnhsb/linux-tcp-uaf-cve-2026-98432](https://github.com/johnhsb/linux-tcp-uaf-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/johnhsb/linux-tcp-uaf-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/johnhsb/linux-tcp-uaf-cve-2026-98432">
+- [0xSpuddy/cve-2026-98432-check](https://github.com/0xSpuddy/cve-2026-98432-check)	<img alt="forks" src="https://img.shields.io/github/forks/0xSpuddy/cve-2026-98432-check">	<img alt="stars" src="https://img.shields.io/github/stars/0xSpuddy/cve-2026-98432-check">
+- [illuscapital/CVE-2026-98432](https://github.com/illuscapital/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/illuscapital/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/illuscapital/CVE-2026-98432">
+- [al4n4n/CVE-2026-98432](https://github.com/al4n4n/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
@@ -157,6 +161,7 @@
 - [sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260">
 - [LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root](https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root)	<img alt="forks" src="https://img.shields.io/github/forks/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">	<img alt="stars" src="https://img.shields.io/github/stars/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">
 - [cuteaplane/CVE-2026-98260-for-OPD2501](https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/CVE-2026-98260-for-OPD2501">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/CVE-2026-98260-for-OPD2501">
+- [yoro1836/SamTimer](https://github.com/yoro1836/SamTimer)	<img alt="forks" src="https://img.shields.io/github/forks/yoro1836/SamTimer">	<img alt="stars" src="https://img.shields.io/github/stars/yoro1836/SamTimer">
 
 ---
 ## CVE-2026-98258 ()
