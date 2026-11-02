@@ -772,6 +772,11 @@
 - [sm1ee/CVE-2026-91737](https://github.com/sm1ee/CVE-2026-91737)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-91737">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-91737">
 
 ---
+## CVE-2026-9151 ()
+> 
+- [hcbt/CVE-2026-9151](https://github.com/hcbt/CVE-2026-9151)	<img alt="forks" src="https://img.shields.io/github/forks/hcbt/CVE-2026-9151">	<img alt="stars" src="https://img.shields.io/github/stars/hcbt/CVE-2026-9151">
+
+---
 ## CVE-2026-9147 ()
 > 
 - [SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">
@@ -13922,6 +13927,11 @@
 - [4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2026-116521-poc">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2026-116521-poc">
 
 ---
+## CVE-2026-116512 ()
+> 
+- [BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512">
+
+---
 ## CVE-2026-116488 ()
 > 
 - [D7EAD/CVE-2026-116488](https://github.com/D7EAD/CVE-2026-116488)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-116488">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-116488">
@@ -14163,6 +14173,7 @@
 > 
 - [dehasoft-tr/cve-2026-112816](https://github.com/dehasoft-tr/cve-2026-112816)	<img alt="forks" src="https://img.shields.io/github/forks/dehasoft-tr/cve-2026-112816">	<img alt="stars" src="https://img.shields.io/github/stars/dehasoft-tr/cve-2026-112816">
 - [Sotrano-dev/cve-2026-112816](https://github.com/Sotrano-dev/cve-2026-112816)	<img alt="forks" src="https://img.shields.io/github/forks/Sotrano-dev/cve-2026-112816">	<img alt="stars" src="https://img.shields.io/github/stars/Sotrano-dev/cve-2026-112816">
+- [MrNarsus/cve-2026-112816-poc](https://github.com/MrNarsus/cve-2026-112816-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MrNarsus/cve-2026-112816-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MrNarsus/cve-2026-112816-poc">
 
 ---
 ## CVE-2026-112706 ()
