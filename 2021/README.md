@@ -1232,6 +1232,7 @@
 - [mcpmark-eval-liuhezi/log4shell-audit-7](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-7)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-7">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-7">
 - [mcpmark-eval-liuhezi/log4shell-audit-6](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-6)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-6">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-6">
 - [mcpmark-eval-liuhezi/log4shell-audit-5](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-5)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-5">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-5">
+- [george-petrakis/log4j-scanner-CVE-2021-44228](https://github.com/george-petrakis/log4j-scanner-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/george-petrakis/log4j-scanner-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/george-petrakis/log4j-scanner-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -6763,6 +6764,7 @@
 - [gmh5225/cve-2021-3156-](https://github.com/gmh5225/cve-2021-3156-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/cve-2021-3156-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/cve-2021-3156-">
 - [d4ytox/CVE-2021-3156](https://github.com/d4ytox/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-3156">
 - [sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker">
+- [AmroYasserH/DFIR-CVE-2021-3156-Incident-Response](https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
