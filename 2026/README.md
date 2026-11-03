@@ -122,6 +122,10 @@
 - [knneth/cve-2026-98432-dkms](https://github.com/knneth/cve-2026-98432-dkms)	<img alt="forks" src="https://img.shields.io/github/forks/knneth/cve-2026-98432-dkms">	<img alt="stars" src="https://img.shields.io/github/stars/knneth/cve-2026-98432-dkms">
 - [lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation">
 - [GarphenGate/cve-2026-98432-defender-toolkit](https://github.com/GarphenGate/cve-2026-98432-defender-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/GarphenGate/cve-2026-98432-defender-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/GarphenGate/cve-2026-98432-defender-toolkit">
+- [schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables)	<img alt="forks" src="https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables">	<img alt="stars" src="https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables">
+- [braginvalentin/cve_2026_98432](https://github.com/braginvalentin/cve_2026_98432)	<img alt="forks" src="https://img.shields.io/github/forks/braginvalentin/cve_2026_98432">	<img alt="stars" src="https://img.shields.io/github/stars/braginvalentin/cve_2026_98432">
+- [akaihigurashi/kernel98scan](https://github.com/akaihigurashi/kernel98scan)	<img alt="forks" src="https://img.shields.io/github/forks/akaihigurashi/kernel98scan">	<img alt="stars" src="https://img.shields.io/github/stars/akaihigurashi/kernel98scan">
+- [BigBIueWhale/cve-2026-98432-kernel-upgrade](https://github.com/BigBIueWhale/cve-2026-98432-kernel-upgrade)	<img alt="forks" src="https://img.shields.io/github/forks/BigBIueWhale/cve-2026-98432-kernel-upgrade">	<img alt="stars" src="https://img.shields.io/github/stars/BigBIueWhale/cve-2026-98432-kernel-upgrade">
 
 ---
 ## CVE-2026-98385 ()
@@ -180,6 +184,7 @@
 - [kailashrs/infinitylock-app](https://github.com/kailashrs/infinitylock-app)	<img alt="forks" src="https://img.shields.io/github/forks/kailashrs/infinitylock-app">	<img alt="stars" src="https://img.shields.io/github/stars/kailashrs/infinitylock-app">
 - [super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc)	<img alt="forks" src="https://img.shields.io/github/forks/super2tt/CVE-2026-98260-vivo-x-fold6-poc">	<img alt="stars" src="https://img.shields.io/github/stars/super2tt/CVE-2026-98260-vivo-x-fold6-poc">
 - [YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)	<img alt="forks" src="https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability">	<img alt="stars" src="https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability">
+- [RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-98260">
 
 ---
 ## CVE-2026-98258 ()
@@ -14042,6 +14047,11 @@
 ## CVE-2026-116105 ()
 > 
 - [ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2026-116105">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2026-116105">
+
+---
+## CVE-2026-116063 ()
+> 
+- [SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063)	<img alt="forks" src="https://img.shields.io/github/forks/SDshadow/CVE-2026-116063">	<img alt="stars" src="https://img.shields.io/github/stars/SDshadow/CVE-2026-116063">
 
 ---
 ## CVE-2026-116012 ()
