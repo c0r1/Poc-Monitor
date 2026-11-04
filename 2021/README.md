@@ -2375,6 +2375,7 @@
 - [andreamammano89-maker/CVE-2021-42013_821311](https://github.com/andreamammano89-maker/CVE-2021-42013_821311)	<img alt="forks" src="https://img.shields.io/github/forks/andreamammano89-maker/CVE-2021-42013_821311">	<img alt="stars" src="https://img.shields.io/github/stars/andreamammano89-maker/CVE-2021-42013_821311">
 - [lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/lmcewen9/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/lmcewen9/cve-2021-42013">
 - [CyberCTF/vulhub-httpd-cve-2021-42013](https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-42013">
+- [mhd964/CVE-2021-42013](https://github.com/mhd964/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/mhd964/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/mhd964/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
@@ -6100,7 +6101,7 @@
 ---
 ## CVE-2021-33644 ()
 > 
-- [nicklondal/libtar-CVE-2021-33644-followup](https://github.com/nicklondal/libtar-CVE-2021-33644-followup)	<img alt="forks" src="https://img.shields.io/github/forks/nicklondal/libtar-CVE-2021-33644-followup">	<img alt="stars" src="https://img.shields.io/github/stars/nicklondal/libtar-CVE-2021-33644-followup">
+- [nilondal/libtar-CVE-2021-33644-followup](https://github.com/nilondal/libtar-CVE-2021-33644-followup)	<img alt="forks" src="https://img.shields.io/github/forks/nilondal/libtar-CVE-2021-33644-followup">	<img alt="stars" src="https://img.shields.io/github/stars/nilondal/libtar-CVE-2021-33644-followup">
 
 ---
 ## CVE-2021-33640 (2022-12-19T16:15:00)
