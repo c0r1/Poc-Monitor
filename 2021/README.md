@@ -1233,6 +1233,7 @@
 - [mcpmark-eval-liuhezi/log4shell-audit-6](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-6)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-6">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-6">
 - [mcpmark-eval-liuhezi/log4shell-audit-5](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-5)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-5">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-5">
 - [george-petrakis/log4j-scanner-CVE-2021-44228](https://github.com/george-petrakis/log4j-scanner-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/george-petrakis/log4j-scanner-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/george-petrakis/log4j-scanner-CVE-2021-44228">
+- [Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup](https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
