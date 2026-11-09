@@ -4020,6 +4020,8 @@
 - [gichirimaku/wp2shell-PoC](https://github.com/gichirimaku/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gichirimaku/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gichirimaku/wp2shell-PoC">
 - [l-i-uqing/CVE-2026-63030-wp2shell-repro](https://github.com/l-i-uqing/CVE-2026-63030-wp2shell-repro)	<img alt="forks" src="https://img.shields.io/github/forks/l-i-uqing/CVE-2026-63030-wp2shell-repro">	<img alt="stars" src="https://img.shields.io/github/stars/l-i-uqing/CVE-2026-63030-wp2shell-repro">
 - [noxcrypt-x/CVE-2026-63030](https://github.com/noxcrypt-x/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-63030">
+- [CptNope/JAT-Shell-Scanner](https://github.com/CptNope/JAT-Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CptNope/JAT-Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CptNope/JAT-Shell-Scanner">
+- [dexit/CVE-2026-63030](https://github.com/dexit/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/dexit/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/dexit/CVE-2026-63030">
 
 ---
 ## CVE-2026-62911 ()
@@ -14637,6 +14639,11 @@
 ## CVE-2026-113468 ()
 > 
 - [yuwkaaa/CVE-2026-113468](https://github.com/yuwkaaa/CVE-2026-113468)	<img alt="forks" src="https://img.shields.io/github/forks/yuwkaaa/CVE-2026-113468">	<img alt="stars" src="https://img.shields.io/github/stars/yuwkaaa/CVE-2026-113468">
+
+---
+## CVE-2026-113386 ()
+> 
+- [Neo-XeD/CVE-2026-113386](https://github.com/Neo-XeD/CVE-2026-113386)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2026-113386">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2026-113386">
 
 ---
 ## CVE-2026-11318 ()

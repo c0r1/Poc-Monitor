@@ -6039,6 +6039,11 @@
 - [C0D331ng/Blackash-CVE-2025-48593](https://github.com/C0D331ng/Blackash-CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/C0D331ng/Blackash-CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/C0D331ng/Blackash-CVE-2025-48593">
 
 ---
+## CVE-2025-48583 ()
+> 
+- [helloguy1234/CVE-2025-48583-PoC](https://github.com/helloguy1234/CVE-2025-48583-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helloguy1234/CVE-2025-48583-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helloguy1234/CVE-2025-48583-PoC">
+
+---
 ## CVE-2025-48543 ()
 > 
 - [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)	<img alt="forks" src="https://img.shields.io/github/forks/gamesarchive/CVE-2025-48543">	<img alt="stars" src="https://img.shields.io/github/stars/gamesarchive/CVE-2025-48543">
