@@ -1857,6 +1857,7 @@ use after free.
 - [kilokite/old-phone-temp-root](https://github.com/kilokite/old-phone-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/kilokite/old-phone-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/kilokite/old-phone-temp-root">
 - [FDLAlfrid/odin-od105-devkit](https://github.com/FDLAlfrid/odin-od105-devkit)	<img alt="forks" src="https://img.shields.io/github/forks/FDLAlfrid/odin-od105-devkit">	<img alt="stars" src="https://img.shields.io/github/stars/FDLAlfrid/odin-od105-devkit">
 - [RxinnotRstar/CVE-2019-2215-ForMIpad4](https://github.com/RxinnotRstar/CVE-2019-2215-ForMIpad4)	<img alt="forks" src="https://img.shields.io/github/forks/RxinnotRstar/CVE-2019-2215-ForMIpad4">	<img alt="stars" src="https://img.shields.io/github/stars/RxinnotRstar/CVE-2019-2215-ForMIpad4">
+- [WJNKAC/CVE-2019-2215-vivo-Y66i](https://github.com/WJNKAC/CVE-2019-2215-vivo-Y66i)	<img alt="forks" src="https://img.shields.io/github/forks/WJNKAC/CVE-2019-2215-vivo-Y66i">	<img alt="stars" src="https://img.shields.io/github/stars/WJNKAC/CVE-2019-2215-vivo-Y66i">
 
 ---
 ## CVE-2019-2115 ()
@@ -3188,6 +3189,11 @@ use after free.
 - [umsundu/CVE-2019-13272](https://github.com/umsundu/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/umsundu/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/umsundu/CVE-2019-13272">
 - [letsr00t/CVE-2019-13272](https://github.com/letsr00t/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2019-13272">
 - [Chinmay1743/ptrace-vuln](https://github.com/Chinmay1743/ptrace-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Chinmay1743/ptrace-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Chinmay1743/ptrace-vuln">
+
+---
+## CVE-2019-13139 ()
+> 
+- [hakaii59/CVE-2019-13139](https://github.com/hakaii59/CVE-2019-13139)	<img alt="forks" src="https://img.shields.io/github/forks/hakaii59/CVE-2019-13139">	<img alt="stars" src="https://img.shields.io/github/stars/hakaii59/CVE-2019-13139">
 
 ---
 ## CVE-2019-13132 ()
