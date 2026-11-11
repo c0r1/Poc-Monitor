@@ -8752,6 +8752,7 @@
 - [sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass](https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass">
 - [Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass](https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">
 - [goheesheng/sc3010](https://github.com/goheesheng/sc3010)	<img alt="forks" src="https://img.shields.io/github/forks/goheesheng/sc3010">	<img alt="stars" src="https://img.shields.io/github/stars/goheesheng/sc3010">
+- [elkhaoudari/CVE-2025-29927-Python](https://github.com/elkhaoudari/CVE-2025-29927-Python)	<img alt="forks" src="https://img.shields.io/github/forks/elkhaoudari/CVE-2025-29927-Python">	<img alt="stars" src="https://img.shields.io/github/stars/elkhaoudari/CVE-2025-29927-Python">
 
 ---
 ## CVE-2025-29891 ()
