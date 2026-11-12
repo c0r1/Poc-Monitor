@@ -1709,6 +1709,7 @@
 - [allinsthon/CVE-2025-6558-exp](https://github.com/allinsthon/CVE-2025-6558-exp)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558-exp">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558-exp">
 - [DevBuiHieu/CVE-2025-6558-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept">
 - [dexteon/cve-2025-6558-poc](https://github.com/dexteon/cve-2025-6558-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2025-6558-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2025-6558-poc">
+- [gmh5225/CVE-2025-6558-exp](https://github.com/gmh5225/CVE-2025-6558-exp)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-6558-exp">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-6558-exp">
 
 ---
 ## CVE-2025-6554 ()
@@ -6545,6 +6546,9 @@
 ## CVE-2025-4609 ()
 > 
 - [nek-3231/cve-2025-4609-mojo-poc](https://github.com/nek-3231/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nek-3231/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nek-3231/cve-2025-4609-mojo-poc">
+- [vobando007/cve-2025-4609-mojo-poc](https://github.com/vobando007/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/vobando007/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/vobando007/cve-2025-4609-mojo-poc">
+- [vobando0077/cve-2025-4609-mojo-poc](https://github.com/vobando0077/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/vobando0077/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/vobando0077/cve-2025-4609-mojo-poc">
+- [santiagovillalobos6900-commits/cve-2025-4609-mojo-poc](https://github.com/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc">
 
 ---
 ## CVE-2025-46080 ()
@@ -9052,6 +9056,7 @@
 - [ElianGonzi00/CVE-2025-2783](https://github.com/ElianGonzi00/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/ElianGonzi00/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/ElianGonzi00/CVE-2025-2783">
 - [razureink/cve-2025-2783-chrome_sandbox_escape_reproduction](https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction">
 - [dexteon/cve-2025-2783-poc](https://github.com/dexteon/cve-2025-2783-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2025-2783-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2025-2783-poc">
+- [bjrjk/CVE-2025-2783](https://github.com/bjrjk/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-2783">
 
 ---
 ## CVE-2025-27817 ()
