@@ -3876,6 +3876,7 @@
 ## CVE-2026-6460 ()
 > 
 - [slabbdev/postgresql-type-confusion-cve-2026-6460](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460)	<img alt="forks" src="https://img.shields.io/github/forks/slabbdev/postgresql-type-confusion-cve-2026-6460">	<img alt="stars" src="https://img.shields.io/github/stars/slabbdev/postgresql-type-confusion-cve-2026-6460">
+- [chor4o/CVE-2026-6460-POC](https://github.com/chor4o/CVE-2026-6460-POC)	<img alt="forks" src="https://img.shields.io/github/forks/chor4o/CVE-2026-6460-POC">	<img alt="stars" src="https://img.shields.io/github/stars/chor4o/CVE-2026-6460-POC">
 
 ---
 ## CVE-2026-64564 ()
@@ -5263,6 +5264,7 @@
 - [ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSEC2014/amasty-chekout-POC-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSEC2014/amasty-chekout-POC-rce">
 - [MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-53787-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-53787-poc">
 - [elitexspam/Def4cer](https://github.com/elitexspam/Def4cer)	<img alt="forks" src="https://img.shields.io/github/forks/elitexspam/Def4cer">	<img alt="stars" src="https://img.shields.io/github/stars/elitexspam/Def4cer">
+- [karthi-the-hacker/CVE-2026-53787](https://github.com/karthi-the-hacker/CVE-2026-53787)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2026-53787">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2026-53787">
 
 ---
 ## CVE-2026-53753 ()
@@ -14461,6 +14463,9 @@
 - [zanarelkov/CVE-2026-123158_SSHole_PoC](https://github.com/zanarelkov/CVE-2026-123158_SSHole_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zanarelkov/CVE-2026-123158_SSHole_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zanarelkov/CVE-2026-123158_SSHole_PoC">
 - [garvthakkar17/sshole-alpine-cve-2026-123158](https://github.com/garvthakkar17/sshole-alpine-cve-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/garvthakkar17/sshole-alpine-cve-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/garvthakkar17/sshole-alpine-cve-2026-123158">
 - [Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass">
+- [Avi99999/sshhole-scanner](https://github.com/Avi99999/sshhole-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Avi99999/sshhole-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Avi99999/sshhole-scanner">
+- [kaiqui/cve-2026-123158-lab](https://github.com/kaiqui/cve-2026-123158-lab)	<img alt="forks" src="https://img.shields.io/github/forks/kaiqui/cve-2026-123158-lab">	<img alt="stars" src="https://img.shields.io/github/stars/kaiqui/cve-2026-123158-lab">
+- [liamromanis101/K8s-container_escape_audit](https://github.com/liamromanis101/K8s-container_escape_audit)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/K8s-container_escape_audit">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/K8s-container_escape_audit">
 
 ---
 ## CVE-2026-123039 ()
