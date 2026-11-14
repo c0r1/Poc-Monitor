@@ -14505,6 +14505,11 @@
 - [fixedbyreboot/CVE-2026-124020-POC](https://github.com/fixedbyreboot/CVE-2026-124020-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124020-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124020-POC">
 
 ---
+## CVE-2026-124002 ()
+> 
+- [fixedbyreboot/CVE-2026-124002-POC](https://github.com/fixedbyreboot/CVE-2026-124002-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124002-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124002-POC">
+
+---
 ## CVE-2026-12400 ()
 > 
 - [0x00phantom-hat/CVE-2026-12400-Exploit](https://github.com/0x00phantom-hat/CVE-2026-12400-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-12400-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-12400-Exploit">
@@ -14791,6 +14796,7 @@
 - [QCG5OLF5ZU9L2W/CVE-2026-119618-YARA](https://github.com/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA)	<img alt="forks" src="https://img.shields.io/github/forks/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA">	<img alt="stars" src="https://img.shields.io/github/stars/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA">
 - [d4ytox/CVE-2026-119618](https://github.com/d4ytox/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2026-119618">
 - [terminat0r7031/CVE-2026-119618](https://github.com/terminat0r7031/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/CVE-2026-119618">
+- [matarturo/apache-mod-http2-scanner](https://github.com/matarturo/apache-mod-http2-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/matarturo/apache-mod-http2-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/matarturo/apache-mod-http2-scanner">
 
 ---
 ## CVE-2026-11961 ()
@@ -14921,6 +14927,8 @@
 ## CVE-2026-116779 ()
 > 
 - [majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-](https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-)	<img alt="forks" src="https://img.shields.io/github/forks/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-">	<img alt="stars" src="https://img.shields.io/github/stars/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-">
+- [al4n4n/CVE-2026-116779](https://github.com/al4n4n/CVE-2026-116779)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-116779">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-116779">
+- [hackzuoji/freeswitch-cve-2026-116779-POC](https://github.com/hackzuoji/freeswitch-cve-2026-116779-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hackzuoji/freeswitch-cve-2026-116779-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hackzuoji/freeswitch-cve-2026-116779-POC">
 
 ---
 ## CVE-2026-116692 ()
@@ -16921,6 +16929,11 @@
 - [JHC56/CVE-2026-105761](https://github.com/JHC56/CVE-2026-105761)	<img alt="forks" src="https://img.shields.io/github/forks/JHC56/CVE-2026-105761">	<img alt="stars" src="https://img.shields.io/github/stars/JHC56/CVE-2026-105761">
 
 ---
+## CVE-2026-105642 ()
+> 
+- [fixedbyreboot/CVE-2026-105642-POC](https://github.com/fixedbyreboot/CVE-2026-105642-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-105642-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-105642-POC">
+
+---
 ## CVE-2026-1056 ()
 > 
 - [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
@@ -16983,6 +16996,11 @@
 ## CVE-2026-105221 ()
 > 
 - [abraxas/cve-2026-105221-gist-tls](https://github.com/abraxas/cve-2026-105221-gist-tls)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/cve-2026-105221-gist-tls">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/cve-2026-105221-gist-tls">
+
+---
+## CVE-2026-105211 ()
+> 
+- [fixedbyreboot/CVE-2026-105211-POC](https://github.com/fixedbyreboot/CVE-2026-105211-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-105211-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-105211-POC">
 
 ---
 ## CVE-2026-10520 ()
