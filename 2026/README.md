@@ -14328,6 +14328,11 @@
 - [googlesky/CVE-2026-126937](https://github.com/googlesky/CVE-2026-126937)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-126937">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-126937">
 
 ---
+## CVE-2026-126919 ()
+> 
+- [abraxas/CVE-2026-126919-mimehandler-postmessage-uaf](https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf">
+
+---
 ## CVE-2026-126837 ()
 > 
 - [googlesky/CVE-2026-126837](https://github.com/googlesky/CVE-2026-126837)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-126837">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-126837">
@@ -14524,6 +14529,11 @@
 ## CVE-2026-123753 ()
 > 
 - [googlesky/CVE-2026-123753](https://github.com/googlesky/CVE-2026-123753)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-123753">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-123753">
+
+---
+## CVE-2026-123751 ()
+> 
+- [Sorganeil/Duplicate2Shell-CVE-2026-123751](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751)	<img alt="forks" src="https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751">	<img alt="stars" src="https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751">
 
 ---
 ## CVE-2026-123618 ()
@@ -15392,6 +15402,7 @@
 - [suominen/CVE-2026-111760](https://github.com/suominen/CVE-2026-111760)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-111760">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-111760">
 - [Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce">
 - [jayeshpuri/CVE-2026-111760](https://github.com/jayeshpuri/CVE-2026-111760)	<img alt="forks" src="https://img.shields.io/github/forks/jayeshpuri/CVE-2026-111760">	<img alt="stars" src="https://img.shields.io/github/stars/jayeshpuri/CVE-2026-111760">
+- [SSJCorpSec/cve-2026-111760-40b639e0](https://github.com/SSJCorpSec/cve-2026-111760-40b639e0)	<img alt="forks" src="https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-40b639e0">	<img alt="stars" src="https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-40b639e0">
 
 ---
 ## CVE-2026-111585 ()
