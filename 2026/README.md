@@ -366,6 +366,7 @@
 - [foxcornlab/gitlab-onigmo-scanner](https://github.com/foxcornlab/gitlab-onigmo-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/gitlab-onigmo-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/gitlab-onigmo-scanner">
 - [murat-levi/gitlab-rce-toolkit](https://github.com/murat-levi/gitlab-rce-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/murat-levi/gitlab-rce-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/murat-levi/gitlab-rce-toolkit">
 - [Ghost-Bx1/cve-2026-97229-gitlab-ci-rce](https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">
+- [wa6n3r/cve-2026-97229](https://github.com/wa6n3r/cve-2026-97229)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/cve-2026-97229">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/cve-2026-97229">
 
 ---
 ## CVE-2026-97206 ()
@@ -14929,6 +14930,7 @@
 - [majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-](https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-)	<img alt="forks" src="https://img.shields.io/github/forks/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-">	<img alt="stars" src="https://img.shields.io/github/stars/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-">
 - [al4n4n/CVE-2026-116779](https://github.com/al4n4n/CVE-2026-116779)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-116779">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-116779">
 - [hackzuoji/freeswitch-cve-2026-116779-POC](https://github.com/hackzuoji/freeswitch-cve-2026-116779-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hackzuoji/freeswitch-cve-2026-116779-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hackzuoji/freeswitch-cve-2026-116779-POC">
+- [DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/SIP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/SIP2Shell">
 
 ---
 ## CVE-2026-116692 ()
@@ -15173,6 +15175,11 @@
 ## CVE-2026-114595 ()
 > 
 - [0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595">
+
+---
+## CVE-2026-114552 ()
+> 
+- [RossKeddy/CVE-2026-114552](https://github.com/RossKeddy/CVE-2026-114552)	<img alt="forks" src="https://img.shields.io/github/forks/RossKeddy/CVE-2026-114552">	<img alt="stars" src="https://img.shields.io/github/stars/RossKeddy/CVE-2026-114552">
 
 ---
 ## CVE-2026-114550 ()
