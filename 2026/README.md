@@ -254,6 +254,10 @@
 - [qq2770355800/ExtractKit](https://github.com/qq2770355800/ExtractKit)	<img alt="forks" src="https://img.shields.io/github/forks/qq2770355800/ExtractKit">	<img alt="stars" src="https://img.shields.io/github/stars/qq2770355800/ExtractKit">
 - [mumaosong/CVE-2026-98260-Drive](https://github.com/mumaosong/CVE-2026-98260-Drive)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-98260-Drive">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-98260-Drive">
 - [skyrocketingHong/CVE-2026-98260_nezha](https://github.com/skyrocketingHong/CVE-2026-98260_nezha)	<img alt="forks" src="https://img.shields.io/github/forks/skyrocketingHong/CVE-2026-98260_nezha">	<img alt="stars" src="https://img.shields.io/github/stars/skyrocketingHong/CVE-2026-98260_nezha">
+- [linux-tools/Shark-Root-Folk_for_VIVO_Y500i](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/Shark-Root-Folk_for_VIVO_Y500i">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/Shark-Root-Folk_for_VIVO_Y500i">
+- [jonrazta89/OneSamAKAGhostKey](https://github.com/jonrazta89/OneSamAKAGhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/jonrazta89/OneSamAKAGhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/jonrazta89/OneSamAKAGhostKey">
+- [Reallyliked21/galaxy-s24u-dzj3-temp-root](https://github.com/Reallyliked21/galaxy-s24u-dzj3-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Reallyliked21/galaxy-s24u-dzj3-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Reallyliked21/galaxy-s24u-dzj3-temp-root">
+- [jonrazta89/SamGhostKey](https://github.com/jonrazta89/SamGhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/jonrazta89/SamGhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/jonrazta89/SamGhostKey">
 
 ---
 ## CVE-2026-98258 ()
@@ -4227,6 +4231,7 @@
 > 
 - [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2026-62735">
 - [HackSpeak/CVE-2026-62735](https://github.com/HackSpeak/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-62735">
+- [OArt3misQAQ/CVE-2026-62735-Rust](https://github.com/OArt3misQAQ/CVE-2026-62735-Rust)	<img alt="forks" src="https://img.shields.io/github/forks/OArt3misQAQ/CVE-2026-62735-Rust">	<img alt="stars" src="https://img.shields.io/github/stars/OArt3misQAQ/CVE-2026-62735-Rust">
 
 ---
 ## CVE-2026-6271 ()
@@ -14267,6 +14272,31 @@
 - [BiiTts/CVE-2026-12940-Langflow-Unauth-RCE](https://github.com/BiiTts/CVE-2026-12940-Langflow-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-12940-Langflow-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-12940-Langflow-Unauth-RCE">
 
 ---
+## CVE-2026-129355 ()
+> 
+- [googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-129355">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-129355">
+
+---
+## CVE-2026-129354 ()
+> 
+- [googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-129354">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-129354">
+
+---
+## CVE-2026-129353 ()
+> 
+- [googlesky/CVE-2026-129353](https://github.com/googlesky/CVE-2026-129353)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-129353">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-129353">
+
+---
+## CVE-2026-129352 ()
+> 
+- [googlesky/CVE-2026-129352](https://github.com/googlesky/CVE-2026-129352)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-129352">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-129352">
+
+---
+## CVE-2026-129351 ()
+> 
+- [googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-129351">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-129351">
+
+---
 ## CVE-2026-129254 ()
 > 
 - [Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254)	<img alt="forks" src="https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254">	<img alt="stars" src="https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254">
@@ -14808,6 +14838,7 @@
 - [d4ytox/CVE-2026-119618](https://github.com/d4ytox/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2026-119618">
 - [terminat0r7031/CVE-2026-119618](https://github.com/terminat0r7031/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/CVE-2026-119618">
 - [matarturo/apache-mod-http2-scanner](https://github.com/matarturo/apache-mod-http2-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/matarturo/apache-mod-http2-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/matarturo/apache-mod-http2-scanner">
+- [studiogangster/CVE-2026-119618](https://github.com/studiogangster/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-119618">
 
 ---
 ## CVE-2026-11961 ()
