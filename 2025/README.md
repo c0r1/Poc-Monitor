@@ -7683,6 +7683,7 @@
 - [IyarGross/SMB-CVE-2025-33073](https://github.com/IyarGross/SMB-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/IyarGross/SMB-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/IyarGross/SMB-CVE-2025-33073">
 - [EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-](https://github.com/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-)	<img alt="forks" src="https://img.shields.io/github/forks/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">	<img alt="stars" src="https://img.shields.io/github/stars/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">
 - [sentinel-aidefense/CVE-2025-33073](https://github.com/sentinel-aidefense/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-33073">
+- [starscow/CVE-2025-33073](https://github.com/starscow/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/starscow/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/starscow/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
