@@ -13881,6 +13881,7 @@
 ## CVE-2026-15315 ()
 > 
 - [HORKimhab/CVE-2026-15315](https://github.com/HORKimhab/CVE-2026-15315)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15315">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15315">
+- [Moyai08/Tapo-CVE-2026-15315-Poc](https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Moyai08/Tapo-CVE-2026-15315-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Moyai08/Tapo-CVE-2026-15315-Poc">
 
 ---
 ## CVE-2026-1529 ()
