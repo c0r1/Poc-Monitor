@@ -1739,6 +1739,7 @@
 - [LordBheem/CVE-2025-6554](https://github.com/LordBheem/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/LordBheem/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/LordBheem/CVE-2025-6554">
 - [juccoblak/CVE-2025-6554](https://github.com/juccoblak/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/juccoblak/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/juccoblak/CVE-2025-6554">
 - [dexteon/cve-2025-6554-poc](https://github.com/dexteon/cve-2025-6554-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2025-6554-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2025-6554-poc">
+- [zhanghangjie/CVE-2025-6554-CYL1](https://github.com/zhanghangjie/CVE-2025-6554-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2025-6554-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2025-6554-CYL1">
 
 ---
 ## CVE-2025-65534 ()
