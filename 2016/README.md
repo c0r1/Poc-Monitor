@@ -402,6 +402,11 @@
 - [CybermonkX/CVE-2016-6914-UniFiVideo-LPE](https://github.com/CybermonkX/CVE-2016-6914-UniFiVideo-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/CybermonkX/CVE-2016-6914-UniFiVideo-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/CybermonkX/CVE-2016-6914-UniFiVideo-LPE">
 
 ---
+## CVE-2016-6816 ()
+> 
+- [googlesky/CVE-2016-6816](https://github.com/googlesky/CVE-2016-6816)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2016-6816">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2016-6816">
+
+---
 ## CVE-2016-6812 ()
 > 
 - [shoucheng3/asf__cxf_CVE-2016-6812_3-0-11](https://github.com/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">

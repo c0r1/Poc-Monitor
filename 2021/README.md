@@ -3623,6 +3623,9 @@
 - [axisops/CVE-2021-4034](https://github.com/axisops/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2021-4034">
 - [DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">
 - [eshkoreee/CVE-2021-4034](https://github.com/eshkoreee/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/eshkoreee/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/eshkoreee/CVE-2021-4034">
+- [googlesky/CVE-2021-4034](https://github.com/googlesky/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-4034">
+- [vukma25/CVE-2021-4034](https://github.com/vukma25/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/vukma25/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/vukma25/CVE-2021-4034">
+- [FDlucifer/Pwnkit-go](https://github.com/FDlucifer/Pwnkit-go)	<img alt="forks" src="https://img.shields.io/github/forks/FDlucifer/Pwnkit-go">	<img alt="stars" src="https://img.shields.io/github/stars/FDlucifer/Pwnkit-go">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -6812,6 +6815,7 @@
 - [sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker">
 - [AmroYasserH/DFIR-CVE-2021-3156-Incident-Response](https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">
 - [HanaBouikni/AppArmor-Simulation-CVE-2021-3156](https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/AppArmor-Simulation-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/AppArmor-Simulation-CVE-2021-3156">
+- [googlesky/CVE-2021-3156](https://github.com/googlesky/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
@@ -8902,6 +8906,7 @@
 - [kiri-48/CVE-2021-22986](https://github.com/kiri-48/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/kiri-48/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/kiri-48/CVE-2021-22986">
 - [microvorld/CVE-2021-22986](https://github.com/microvorld/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/microvorld/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/microvorld/CVE-2021-22986">
 - [whatheheckisthis/Canonical-Extension-CVE-2021-22986](https://github.com/whatheheckisthis/Canonical-Extension-CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/whatheheckisthis/Canonical-Extension-CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/whatheheckisthis/Canonical-Extension-CVE-2021-22986">
+- [googlesky/CVE-2021-22986](https://github.com/googlesky/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-22986">
 
 ---
 ## CVE-2021-22954 (2022-02-09T23:15:00)
@@ -9364,6 +9369,11 @@
 ## CVE-2021-21994 ()
 > 
 - [mreza-en/cve-2021-21994_POC](https://github.com/mreza-en/cve-2021-21994_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mreza-en/cve-2021-21994_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mreza-en/cve-2021-21994_POC">
+
+---
+## CVE-2021-21985 ()
+> 
+- [googlesky/CVE-2021-21985](https://github.com/googlesky/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-21985">
 
 ---
 ## CVE-2021-21980 ()

@@ -3531,6 +3531,10 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis](https://github.com/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">
 - [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
 - [KrioSocial/defender-bypass-winrar-cve-2023-38831](https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/KrioSocial/defender-bypass-winrar-cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/KrioSocial/defender-bypass-winrar-cve-2023-38831">
+- [googlesky/CVE-2023-38831](https://github.com/googlesky/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-38831">
+- [Chanakya-GH/re-portfolio](https://github.com/Chanakya-GH/re-portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/Chanakya-GH/re-portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/Chanakya-GH/re-portfolio">
+- [Dnyaneshwari-123/DFIR-Capstone-Investigations](https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations)	<img alt="forks" src="https://img.shields.io/github/forks/Dnyaneshwari-123/DFIR-Capstone-Investigations">	<img alt="stars" src="https://img.shields.io/github/stars/Dnyaneshwari-123/DFIR-Capstone-Investigations">
+- [cristhiansm0/TXDXCristhian_2023-CVE-38831](https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831)	<img alt="forks" src="https://img.shields.io/github/forks/cristhiansm0/TXDXCristhian_2023-CVE-38831">	<img alt="stars" src="https://img.shields.io/github/stars/cristhiansm0/TXDXCristhian_2023-CVE-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -4622,6 +4626,7 @@ The specific flaw exists within the DDP service. The issue results from the lack
 - [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Aicks/Citrix-CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Aicks/Citrix-CVE-2023-3519">
 - [dhammerg/CVE-2023-3519](https://github.com/dhammerg/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/dhammerg/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/dhammerg/CVE-2023-3519">
 - [Chocapikk/CVE-2023-3519](https://github.com/Chocapikk/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-3519">
+- [googlesky/CVE-2023-3519](https://github.com/googlesky/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-3519">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)
@@ -4912,6 +4917,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [khengar9274-web/moveit-transfer-2023-breach](https://github.com/khengar9274-web/moveit-transfer-2023-breach)	<img alt="forks" src="https://img.shields.io/github/forks/khengar9274-web/moveit-transfer-2023-breach">	<img alt="stars" src="https://img.shields.io/github/stars/khengar9274-web/moveit-transfer-2023-breach">
 - [horrister/moveit-transfer-cve-2023-34362](https://github.com/horrister/moveit-transfer-cve-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/moveit-transfer-cve-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/moveit-transfer-cve-2023-34362">
 - [k9yk5zkn76-op/-CVE-2023-34362-Analysis](https://github.com/k9yk5zkn76-op/-CVE-2023-34362-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/k9yk5zkn76-op/-CVE-2023-34362-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/k9yk5zkn76-op/-CVE-2023-34362-Analysis">
+- [googlesky/CVE-2023-34362](https://github.com/googlesky/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-34362">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
@@ -7620,6 +7626,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [praneethnaidu1910-cmd/cve-2023-23397-purple-team](https://github.com/praneethnaidu1910-cmd/cve-2023-23397-purple-team)	<img alt="forks" src="https://img.shields.io/github/forks/praneethnaidu1910-cmd/cve-2023-23397-purple-team">	<img alt="stars" src="https://img.shields.io/github/stars/praneethnaidu1910-cmd/cve-2023-23397-purple-team">
 - [ZHOUCC-CPU/cve-2023-23397-detection-lab](https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZHOUCC-CPU/cve-2023-23397-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZHOUCC-CPU/cve-2023-23397-detection-lab">
 - [medyassineakhmari/CVE_2023_23397](https://github.com/medyassineakhmari/CVE_2023_23397)	<img alt="forks" src="https://img.shields.io/github/forks/medyassineakhmari/CVE_2023_23397">	<img alt="stars" src="https://img.shields.io/github/stars/medyassineakhmari/CVE_2023_23397">
+- [googlesky/CVE-2023-23397](https://github.com/googlesky/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
