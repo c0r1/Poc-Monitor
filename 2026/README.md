@@ -4651,6 +4651,7 @@
 ## CVE-2026-61725 ()
 > 
 - [googlesky/CVE-2026-61725](https://github.com/googlesky/CVE-2026-61725)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-61725">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-61725">
+- [pluto-chou/CVE-2026-61725_sevenz-rust2](https://github.com/pluto-chou/CVE-2026-61725_sevenz-rust2)	<img alt="forks" src="https://img.shields.io/github/forks/pluto-chou/CVE-2026-61725_sevenz-rust2">	<img alt="stars" src="https://img.shields.io/github/stars/pluto-chou/CVE-2026-61725_sevenz-rust2">
 
 ---
 ## CVE-2026-61628 ()
@@ -5809,6 +5810,7 @@
 ## CVE-2026-53361 ()
 > 
 - [Aoki-Shinshi/CVE-2026-53361](https://github.com/Aoki-Shinshi/CVE-2026-53361)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-53361">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-53361">
+- [sgkdev/bad_garbage](https://github.com/sgkdev/bad_garbage)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/bad_garbage">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/bad_garbage">
 
 ---
 ## CVE-2026-53360 ()
@@ -15371,6 +15373,11 @@
 - [scadastrangelove/ruby2shell](https://github.com/scadastrangelove/ruby2shell)	<img alt="forks" src="https://img.shields.io/github/forks/scadastrangelove/ruby2shell">	<img alt="stars" src="https://img.shields.io/github/stars/scadastrangelove/ruby2shell">
 
 ---
+## CVE-2026-132779 ()
+> 
+- [suominen/CVE-2026-132779](https://github.com/suominen/CVE-2026-132779)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-132779">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-132779">
+
+---
 ## CVE-2026-132749 ()
 > 
 - [SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi](https://github.com/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi">
@@ -15459,6 +15466,7 @@
 - [abraxas/drupal-install-takeover](https://github.com/abraxas/drupal-install-takeover)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/drupal-install-takeover">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/drupal-install-takeover">
 - [ashrafzaryouh/CVE-2026-132165](https://github.com/ashrafzaryouh/CVE-2026-132165)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-132165">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-132165">
 - [lxdwnpiper/CVE-2026-132165-Drupal](https://github.com/lxdwnpiper/CVE-2026-132165-Drupal)	<img alt="forks" src="https://img.shields.io/github/forks/lxdwnpiper/CVE-2026-132165-Drupal">	<img alt="stars" src="https://img.shields.io/github/stars/lxdwnpiper/CVE-2026-132165-Drupal">
+- [googlesky/CVE-2026-132165](https://github.com/googlesky/CVE-2026-132165)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-132165">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-132165">
 
 ---
 ## CVE-2026-132147 ()
@@ -16127,6 +16135,11 @@
 - [LLCForge/CVE-2026-125283](https://github.com/LLCForge/CVE-2026-125283)	<img alt="forks" src="https://img.shields.io/github/forks/LLCForge/CVE-2026-125283">	<img alt="stars" src="https://img.shields.io/github/stars/LLCForge/CVE-2026-125283">
 
 ---
+## CVE-2026-125180 ()
+> 
+- [XChen446/cve-2026-125180-demo](https://github.com/XChen446/cve-2026-125180-demo)	<img alt="forks" src="https://img.shields.io/github/forks/XChen446/cve-2026-125180-demo">	<img alt="stars" src="https://img.shields.io/github/stars/XChen446/cve-2026-125180-demo">
+
+---
 ## CVE-2026-12513 ()
 > 
 - [MinhHK68/CVE-2026-12513](https://github.com/MinhHK68/CVE-2026-12513)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-12513">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-12513">
@@ -16447,6 +16460,12 @@
 - [Mahgal/nginx-http2-rce-check](https://github.com/Mahgal/nginx-http2-rce-check)	<img alt="forks" src="https://img.shields.io/github/forks/Mahgal/nginx-http2-rce-check">	<img alt="stars" src="https://img.shields.io/github/stars/Mahgal/nginx-http2-rce-check">
 - [eduxcode/nginx2root-lab](https://github.com/eduxcode/nginx2root-lab)	<img alt="forks" src="https://img.shields.io/github/forks/eduxcode/nginx2root-lab">	<img alt="stars" src="https://img.shields.io/github/stars/eduxcode/nginx2root-lab">
 - [T0tooro/cve-2026-123007-lab](https://github.com/T0tooro/cve-2026-123007-lab)	<img alt="forks" src="https://img.shields.io/github/forks/T0tooro/cve-2026-123007-lab">	<img alt="stars" src="https://img.shields.io/github/stars/T0tooro/cve-2026-123007-lab">
+- [googlesky/CVE-2026-123007](https://github.com/googlesky/CVE-2026-123007)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-123007">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-123007">
+- [CaptainAI-Labs/CVE-2026-123007](https://github.com/CaptainAI-Labs/CVE-2026-123007)	<img alt="forks" src="https://img.shields.io/github/forks/CaptainAI-Labs/CVE-2026-123007">	<img alt="stars" src="https://img.shields.io/github/stars/CaptainAI-Labs/CVE-2026-123007">
+- [cveForge/CVE-2026-123007](https://github.com/cveForge/CVE-2026-123007)	<img alt="forks" src="https://img.shields.io/github/forks/cveForge/CVE-2026-123007">	<img alt="stars" src="https://img.shields.io/github/stars/cveForge/CVE-2026-123007">
+- [Agampreet-Singh/Nginx2root-lab](https://github.com/Agampreet-Singh/Nginx2root-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/Nginx2root-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/Nginx2root-lab">
+- [VABISMO/nginx2root](https://github.com/VABISMO/nginx2root)	<img alt="forks" src="https://img.shields.io/github/forks/VABISMO/nginx2root">	<img alt="stars" src="https://img.shields.io/github/stars/VABISMO/nginx2root">
+- [grupooruss/Division81-cve-2026-123633](https://github.com/grupooruss/Division81-cve-2026-123633)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/Division81-cve-2026-123633">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/Division81-cve-2026-123633">
 
 ---
 ## CVE-2026-12295 ()
@@ -17528,6 +17547,7 @@
 - [jayeshpuri/CVE-2026-111760](https://github.com/jayeshpuri/CVE-2026-111760)	<img alt="forks" src="https://img.shields.io/github/forks/jayeshpuri/CVE-2026-111760">	<img alt="stars" src="https://img.shields.io/github/stars/jayeshpuri/CVE-2026-111760">
 - [SSJCorpSec/cve-2026-111760-40b639e0](https://github.com/SSJCorpSec/cve-2026-111760-40b639e0)	<img alt="forks" src="https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-40b639e0">	<img alt="stars" src="https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-40b639e0">
 - [SSJCorpSec/cve-2026-111760-b3-85967fc9](https://github.com/SSJCorpSec/cve-2026-111760-b3-85967fc9)	<img alt="forks" src="https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-b3-85967fc9">	<img alt="stars" src="https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-b3-85967fc9">
+- [googlesky/CVE-2026-111760](https://github.com/googlesky/CVE-2026-111760)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-111760">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-111760">
 
 ---
 ## CVE-2026-111585 ()

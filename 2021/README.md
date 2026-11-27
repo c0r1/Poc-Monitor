@@ -10023,6 +10023,11 @@
 - [threat/CVE-2021-20511](https://github.com/threat/CVE-2021-20511)	<img alt="forks" src="https://img.shields.io/github/forks/threat/CVE-2021-20511">	<img alt="stars" src="https://img.shields.io/github/stars/threat/CVE-2021-20511">
 
 ---
+## CVE-2021-20329 ()
+> 
+- [hugo19941994/CVE-2021-20329-bson-injection](https://github.com/hugo19941994/CVE-2021-20329-bson-injection)	<img alt="forks" src="https://img.shields.io/github/forks/hugo19941994/CVE-2021-20329-bson-injection">	<img alt="stars" src="https://img.shields.io/github/stars/hugo19941994/CVE-2021-20329-bson-injection">
+
+---
 ## CVE-2021-20323 (2022-03-25T19:15:00)
 > A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
 - [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/ndmalc/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/ndmalc/CVE-2021-20323">
