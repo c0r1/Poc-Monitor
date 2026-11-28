@@ -105,6 +105,9 @@
 - [Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/Disturbante/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/Disturbante/CVE-2020-9484">
 - [deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/deathquote/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/deathquote/CVE-2020-9484">
 - [CrieHeiki/Apache-Tomcat-CVE-2020-9484](https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/CrieHeiki/Apache-Tomcat-CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/CrieHeiki/Apache-Tomcat-CVE-2020-9484">
+- [googlesky/CVE-2021-25329](https://github.com/googlesky/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-25329">
+- [googlesky/CVE-2020-9484](https://github.com/googlesky/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2020-9484">
+- [savsch/PoC_CVE-2020-9484](https://github.com/savsch/PoC_CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/savsch/PoC_CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/savsch/PoC_CVE-2020-9484">
 
 ---
 ## CVE-2020-9483 ()
@@ -3115,6 +3118,7 @@
 - [Cmadhushanka/wordpress-rce-vapt-cve-2020-25213](https://github.com/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213">
 - [KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon](https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon)	<img alt="forks" src="https://img.shields.io/github/forks/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon">	<img alt="stars" src="https://img.shields.io/github/stars/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon">
 - [Maalfer/CVE-2020-25213-exploit](https://github.com/Maalfer/CVE-2020-25213-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2020-25213-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2020-25213-exploit">
+- [yaikgz18/wp-file-manager-cve-2020-25213](https://github.com/yaikgz18/wp-file-manager-cve-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/yaikgz18/wp-file-manager-cve-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/yaikgz18/wp-file-manager-cve-2020-25213">
 
 ---
 ## CVE-2020-25206 (2021-07-20T19:15:00)

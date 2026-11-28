@@ -9245,6 +9245,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test)	<img alt="forks" src="https://img.shields.io/github/forks/hrtowii/CVE-2024-23208-test">	<img alt="stars" src="https://img.shields.io/github/stars/hrtowii/CVE-2024-23208-test">
 
 ---
+## CVE-2024-2319 ()
+> 
+- [Yasinnozbek/django-markdownx-cve-2024-2319-poc](https://github.com/Yasinnozbek/django-markdownx-cve-2024-2319-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Yasinnozbek/django-markdownx-cve-2024-2319-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Yasinnozbek/django-markdownx-cve-2024-2319-poc">
+
+---
 ## CVE-2024-23118 (2024-04-01T22:15:00)
 > Centreon updateContactHostCommands SQL Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Centreon. Authentication is required to exploit this vulnerability.
 
