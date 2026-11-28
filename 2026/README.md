@@ -71,6 +71,16 @@
 - [ChaYeWuu/Xring-CVE-2026-99491](https://github.com/ChaYeWuu/Xring-CVE-2026-99491)	<img alt="forks" src="https://img.shields.io/github/forks/ChaYeWuu/Xring-CVE-2026-99491">	<img alt="stars" src="https://img.shields.io/github/stars/ChaYeWuu/Xring-CVE-2026-99491">
 
 ---
+## CVE-2026-99490 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99490](https://github.com/Aoki-Shinshi/CVE-2026-99490)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99490">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99490">
+
+---
+## CVE-2026-99489 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99489](https://github.com/Aoki-Shinshi/CVE-2026-99489)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99489">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99489">
+
+---
 ## CVE-2026-99362 ()
 > 
 - [ashrafzaryouh/CVE-2026-99362](https://github.com/ashrafzaryouh/CVE-2026-99362)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-99362">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-99362">
@@ -15268,6 +15278,11 @@
 - [googlesky/CVE-2026-133780](https://github.com/googlesky/CVE-2026-133780)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-133780">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-133780">
 
 ---
+## CVE-2026-133742 ()
+> 
+- [tryformy/CVE-2026-133742](https://github.com/tryformy/CVE-2026-133742)	<img alt="forks" src="https://img.shields.io/github/forks/tryformy/CVE-2026-133742">	<img alt="stars" src="https://img.shields.io/github/stars/tryformy/CVE-2026-133742">
+
+---
 ## CVE-2026-1337 ()
 > 
 - [George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape](https://github.com/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">
@@ -16049,6 +16064,7 @@
 - [briskets/CVE-2026-126187-poc](https://github.com/briskets/CVE-2026-126187-poc)	<img alt="forks" src="https://img.shields.io/github/forks/briskets/CVE-2026-126187-poc">	<img alt="stars" src="https://img.shields.io/github/stars/briskets/CVE-2026-126187-poc">
 - [TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce](https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce)	<img alt="forks" src="https://img.shields.io/github/forks/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce">	<img alt="stars" src="https://img.shields.io/github/stars/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce">
 - [termireum/CVE-2026-126187-poc](https://github.com/termireum/CVE-2026-126187-poc)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/CVE-2026-126187-poc">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/CVE-2026-126187-poc">
+- [rudSarkar/GHSA-673q-mjm6-r5xr](https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr)	<img alt="forks" src="https://img.shields.io/github/forks/rudSarkar/GHSA-673q-mjm6-r5xr">	<img alt="stars" src="https://img.shields.io/github/stars/rudSarkar/GHSA-673q-mjm6-r5xr">
 
 ---
 ## CVE-2026-126173 ()
